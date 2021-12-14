@@ -3,7 +3,7 @@ number: 38
 title: Stop Future Road Building
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78603
 status: final
-coproposers: 0
+coproposers: 2
 ---
 Synopsis
 
