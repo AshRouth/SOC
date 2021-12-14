@@ -25,7 +25,6 @@
                 <strong class="mb-1">{{ motion.title }}</strong>
                 <small {% unless motion.url == page.url %}class="text-muted{% endunless %}">#{{ motion.number }}</small>
               </div>
-              <div class="col-10 mb-1 small">{{ motion.content | truncatewords: 15 }}</div>
             </a>
           {% endfor %}
         </div>
