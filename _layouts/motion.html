@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h2 class="small text-muted">Motion #{{ page.number }}</h2>
+<h1> {{ page.title }} {% if page.status == "draft" %}<span class="badge bg-warning text-dark">Draft</span>{% endif %} </h1>
+{% if page.status == "final" %}<h2 class="text-muted"> Co-proposers: {{ page.coproposers }}</h2>{% endif %}
+
+{{ content }}
+
+<p class="text-muted">Last updated on {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>
+
+<a href="{{ page.spaces }}"><button type="button" class="btn btn-outline-success btn-center">View on Green Spaces</button></a>
