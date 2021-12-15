@@ -5,10 +5,44 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: final
 coproposers: 0
 ---
-The Tax and Fiscal PWG and Economy Sub Group of Climate Emergency PWG are jointly posting this draft enabling motion to revise the Economy Chapter of PSS (see pdf). It is worth noting that Economy Chapter is currently ~12,000 words (which makes it one of the longest PSS chapters) and was last reviewed as a whole in 1990.
+Synopsis
 
 
-The exact scope, aims and and constraints that are included are still being discussed (see comments on pdf draft). We welcome comments on these issues and enabling motion more generally before the 14th Dec, so we can finalise wording before deadline on 17th.
+This motion proposes that the Economy Chapter of PSS be reviewed as a whole so it can lay out the party’s policies for a well-being economy clearly, concisely and consistently.
 
 
-There are concerns about whether even the two groups combined have enough volunteer time/skills/diversity to take on reviewing the chapter as a whole. So we welcome new members to both groups to help with this project, and would like to point out that you don’t need economic or tax expertises to make a valuable contribution. There is lots of work required to just facilitate the process as well as work writing, reviewing and checking policy.
+Conference instructs Policy Development Committee to facilitate policy development, which will be delegated to the Tax & Fiscal Policy Working Group and the Economy Subgroup of the Climate Emergency Policy Working Group. Together they will bring a Draft Voting Paper and Voting Paper to future conferences to revise the Economy Chapter and propose changes to other chapters to ensure consistency.
+
+
+The updated chapter will use the framework of a Wellbeing Economy and ensure that policies align to the goals of achieving a socially just and environmentally sustainable society. It will also clarify the role that tax and government finance play in reaching zero carbon.
+
+
+On taxation, the new chapter will broadly retain the purposes and principles set out in the current Tax & Fiscal Policy section (EC700-705) as well as the principles of the party’s monetary policy (EC66-679) and will seek to resolve the current inconsistency between these.
+
+
+The new Economy Chapter will aim to be under 5,000 words. Additional information will be in a background paper.
+
+
+The Tax & Fiscal Working Group and the Economy subgroup of the Climate Emergency Policy Working Group will seek the opinions and involvement of members of the Party with interest or expertise in these fields, and the views of external and other relevant organisations, including those of the Green Parties of Scotland and Northern Ireland, professionals in the field as well as other internal groups recognised by the party.
+
+
+The provisional structure will be as follows, within which we will aim to develop a logical and compelling “story” or “flow”, making it easier to be followed by interested parties both within and outside the Green Party:
+
+
+•	Background/Context
+
+•	Principles
+
+•	Aims
+
+•	Our Economy
+
+o	International Context
+
+o	Fiscal Policy
+
+o	Taxation Policy
+
+o	Banking and Financial Regulation
+
+o	Intellectual Property
