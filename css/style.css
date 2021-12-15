@@ -1,4 +1,4 @@
-.container {
+.bigscreen {
     display: flex;
     width: 100%;
     align-items: stretch;
@@ -6,4 +6,5 @@
 
 .content {
   padding-top:10px;
+  padding-bottom:100px;
 }
