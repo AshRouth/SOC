@@ -1,5 +1,5 @@
 ---
-number: 40
+number: 41
 title: Tax does not provide provide the money to fund public expenditure.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=79501
 status: final

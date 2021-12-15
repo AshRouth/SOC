@@ -1,5 +1,5 @@
 ---
-number: 41
+number: 42
 title: Update to Wildlife Management and Control policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77206
 status: draft

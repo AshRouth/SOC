@@ -2,22 +2,31 @@
 number: 13
 title: Defence of the NHS
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78245
-status: draft
+status: final
 coproposers: 0
 ---
 Synopsis
 
 
-[SOC note-  no synopsis has been submitted for this motion]
+We need to update our existing Health policy to reflect our opposition to the 2022 Health and Care Act and to escalating privatisation of health and social care provision in England and Wales.
 
 
 Motion
 
 
-Conference notes that the recent Health and Social Care Act poses serious threats to the NHS; that the NHS is already facing one of the worst crises in its history and that, in the last five years alone, private companies were handed £15 billion worth of NHS contracts.
+In HE105, delete all after “will repeal the” and insert “the Health and Care Act 2022 in its entirety and the remaining provisions of the Health and Social Care Act 2012.” HE105 would then read:
 
 
-Resolves to strengthen GPEW Health policies on reversing fragmentation of the NHS, ending the internal market and opposing the use of underfunding to open doors to greater privatisation and to damage pay and conditions of the workforce.
+“HE105 The Green Party will repeal the Health and Care Act 2022 in its entirety and the remaining provisions of the Health and Social Care Act 2012.”
+Add new HE106:
 
 
-Conference reconfirms the party's commitment to campaign to restore the NHS fully and asks the Green Party Executive to campaign for adequate protection of staff terms and conditions, in particular collective bargaining and union rights, and to  promote the party’s opposition to the 2021/22 Health & Social Care Act, in particular the transfer of resources away from the public health system, damage to service levels and the threats it poses to the pay and conditions of the workforce.
+“HE106 The Green Party will legislate to guarantee health rights previously covered by the European Charter of Fundamental Rights, notably the right of access to preventive health care and the right to benefit from medical treatment.”
+Add new HE1305, as follows:
+
+
+“HE1305 The NHS and all policies linked to health care and the pricing of medicines will be explicitly excluded from all international trade agreements.”
+Add new HE1504, as follows:
+
+
+“HE1504 Measures will be introduced to protect whistle-blowers in order that speaking out is safeguarded, not least when workers alert the media and others to areas of concern in the NHS.”
