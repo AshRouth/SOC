@@ -12,7 +12,26 @@
     <title>{% if page.collection == "motions" %}{{ page.title }} (#{{ page.number }}) • {% endif %}{{ site.title }}</title>
   </head>
   <body>
-    <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow d-md-none d-block p-2">
+    <div class="container-fluid">
+      <a href="{{ site.baseurl }}/" class="navbar-brand fs-5 fw-semibold link-dark text-decoration-none fw-semibold">{{ site.title }}<a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggle" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="toggle">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          {% assign motionlist = site.motions | sort: 'number' %}
+          {% for motion in motionlist %}
+          <li class="nav-item">
+            <a class="{% if motion.url == page.url %}text-primary{% endif %} nav-link" href="http://greencoordinate.co.uk/agenda{{ motion.url }}">#{{ motion.number }}: {{ motion.title }}</a>
+            <strong class="mb-1"></strong>
+          </li>
+          {% endfor %}
+        </ul>
+    </div>
+    </div>
+  </nav>
+    <div class="container bigscreen">
       <div class="d-flex d-none d-md-block flex-column align-items-stretch flex-shrink-0 shadow" style="max-width: 380px;">
         <a href="{{ site.baseurl }}/" class="sticky-top d-flex align-items-center flex-shrink-0 p-3 link-dark text-decoration-none bg-light border-bottom">
           <span class="fs-5 fw-semibold">{{ site.title }}</span>
@@ -29,6 +48,7 @@
           {% endfor %}
         </div>
       </div>
+
       <div class="content mt-5 ms-md-5">
         {{ content }}
       </div>

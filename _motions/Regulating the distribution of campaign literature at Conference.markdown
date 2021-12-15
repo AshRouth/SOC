@@ -2,7 +2,7 @@
 number: 33
 title: Regulating the distribution of campaign literature at Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78523
-status: draft
+status: final
 coproposers: 0
 ---
 Synopsis
@@ -33,7 +33,7 @@ H14.3 Members wishing to distribute campaign literature at Conference may do so 
 H14.4 Campaign literature must bear an imprint identifying a sponsoring Party member (with local Party specified), or local Party, or special interest group. This sponsor shall be considered responsible for the content of the literature.
 
 
-H14.5 A maximum limit of £xxx shall apply to the cost of producing campaign literature.
+H14.5 A maximum limit of £200 shall apply to the cost of producing campaign literature.
 
 
-H14.6 Campaign literature should seek to be factual and non-discriminatory. Where there is concern about the content of some campaign literature, this should be raised with xxx, who shall be empowered to require its removal if deemed unacceptable."
+H14.6 Campaign literature should seek to be factual and non-discriminatory. Where there is concern about the content of some campaign literature, this should be raised with GPRC Reps at conference, who shall be empowered to require its removal if deemed unacceptable."

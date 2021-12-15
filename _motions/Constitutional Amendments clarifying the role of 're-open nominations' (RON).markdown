@@ -6,7 +6,7 @@ status: final
 coproposers: 0
 ---
 Synopsis
-A motion to clarify the role and function of "RON" in elections.
+The role of the ‘Re-Open Nominations’ (RON) option as a negative option in internal Green Party elections serves the purpose of allowing members have the opportunity to register their dissatisfaction with all available candidates. This clarifies the role of ‘RON’ and ensures it is not treated as a candidate.
 
 
 Motion
