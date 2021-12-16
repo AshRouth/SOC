@@ -17,7 +17,7 @@ Conference instructs Policy Development Committee to facilitate policy developme
 The updated chapter will use the framework of a Wellbeing Economy and ensure that policies align to the goals of achieving a socially just and environmentally sustainable society. It will also clarify the role that tax and government finance play in reaching zero carbon.
 
 
-On taxation, the new chapter will broadly retain the purposes and principles set out in the current Tax & Fiscal Policy section (EC700-705) as well as the principles of the party’s monetary policy (EC66-679) and will seek to resolve the current inconsistency between these.
+On taxation, the new chapter will broadly retain the purposes and principles set out in the current Tax & Fiscal Policy section (EC700-705) as well as the principles of the party’s monetary policy (EC660-679) and will seek to resolve the current inconsistency between these.
 
 
 The new Economy Chapter will aim to be under 5,000 words. Additional information will be in a background paper.
