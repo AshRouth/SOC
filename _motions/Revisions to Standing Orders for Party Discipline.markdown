@@ -116,9 +116,6 @@ b) In the case of ground 1.2 ii), the clause(s) of the Code of Conduct that the 
 Evidence should be provided, for example as attachments or screenshots.”
 
 
-[Add a footnote explaining that URLs are insufficient as the text/link might have been deleted]
-
-
 3.15 currently reads
 “Where the complaint is submitted by a GPEW region, local party or recognised special interest group, it will be expected that it will be accompanied by a case file. The case file should include as a minimum:
 
@@ -160,9 +157,6 @@ iv) names and contact details of Witnesses
 
 
 v) evidence for example as attachments or screenshots.”
-
-
-[Add a footnote explaining that URLs are insufficient as the text/link might have been deleted]
 
 
 Delete 4.5 which currently reads
