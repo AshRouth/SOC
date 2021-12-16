@@ -17,19 +17,29 @@ Revise SOPD (Standing Orders for Party Discipline) as follows:
 
 
 1.9 currently reads
+
+
 “It is a requirement that the Complaints Manager, the Governance Assistant, the members of the Referral Group, the Committee and the Appeals Committee shall receive training in discrimination law, bias and unconscious bias, and Safe Spaces.”
 
 
-Add “Safeguarding level 1, Understanding Autism and data protection. Training should be provided within a month of a member joining the relevant body, and completed within six months of course receipt, unless the member can confirm such training has been completed within the previous year.
+Add “Safeguarding level 1, Understanding Autism and data protection. Training should be provided by the party within one month of a member joining the relevant body, and completed within one month of course receipt, unless the member can confirm such training has been completed within the previous year.
+
+
+Investigations will not be allocated to Committee members until training is complete, and they may not deliberate in hearings unless three other members who have completed their training are also present.”
 
 
 So that it reads:
 
 
-“It is a requirement that the Complaints Manager, the Governance Assistant, the members of the Referral Group, the Committee and the Appeals Committee shall receive training provided by the Party in discrimination law, bias and unconscious bias, Safe Spaces, Safeguarding level 1, Understanding Autism and data protection. Training should be provided within a month of a member joining the relevant body, and completed within six months of course receipt, unless the member can confirm such training has been completed within the previous year.
+“It is a requirement that the Complaints Manager, the Governance Assistant, the members of the Referral Group, the Committee and the Appeals Committee shall receive training in discrimination law, bias and unconscious bias, Safe Spaces, Safeguarding level 1, Understanding Autism and data protection. Training should be provided by the party within one month of a member joining the relevant body, and completed within one month of course receipt, unless the member can confirm such training has been completed within the previous year.
+
+
+Investigations will not be allocated to Committee members until training is complete, and they may not deliberate in hearings unless three other members who have completed their training are also present.”
 
 
 2.1. currently reads
+
+
 “The Committee shall consist of eleven members of the Party who are not members of the Green Party Executive (GPEx), the Green Party Regional Council (GPRC), Alternative Dispute Resolution Committee (ADRC) or Standing Orders Committee (SOC).”
 
 
@@ -40,6 +50,8 @@ If the motion “Change to the Constitution for Disciplinary Committee” is pas
 
 
 2.2 currently reads
+
+
 “The members of the Committee are elected to serve for a two year period.
 
 
@@ -61,7 +73,9 @@ i) Each GPEW region and the nation of Wales should elect or appoint one member t
 ii) In the event of a casual vacancy, with more than six months of the term remaining, the relevant Regional Committee or Wales Green Party may elect or appoint a replacement to serve the remainder of the term."
 
 
-Delete para 3.12, insert after 3.3 renumbering it and subsequent paragraphs
+Delete clause 3.12, insert after 3.3 renumbering it and subsequent clauses
+
+
 3.12 currently reads
 “Complaints submitted by the Complaints Manager must be presented in a written format to the Committee and must at a minimum specify:
 
@@ -78,7 +92,7 @@ a) In the case of ground 1.2 i), the clause of the Constitution that the member 
 b) In the case of ground 1.2 ii), the clause(s) of the Code of Conduct that the member is alleged to have breached and the manner and circumstances in which they are alleged to have done so;”
 
 
-And add a new sentence “Evidence should be provided, for example as attachments, URLs or screenshots.”
+And add a new sentence “Evidence should be provided, for example as attachments or screenshots.”
 
 
 So that it reads:
@@ -99,7 +113,10 @@ a) In the case of ground 1.2 i), the clause of the Constitution that the member 
 b) In the case of ground 1.2 ii), the clause(s) of the Code of Conduct that the member is alleged to have breached and the manner and circumstances in which they are alleged to have done so.
 
 
-Evidence should be provided, for example as attachments, URLs or screenshots.”
+Evidence should be provided, for example as attachments or screenshots.”
+
+
+[Add a footnote explaining that URLs are insufficient as the text/link might have been deleted]
 
 
 3.15 currently reads
@@ -121,7 +138,7 @@ iv) names and contact details of Witnesses”
 Add
 
 
-“v) evidence for example as attachments, URLs or screenshots.”
+“v) evidence for example as attachments or screenshots.”
 
 
 So that it reads:
@@ -142,7 +159,10 @@ iii) the name(s) and local party(s) of the Respondent(s)
 iv) names and contact details of Witnesses
 
 
-v) evidence for example as attachments, URLs or screenshots.”
+v) evidence for example as attachments or screenshots.”
+
+
+[Add a footnote explaining that URLs are insufficient as the text/link might have been deleted]
 
 
 Delete 4.5 which currently reads
@@ -153,3 +173,9 @@ And replace with
 
 
 “The Chair or Deputy Chair shall inform the Complaints Manager of the Investigators allocated to the complaint. The Complaints Manager will inform the Investigators of the contact details of the Complainant, Respondent and any identified witnesses held on the Green Party membership database, as well as any reasonable adjustments that need to be made during the investigation as notified under 3.10.”
+
+
+Insert another clause (4.7), re-number subsequent clauses and references to those clauses
+
+
+“When the appointed Investigators receive the complaints form and evidence, they may identify potential breaches of the GPEW Constitution or Code of Conduct, directly connected to this specific complaint which have not been identified by the Complainant. They will obtain the agreement of the complainant, then add these to the complaint. In such cases, the Investigators must inform the Respondent and Complaints Manager that they have extended the remit of the investigation.”
