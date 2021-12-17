@@ -1,9 +1,9 @@
 ---
-number: 21
+number: 22
 title: Failure of COP 26 GPEW Response to ‘climate genocide’
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78226
 status: final
-coproposers: 0
+coproposers: 3
 ---
 Synopsis
 

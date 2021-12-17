@@ -1,9 +1,9 @@
 ---
-number: 32
+number: 33
 title: Queerphobia guidance to be added to the Framework for Ethics and Conduct
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78491
 status: final
-coproposers: 0
+coproposers: 6
 ---
 Synopsis
 

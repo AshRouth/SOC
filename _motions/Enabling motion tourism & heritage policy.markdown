@@ -1,9 +1,9 @@
 ---
-number: 19
+number: 20
 title: Enabling motion tourism & heritage policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77471
 status: final
-coproposers: 9
+coproposers: 12
 ---
 Synopsis
 

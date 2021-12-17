@@ -1,9 +1,9 @@
 ---
-number: 33
+number: 34
 title: Reforming the process for holding the party’s AGM
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77825
 status: final
-coproposers: 1
+coproposers: 3
 ---
 Synopsis
 

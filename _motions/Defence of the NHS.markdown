@@ -3,7 +3,7 @@ number: 13
 title: Defence of the NHS
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78245
 status: final
-coproposers: 0
+coproposers: 9
 ---
 Synopsis
 

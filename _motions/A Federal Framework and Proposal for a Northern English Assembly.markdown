@@ -3,7 +3,7 @@ number: 2
 title: A Federal Framework and Proposal for a Northern English Assembly
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78642
 status: final
-coproposers: 0
+coproposers: 1
 ---
 Synopsis
 

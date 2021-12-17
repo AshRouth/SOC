@@ -1,9 +1,9 @@
 ---
-number: 17
+number: 18
 title: Enabling Motion for the Natural Resources and Waste Management Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77959
 status: final
-coproposers: 1
+coproposers: 2
 ---
 Synopsis
 

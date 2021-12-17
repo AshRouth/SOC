@@ -1,9 +1,9 @@
 ---
-number: 35
+number: 36
 title: Restitution and repatriation of cultural objects
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77469
 status: final
-coproposers: 10
+coproposers: 14
 ---
 Synopsis
 

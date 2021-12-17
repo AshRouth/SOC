@@ -1,9 +1,9 @@
 ---
-number: 20
+number: 21
 title: Ensuring Sex and Gender Are Not Conflated
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78493
 status: final
-coproposers: 16
+coproposers: 18
 ---
 Synopsis
 

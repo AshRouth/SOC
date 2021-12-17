@@ -1,9 +1,9 @@
 ---
-number: 24
+number: 25
 title: GPRC motion on the Framework Oversight Body
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78601
 status: final
-coproposers: 5
+coproposers: 6
 ---
 Summary
 
