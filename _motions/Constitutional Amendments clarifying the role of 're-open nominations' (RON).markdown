@@ -3,7 +3,7 @@ number: 11
 title: Constitutional Amendments clarifying the role of 're-open nominations' (RON)
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78520
 status: final
-coproposers: 3
+coproposers: 4
 ---
 Synopsis
 The role of the ‘Re-Open Nominations’ (RON) option as a negative option in internal Green Party elections serves the purpose of allowing members have the opportunity to register their dissatisfaction with all available candidates. This clarifies the role of ‘RON’ and ensures it is not treated as a candidate.

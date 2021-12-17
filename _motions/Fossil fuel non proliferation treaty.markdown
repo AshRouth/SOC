@@ -1,9 +1,9 @@
 ---
-number: 23
+number: 25
 title: Fossil Fuel Non Proliferation Treaty
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78623
 status: final
-coproposers: 5
+coproposers: 23
 ---
 Synopsis
 

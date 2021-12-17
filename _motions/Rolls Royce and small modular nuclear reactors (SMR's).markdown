@@ -1,9 +1,9 @@
 ---
-number: 38
+number: 40
 title: Rolls Royce and small modular nuclear reactors (SMR's)
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78043
 status: final
-coproposers: 1
+coproposers: 5
 ---
 Synopsis
 

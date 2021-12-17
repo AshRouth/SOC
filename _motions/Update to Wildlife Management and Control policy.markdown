@@ -1,9 +1,9 @@
 ---
-number: 43
+number: 46
 title: Update to Wildlife Management and Control policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77206
 status: final
-coproposers: 5
+coproposers: 19
 ---
 [SOC note - no title was provided for this motion, SOC has allocated a title]
 

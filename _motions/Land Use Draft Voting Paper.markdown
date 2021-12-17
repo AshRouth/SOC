@@ -1,9 +1,9 @@
 ---
-number: 28
+number: 30
 title: Land Use Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78577
 status: final
-coproposers: 4
+coproposers: 5
 ---
 Synopsis
 

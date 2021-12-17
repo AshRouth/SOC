@@ -1,9 +1,9 @@
 ---
-number: 39
+number: 42
 title: Stonewall and disaffiliation from diversity champions scheme
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=76977
 status: final
-coproposers: 14
+coproposers: 18
 ---
 Synopsis
 

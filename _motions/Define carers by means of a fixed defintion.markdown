@@ -3,7 +3,7 @@ number: 14
 title: Define carers by means of a fixed defintion
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77635
 status: final
-coproposers: 0
+coproposers: 1
 ---
 Synopsis
 

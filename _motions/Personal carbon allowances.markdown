@@ -1,9 +1,9 @@
 ---
-number: 30
+number: 32
 title: Personal carbon allowances
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=76987
 status: final
-coproposers: 1
+coproposers: 13
 ---
 Synopsis
 

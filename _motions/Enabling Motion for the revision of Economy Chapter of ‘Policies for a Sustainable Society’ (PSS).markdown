@@ -1,9 +1,9 @@
 ---
-number: 19
+number: 20
 title: 	Enabling Motion for the revision of Economy Chapter of ‘Policies for a Sustainable Society’ (PSS)
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78086
 status: final
-coproposers: 6
+coproposers: 11
 ---
 Synopsis
 

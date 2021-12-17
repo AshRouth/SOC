@@ -1,9 +1,9 @@
 ---
-number: 44
+number: 47
 title: Updates to Green Party Drug Policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78570
 status: final
-coproposers: 6
+coproposers: 7
 ---
 Synopsis
 

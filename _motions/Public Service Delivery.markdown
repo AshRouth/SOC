@@ -1,9 +1,9 @@
 ---
-number: 32
+number: 34
 title: Public Service Delivery
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77748
 status: final
-coproposers: 13
+coproposers: 21
 ---
 Synopsis
 
