@@ -3,7 +3,7 @@ number: 26
 title: Green Party of England and Wales is an Ecosocialist Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78525
 status: final
-coproposers: 4
+coproposers: 5
 ---
 Synopsis
 

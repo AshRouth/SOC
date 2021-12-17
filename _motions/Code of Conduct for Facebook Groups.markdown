@@ -3,7 +3,7 @@ number: 10
 title: Code of Conduct for Facebook Groups
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77451
 status: final
-coproposers: 1
+coproposers: 2
 ---
 Synopsis
 

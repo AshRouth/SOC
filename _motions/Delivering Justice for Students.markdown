@@ -3,7 +3,7 @@ number: 15
 title: Delivering Justice for Students
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78530
 status: final
-coproposers: 2
+coproposers: 4
 ---
 Synopsis
 

@@ -3,7 +3,7 @@ number: 35
 title: Regulating the distribution of campaign literature at Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78523
 status: final
-coproposers: 1
+coproposers: 3
 ---
 Synopsis
 

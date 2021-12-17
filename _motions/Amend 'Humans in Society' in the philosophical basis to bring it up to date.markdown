@@ -3,7 +3,7 @@ number: 5
 title: Amend 'Humans in Society' in the philosophical basis to bring it up to date
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77763
 status: final
-coproposers: 10
+coproposers: 15
 ---
 Synopsis
 

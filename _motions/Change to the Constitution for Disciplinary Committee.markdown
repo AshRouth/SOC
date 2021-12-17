@@ -3,7 +3,7 @@ number: 8
 title: Change to the Constitution for Disciplinary Committee
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77986
 status: final
-coproposers: 2
+coproposers: 5
 ---
 Synopsis
 
