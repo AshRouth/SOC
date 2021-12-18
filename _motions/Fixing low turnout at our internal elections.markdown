@@ -3,7 +3,7 @@ number: 24
 title: Fixing low turnout at our internal elections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77457
 status: final
-coproposers: 14
+coproposers: 15
 ---
 Synopsis
 

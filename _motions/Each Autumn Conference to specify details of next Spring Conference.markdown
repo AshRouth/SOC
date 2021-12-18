@@ -3,7 +3,7 @@ number: 16
 title: Each Autumn Conference to specify details of next Spring Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=75749
 status: final
-coproposers: 4
+coproposers: 5
 ---
 Synopsis
 

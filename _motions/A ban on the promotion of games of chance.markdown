@@ -3,7 +3,7 @@ number: 1
 title: A ban on the promotion of games of chance
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78032
 status: final
-coproposers: 4
+coproposers: 5
 ---
 Synopsis
 
