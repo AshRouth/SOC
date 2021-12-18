@@ -2,7 +2,7 @@
 number: 44
 title: Strengthening the Regulation of Election Spending
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77645
-status: draft
+status: final
 coproposers: 3
 ---
 Synopsis
