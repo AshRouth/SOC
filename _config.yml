@@ -24,7 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/agenda" # the subpath of your site, e.g. /blog
 url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Switches
 prioritisation: false
+show_coproposers: false
 affiliated_threshold: 4
 unaffiliated_threshold: 12
 

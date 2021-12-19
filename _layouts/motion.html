@@ -4,43 +4,58 @@ layout: default
 <h2 class="small text-muted">Motion #{{ page.number }}</h2>
 <h1>{{ page.title }}</h1>
 
-{% if site.prioritisation == false %}
-  <div class="progress" style="height: 50px">
-    {% if page.status == "draft" %}
-      <div class="progress-bar bg-warning text-dark" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">Draft</div>
-    {% elsif page.status == "final" %}
-      {% if page.affiliated == true %}
-        {% assign coproposer_threshold = site.affiliated_threshold %}
-      {% else %}
-        {% assign coproposer_threshold = site.unaffiliated_threshold %}
-      {% endif %}
-      {% assign coproposer_float = coproposer_threshold | times: 1.0 %}
-      {% assign progress_percentage = page.coproposers | divided_by: coproposer_float | times: 100 %}
-        <div class="progress-bar overflow-hidden {% if page.coproposers >= coproposer_threshold %}bg-success{% endif %}" role="progressbar" style="width: {{ progress_percentage }}%" aria-valuenow="{{ page. coproposers }}" aria-valuemin="0" aria-valuemax="{{ coproposer_threshold }}">{% if page.coproposers > 2 %}{{ page.coproposers }}/{{ coproposer_threshold }} co-proposers{% endif %}</div>
-      {% if page.coproposers <= 2 %}
-        <div class="progress-bar overflow-hidden bg-transparent text-dark" role="progressbar" style="width: 100%" aria-valuenow="1" aria-valuemin="0" aria-valuemax="{{ coproposer_threshold }}">{{ page.coproposers }}/{{ coproposer_threshold }} co-proposers</div>
-      {% endif %}
-    {% endif %}
-  </div>
-  {% unless page.coproposers == 0 or page.coproposers > 0 %}
-  <p>
-    Coproposers:
-    {% for item in page.coproposers %}{% unless forloop.first == true %}, {% endunless %}{{ item }}{% endfor %}
-  </p>
-  {% endunless %}
-{% elsif site.prioritisation == true %}
-  <div class="progress" style="height: 50px">
-    {% if page.status == "passed" %}
-      <div class="progress-bar overflow-hidden bg-success" role="progressbar" style="width: 100%" aria-valuenow="1" aria-valuemin="0" aria-valuemax="1">Passed</div>
-    {% elsif page.status == "defeated" %}
-      <div class="progress-bar overflow-hidden bg-danger" role="progressbar" style="width: 100%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="1">Defeated</div>
-    {% elsif page.status == "referred" %}
-      <div class="progress-bar overflow-hidden bg-info" role="progressbar" style="width: 100%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="1">Referred Back</div>
-    {% else %}
-      <div class="progress-bar overflow-hidden bg-transparent text-dark" role="progressbar" style="width: 100%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="1">Not Yet Debated</div>
-    {% endif %}
-  </div>
+{% if page.affiliated == true %}
+  {% assign coproposer_threshold = site.affiliated_threshold %}
+{% else %}
+  {% assign coproposer_threshold = site.unaffiliated_threshold %}
 {% endif %}
+
+{% case page.status %}
+  {% when "draft" %}
+    {% assign styles = "bg-warning text-dark" %}
+    {% assign label = "Draft" %}
+  {% when "final" %}
+    {% if page.coproposers >= 0 %}
+      {% if page.coproposers >= coproposer_threshold %}
+        {% assign styles = "bg-success text-light" %}
+      {% else %}
+        {% assign styles = "bg-primary text-light" %}
+      {% endif %}
+      {% capture label %}
+        {{ page.coproposers }}/{{ coproposer_threshold }} co-proposers
+      {% endcapture %}
+    {% else %}
+      {% if page.coproposers.size >= coproposer_threshold %}
+        {% assign styles = "bg-success text-light" %}
+      {% else %}
+        {% assign styles = "bg-primary text-light" %}
+      {% endif %}
+      {% capture label %}
+        {{ page.coproposers.size }}/{{ coproposer_threshold }} co-proposers
+      {% endcapture %}
+    {% endif %}
+  {% when "tbd" %}
+    {% assign styles = "bg-light text-dark" %}
+    {% assign label = "Not Yet Debated" %}
+  {% when "passed" %}
+    {% assign styles = "bg-success text-light" %}
+    {% assign label = "Motion passed" %}
+  {% when "defeated" %}
+    {% assign styles = "bg-danger text-light" %}
+    {% assign label = "Motion defeated" %}
+  {% when "referred" %}
+    {% assign styles = "bg-info text-light" %}
+    {% assign label = "Motion referred back to conference" %}
+{% endcase %}
+
+<div class="d-flex align-items-center justify-content-center infobox rounded text-center {{ styles }}" style="height: 40px">{{ label }}</div>
+
+{% unless page.coproposers >= 0 or site.show_coproposers == false %}
+<p>
+  Coproposers:
+  {{ page.coproposers | array_to_sentence_string }}
+</p>
+{% endunless %}
 
 {{ content }}
 
