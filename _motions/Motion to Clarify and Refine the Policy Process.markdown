@@ -12,6 +12,7 @@ The number one aim of this party is to “develop and implement policies”, and
 
 
 Motion
+
 Delete section of the current constitution entitled “Policy Making” and replace with section outlined below title “Policy section to be inserted into the constitution”.
 
 
