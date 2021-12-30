@@ -48,7 +48,7 @@ layout: default
     {% assign label = "Motion referred back to conference" %}
 {% endcase %}
 
-<div class="d-flex align-items-center justify-content-center infobox rounded text-center {{ styles }}" style="height: 40px">{{ label }}</div>
+<div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center {{ styles }}" style="height: 40px">{{ label }}</div>
 
 {% unless page.coproposers >= 0 or site.show_coproposers == false %}
 <p>
