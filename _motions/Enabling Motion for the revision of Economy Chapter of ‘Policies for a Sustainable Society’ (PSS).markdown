@@ -4,6 +4,7 @@ title: 	Enabling Motion for the revision of Economy Chapter of ‘Policies for a
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78086
 status: final
 coproposers: 11
+affiliated: true
 ---
 Synopsis
 
