@@ -37,7 +37,7 @@ plugins:
 collections:
   motions:
     output: true
-    permalink: :collection/:name
+    permalink: :collection/:name/
 
 defaults:
   -
