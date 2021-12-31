@@ -23,7 +23,7 @@
           {% assign motionlist = site.motions | sort: 'number' %}
           {% for motion in motionlist %}
           <li class="nav-item">
-            <a class="{% if motion.url == page.url %}text-primary{% endif %} nav-link" href="http://greencoordinate.co.uk/agenda{{ motion.url }}">#{{ motion.number }}: {{ motion.title }}</a>
+            <a class="{% if motion.url == page.url %}text-primary{% endif %} nav-link" href="{{ site.baseurl }}{{ motion.url }}">#{{ motion.number }}: {{ motion.title }}</a>
             <strong class="mb-1"></strong>
           </li>
           {% endfor %}
@@ -39,7 +39,7 @@
         <div class="list-group list-group-flush border-bottom scrollarea">
           {% assign motionlist = site.motions | sort: 'number' %}
           {% for motion in motionlist %}
-            <a href="http://greencoordinate.co.uk/agenda{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+            <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">{{ motion.title }}</strong>
                 <small {% unless motion.url == page.url %}class="text-muted{% endunless %}">#{{ motion.number }}</small>
