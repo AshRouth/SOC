@@ -5,13 +5,11 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: final
 coproposers: 6
 ---
-Synopsis
-
+## Synopsis
 
 The Natural Resources and Waste Management Policy Chapter received its last major update back in 2006. A rewrite is needed so that the chapter can be expanded in scope to include more policy positions on issues such as radioactive waste and other hazardous materials management.
 
-Motion
-
+## Motion
 
 The Natural Resources and Waste Management chapter of the Policies for a Sustainable Society had its last full rewrite in 2006. Conference believes it is time to refresh and expand the scope of this chapter so that we have clear positions on such topics as radioactive waste.
 

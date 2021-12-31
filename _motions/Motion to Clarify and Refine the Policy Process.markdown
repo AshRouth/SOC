@@ -5,44 +5,32 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: final
 coproposers: 15
 ---
-Synopsis
-
+## Synopsis
 
 The number one aim of this party is to “develop and implement policies”, and this party is proud to have a members led policy process. Therefore all of the party’s policy process should clearly be defined in one place and other governance documents should reference this one place.
 
-
-Motion
+## Motion
 
 Delete section of the current constitution entitled “Policy Making” and replace with section outlined below title “Policy section to be inserted into the constitution”.
 
-
 In line with point (7) added to constitution by the previous sentence, create a standing orders document entitled “Standing Orders for the Policy Process” and insert the text below which starts with title “The Policy Process” and ends with “[END OF POLICY PROCESS DOCUMENT]”.
-
 
 Make the changes laid out below title “Changes to other parts of the constitution required to ensure consistency” up until “[END OF CONSISTENCY CHANGES]”
 
-
 Conference instructs the Policy Development Coordinator, with the support of Policy Development Committee and Green Party Executive to make the following change to the party’s policies to bring them inline with changes this motion makes:
-
 
 •	-	Keep the current ‘Philosophical Basis’  unchanged. Keep the current ‘Policies for a Sustainable Society’ unchanged on the party’s public facing website, but inline with point 6) in part A of the new “Standing Orders for the Policy Process”, also published them on website only accessible to members along with the following for each chapter:
 
-
 •	◦	Revision log (starting from changes made at spring 2021 conference)
-
 
 •	◦	Background paper (if existing background paper cannot be found then a blank place holder should be published reminding members that one needs writing).
 
-
 •	-	Take the current contents of Record of Policy Statements (RoPS) and split into Policy Statements in accordance with points 7) to 14) in Part A of “Standing Orders for the Policy Process”. The Party’s manifestos published since 2010 should be included as policy statements, and all but the most recent will be set as “inactive”. All of the other policy statements currently in RoPS will initially be ‘active’. Policy Development Committee will decide on initial expiry dates for all ‘active’ policy statements. These will be dates between 1 and 5 years time and will be included in the members facing publication of policy statements. Once this has happened and ‘active Policy statements’ have been published on the party’s external website and all policy statement are on the members website, remove RoPS from party’s website.
-
 
 Standing Orders Committee (SOC) is empowered to make further changes to the constitution (and any Standing Orders this motion is being applied to) that are necessary to ensure that they are consistent with the contents of “Policy section to be inserted into constitution” and “Standing Orders for the Policy Process”  document this motion introduces.
 Where relevant ‘#’ in the next text added by this motion should be replaces with appropriate section numbers and the remainder of documents should be renumber as needed. SOC are empowered to ensure “Standing Orders for the Policy Process” is formatted for accessibility and clarity.
 
-
 Policy section to be inserted into the constitution
-
 
  # Policy
 
