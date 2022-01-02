@@ -37,15 +37,18 @@
           <span class="fs-5 fw-semibold">{{ site.title }}</span>
         </a>
         <div class="list-group list-group-flush border-bottom scrollarea">
-          {% assign motionlist = site.motions | sort: 'number' %}
-          {% for motion in motionlist %}
-            <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">{{ motion.title }}</strong>
-                <small {% unless motion.url == page.url %}class="text-muted{% endunless %}">#{{ motion.number }}</small>
-              </div>
-            </a>
-          {% endfor %}
+          {% assign motions_grouped = site.motions | sort: "number" | group_by: 'letter' %}
+            {% for group in motions_grouped %}
+                <div class="fw-bold list-group-item">Section {{ group.name }}</div>
+              {% for motion in group.items %}
+              <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+                <div class="d-flex w-100 align-items-center justify-content-between">
+                  {{ motion.title }}
+                  <small {% unless motion.url == page.url %}class="text-muted{% endunless %}">#{{ motion.letter }}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</small>
+                </div>
+              </a>
+              {% endfor %}
+            {% endfor %}
         </div>
       </div>
 
