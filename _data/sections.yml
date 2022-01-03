@@ -17,4 +17,7 @@
   code: OoO
 
 - name: Appendix
-  code: 
+  code: App
+
+- name: Uncategorised
+  code:
