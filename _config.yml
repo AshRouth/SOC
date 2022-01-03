@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spring Conference Draft Motions
+title: Spring Conference Agenda
 description: >- # this means to ignore newlines until "baseurl:"
   Draft motions for the Green Party 2022 Spring Conference, from the Standing Orders Committee.
 baseurl: "/agenda" # the subpath of your site, e.g. /blog
 url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Switches
-prioritisation: false
 show_coproposers: false
 affiliated_threshold: 4
 unaffiliated_threshold: 12
