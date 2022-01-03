@@ -1,5 +1,6 @@
 ---
-number: 31
+section: D
+number: 2
 title: Motion to Clarify and Refine the Policy Process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78216
 status: final

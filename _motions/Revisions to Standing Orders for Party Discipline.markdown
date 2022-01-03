@@ -1,5 +1,6 @@
 ---
-number: 39
+section: D
+number: 8
 title: Revisions to Standing Orders for Party Discipline
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77988
 status: final

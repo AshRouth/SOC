@@ -1,5 +1,6 @@
 ---
-number: 41
+section: D
+number: 13
 title: Special interests need Special manifestos
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77459
 status: final

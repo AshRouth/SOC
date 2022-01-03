@@ -1,5 +1,6 @@
 ---
-number: 7
+section: D
+number: 9
 title: Antisemitism, Palestine, and free speech - endorsing Jerusalem Declaration instead of IHRA
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=76979
 status: final
