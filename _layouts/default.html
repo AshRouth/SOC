@@ -37,15 +37,12 @@
           <span class="fs-5 fw-semibold">{{ site.title }}</span>
         </a>
         <div class="list-group list-group-flush border-bottom scrollarea">
-
-
-
-
-
           {% for section in site.data.sections %}
+
             <button class="fw-bold list-group-item btn d-inline-flex align-items-center rounded" data-bs-toggle="collapse" data-bs-target="#{{ section.code }}-collapse" aria-expanded="true" aria-current="true">{{ section.name }}</button>
 
-            <div {% unless page.section == section.code %}class="collapse"{% endunless %} id="{{ section.code }}-collapse">
+            <div class="collapse {% if section.code == page.section or page.layout == "default" %}show{% endif %}" id="{{ section.code }}-collapse">
+
               {% assign motions = site.motions | where: "section" , section.code %}
               {% for motion in motions %}
                 <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
@@ -58,9 +55,6 @@
               {% endfor %}
             </div>
           {% endfor %}
-
-
-
         </div>
       </div>
       <div class="content mt-5 ms-md-5">
