@@ -32,26 +32,37 @@
     </div>
   </nav>
     <div class="container bigscreen">
-      <div class="d-flex d-none d-md-block flex-column align-items-stretch flex-shrink-0 shadow" style="max-width: 380px;">
+      <div class="sidebar d-flex d-none d-md-block flex-column align-items-stretch flex-shrink-0 shadow" style="max-width: 380px;">
         <a href="{{ site.baseurl }}/" class="sticky-top d-flex align-items-center flex-shrink-0 p-3 link-dark text-decoration-none bg-light border-bottom">
           <span class="fs-5 fw-semibold">{{ site.title }}</span>
         </a>
         <div class="list-group list-group-flush border-bottom scrollarea">
-          {% assign motions_grouped = site.motions | sort: "number" | group_by: 'letter' %}
-            {% for group in motions_grouped %}
-                <div class="fw-bold list-group-item">Section {{ group.name }}</div>
-              {% for motion in group.items %}
-              <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
-                <div class="d-flex w-100 align-items-center justify-content-between">
-                  {{ motion.title }}
-                  <small {% unless motion.url == page.url %}class="text-muted{% endunless %}">#{{ motion.letter }}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</small>
-                </div>
-              </a>
+
+
+
+
+
+          {% for section in site.data.sections %}
+            <button class="fw-bold list-group-item btn d-inline-flex align-items-center rounded" data-bs-toggle="collapse" data-bs-target="#{{ section.code }}-collapse" aria-expanded="true" aria-current="true">{{ section.name }}</button>
+
+            <div {% unless page.section == section.code %}class="collapse"{% endunless %} id="{{ section.code }}-collapse">
+              {% assign motions = site.motions | where: "section" , section.code %}
+              {% for motion in motions %}
+                <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+                  <div class="d-flex w-100 align-items-center justify-content-between">
+                    {{ motion.title }}
+                    <small {% unless motion.url == page.url %}class="text-muted{% endunless %}">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if motion.number < 10 %}{% if section.code == "OoO" %}&nbsp;{% endif %}0{% endif %}{{ motion.number }}
+                    </small>
+                  </div>
+                </a>
               {% endfor %}
-            {% endfor %}
+            </div>
+          {% endfor %}
+
+
+
         </div>
       </div>
-
       <div class="content mt-5 ms-md-5">
         {{ content }}
       </div>

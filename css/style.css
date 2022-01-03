@@ -8,3 +8,7 @@
   padding-top:10px;
   padding-bottom:100px;
 }
+
+.sidebar {
+  min-width:380px;
+}
