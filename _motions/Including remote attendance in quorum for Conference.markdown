@@ -1,6 +1,6 @@
 ---
 section: D
-number: 6
+number: 5
 title: Including remote attendance in quorum for Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78595
 status: final

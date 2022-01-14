@@ -1,6 +1,6 @@
 ---
 section: E
-number: 16
+number: 15
 title: Public Service Delivery
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77748
 status: final

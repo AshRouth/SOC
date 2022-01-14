@@ -1,7 +1,7 @@
 ---
 section: E
-number: 9
-title: Enabling motion tourism & heritage policy
+number: 8
+title: Enabling Motion on Tourism & Heritage Policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77471
 status: final
 coproposers: 15

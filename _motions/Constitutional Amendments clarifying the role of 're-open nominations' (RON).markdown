@@ -1,6 +1,6 @@
 ---
 section: D
-number: 5
+number: 4
 title: Constitutional Amendments clarifying the role of 're-open nominations' (RON)
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78520
 status: final

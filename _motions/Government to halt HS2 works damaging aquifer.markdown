@@ -1,6 +1,6 @@
 ---
 section: E
-number: 13
+number: 12
 title: Government to halt HS2 works damaging aquifer
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78474
 status: final
@@ -11,6 +11,10 @@ coproposers: 25
 Green Party calls for a halt to HS2 works in the Mid Chilterns Chalk aquifer, until HS2 can demonstrate that groundwater resources, providing significant quantities of Public Drinking Water, can be protected throughout construction and operation of the railway, in line with UK regulations.
 
 ## Motion
+
+Conference calls for this motion to be recorded in RoPS and for GP
+leadership and elected members to publicize at all reasonable
+opportunities.
 
 In September 2021 HS2 Ltd confirmed building additional purification works at Public Water pumping stations across the Colne Valley and closing the main water supply station in Harefield, Hillingdon. This is against UK water regulations which are in place to prevent activities that could lead to additional purification treatment.
 
