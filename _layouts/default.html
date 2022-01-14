@@ -58,7 +58,7 @@
                   <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3" aria-current="true">
                     <div class="d-flex align-items-center justify-content-between">
                       {{ motion.title }}
-                      <small class="ps-1 {% unless motion.url == page.url %}text-muted{% endunless %}">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if motion.number < 10 %}{% if section.code == "OoO" %}&nbsp;{% endif %}0{% endif %}{{ motion.number }}</small>
+                      <small class="ps-1 {% unless motion.url == page.url %}text-muted{% endunless %}">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</small>
                     </div>
                   </a>
                 {% endfor %}
