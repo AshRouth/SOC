@@ -4,7 +4,8 @@ number: 4
 title: Regulating Political Party Donations from Limited Companies
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77645
 status: final
-coproposers: 3
+coproposers: 4
+affiliated: true
 ---
 ## Synopsis
 

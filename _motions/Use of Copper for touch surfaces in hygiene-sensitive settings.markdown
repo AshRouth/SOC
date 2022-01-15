@@ -4,7 +4,7 @@ number: 4
 title: Use of Copper for touch surfaces in hygiene-sensitive settings
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77797
 status: final
-coproposers: 11
+coproposers: 12
 ---
 ## Synopsis
 
