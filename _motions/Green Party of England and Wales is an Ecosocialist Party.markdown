@@ -14,4 +14,6 @@ Socialism would put people at the heart of [Note from SOC - Synopsis word limit 
 
 ## Motion
 
-“The GPEW will be a Socialist party. The purpose of the GPEW will be to work toward a non- violent, democratic, just, and sustainable society free from the predations and inequities of capitalism. To this end, the GPEW will contest elections open to the English and Welsh electorates. We do not believe that electoral politics is the only way to change society, or that we have all the answers. We, therefore, seek to facilitate and cooperate with movements and initiatives which share our values, principles and objectives to achieve change through a variety of non-violent means, tactics and strategies.
+To PB107 add the following text after “Rather than set them against each other, the Green Party seeks healthy interdependence of individual, nature and society."
+
+“The GPEW will be a Socialist party. The purpose of the GPEW will be to work toward a non- violent, democratic, just, and sustainable society free from the predations and inequities of capitalism. To this end, the GPEW will contest elections open to the English and Welsh electorates. We do not believe that electoral politics is the only way to change society, or that we have all the answers. We, therefore, seek to facilitate and cooperate with movements and initiatives which share our values, principles and objectives to achieve change through a variety of non-violent means, tactics and strategies.”
