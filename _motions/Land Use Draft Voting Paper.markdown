@@ -9,7 +9,7 @@ affiliated: true
 ---
 ## Synopsis
 
-This policy paper aims to amend the current policy that impacts on land use in the United Kingdom. It defines our key outcomes and principles, which are based on and consistent with the Philosophical Basis and existing policy and outlines policies and ways to achieve them via a range of [Note from SOC - Synopsis word limit reached]
+This policy paper aims to amend the current policy that impacts on land use in the United Kingdom. It defines our key outcomes and principles, which are based on and consistent with the Philosophical Basis and existing policy and outlines policies and ways to achieve them via a range of relevant policy levers.
 
 ## Motion
 
