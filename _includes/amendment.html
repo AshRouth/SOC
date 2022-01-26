@@ -1,0 +1,4 @@
+<div class="amendment">
+  <h3>Amendment {{ include.number }}</h3>
+  {{ site.amendments | where:"motion_title", page.title | where:"amendment_number", include.number | default: "Amendment not found. Please contact SOC if you think this is an error."}}
+</div>

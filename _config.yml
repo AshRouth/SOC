@@ -34,9 +34,12 @@ plugins:
   - jekyll-feed
 
 collections:
+  amendments:
+    output: false
   motions:
     output: true
     permalink: :collection/:name/
+
 
 defaults:
   -
