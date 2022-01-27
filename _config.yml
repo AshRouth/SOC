@@ -31,7 +31,7 @@ unaffiliated_threshold: 12
 
 # Build settings
 plugins:
-  - jekyll-feed
+  - jekyll-toc
 
 collections:
   amendments:
@@ -48,6 +48,12 @@ defaults:
       type: "motions"
     values:
       layout: "motion"
+      toc: true
+
+toc:
+  min_level: 2
+  list_class: list-inline
+  item_class: list-inline-item
 
 # Exclude from processing.
 # The following items will not be processed, by default.
