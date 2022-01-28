@@ -17,18 +17,18 @@ layout: default
   {% when "final" %}
     {% if page.coproposers >= 0 %}
       {% if page.coproposers >= coproposer_threshold %}
-        {% assign styles = "bg-success text-light" %}
+        {% assign styles = "bg-secondary text-light" %}
       {% else %}
-        {% assign styles = "bg-primary text-light" %}
+        {% assign styles = "bg-light text-dark" %}
       {% endif %}
       {% capture label %}
         {{ page.coproposers }}/{{ coproposer_threshold }} co-proposers
       {% endcapture %}
     {% else %}
       {% if page.coproposers.size >= coproposer_threshold %}
-        {% assign styles = "bg-success text-light" %}
+        {% assign styles = "bg-secondary text-light" %}
       {% else %}
-        {% assign styles = "bg-primary text-light" %}
+        {% assign styles = "bg-light text-dark" %}
       {% endif %}
       {% capture label %}
         {{ page.coproposers.size }}/{{ coproposer_threshold }} co-proposers
