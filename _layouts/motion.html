@@ -17,18 +17,18 @@ layout: default
   {% when "final" %}
     {% if page.coproposers >= 0 %}
       {% if page.coproposers >= coproposer_threshold %}
-        {% assign styles = "bg-success text-light" %}
+        {% assign styles = "bg-secondary text-light" %}
       {% else %}
-        {% assign styles = "bg-primary text-light" %}
+        {% assign styles = "bg-light text-dark" %}
       {% endif %}
       {% capture label %}
         {{ page.coproposers }}/{{ coproposer_threshold }} co-proposers
       {% endcapture %}
     {% else %}
       {% if page.coproposers.size >= coproposer_threshold %}
-        {% assign styles = "bg-success text-light" %}
+        {% assign styles = "bg-secondary text-light" %}
       {% else %}
-        {% assign styles = "bg-primary text-light" %}
+        {% assign styles = "bg-light text-dark" %}
       {% endif %}
       {% capture label %}
         {{ page.coproposers.size }}/{{ coproposer_threshold }} co-proposers
@@ -38,7 +38,7 @@ layout: default
     {% assign styles = "bg-light text-dark" %}
     {% assign label = "Not Yet Debated" %}
   {% when "passed" %}
-    {% assign styles = "bg-success text-light" %}
+    {% assign styles = "bg-primary text-light" %}
     {% assign label = "Motion passed" %}
   {% when "defeated" %}
     {% assign styles = "bg-danger text-light" %}
@@ -59,6 +59,9 @@ layout: default
 
 {{ content }}
 
-<p class="text-muted">Last updated on {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>
+{% assign amendments = site.amendments | where:"motion_title",page.title %}
 
-<a href="{{ page.spaces }}"><button type="button" class="btn btn-outline-success btn-center">View on Green Spaces</button></a>
+<div class="info mb-3">
+  <p class="text-muted">Last updated on {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>
+  <a href="{{ page.spaces }}"><button type="button" class="btn btn-primary text-light btn-center">View on Green Spaces</button></a>
+</div>

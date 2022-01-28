@@ -18,9 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spring Conference Agenda
+title: Spring Conference 2022
 description: >- # this means to ignore newlines until "baseurl:"
-  Draft motions for the Green Party 2022 Spring Conference, from the Standing Orders Committee.
+  Motions for the Green Party 2022 Spring Conference, from the Standing Orders Committee.
+email: mailto:soc@greenparty.org.uk
 baseurl: "/agenda" # the subpath of your site, e.g. /blog
 url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,12 +32,15 @@ unaffiliated_threshold: 12
 
 # Build settings
 plugins:
-  - jekyll-feed
+  - jekyll-toc
 
 collections:
+  amendments:
+    output: false
   motions:
     output: true
     permalink: :collection/:name/
+
 
 defaults:
   -
@@ -45,6 +49,13 @@ defaults:
       type: "motions"
     values:
       layout: "motion"
+      toc: true
+
+algolia:
+  application_id: "4ST1NETHQJ"
+  index_name: "spring2022"
+  search_only_api_key: "d5ef01b49dd87ae0c37fd223bed1242e"
+  nodes_to_index: 'h1'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

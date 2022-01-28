@@ -1,0 +1,22 @@
+<ul class="motions list-unstyled mb-0 py-3 pt-md-1">
+  {% for section in site.data.sections %}
+    {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
+    {% unless motions.size == 0 %}
+      <li class="mb-1">
+        <button class="btn d-inline-flex align-items-center rounded" data-bs-toggle="collapse" data-bs-target="#{{ section.code }}-collapse" aria-expanded="{% if section.code == page.section %}true{% else %}false{% endif %}" aria-current="true">{{ section.name }}</button>
+        <div id="{{ section.code }}-collapse" class="collapse {% if section.code == page.section %}show{% endif %}">
+          <ul class="inner list-unstyled pb-1 small">
+            {% for motion in motions %}
+            <li class="rounded">
+              <a class="d-flex justify-content-between align-items-center {% if motion.url == page.url == true %}active{% endif %}" href="{{ site.baseurl }}/{{ motion.url }}">
+                {{ motion.title }}
+                <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
