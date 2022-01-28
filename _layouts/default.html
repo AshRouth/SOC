@@ -24,24 +24,23 @@
             <!-- <input id="search-searchbar" class="form-control" type="search" aria-label="Search"> -->
           </form>
         </div>
-        <div class="offcanvas offcanvas-start d-md-none" id="offcanvas">
-          <div class="offcanvas-header">
-            <!-- <input id="search-searchbar" class="form-control" type="search" aria-label="Search"> -->
-            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-          </div>
-          <div class="offcanvas-body">
-            {% include sidebar-motions.html %}
-          </div>
-        </div>
       </div>
     </nav>
 
+    <div class="offcanvas offcanvas-start d-md-none" id="offcanvas">
+      <div class="offcanvas-header">
+        <!-- <input id="search-searchbar" class="form-control" type="search" aria-label="Search"> -->
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        {% include sidebar-motions.html %}
+      </div>
+    </div>
+
     <div class="container d-flex my-3">
       <div class="row">
-        <div class="col-md-4">
-          <div class="sidebar d-none d-md-inline">
-              {% include sidebar-motions.html %}
-          </div>
+        <div class="col-md-4 d-none d-md-block">
+          {% include sidebar-motions.html %}
         </div>
         <div class="col-md-8 content">
           {{ content }}
@@ -53,8 +52,8 @@
       <div class="container d-flex flex-row justify-content-between">
         <!-- <p class="m-0">Maintained by volunteers from the Green Party Standing Orders Commitee.</p> -->
         <div class="icons">
-          <a href="https://www.github.com/octotheo/SOC"><i class="bi bi-github"></i></a>
-          <a href="{{ site.email }}"><i class="bi bi-envelope-fill ps-1"></i></a>
+          <a class="link-light" href="https://www.github.com/octotheo/SOC"><i class="bi bi-github"></i></a>
+          <a class="link-light" href="{{ site.email }}"><i class="bi bi-envelope-fill ps-1"></i></a>
         </div>
       </div>
     </footer>
