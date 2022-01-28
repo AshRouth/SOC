@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html class="h-100" lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,83 +11,53 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
   </head>
-  <body>
+  <body class="d-flex flex-column h-100">
     <nav class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top shadow-sm">
       <div class="container">
-        <a class="navbar-brand p-0" href="{{ site.baseurl }}/"><img height="50" class="pe-1 d-inline-block align-text-center" src="{{ site.baseurl }}/css/gpew-logo.png">{{ site.title }}<a>
+        <a class="navbar-brand p-0" href="{{ site.baseurl }}/"><img height="32" class="pe-1 d-inline-block align-text-center" src="{{ site.baseurl }}/css/gpew-logo.png">{{ site.title }}<a>
         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse">
           {% include toc.html html=content h_min=3 class="navbar-nav.me-auto.mb-2.mb-lg-0" item_class="nav-item.navbar-nav" anchor_class="nav-link" %}
-          <!-- <form class="d-flex">
-            <input id="search-searchbar" class="form-control me-2" type="search" aria-label="Search">
-          </form> -->
+          <form class="d-flex">
+            <!-- <input id="search-searchbar" class="form-control" type="search" aria-label="Search"> -->
+          </form>
         </div>
-    </div>
-    </nav>
-
-    <div class="offcanvas offcanvas-start d-md-none" id="offcanvas">
-      <div class="offcanvas-header">
-        <h2>{{ site.title }}</h2>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-      </div>
-      <div class="offcanvas-body">
-        <div class="sidebar">
-          <div class="list-group list-group-flush">
-            {% for section in site.data.sections %}
-              {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
-              {% unless motions.size == 0 %}
-                <div class="list-group-item list-group-item-action">
-                  <a class="fw-bold stretched-link text-decoration-none link-dark" data-bs-toggle="collapse" href="#{{ section.code }}-collapse" aria-expanded="false" aria-current="true">{{ section.name }}</a>
-                  <i class="bi bi-caret-down-fill"></i>
-                </div>
-                <div class="collapse {% if section.code == page.section %}show{% endif %}" id="{{ section.code }}-collapse">
-                  {% for motion in motions %}
-                    <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3" aria-current="true">
-                      <div class="d-flex align-items-center justify-content-between">
-                        {{ motion.title }}
-                        <small class="ps-1 {% unless motion.url == page.url %}text-muted{% endunless %}">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</small>
-                      </div>
-                    </a>
-                  {% endfor %}
-                </div>
-              {% endunless %}
-            {% endfor %}
+        <div class="offcanvas offcanvas-start d-md-none" id="offcanvas">
+          <div class="offcanvas-header">
+            <!-- <input id="search-searchbar" class="form-control" type="search" aria-label="Search"> -->
+            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            {% include sidebar-motions.html %}
           </div>
         </div>
       </div>
-    </div>
+    </nav>
 
-    <div class="container d-flex">
-      <div class="sidebar d-none d-md-inline" style="min-width:380px;">
-        <div class="list-group" style="border-top:0; border-radius:0;">
-          {% for section in site.data.sections %}
-            {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
-            {% unless motions.size == 0 %}
-              <div class="list-group-item list-group-item-action" style="border-top:0">
-                <a class="fw-bold stretched-link text-decoration-none link-dark" data-bs-toggle="collapse" href="#{{ section.code }}-collapse" aria-expanded="false" aria-current="true">{{ section.name }}</a>
-                <i class="bi bi-caret-down-fill"></i>
-              </div>
-              <div class="collapse {% if section.code == page.section %}show{% endif %}" id="{{ section.code }}-collapse">
-                {% for motion in motions %}
-                  <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3" aria-current="true">
-                    <div class="d-flex align-items-center justify-content-between">
-                      {{ motion.title }}
-                      <small class="ps-1 {% unless motion.url == page.url %}text-muted{% endunless %}">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</small>
-                    </div>
-                  </a>
-                {% endfor %}
-              </div>
-            {% endunless %}
-          {% endfor %}
+    <div class="container d-flex my-3">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="sidebar d-none d-md-inline">
+              {% include sidebar-motions.html %}
+          </div>
+        </div>
+        <div class="col-md-8 content">
+          {{ content }}
         </div>
       </div>
-      <div class="content my-3 ms-md-5">
-        <!-- <div id="search-hits"></div> -->
-        {{ content }}
-      </div>
     </div>
+
+    <footer class="footer mt-auto py-3 bg-secondary text-light">
+      <div class="container d-flex flex-row justify-content-between">
+        <!-- <p class="m-0">Maintained by volunteers from the Green Party Standing Orders Commitee.</p> -->
+        <div class="icons">
+          <a href="https://www.github.com/octotheo/SOC"><i class="bi bi-github"></i></a>
+          <a href="{{ site.email }}"><i class="bi bi-envelope-fill ps-1"></i></a>
+        </div>
+      </div>
+    </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     {% include algolia.html %}

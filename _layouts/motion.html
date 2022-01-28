@@ -61,6 +61,7 @@ layout: default
 
 {% assign amendments = site.amendments | where:"motion_title",page.title %}
 
-<p class="text-muted">Last updated on {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>
-
-<a href="{{ page.spaces }}"><button type="button" class="btn btn-outline-success btn-center">View on Green Spaces</button></a>
+<div class="info mb-3">
+  <p class="text-muted">Last updated on {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>
+  <a href="{{ page.spaces }}"><button type="button" class="btn btn-primary text-light btn-center">View on Green Spaces</button></a>
+</div>

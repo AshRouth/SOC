@@ -1,0 +1,21 @@
+<div class="list-group list-group-flush">
+  {% for section in site.data.sections %}
+    {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
+    {% unless motions.size == 0 %}
+      <div class="list-group-item list-group-item-action">
+        <a class="fw-bold stretched-link text-decoration-none link-dark" data-bs-toggle="collapse" href="#{{ section.code }}-collapse" aria-expanded="false" aria-current="true">{{ section.name }}</a>
+        <i class="bi bi-caret-down-fill"></i>
+      </div>
+      <div class="collapse {% if section.code == page.section %}show{% endif %}" id="{{ section.code }}-collapse">
+        {% for motion in motions %}
+          <a href="{{ site.baseurl }}{{ motion.url }}" class="{% if motion.url == page.url %}active{% endif %} list-group-item list-group-item-action py-3" aria-current="true">
+            <div class="d-flex align-items-center justify-content-between">
+              {{ motion.title }}
+              <small class="ps-1 {% unless motion.url == page.url %}text-muted{% endunless %}">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</small>
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+    {% endunless %}
+  {% endfor %}
+</div>

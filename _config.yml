@@ -21,6 +21,7 @@
 title: Spring Conference 2022
 description: >- # this means to ignore newlines until "baseurl:"
   Motions for the Green Party 2022 Spring Conference, from the Standing Orders Committee.
+email: mailto:soc@greenparty.org.uk
 baseurl: "/agenda" # the subpath of your site, e.g. /blog
 url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
