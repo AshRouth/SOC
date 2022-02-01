@@ -31,8 +31,8 @@ affiliated_threshold: 4
 unaffiliated_threshold: 12
 
 # Build settings
-plugins:
-  - jekyll-toc
+sass:
+  sass_dir: /assets/css/
 
 collections:
   amendments:

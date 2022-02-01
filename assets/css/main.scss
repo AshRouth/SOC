@@ -1,0 +1,155 @@
+---
+---
+@import "bootstrap/functions";
+
+$primary: #6AB023;
+$secondary: #006341;
+$defeated: #DC3545;
+$referred: #0DCAf0;
+$draft: #FFC107;
+
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
+
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+@import "bootstrap/tables";
+@import "bootstrap/forms";
+@import "bootstrap/buttons";
+@import "bootstrap/transitions";
+@import "bootstrap/dropdown";
+@import "bootstrap/button-group";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/card";
+@import "bootstrap/accordion";
+@import "bootstrap/breadcrumb";
+@import "bootstrap/pagination";
+@import "bootstrap/badge";
+@import "bootstrap/alert";
+@import "bootstrap/progress";
+@import "bootstrap/list-group";
+@import "bootstrap/close";
+@import "bootstrap/toasts";
+@import "bootstrap/modal";
+@import "bootstrap/tooltip";
+@import "bootstrap/popover";
+@import "bootstrap/carousel";
+@import "bootstrap/spinners";
+@import "bootstrap/offcanvas";
+@import "bootstrap/placeholders";
+
+// Helpers
+@import "bootstrap/helpers";
+
+// Utilities
+@import "bootstrap/utilities/api";
+
+.sidebar {
+  .btn {
+    &::before{
+    	width: 1.25em;
+    	line-height: 0;
+    	content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
+      transition: transform 0.35s ease;
+    	transform-origin: .5em 50%;
+    }
+    &[aria-expanded="true"]::before {
+      transform: rotate(90deg);
+    }
+    &:hover {
+      background-color: rgba(121,82,179,0.1);
+    }
+    &:focus{
+      background-color: rgba(121,82,179,0.1);
+      border: 1px solid $primary;
+      box-shadow: none;
+    }
+  }
+  a {
+    color: rgba(0,0,0,0.65);
+    text-decoration: none;
+  }
+  .inner li {
+    padding: .1875rem .5rem;
+    margin-top: .125rem;
+    margin-left: 1.25rem;
+    .active {
+      font-weight:600;
+    }
+    &:hover {
+      color: rgba(0,0,0,0.85);
+      background-color: rgba(121,82,179,0.1);
+    }
+  }
+}
+
+
+.bg {
+  &-draft {
+    background-color: $draft;
+    color: $dark;
+  }
+  &-final {
+    background-color: $secondary;
+    color: $light;
+  }
+  &-tbd {
+    background-color: $light;
+    color: $dark;
+  }
+  &-passed {
+    background-color: $secondary;
+    color: $light;
+  }
+  &-defeated {
+    background-color: $defeated;
+    color: $light;
+  }
+  &-referred {
+    background-color: $referred;
+    color: $light;
+  }
+}
+
+.amendment {
+  padding:1.25rem;
+  margin-top:1.25rem;
+  margin-bottom:1.25rem;
+  border:1px solid #e9ecef;
+  border-left-width:.25rem;
+  border-radius:.25rem;
+  h4 {
+        margin-bottom:.25rem
+  }
+  p:last-child {
+    margin-bottom:0;
+  }
+  &-tbd {
+    border-left-color: $light;
+  }
+  &-passed {
+    border-left-color: $secondary;
+  }
+  &-defeated {
+    border-left-color: $defeated;
+  }
+}
+
+.amendment+.amendment
+{
+  margin-top:-.25rem
+}
+
+h1, .navbar-brand {
+  font-family: 'Bebas Neue', sans-serif
+}
+
+.navbar-brand {
+  font-size:1.5em;
+}

@@ -1,54 +1,45 @@
 ---
 layout: default
 ---
-<h2 class="small text-muted">Motion #{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% if page.number < 10 %}0{% endif %}{{ page.number }}</h2>
-<h1>{{ page.title }}</h1>
-
-{% if page.affiliated == true %}
-  {% assign coproposer_threshold = site.affiliated_threshold %}
+<!-- Code for calculating coproposer thresholds -->
+{% if page.coproposers >= 0 %}
+  {% assign coproposers = page.coproposers %}
 {% else %}
-  {% assign coproposer_threshold = site.unaffiliated_threshold %}
+  {% assign coproposers = page.coproposers.size %}
+{% endif %}
+{% if page.affiliated == true %}
+  {% assign threshold = site.affiliated_threshold %}
+{% else %}
+  {% assign threshold = site.unaffiliated_threshold %}
+{% endif %}
+{% if page.status == "final" and coproposers < threshold %}
+  {% assign status = "tbd" %}
+{% else %}
+  {% assign status = page.status %}
 {% endif %}
 
+<!-- Assigning a label to put inside the infobox -->
 {% case page.status %}
   {% when "draft" %}
-    {% assign styles = "bg-warning text-dark" %}
     {% assign label = "Draft" %}
   {% when "final" %}
-    {% if page.coproposers >= 0 %}
-      {% if page.coproposers >= coproposer_threshold %}
-        {% assign styles = "bg-secondary text-light" %}
-      {% else %}
-        {% assign styles = "bg-light text-dark" %}
-      {% endif %}
-      {% capture label %}
-        {{ page.coproposers }}/{{ coproposer_threshold }} co-proposers
-      {% endcapture %}
-    {% else %}
-      {% if page.coproposers.size >= coproposer_threshold %}
-        {% assign styles = "bg-secondary text-light" %}
-      {% else %}
-        {% assign styles = "bg-light text-dark" %}
-      {% endif %}
-      {% capture label %}
-        {{ page.coproposers.size }}/{{ coproposer_threshold }} co-proposers
-      {% endcapture %}
-    {% endif %}
+    {% capture label %}
+      {{ coproposers }}/{{ threshold }} co-proposers
+    {% endcapture %}
   {% when "tbd" %}
-    {% assign styles = "bg-light text-dark" %}
     {% assign label = "Not Yet Debated" %}
   {% when "passed" %}
-    {% assign styles = "bg-primary text-light" %}
     {% assign label = "Motion passed" %}
   {% when "defeated" %}
-    {% assign styles = "bg-danger text-light" %}
     {% assign label = "Motion defeated" %}
   {% when "referred" %}
-    {% assign styles = "bg-info text-light" %}
     {% assign label = "Motion referred back to conference" %}
 {% endcase %}
 
-<div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center {{ styles }}" style="height: 40px">{{ label }}</div>
+<!-- Page starts -->
+<h2 class="small text-muted">Motion #{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% if page.number < 10 %}0{% endif %}{{ page.number }}</h2>
+<h1>{{ page.title }}</h1>
+<div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center bg-{{ status }}" style="height: 40px">{{ label }}</div>
 
 {% unless page.coproposers >= 0 or site.show_coproposers == false %}
 <p>
@@ -58,8 +49,6 @@ layout: default
 {% endunless %}
 
 {{ content }}
-
-{% assign amendments = site.amendments | where:"motion_title",page.title %}
 
 <div class="info mb-3">
   <p class="text-muted">Last updated on {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>
