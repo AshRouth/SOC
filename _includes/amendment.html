@@ -9,7 +9,7 @@
 
 <div class="amendment amendment-{{ include.status | default: "tbd" }}">
   <div class="d-flex justify-content-between align-items-start">
-    <h3>Amendment #{{ include.number }}</h3>
+    <h3 id="amendment-{{ include.number}}">Amendment #{{ include.number }}</h3>
     <p class="badge bg-{{ include.status | default: "tbd" }}">{{ label }}</p>
   </div>  {{ site.amendments | where:"motion_title", page.title | where:"amendment_number", include.number | default: "Amendment not found. Please contact SOC if you think this is an error."}}
 </div>
