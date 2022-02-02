@@ -157,3 +157,10 @@ h1, .navbar-brand {
 h3 {
   scroll-margin-top: 5rem;
 }
+
+@include media-breakpoint-up(md) {
+  .offcanvas-backdrop.show
+  {
+      display:none;
+  }
+}
