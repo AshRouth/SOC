@@ -164,3 +164,16 @@ h3 {
       display:none;
   }
 }
+
+.secondary-nav {
+    overflow-x: auto;
+    white-space: nowrap;
+    ul {
+        display: inline-block;
+        float: none;
+    }
+}
+
+.btn-outline-primary:hover {
+  color: $light;
+}

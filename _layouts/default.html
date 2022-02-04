@@ -16,6 +16,10 @@
       </div>
     </nav>
 
+    <div class="horizontal-scrollable secondary-nav shadow-sm py-2 px-3 d-lg-none">
+      {% include toc.html html=content h_min=3 class="list-inline.m-0" item_class="list-inline-item" anchor_class="text-decoration-none.btn.btn-outline-primary.rounded-pill" %}
+    </div>
+
     <div class="offcanvas offcanvas-start d-md-none" data-bs-scroll="true" id="offcanvas">
       <div class="offcanvas-header">
         <!-- <input id="search-searchbar" class="form-control" type="search" aria-label="Search"> -->
