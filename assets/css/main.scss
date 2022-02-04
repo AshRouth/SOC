@@ -1,54 +1,39 @@
 ---
 ---
-@import "bootstrap/functions";
-
 $primary: #6AB023;
 $secondary: #006341;
 $defeated: #DC3545;
 $referred: #0DCAf0;
 $draft: #FFC107;
 
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
-@import "bootstrap/utilities";
+@import "bootstrap";
 
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/type";
-@import "bootstrap/images";
-@import "bootstrap/containers";
-@import "bootstrap/grid";
-@import "bootstrap/tables";
-@import "bootstrap/forms";
-@import "bootstrap/buttons";
-@import "bootstrap/transitions";
-@import "bootstrap/dropdown";
-@import "bootstrap/button-group";
-@import "bootstrap/nav";
-@import "bootstrap/navbar";
-@import "bootstrap/card";
-@import "bootstrap/accordion";
-@import "bootstrap/breadcrumb";
-@import "bootstrap/pagination";
-@import "bootstrap/badge";
-@import "bootstrap/alert";
-@import "bootstrap/progress";
-@import "bootstrap/list-group";
-@import "bootstrap/close";
-@import "bootstrap/toasts";
-@import "bootstrap/modal";
-@import "bootstrap/tooltip";
-@import "bootstrap/popover";
-@import "bootstrap/carousel";
-@import "bootstrap/spinners";
-@import "bootstrap/offcanvas";
-@import "bootstrap/placeholders";
-
-// Helpers
-@import "bootstrap/helpers";
-
-// Utilities
-@import "bootstrap/utilities/api";
+.bg {
+  &-draft {
+    background-color: $draft;
+    color: $dark;
+  }
+  &-final {
+    background-color: $secondary;
+    color: $light;
+  }
+  &-tbd {
+    background-color: $light;
+    color: $dark;
+  }
+  &-passed {
+    background-color: $secondary;
+    color: $light;
+  }
+  &-defeated {
+    background-color: $defeated;
+    color: $light;
+  }
+  &-referred {
+    background-color: $referred;
+    color: $light;
+  }
+}
 
 .sidebar {
   .btn {
@@ -89,35 +74,15 @@ $draft: #FFC107;
   }
 }
 
-
-.bg {
-  &-draft {
-    background-color: $draft;
-    color: $dark;
-  }
-  &-final {
-    background-color: $secondary;
-    color: $light;
-  }
-  &-tbd {
-    background-color: $light;
-    color: $dark;
-  }
-  &-passed {
-    background-color: $secondary;
-    color: $light;
-  }
-  &-defeated {
-    background-color: $defeated;
-    color: $light;
-  }
-  &-referred {
-    background-color: $referred;
-    color: $light;
-  }
+h1, .navbar-brand {
+  font-family: 'Bebas Neue', sans-serif
 }
 
-.amendment {
+.navbar-brand {
+  font-size:1.5em;
+}
+
+.amendment { // Custom styles for amendment components, based on callouts from bs-docs.
   padding:1.25rem;
   margin-top:1.25rem;
   margin-bottom:1.25rem;
@@ -141,34 +106,19 @@ $draft: #FFC107;
   }
 }
 
-h1, .navbar-brand {
-  font-family: 'Bebas Neue', sans-serif
+.btn-outline-primary:hover {
+  color: $light; // Used for Green Spaces button and secondary navigation.
 }
 
-.navbar-brand {
-  font-size:1.5em;
+.content h3 {
+  scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
 }
 
-h3 {
-  scroll-margin-top: 5rem;
-}
-
-@include media-breakpoint-up(md) {
-  .offcanvas-backdrop.show
-  {
-      display:none;
-  }
-}
-
-.secondary-nav {
+.secondary-nav { // Enables horizontal scrolling.
     overflow-x: auto;
     white-space: nowrap;
     ul {
         display: inline-block;
         float: none;
     }
-}
-
-.btn-outline-primary:hover {
-  color: $light;
 }
