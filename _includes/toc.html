@@ -111,7 +111,7 @@
         {% endif %}
 
         {% capture _hAttrToStrip %}{{ _workspace[0] | split: '>' | first }}>{% endcapture %}
-        {% assign header = _workspace[0] | replace: _hAttrToStrip, '' | truncate: 25 %}
+        {% assign header = _workspace[0] | replace: _hAttrToStrip, '' | truncate: 35 %}
 
         {% if include.item_class and include.item_class != blank %}
             {% capture listItemClass %} class="{{ include.item_class | replace: '%level%', currLevel | split: '.' | join: ' ' }}"{% endcapture %}
