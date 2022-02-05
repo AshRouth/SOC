@@ -12,13 +12,13 @@ We need the finance sector to play its part in the rapid transition away from fo
 
 ## Motion
 
-1. Banking regulation
+### Banking regulation
 
 The FCA will adjust its policy so that no UK domiciled bank should invest in, or facilitate finance for, new fossil fuel development (including extraction, processing and distribution) or the new construction of unmitigated fossil-fuel powered electricity generation – whether in the UK or overseas – by the end of 2022. Sanctions to enforce this policy will include suspension of bonuses and dividend payouts, loss of access to central bank funding and ultimately the suspension of banking licences.
 
 Any company holding a UK banking licence must present an investment strategy outlining a clear pathway to divest of its current fossil fuel assets as soon as possible, or at least by 2030, From 2030 it will become illegal to hold fossil fuel assets other than those deemed of strategic importance.
 
-2. The role the Bank of England
+### The role the Bank of England
 
 The Bank of England will be required to mainstream the climate crisis into their strategic thinking and to produce a climate-neutrality roadmap for the financial system, including forward planning scenarios consistent with a 1.5oC warming limit and equity obligations of the Glasgow Accord.
 
@@ -30,7 +30,7 @@ The UK will adopt a position in negotiations at the Basel Committee that fossil 
 
 The Bank of England will be mandated to use its monetary creation powers and its asset purchase programme to finance projects to achieve our net zero targets, and to invest in jobs in green sectors via capitalization of a decentralized system of Infrastructure Banks and use the Term Funding Scheme to incentivize lending to green SMEs.
 
-3. Strengthening green bonds and preventing greenwashing
+### Strengthening green bonds and preventing greenwashing
 
 A strong and effective market for green bonds requires mandatory standards backed up by domestic and global monitoring and enforcement measures.
 
@@ -40,7 +40,7 @@ The UK will lead an international negotiation to agree mandatory global standard
 
 Based on the EU’s mandatory reporting framework, SFDR, UK market authorities will enforce clear standards for green bonds based on verifiable measurement and scientifically verifiable Paris compliance.
 
-4. A clear transition for the stock markets and the pensions and insurance sector
+### A clear transition for the stock markets and the pensions and insurance sector
 
 Non-bank financial institutions, such as UK pension funds, investment funds, mutual funds, brokers and insurance companies that sell policies in the UK must remove fossil fuel assets from their investment portfolios, securities transactions and balance sheets by 2030.
 
