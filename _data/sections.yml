@@ -13,11 +13,11 @@
 - name: Section E
   code: E
 
+- name: Section F
+  code: F
+
 - name: Out of Order
   code: OoO
 
 - name: Appendix
   code: App
-
-- name: Uncategorised
-  code:

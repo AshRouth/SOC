@@ -17,6 +17,12 @@
           </ul>
         </div>
       </li>
+    {% else %}
+    <li class="mb-1">
+      <button class="btn disabled d-inline-flex align-items-center rounded" disabled>{{ section.name }} (empty)</button>
+    </li>
     {% endunless %}
+
+
   {% endfor %}
 </ul>
