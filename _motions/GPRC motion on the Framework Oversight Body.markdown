@@ -1,6 +1,6 @@
 ---
 section: D
-number: 1
+number: 5
 title: GPRC motion on the Framework Oversight Body
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78601
 status: final

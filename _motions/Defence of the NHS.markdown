@@ -1,6 +1,6 @@
 ---
 section: E
-number: 6
+number: 2
 title: Defence of the NHS
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78245
 status: final
