@@ -32,7 +32,7 @@ unaffiliated_threshold: 12
 
 # Build settings
 sass:
-  sass_dir: /assets/css/
+  sass_dir: /css/
 
 collections:
   amendments:
