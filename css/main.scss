@@ -140,35 +140,29 @@ h1, .navbar-brand {
   margin-right:10px;
 }
 
-.front-page li {
-  a {
-    color: rgba(0,0,0,0.65);
-  }
-}
-
 .front-page {
-  .motion-title::before {
-    content: attr(data-code);
+  font-size: 14px;
+  .motion-code {
     color: #6c757d;
   }
-  .motion-title::after {
-    font-family: 'bootstrap-icons';
-    vertical-align:bottom;
-    margin-left:3px;
+  .motion-title {
+    color: rgba(0,0,0,0.65);
+    &::after {
+      font-family: 'bootstrap-icons';
+      vertical-align:bottom;
+      margin-left:5px;
+    }
   }
   .passed::after {
     content: "\F26C";
     color: $secondary;
   }
-
   .defeated::after {
     content: "\F628";
     color: $defeated;
   }
-
   .referred::after {
     content: "\F568";
     color: $referred;
   }
-
 }
