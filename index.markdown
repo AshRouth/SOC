@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 # Green Party Spring Conference 2022
 
