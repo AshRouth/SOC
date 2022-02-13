@@ -7,21 +7,21 @@ layout: default
 <div class="row front-page">
 {% for section in site.data.sections %}
   {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
-  <div class="col-md-4">
+  <div class="col-md-4 column">
   {% unless motions.size == 0 %}
-  <p class="section-name fw-bold">{{section.name}}</p>
-    <ul class="inner list-unstyled pb-1 small">
+  <p class="section-name mb-0 fw-bold">{{section.name}}</p>
+    <ul class="list-unstyled">
       {% for motion in motions %}
-      <li class="rounded">
-        <a class="d-flex justify-content-between align-items-center text-decoration-none" href="{{ site.baseurl }}{{ motion.url }}">
-          {{ motion.title }}
-          <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
-        </a>
-      </li>
+        <li class="my-1">
+          <a class="motion-title {{ motion.status }} text-decoration-none" href="{{ site.baseurl }}{{ motion.url }}" data-code="#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}">
+            {{motion.title }}
+          </a>
+        </li>
       {% endfor %}
     </ul>
   {% else %}
-  <p class="section-name fw-bold">{{section.name}} (Empty)</p>
+  <p class="section-name fw-bold">{{section.name}}</p>
+  <p class="text-muted fst-italic">(This section is empty.)</p>
   {% endunless %}
 
   </div>

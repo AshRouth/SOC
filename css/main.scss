@@ -7,6 +7,7 @@ $referred: #0DCAf0;
 $draft: #FFC107;
 
 @import "bootstrap";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
 
 .bg {
   &-draft {
@@ -139,10 +140,35 @@ h1, .navbar-brand {
   margin-right:10px;
 }
 
-.front-page div {
-  margin-bottom:25px;
+.front-page li {
+  a {
+    color: rgba(0,0,0,0.65);
+  }
 }
 
-.front-page a {
-  color: rgba(0,0,0,0.65);
+.front-page {
+  .motion-title::before {
+    content: attr(data-code);
+    color: #6c757d;
+  }
+  .motion-title::after {
+    font-family: 'bootstrap-icons';
+    vertical-align:bottom;
+    margin-left:3px;
+  }
+  .passed::after {
+    content: "\F26C";
+    color: $secondary;
+  }
+
+  .defeated::after {
+    content: "\F628";
+    color: $defeated;
+  }
+
+  .referred::after {
+    content: "\F568";
+    color: $referred;
+  }
+
 }
