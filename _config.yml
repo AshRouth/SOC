@@ -51,12 +51,6 @@ defaults:
       layout: "motion"
       toc: true
 
-algolia:
-  application_id: "4ST1NETHQJ"
-  index_name: "spring2022"
-  search_only_api_key: "d5ef01b49dd87ae0c37fd223bed1242e"
-  nodes_to_index: 'h1'
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
