@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row front-page">
+{% for section in site.data.sections %}
+  {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
+  <div class="col-md-4 column">
+    <p class="section-name mb-0 fw-bold">{{section.name}}</p>
+    <ul class="list-unstyled">
+      {% for motion in motions %}
+      {% case motion.status %}
+        {% when "passed" %}
+          {% assign label = "Motion passed" %}
+        {% when "defeated" %}
+          {% assign label = "Motion defeated" %}
+        {% when "referred" %}
+          {% assign label = "Motion referred back to conference" %}
+        {% else %}
+          {% assign label = "" %}
+      {% endcase %}
+        <li class="my-1">
+          <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ site.baseurl }}{{ motion.url }}" class="d-flex align-items-start text-decoration-none">
+            <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
+            <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
+          </a>
+        </li>
+      {% else %}
+        <li class="text-muted">(This section is empty.)</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
