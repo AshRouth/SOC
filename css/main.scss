@@ -166,3 +166,36 @@ h1, .navbar-brand {
     color: $referred;
   }
 }
+
+.tooltip-passed {
+  &.bs-tooltip-end {
+    .tooltip-arrow::before {
+      border-right-color: $secondary;
+    }
+  }
+  .tooltip-inner {
+    background-color: $secondary;
+  }
+}
+
+.tooltip-defeated {
+  &.bs-tooltip-end {
+    .tooltip-arrow::before {
+      border-right-color: $defeated;
+    }
+  }
+  .tooltip-inner {
+    background-color: $defeated;
+  }
+}
+
+.tooltip-referred {
+  &.bs-tooltip-end {
+    .tooltip-arrow::before {
+      border-right-color: $referred;
+    }
+  }
+  .tooltip-inner {
+    background-color: $referred;
+  }
+}
