@@ -88,6 +88,17 @@ $theme-colors: (
   "light":      $light,
   "dark":       $dark
 ) !default;
+  
+$custom-colors: (
+    "draft": $yellow,
+    "final": $secondary,
+    "tbd": $light,
+    "passed": $green,
+    "defeated": $red,
+    "referred": $cyan
+);
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
 // scss-docs-end theme-colors-map
 
 // scss-docs-start theme-colors-rgb

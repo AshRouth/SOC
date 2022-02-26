@@ -1,39 +1,45 @@
 ---
 ---
+* {
+  color: default; // Not having a rule at the start of the page throws up a warning, so this is just a placeholder.
+}
+
+// Green Party branding
 $primary: #6AB023;
 $secondary: #006341;
-$defeated: #DC3545;
-$referred: #0DCAf0;
-$draft: #FFC107;
 
-@import "bootstrap";
+//Bootstrap
+@import "bootstrap"; // Specific unnecessary components are commented out.
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
 
+// Desired text colours for custom styles.
 .bg {
   &-draft {
-    background-color: $draft;
     color: $dark;
   }
   &-final {
-    background-color: $secondary;
     color: $light;
   }
   &-tbd {
-    background-color: $light;
     color: $dark;
   }
   &-passed {
-    background-color: $secondary;
     color: $light;
   }
   &-defeated {
-    background-color: $defeated;
     color: $light;
   }
   &-referred {
-    background-color: $referred;
     color: $light;
   }
+}
+
+h1, .navbar-brand {
+  font-family: 'Bebas Neue', sans-serif
+}
+
+.navbar-brand {
+  font-size:1.5em;
 }
 
 .sidebar {
@@ -75,14 +81,6 @@ $draft: #FFC107;
   }
 }
 
-h1, .navbar-brand {
-  font-family: 'Bebas Neue', sans-serif
-}
-
-.navbar-brand {
-  font-size:1.5em;
-}
-
 .amendment { // Custom styles for amendment components, based on callouts from bs-docs.
   padding:1.25rem;
   margin-top:1.25rem;
@@ -91,19 +89,16 @@ h1, .navbar-brand {
   border-left-width:.25rem;
   border-radius:.25rem;
   h4 {
-        margin-bottom:.25rem
+    margin-bottom:.25rem
   }
   p:last-child {
     margin-bottom:0;
   }
-  &-tbd {
-    border-left-color: $light;
-  }
-  &-passed {
-    border-left-color: $secondary;
-  }
-  &-defeated {
-    border-left-color: $defeated;
+}
+
+@each $name, $color in $theme-colors {
+  .amendment-#{$name} {
+    border-left-color: $color;
   }
 }
 
@@ -131,71 +126,48 @@ h1, .navbar-brand {
   text-overflow: ellipsis;
 }
 
-.icons {
+.footer .icons {
+  width:40px;
   display: flex;
-  justify-content: center;
-}
-
-.icons svg {
-  margin-right:10px;
+  justify-content: space-between;
 }
 
 .front-page {
   font-size: 14px;
   .motion-code {
-    color: #6c757d;
+    color: var(--bs-gray-600)
   }
   .motion-title {
-    color: rgba(0,0,0,0.65);
-    &::after {
-      font-family: 'bootstrap-icons';
-      vertical-align:bottom;
-      margin-left:5px;
-    }
-  }
-  .passed::after {
-    content: "\F26C";
-    color: $secondary;
-  }
-  .defeated::after {
-    content: "\F628";
-    color: $defeated;
-  }
-  .referred::after {
-    content: "\F568";
-    color: $referred;
+    color: var(--bs-gray-800)
   }
 }
 
-.tooltip-passed {
-  &.bs-tooltip-end {
-    .tooltip-arrow::before {
-      border-right-color: $secondary;
-    }
-  }
-  .tooltip-inner {
-    background-color: $secondary;
+$front-page-icons: ("passed": "\F26C",
+                    "defeated": "\F628",
+                    "referred": "\F568",
+);
+
+@each $name, $icon in $front-page-icons {
+  .front-page .#{$name}::after {
+    content: $icon;
+    font-family: 'bootstrap-icons';
+    vertical-align:bottom;
+    margin-left:5px;
   }
 }
 
-.tooltip-defeated {
-  &.bs-tooltip-end {
-    .tooltip-arrow::before {
-      border-right-color: $defeated;
+@each $name, $color in $theme-colors {
+  .front-page .#{$name}::after {
+    color: $color;
+  }
+  .tooltip-#{$name} {
+    &.bs-tooltip-end {
+      .tooltip-arrow::before {
+        border-right-color: $color;
+      }
     }
-  }
-  .tooltip-inner {
-    background-color: $defeated;
-  }
-}
-
-.tooltip-referred {
-  &.bs-tooltip-end {
-    .tooltip-arrow::before {
-      border-right-color: $referred;
+    .tooltip-inner {
+      background-color: $color;
     }
-  }
-  .tooltip-inner {
-    background-color: $referred;
   }
 }
