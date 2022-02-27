@@ -42,6 +42,10 @@ h1, .navbar-brand {
   font-size:1.5em;
 }
 
+.infobox.bg-tbd {
+  border: 1px solid $gray-500;
+}
+
 .sidebar {
   .btn {
     &::before{
@@ -85,7 +89,7 @@ h1, .navbar-brand {
   padding:1.25rem;
   margin-top:1.25rem;
   margin-bottom:1.25rem;
-  border:1px solid #e9ecef;
+  border:1px solid var(--bs-tbd);
   border-left-width:.25rem;
   border-radius:.25rem;
   h4 {
