@@ -7,7 +7,7 @@ layout: default
 <div class="row front-page">
 {% for section in site.data.sections %}
   {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
-  <div class="col-md-4 column">
+  <div class="col-lg-4 column">
     <p class="section-name mb-0 fw-bold">{{section.name}}</p>
     <ul class="list-unstyled">
       {% for motion in motions %}

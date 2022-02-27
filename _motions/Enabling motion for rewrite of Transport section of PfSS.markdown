@@ -3,7 +3,7 @@ section: E
 number: 3
 title: Enabling motion for rewrite of Transport section of PfSS
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78682
-status: final
+status: tbd
 coproposers: 18
 affiliated: true
 ---

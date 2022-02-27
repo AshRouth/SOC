@@ -3,7 +3,7 @@ section: E
 number: 10
 title: Update to Wildlife Management and Control policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77206
-status: final
+status: tbd
 coproposers: 20
 ---
 [SOC note - no title was provided for this motion, SOC has allocated a title]

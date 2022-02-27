@@ -3,7 +3,7 @@ section: D
 number: 5
 title: Amendment to constitution proposed by SOC
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77397
-status: final
+status: tbd
 coproposers: 4
 affiliated: true
 ---

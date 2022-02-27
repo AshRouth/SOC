@@ -1,9 +1,9 @@
 ---
 section: E
-number: 6
+number: 17
 title: GPEW is an Ecosocialist Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78525
-status: final
+status: tbd
 coproposers: 13
 ---
 ## Synopsis
