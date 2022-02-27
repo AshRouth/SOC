@@ -7,7 +7,7 @@ status: final
 coproposers: 7
 affiliated: true
 ---
-## Summary
+## Synopsis
 
 This motion is designed to facilitate the creation and management of the Framework for Ethics and Conduct.
 
@@ -62,3 +62,5 @@ Documents may be added to the Framework by one of the following methods:
 •	A two-thirds majority vote of GPRC, or any successor body
 
 •	Or for matters which fall within its remit, by a two-thirds majority vote of The Green Party Executive, or any successor body.
+
+{%include amendment.html number="1"%}
