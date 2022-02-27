@@ -3,7 +3,7 @@ section: D
 number: 7
 title: Queerphobia guidance to be added to the Framework for Ethics and Conduct
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78491
-status: final
+status: tbd
 coproposers: 47
 ---
 ## Synopsis
