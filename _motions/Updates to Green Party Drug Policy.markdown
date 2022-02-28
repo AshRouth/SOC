@@ -12,7 +12,10 @@ affiliated: true
 The Drug Policy for the party was updated and adopted as policy at Autumn conference 2019. The Drug Policy Working Group has been reviewing its content to ensure that the policy is up-to-date and covers all necessary topics.
 
 The amendments address issues around:
-Production of drugs. The existing policy has [Note from SOC - Synopsis word limit reached]
+Production of drugs. The existing policy has
+
+Note from SOC - Synopsis word limit reached
+{:.alert .d-inline-block .alert-primary}
 
 ## Motion
 

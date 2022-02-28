@@ -6,11 +6,15 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: tbd
 coproposers: 20
 ---
-[SOC note - no title was provided for this motion, SOC has allocated a title]
+SOC note - no title was provided for this motion, SOC has allocated a title
+{:.alert .d-inline-block .alert-primary}
 
 ## Synopsis
 Proposal to update AR423 ‘Wildlife management and control’ to ensure the that regardless of setting and species, wild population control should be planned and carried out with regard to the welfare of animals and impact on the environment.
-The GPEW Animal Rights PWG plans to update our current Wildlife Control [Note from SOC - Synopsis word limit reached]
+The GPEW Animal Rights PWG plans to update our current Wildlife Control
+
+Note from SOC - Synopsis word limit reached
+{:.alert .d-inline-block .alert-primary}
 
 ## Motion
 

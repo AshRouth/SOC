@@ -9,7 +9,8 @@ affiliated: true
 ---
 ## Synopsis
 
-[SOC Note - no synopsis was submitted for this motion]
+SOC Note - no synopsis was submitted for this motion
+{:.alert .d-inline-block .alert-primary}
 
 ## Motion
 

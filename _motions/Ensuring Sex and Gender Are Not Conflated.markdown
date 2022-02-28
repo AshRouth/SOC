@@ -29,10 +29,8 @@ Therefore when data is being collected and analysed to form policy in relation t
 
 {% include amendment.html number="2" status="tbd" %}
 
-[Note from SOC - One part of this motion is Out of Order on the basis that it would be of no consequential effect]
-
-OoO starts:
-
-For clarity:
-
+Note from SOC - One part of this motion is Out of Order on the basis that it would be of no consequential effect \\
+\\
+OoO starts: For clarity: \\
 Female is used to refer to sex rather than gender in this motion.
+{:.alert .d-inline-block .alert-defeated}

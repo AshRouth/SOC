@@ -10,7 +10,10 @@ coproposers: 13
 
 Capitalism is incompatible with a just society and a sustainable future. The exploitation of people and the planet, necessitated by capitalism, is fundamentally contradictory with Green principles; there can be no sustainable society under a system which is defined by constant growth.
 
-Socialism would put people at the heart of [Note from SOC - Synopsis word limit reached]
+Socialism would put people at the heart of
+
+Note from SOC - Synopsis word limit reached
+{:.alert .d-inline-block .alert-primary}
 
 ## Motion
 

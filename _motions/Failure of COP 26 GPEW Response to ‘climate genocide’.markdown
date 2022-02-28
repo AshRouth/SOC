@@ -12,7 +12,10 @@ A number of the nations that will be annihilated by climate breakdown were liste
 
 At the conclusion of COP26 some national representatives used the expression: “this is a death sentence for my people”.
 
-The [Note from SOC - Synopsis word limit reached]
+The
+
+Note from SOC - Synopsis word limit reached
+{:.alert .d-inline-block .alert-primary}
 
 ## Motion
 

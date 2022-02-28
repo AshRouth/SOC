@@ -54,7 +54,6 @@ Insinuating a person is a danger to others based on being LGBTIQA+.
 
 Saying that an LGBTIQA+ person is confused, in a phase, following a trend or being LGBTIQA+ for attention.
 
-A further useful resource is the TransActual living document What is transphobia?
-https://www.transactual.org.uk/transphobia
+A further useful resource is the TransActual living document [What is transphobia?](https://www.transactual.org.uk/transphobia)
 
 Document developed by LGBTIQA+ Greens
