@@ -11,14 +11,14 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse">
-          {% include toc.html html=content h_min=3 class="navbar-nav" anchor_class="nav-link" %}
+          {% include toc.html html=content h_min=3 h_max=3 class="navbar-nav" anchor_class="nav-link" %}
         </div>
       </div>
     </nav>
 
     <div> <!-- This has to be here to make the secondary navbar work. Unsure why.  -->
       <div class="secondary-nav shadow-sm d-lg-none">
-        {% include toc.html html=content h_min=3 class="px-3.py-2.list-inline.m-0" item_class="list-inline-item" anchor_class="text-decoration-none.btn.btn-outline-primary.rounded-pill" %}
+        {% include toc.html html=content h_min=3 h_max=3 class="px-3.py-2.list-inline.m-0" item_class="list-inline-item" anchor_class="text-decoration-none.btn.btn-outline-primary.rounded-pill" %}
       </div>
     </div>
 
