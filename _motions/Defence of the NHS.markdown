@@ -18,9 +18,14 @@ In HE105, delete all after “will repeal the” and insert “the Health and Ca
 Add new HE106:
 
 “HE106 The Green Party will legislate to guarantee health rights previously covered by the European Charter of Fundamental Rights, notably the right of access to preventive health care and the right to benefit from medical treatment.”
+
+{% include amendment.html number="1" status="tbd" %}
+
 Add new HE1305, as follows:
 
 “HE1305 The NHS and all policies linked to health care and the pricing of medicines will be explicitly excluded from all international trade agreements.”
 Add new HE1504, as follows:
 
 “HE1504 Measures will be introduced to protect whistle-blowers in order that speaking out is safeguarded, not least when workers alert the media and others to areas of concern in the NHS.”
+
+{% include amendment.html number="2" status="tbd" %}

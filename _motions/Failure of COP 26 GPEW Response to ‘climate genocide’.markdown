@@ -20,6 +20,8 @@ Insert new policy CJ362
 
 ‘To establish a legal process to prosecute the people most responsible for the UK’s having failed to protect its people here and abroad from climate breakdown and This will include examination of the potential to use Article 30 of the Rome Statute of the International Criminal Court and the UK’s International Criminal Court Act 2001.’
 
+{% include amendment.html number="1" status="tbd" %}
+
 [Note from SOC – One part of this motion is Out of Order on the basis that it seeks to significantly amend policy
 which has recently been passed by Conference]
 

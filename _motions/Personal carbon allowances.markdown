@@ -31,3 +31,5 @@ A tax and dividend system cannot readily drive the required social and personal 
 CC123 The budget would be set to limit choice of per capita carbon-intensive activities (e.g. maximum one flight per year) with the aim of rapid reduction in carbon pollution to within safe limits.
 
 CC124 Budgets could not be traded nor could those with lavish lifestyles be expected to be able to maintain their carbon spend, for the good of current and future generations. Additional resources would be made available to those with additional needs, such as those with disabilities. Tax and dividend would only be maintained by the state alongside the carbon currency where necessary for security or increased resilience.
+
+{% include amendment.html number="1" status="tbd" %}

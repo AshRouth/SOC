@@ -239,6 +239,8 @@ Change the first sentence and insert a second sentence so that it states:
 
 EC777 A carbon tax will be introduced whereby a steadily rising price will be placed on sources of greenhouse gas emissions, and those embedded in imports (EC779). An exception to this will be emissions from land management which will be addressed via the planning system (see LD602) or via land management subsidies (see FA301 and FA602). Part of the tax revenue will be paid out as dividends to UK residents, while the rest will be used to promote sustainable behaviours, investment in zero carbon solutions, and meeting international climate obligations.
 
+{% include amendment.html number="1" status="tbd" %}
+
 In EC781, replace the word, “will” with “shall”, insert the word “stewardship” and replace the word “landowners” with “freeholders”, so that it reads, “EC781 There shall be no exemptions for different land uses from this policy. Where stewardship obligations are placed on freeholders to conserve wildlife habitats, archaeological sites or other landscape features, the capital value of the land may be assessed as zero or negative, and LVT would then become a subsidy. The effect of LVT on UK Agriculture will be managed through changes to farming subsidies in line with objectives laid out in the Food & Agriculture chapter. LVT will be introduced gradually over a number of years. As a transitional measure, where land necessarily attached to a domestic dwelling was subject to a mortgage on the day the tax was introduced, the tax would apply only to the value of the land net of the mortgage. Owner occupiers aged over 65 years will not be exempt, but they will be able to ‘roll over’ payments until the home is sold.”.
 
 Delete “EN015 Biofuels will be sustainably sourced within the UK (see Forestry policy).”
@@ -250,6 +252,8 @@ And replace with:
 Add new policy
 
 “EN016 Solar Photovoltaic will be deployed on roofs unless there is no better use of the land.”
+
+{% include amendment.html number="2" status="tbd" %}
 
 Food and Agriculture
 
@@ -286,6 +290,8 @@ FA301 Food, Agriculture and Climate Change – climate change is the most profou
 • We support the development of appropriate renewable energy systems on farms; we will monitor the growing of crops specifically for fuel.
 
 • Lowland peat soils are vulnerable to erosion and carbon loss; we will restore them to being net sequesters of carbon (see LD403a).
+
+{% include amendment.html number="3" status="tbd" %}
 
 FA602 first bullet currently states:
 
@@ -339,6 +345,8 @@ Increase the area of cover in the UK to be between 30% and 40% in 20 years, meet
 
 •	Allow for the use of forest residue and waste wood as well as some plantation for energy
 
+{% include amendment.html number="4" status="tbd" %}
+
 FR401  Add a reference to other policy levers and LD600, so that the paragraph reads,  “FR401 The expansion of the UK estate/tree cover shall be driven through three component parts (in addition to other policy levers described in LD600).
 
 •	Forest Services, to manage the land cover of the PFE, allocate grants, enforce regulations and implement and police pest control
@@ -363,9 +371,15 @@ And replace with
 
 Insert new “FR701  Forest and sawmill residues can be used for energy production, where not better applied to preserving forest soil health and biodiversity or other wood products.”
 
+{% include amendment.html number="5" status="tbd" %}
+
 Insert into FR800 the words “and wood products” and amend so that it reads, “FR800  Supporting Green Party Industrial Policies IP202 and IP241, and climate change policy CC260, UK imports of timbers and wood products that can be grown in the UK shall be reduced to net zero, and also a 'Wood First' policy in all new buildings and in retrofitting existing ones will be promoted.”
 
+{% include amendment.html number="6" status="tbd" %}
+
 Add to FR1400 “(See LD600)” so that it reads “FR1400 Funding shall be provided for innovative and targeted research, including different timber species' strengths and utility; CO2 sequestration potential, future planting needs and species suitability under climatic changes; mapping research on land areas most suited to energy creation, food growing, urban growth and conservation; planting opportunities mapping; research into organic pest control; climate emergency adaptation and resilience opportunities, particularly flood mitigation (See LD600).”
+
+{% include amendment.html number="7" status="tbd" %}
 
 Amend in HO401(a): replace the reference to LD400 (LVT), with a reference to EC780, where the substantive policy sits.
 
@@ -393,7 +407,11 @@ IN403 The National Economic Spatial Strategy will:
 
 In IN408, delete the words “(see LD203-6”) and insert the words, “(see LD601 and 605)”, so that it reads, “ IN408 Current land rights encourage unsustainable industrial activity. A Land Value Tax would redress this problem. (See EC780-782, LD302, 601 and LD605).”.
 
+{% include amendment.html number="8" status="tbd" %}
+
 Delete LP407, “LP407 The Green Party strongly supports the provision of green belts to contain urban sprawl, to maintain the separation of settlements, to protect prime agricultural land around settlements, to encourage urban regeneration and compact towns and cities, and to complement the ecological and cultural value of other designations listed in LP405. The Green Party would put a greater emphasis on the green belt’s use for wider sustainable built environment considerations such as flooding, biodiversity, agriculture, energy production and sustainable transport.The local authority role in reviewing and protecting their green belt is set out in LP510.”
+
+{% include amendment.html number="9" status="tbd" %}
 
 Insert a new LP407, to reflect the Green Party’s land use prioritisation, “LP407 Land designated as Green Belt should be used to contain urban sprawl, to maintain the separation of settlements, to protect prime agricultural land around settlements, to encourage urban regeneration and compact towns and cities, and to complement the ecological and cultural value of other designations. Green belt should be used to make the sustainable built environment more resilient to flooding, make space for biodiversity, agriculture, energy production and sustainable transport in line with land use prioistation set out in LD401. The local authority role in reviewing and protecting their green belt is set out in LP510.”.
 
