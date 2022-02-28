@@ -50,6 +50,7 @@
             </svg>
           </a>
         </div>
+        {% if page.layout == "home" %}<p class="text-light m-0">Website last updated {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>{% endif %}
       </div>
     </footer>
 
