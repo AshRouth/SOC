@@ -1,14 +1,14 @@
 ---
 section: A
 number: 2
-title: Standing Orders Committee Report
+title: Policy Development Committee Report 
 spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
 status: tbd
 coproposers: 4
 ---
 ### Committee membership
 
-We welcome the four newly co!opted members to Policy
+We welcome the four newly co-opted members to Policy
 Development Committee (PDC). After a selection process
 which included a very competitive field of principal
 authority councillors and experienced policy campaigners,
