@@ -2,9 +2,9 @@
 section: A
 number: 1
 title: Standing Orders Committee Report
-spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77459
+spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
 status: tbd
-coproposers: 19
+coproposers: 4
 ---
 ## Motion Text
 To accept the following report (as amended, if amendments are agreed) and fast!tracking recommendations (as amended, if amendments are agreed).
