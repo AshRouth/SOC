@@ -7,20 +7,19 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top shadow-sm">
       <div class="container">
         <a class="navbar-brand p-0" href="{{ site.baseurl }}/"><img height="32" class="pe-1 d-inline-block align-text-center" src="{{ site.baseurl }}/css/icons/gpew-logo.png">{{ site.title }}</a>
-        <button class="d-md-none navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <div class="btn-group">
+        {% if content contains "<h3" %}
+          <button type="button" class="d-md-block btn btn-outline-light" data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-bookmark"></i>
+          </button>
+          {% include toc.html html=content h_min=3 h_max=3 class="shadow dropdown-menu dropdown-menu-end" anchor_class="dropdown-item md-small"  %}
+        {% endif %}
+        <button class="d-md-none btn btn-outline-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="bi bi-justify"></i>
         </button>
-        <div class="collapse navbar-collapse">
-          {% include toc.html html=content h_min=3 h_max=3 class="navbar-nav" anchor_class="nav-link" %}
-        </div>
+      </div>
       </div>
     </nav>
-
-    <div> <!-- This has to be here to make the secondary navbar work. Unsure why.  -->
-      <div class="secondary-nav shadow-sm d-lg-none">
-        {% include toc.html html=content h_min=3 h_max=3 class="px-3.py-2.list-inline.m-0" item_class="list-inline-item" anchor_class="text-decoration-none.btn.btn-outline-primary.rounded-pill" %}
-      </div>
-    </div>
 
     <div class="offcanvas offcanvas-start d-md-none" id="offcanvas">
       <div class="offcanvas-header">

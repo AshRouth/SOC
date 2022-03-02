@@ -34,6 +34,12 @@ $secondary: #006341;
   }
 }
 
+@include media-breakpoint-down(md) {
+  .md-small {
+    font-size:0.9rem;
+  }
+}
+
 h1, .navbar-brand {
   font-family: 'Bebas Neue', sans-serif
 }
