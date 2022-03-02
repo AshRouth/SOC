@@ -34,6 +34,8 @@ layout: primary
     {% assign label = "Motion defeated" %}
   {% when "referred" %}
     {% assign label = "Motion referred back to conference" %}
+  {% when "OoO" %}
+    {% assign label = "Motion out of order" %}
 {% endcase %}
 
 <!-- Page starts -->

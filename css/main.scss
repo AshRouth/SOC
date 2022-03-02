@@ -34,24 +34,29 @@ $secondary: #006341;
   }
 }
 
-@include media-breakpoint-down(md) {
-  .md-small {
-    font-size:0.9rem;
-  }
-}
-
 h1, .navbar-brand {
   font-family: 'Bebas Neue', sans-serif
 }
 
 .navbar-brand {
-  font-size:1.5em;
+  font-size:1.5em
 }
 
-.infobox.bg-tbd {
-  border: 1px solid $gray-500;
+@include media-breakpoint-down(md) {
+  .navbar .dropdown-item {
+    font-size:0.9rem; // Shrinks the dropdown on smaller screens.
+  }
 }
 
+.content h3 {
+  scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
+}
+
+.btn-outline-primary:hover {
+  color: $light; // Used for Green Spaces button.
+}
+
+// Sidebar.
 .sidebar {
   .btn {
     &::before{
@@ -91,11 +96,23 @@ h1, .navbar-brand {
   }
 }
 
-.amendment { // Custom styles for amendment components, based on callouts from bs-docs.
+// Border for grey infobox
+.infobox {
+  &.bg-tbd {
+    border: 1px solid $gray-500;
+  }
+  &.bg-OoO {
+    background: $defeated;
+    color: $light;
+  }
+}
+
+// Custom styles for amendment components, based on callouts from bs-docs. Thanks!
+.amendment {
   padding:1.25rem;
   margin-top:1.25rem;
   margin-bottom:1.25rem;
-  border:1px solid var(--bs-tbd);
+  border:1px solid $tbd;
   border-left-width:.25rem;
   border-radius:.25rem;
   h4 {
@@ -104,46 +121,22 @@ h1, .navbar-brand {
   p:last-child {
     margin-bottom:0;
   }
-}
-
-@each $name, $color in $theme-colors {
-  .amendment-#{$name} {
-    border-left-color: $color;
+  @each $name, $color in $theme-colors {
+    &-#{$name} {
+      border-left-color: $color;
+    }
   }
 }
 
-.btn-outline-primary:hover {
-  color: $light; // Used for Green Spaces button and secondary navigation.
+// Footer icons.
+.footer .icons a {
+  margin-right:0.5rem;
+  text-decoration:none;
 }
 
-.content h3 {
-  scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
-}
-
-.secondary-nav { // Enables horizontal scrolling.
-    overflow-x: auto;
-    white-space: nowrap;
-    ul {
-        display: inline-block;
-        float: none;
-    }
-}
-
-.nav-link {
-  max-width: 250px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.footer .icons {
-  width:40px;
-  display: flex;
-  justify-content: space-between;
-}
-
+// Front page styles, including tooltips.
 .front-page {
-  font-size: 14px;
+  font-size: 0.85rem;
   .motion-code {
     color: var(--bs-gray-600)
   }
@@ -152,32 +145,44 @@ h1, .navbar-brand {
   }
 }
 
-$front-page-icons: ("passed": "\F26C",
-                    "defeated": "\F628",
-                    "referred": "\F568",
+$front-page: (
+  passed: (
+    color: $passed,
+    content: "\F26C"
+  ),
+  defeated: (
+    color: $defeated,
+    content: "\F628"
+  ),
+  referred: (
+    color: $referred,
+    content: "\F568"
+  )
 );
 
-@each $name, $icon in $front-page-icons {
-  .front-page .#{$name}::after {
-    content: $icon;
+@each $label, $map in $front-page {
+  .front-page .#{$label}::after {
+    content: map-get($map, content);
+    color: map-get($map, color);
     font-family: 'bootstrap-icons';
     vertical-align:bottom;
-    margin-left:5px;
+    margin:0 0.3rem;
   }
-}
-
-@each $name, $color in $theme-colors {
-  .front-page .#{$name}::after {
-    color: $color;
-  }
-  .tooltip-#{$name} {
-    &.bs-tooltip-end {
-      .tooltip-arrow::before {
-        border-right-color: $color;
-      }
+  .tooltip-#{$label} {
+    &.bs-tooltip-start .tooltip-arrow::before {
+      border-left-color: map-get($map, color)
+    }
+    &.bs-tooltip-end .tooltip-arrow::before {
+      border-right-color: map-get($map, color)
+    }
+    &.bs-tooltip-top .tooltip-arrow::before {
+      border-top-color: map-get($map, color)
+    }
+    &.bs-tooltip-bottom .tooltip-arrow::before {
+      border-bottom-color: map-get($map, color)
     }
     .tooltip-inner {
-      background-color: $color;
+      background-color: map-get($map, color);
     }
   }
 }

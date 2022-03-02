@@ -88,14 +88,21 @@ $theme-colors: (
   "light":      $light,
   "dark":       $dark
 ) !default;
-  
+
+$draft:         $yellow;
+$final:         $secondary;
+$tbd:           $light;
+$passed:        $green;
+$defeated:      $red;
+$referred:      $cyan;
+
 $custom-colors: (
-    "draft": $yellow,
-    "final": $secondary,
-    "tbd": $light,
-    "passed": $green,
-    "defeated": $red,
-    "referred": $cyan
+    "draft": $draft,
+    "final": $final,
+    "tbd": $tbd,
+    "passed": $passed,
+    "defeated": $defeated,
+    "referred": $referred
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
