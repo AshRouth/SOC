@@ -22,3 +22,5 @@ Delete the text of clause 4 (x) of the current constitution:
 And replace it with:
 
 “There shall be a Disciplinary Committee, responsible for handling all complaints of a disciplinary nature that have not been or cannot be resolved at Local, Regional or Wales Green Party level, or by another Party body formally recognised by the Green Party Regional Council, and where mediation has been declined or been unsuccessful. The Disciplinary Committee shall comprise members elected or appointed by Wales Green Party and the English Regions in accordance with their respective Constitutions. The term of office will be two years.”
+
+{%include amendment.html number="1"%}

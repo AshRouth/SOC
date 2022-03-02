@@ -24,8 +24,12 @@ H14.2 Campaign literature may not be pro-actively distributed to Conference atte
 
 H14.3 Members wishing to distribute campaign literature at Conference may do so via stalls booked for this purpose, and to attendees at fringe events with permission from the event organiser.
 
+{%include amendment.html number="1"%}
+
 H14.4 Campaign literature must bear an imprint identifying a sponsoring Party member (with local Party specified), or local Party, or special interest group. This sponsor shall be considered responsible for the content of the literature.
 
 H14.5 A maximum limit of £200 shall apply to the cost of producing campaign literature.
 
 H14.6 Campaign literature should seek to be factual and non-discriminatory. Where there is concern about the content of some campaign literature, this should be raised with GPRC Reps at conference, who shall be empowered to require its removal if deemed unacceptable."
+
+{%include amendment.html number="2"%}

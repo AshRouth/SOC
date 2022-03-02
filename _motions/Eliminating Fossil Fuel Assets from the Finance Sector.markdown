@@ -1,6 +1,6 @@
 ---
 section: C
-number: 3
+number: 2
 title: Eliminating Fossil Fuel Assets from the Finance Sector
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77889
 status: tbd
@@ -12,6 +12,8 @@ We need the finance sector to play its part in the rapid transition away from fo
 
 [Note from SOC - Synopsis word limit reached]
 {:.alert .d-inline-block .alert-primary}
+
+The background paper can be viewed by [clicking here.](https://tinyurl.com/effafs-background-paper)
 
 ## Motion
 

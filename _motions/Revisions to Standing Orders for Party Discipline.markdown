@@ -37,6 +37,8 @@ If the motion “Change to the Constitution for Disciplinary Committee” is pas
 
 “The Committee shall consist of members of the Party who are not members of the Green Party Executive (GPEx), the Green Party Regional Council (GPRC), Disputes Resolution Committee (DRC) or Standing Orders Committee (SOC) who have been elected or appointed by each GPEW region and the nation of Wales.”
 
+{%include amendment.html number="1"%}
+
 2.2 currently reads
 
 “The members of the Committee are elected to serve for a two year period.

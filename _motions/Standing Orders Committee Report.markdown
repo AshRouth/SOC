@@ -504,13 +504,13 @@ The results of committee elections at Autumn Conference
 https://members.greenparty.org.uk/conference/autumn-
 2021/committee-results
 
-### 6. a report by SOC of any changes that they have adopted to their Standing Orders;
+### 6. A report by SOC of any changes that they have adopted to their Standing Orders;
 
 No changes to our Standing Orders before publication of
 the Final Agenda.
 
 
-### 7.progress on Organisational Statements;
+### 7. Progress on Organisational Statements;
 
 Progress on our Organisational Statements in RoOS at
 https://spaces.greenparty.org.uk/s/roos/ and in Appendix 3
