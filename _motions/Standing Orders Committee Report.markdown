@@ -7,7 +7,7 @@ status: tbd
 coproposers: 4
 ---
 ## Motion Text
-To accept the following report (as amended, if amendments are agreed) and fast!tracking recommendations (as amended, if amendments are agreed).
+To accept the following report (as amended, if amendments are agreed) and fast-tracking recommendations (as amended, if amendments are agreed).
 
 Under Standing Orders, the SOC Report is to include: "(1) The Final Agenda and Ordering of Motions for Conference; (2) a notification of how many motions and amendments have been ruled out of order and where these are published; (3) a report on SOC’s participation in the Agenda process including any motions or amendments that SOC is submitting to conference; (4) timetabling, chairing and other procedural matters affecting conference including elections to be held at conference, with the recommendations of SOC; (5) the report of the RO; (6) a report by SOC of any changes that they have adopted to their Standing Orders; (7) progress on Organisational Statements; (8) any other matters or recommendations that do not affect the running of conference; (9) rulings requested and made since the previous conference."
 
@@ -22,7 +22,7 @@ December 2021. The order of policy motions in sections F
 and C was pre-discussed at a routine SOC meeting with a
 member of Policy Development Committee (PDC) and
 agreed at a series of meetings discussing the Final Agenda on 23rd and 30th January 2022 when PDC also made
-recommendations on fast!tracking of policy motions. The
+recommendations on fast-tracking of policy motions. The
 order of these motions is given below. These were agreed
 by SOC on the 6th February 2022.
 The motions proposed in the Final Agenda for this Annual
@@ -241,10 +241,10 @@ current incarnation of SOC were informed of the results by
 email on the 9th November 2021.
 
 Additionally, to avoid creating work for volunteers or staff
-over the Christmas/Holiday period, the Pre!Agenda and
+over the Christmas/Holiday period, the Pre-Agenda and
 First Agenda deadlines were brought forward by several
 weeks to 3rd and 17th December 2021 respectively. This
-created something of a ‘squeeze’ period for the newly!
+created something of a ‘squeeze’ period for the newly-
 constituted SOC. We worked to ameliorate this through
 maintaining regular, general meetings to manage workflow
 on a fortnightly basis.
@@ -269,7 +269,7 @@ which is aggravated by members of the Party submitting
 reports and motions with complex formatting or as
 images. The use of a webform instead of email reduces the
 amount of reformatting needed. There were teething issues
-! we had new technology to get used to, and numbers of co-proposers were not updated live but required manual
+- we had new technology to get used to, and numbers of co-proposers were not updated live but required manual
 work by volunteers. We nevertheless hope that the use of
 this form and website for this Conference represented a
 step in the right direction in facilitating the participation of
@@ -369,7 +369,7 @@ were therefore eligible?
 Having deliberated, we decided that, as with amendments,
 textual changes to motions which do not substantially
 change the scope or meaning of the motion would be
-eligible, and this would require us to decide on a case!by!
+eligible, and this would require us to decide on a case-by-
 case basis. We also decided that motions which were
 debated and referred back were not eligible for the
 multiplier, as the motion that created this new way of
@@ -380,7 +380,7 @@ Accordingly, we decided to apply the multipliers as follows:
 
 1. Reforming the process for holding the party’s AGM (1.5x
 multiplier)
-2. Antisemitism, Palestine, and free speech ! endorsing
+2. Antisemitism, Palestine, and free speech - endorsing
 Jerusalem Declaration instead of IHRA (1.5x multiplier)
 3. Consultation and Right of Reply for Liberation Groups
 11
@@ -407,10 +407,10 @@ tracking, you should ask them in a workshop.
 If any ten members object to fast-tracking then the motion
 is not fast-tracked. The ten objecting members have to be
 on the “floor” of conference (as regards online-only
-conferences, this means participating in Plenary). In an in!
+conferences, this means participating in Plenary). In an in-
 person conference, this would not include members who
 are voting remotely. If agreed for fast-tracking, then after
-Conference passes the SOC Report, the vote on the fast!
+Conference passes the SOC Report, the vote on the fast-
 tracked motion will include members who are voting
 remotely.
 
@@ -432,7 +432,7 @@ revised and for us to recommend to Conference that they
 are ruled back in order as part of the Final Agenda, as
 happened on this occasion with motion E17.
 
-We held weekly meetings with conference staff in the run!
+We held weekly meetings with conference staff in the run-
 up to conference. We also liaised with the Equalities and
 Diversity co-ordinators at key stages. These were to
 ensure that conference is run in an equitable and
@@ -482,7 +482,7 @@ voluntary posts at Spring Conference:
 1 member of Campaigns Committee
 We notified Party members of these vacancies in advance.
 We will open online voting from the end of hustings until
-1pm on Sunday 6th of March and in!person voting from
+1pm on Sunday 6th of March and in-person voting from
 10am to 1pm in the Conference venue. We hope to
 announce the results at the end of the Sunday plenary. For
 more information on voting please contact
@@ -530,7 +530,7 @@ Conference 2021 as amended by amendments 4
 to 9, 11 and ensure it is published to members.
 • To improve the webform for submission of
 motions, whether using an outside provider or
-designed in!house (SOC Report Recommendation,
+designed in-house (SOC Report Recommendation,
 A1 Autumn 2020) with the support of GPEx.
 Category 2 (Neither carried out nor
 completed)
@@ -554,14 +554,14 @@ seriously and takes an active role in
 responding to complaints and concerns raised
 about conduct during elections.
 • To reconsider the proxy system for online
-conferences and the 5!vote limit per
+conferences and the 5-vote limit per
 members and to bring forward proposals to
 Conference to change this (SOC Report
 Recommendation, A1 Autumn 2020).
 • To carry out a full review of regulations for
 national elections [ERO Report, part of SOC
 Report Autumn 2020].
-• To number motions in the Pre!Agenda
+• To number motions in the Pre-Agenda
 process if all of the possible motions continue
 to be listed in one stream on the member
 website (SOC Report Recommendation, A1
@@ -581,7 +581,7 @@ the constitution “when the transfer happens”.
 
 ### 8. Any other matters or recommendations that do not affect the running of conference.
 
-A huge thank!you to the staff who have assisted and
+A huge thank-you to the staff who have assisted and
 supported us during the year especially Louisa Greenbaum
 and Cameron Bairstow.
 Thankyou also to our predecessors on SOC who have been
@@ -653,7 +653,7 @@ members.’
 
 Assuming the current composition of the PDC to include the
 Policy Development Coordinator (elected in the annual
-ballot), two elected members and a single co!opted
+ballot), two elected members and a single co-opted
 member, this means that:
 
 1. PDC may co-opt four of the remaining vacancies;
@@ -665,15 +665,15 @@ PDC is therefore urged to hold such a ballot as
 soon as is practicable.
 
 2. Only elected members of PDC may have voting
-rights; co!opted members do not.
+rights; co-opted members do not.
 
-3. Co!opted members will serve a term of two years,
+3. Co-opted members will serve a term of two years,
 beginning from the election of committee
 members immediately preceding their co-option.
 
 4. Neither the Constitution nor the Standing Orders
 for PDC currently contain any mechanism for
-removing co!opted members, and so SOC cannot
+removing co-opted members, and so SOC cannot
 give a conclusive answer to this question.
 
 #### Response to CD re Leadership Terms Following Autumn Conference 2021
@@ -745,7 +745,7 @@ vacancies to be filled by election, or by co-options to be
 ratified, at an intervention Conference.’
 
 ADRC therefore has the power to appoint two more
-members by co!option, with those co!options to be
+members by co-option, with those co-options to be
 ratified at the next Conference, which at time of writing will
 be Spring Conference 2022.
 
@@ -854,7 +854,7 @@ decide using their own local party constitutions.
 
 6. The Constitution and bye-laws are silent on
 whose role it is to enforce the terms of Clause
-5(xx), and in any event as at Qs 1!5 above do not
+5(xx), and in any event as at Qs 1-5 above do not
 apply to local party constitutions in the same way.
 Therefore the question of whose role this is cannot
 be determined by SOC using these provisions.
@@ -1074,7 +1074,7 @@ into deliberations at this stage.
 3. Following discussion members of SOC were in
 agreement that ‘Leadership representative’ could
 reasonably be interpreted to mean, at least, any
-single member of the Leadership team, ie. the Co!
+single member of the Leadership team, ie. the Co-
 Leaders and Deputy Leader. SOC was unable to
 reach a view on whether this could encompass a
 delegated person or other representative.
@@ -1125,7 +1125,7 @@ not equipped to adjudicate whether or not the behaviour of
 Returning Officers amounts to a violation of the European
 Convention on Human Rights or the Human Rights Act.
 
-Sections 17(iii)!(iv) of the Constitution state that:
+Sections 17(iii)-(iv) of the Constitution state that:
 
 ‘The SOC shall appoint a Returning Officer (RO) and Deputy
 Returning Officer (DRO) each year. The RO shall conduct
