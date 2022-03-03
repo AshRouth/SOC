@@ -6,6 +6,13 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: tbd
 coproposers: 21
 ---
+Note from SOC -- One part of this motion is
+Out of Order, indicated using text ~~struck
+through~~, on the basis that it seeks to
+significantly amend policy which has recently
+been passed by Conference
+{:.alert .d-inline-block .alert-defeated}
+
 ## Synopsis
 
 A number of the nations that will be annihilated by climate breakdown were listed by representatives at COP26, as were some of the nations where the population will be decimated.
@@ -25,9 +32,6 @@ Insert new policy CJ362
 
 {% include amendment.html number="1" status="tbd" %}
 
-[Note from SOC – One part of this motion is Out of Order on the basis that it seeks to significantly amend policy
-which has recently been passed by Conference]
+~~Insert new sentence into policy EC 776.~~
 
-OoO starts: Insert new sentence into policy EC 776.
-
-After: “hence, to promote more environmentally benign processes.” insert: “This will include a wealth tax of 5% on all assets over £2 million and 15% on all assets over £10 million, with the revenue raised being hypothecated for carbon removal techniques and technologies.”
+~~After: “hence, to promote more environmentally benign processes.” insert: “This will include a wealth tax of 5% on all assets over £2 million and 15% on all assets over £10 million, with the revenue raised being hypothecated for carbon removal techniques and technologies.~~

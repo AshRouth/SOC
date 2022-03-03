@@ -43,6 +43,10 @@ h1, .navbar-brand {
   margin-right:0;
 }
 
+.content del {
+  color: $defeated;
+}
+
 @include media-breakpoint-down(md) {
   .navbar .dropdown-item {
     font-size:0.9rem; // Shrinks the dropdown on smaller screens.
