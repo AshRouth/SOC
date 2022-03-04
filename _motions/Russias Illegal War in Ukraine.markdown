@@ -3,7 +3,7 @@ section: G
 number: 2
 title: Russia's Illegal War in Ukraine
 spaces: https://spaces.greenparty.org.uk/s/spring-2022-emergency-motion-forum/?contentId=89983
-status: tbd
+status: passed
 coproposers: 165
 ---
 The Green Party condemns Putin’s unprovoked aggression against Ukraine and we send our solidarity to the brave people of Ukraine.
