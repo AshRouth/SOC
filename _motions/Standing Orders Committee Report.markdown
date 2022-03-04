@@ -6,7 +6,7 @@ spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
 status: tbd
 coproposers: 4
 ---
-{%include amendment.html number="1"status="passed"%}
+{%include amendment.html number="1" status="passed"%}
 
 {%include amendment.html number="2"%}
 
