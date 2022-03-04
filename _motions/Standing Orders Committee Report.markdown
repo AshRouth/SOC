@@ -6,6 +6,18 @@ spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
 status: tbd
 coproposers: 4
 ---
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%}
+
+{%include amendment.html number="3"%}
+
+{%include amendment.html number="4"%}
+
+{%include amendment.html number="5"%}
+
+
+
 ## Motion Text
 To accept the following report (as amended, if amendments are agreed) and fast-tracking recommendations (as amended, if amendments are agreed).
 

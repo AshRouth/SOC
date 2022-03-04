@@ -96,6 +96,8 @@ signatories of the WHRC/Women’s Declaration
 International. OoO ends
 {:.alert .alert-defeated}
 
+{%include amendment.html number="1"%}
+
 Conference instructs GPEx to provide intersectional
 equalities and diversity training to elected members,
 internally and externally, and to local party officers, in order
