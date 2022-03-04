@@ -6,11 +6,11 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: tbd
 coproposers: 31
 ---
-SOC notes: Two parts of this motion have been ruled out of
-order – this is indicated using highlights and with “OoO
-starts” and “OoO ends”. The first one due to being contrary
-to the constitution, and the second one due to having no
-consequential effect.
+Note from SOC -- Two parts of this motion have been ruled out of
+order, indicated using text ~~struck through~~. The
+first one due to being contrary to the constitution, and
+the second one due to having no consequential effect.
+{: .alert .alert-defeated}
 
 ## Synopsis
 
@@ -91,10 +91,10 @@ with Russia, Poland and Hungary when it comes to LGBTI
 rights, and wishes to oppose any further worsening of our
 position.
 
-OoO starts: Conference instructs GPRC to suspend
+
+~~Conference instructs GPRC to suspend
 signatories of the WHRC/Women’s Declaration
-International. OoO ends
-{:.alert .alert-defeated}
+International.~~
 
 {%include amendment.html number="1"%}
 
@@ -112,5 +112,4 @@ removal of LGBTQIA+ rights, as enshrined in the Equality
 Act 2010 (under “gender Identity” and “sexual
 orientation”), in particular the WHRC declaration/Women’s
 Declaration International. Those members who do or have
-done so should be suspended from the party *OoO starts:
-permanently OoO ends*{:.text-defeated}.'
+done so should be suspended from the party ~~permanently~~.'

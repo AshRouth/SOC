@@ -6,6 +6,12 @@ spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/
 status: tbd
 coproposers: 30
 ---
+Note from SOC -- One part of this motion is
+Out of Order, indicated using text ~~struck
+through~~, on the basis that it would be of
+no consequential effect
+{:.alert .d-inline-block .alert-defeated}
+
 ## Synopsis
 
 Sex refers to biology which is immutable, gender is a social construction.
@@ -29,8 +35,5 @@ Therefore when data is being collected and analysed to form policy in relation t
 
 {% include amendment.html number="2" status="tbd" %}
 
-Note from SOC - One part of this motion is Out of Order on the basis that it would be of no consequential effect \\
-\\
-OoO starts: For clarity: \\
-Female is used to refer to sex rather than gender in this motion.
-{:.alert .d-inline-block .alert-defeated}
+~~For clarity: \\
+Female is used to refer to sex rather than gender in this motion.~~
