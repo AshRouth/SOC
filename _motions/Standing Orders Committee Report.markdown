@@ -16,6 +16,12 @@ coproposers: 4
 
 {%include amendment.html number="5"%}
 
+{%include amendment.html number="6"%}
+
+{%include amendment.html number="7"%}
+
+{%include amendment.html number="8"%}
+
 
 
 ## Motion Text
