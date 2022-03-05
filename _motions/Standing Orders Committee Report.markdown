@@ -527,6 +527,9 @@ https://members.greenparty.org.uk/conference/autumn-
 No changes to our Standing Orders before publication of
 the Final Agenda.
 
+[Conference has voted not to take a vote on Section 6, and so this section has not been passed]
+{:.alert .d-inline-block .alert-defeated}
+
 
 ### 7. Progress on Organisational Statements;
 
