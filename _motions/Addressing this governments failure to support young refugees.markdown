@@ -3,7 +3,7 @@ section: C
 number: 1
 title: Addressing this governments failure to support young refugees
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77462
-status: tbd
+status: passed
 coproposers: 32
 ---
 ## Synopsis

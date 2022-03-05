@@ -46,7 +46,7 @@ Since Conference we have received three referrals from
 Disputes and Complaints Referral Group (DCRG), which
 could not proceed to mediation either because parties did
 not agree to it, or someone resigned from the party. We
-received one self!referral, which is open at the time of
+received one self-referral, which is open at the time of
 writing.
 
 ### Complaints Summary
