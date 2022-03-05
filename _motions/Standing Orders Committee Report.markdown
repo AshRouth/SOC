@@ -18,7 +18,7 @@ coproposers: 4
 
 {%include amendment.html number="6"%}
 
-{%include amendment.html number="7"%}
+{%include amendment.html number="7" status="passed"%}
 
 {%include amendment.html number="8"%}
 

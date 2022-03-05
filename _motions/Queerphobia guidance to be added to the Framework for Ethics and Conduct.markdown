@@ -42,6 +42,8 @@ Claiming there is a "conflict" between the human rights of the LGBTIQA+ communit
 
 {%include amendment.html number="4"%}
 
+{%include amendment.html number="5"%}
+
 Advocating against LGBTIQA+ people having access to appropriate healthcare, for example, gender-affirming treatment. Or advocating for treatment that seeks to change someone’s identity, commonly known as conversion therapy.
 
 Implying that not being LGBTIQA+ is “normal” or “natural” in a way that being LGBTIQA+ isn’t.
