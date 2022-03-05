@@ -12,6 +12,9 @@ first one due to being contrary to the constitution, and
 the second one due to having no consequential effect.
 {: .alert .alert-defeated}
 
+[Conference has voted to rule this motion Out of Order, it will not be debated, or voted on]
+{:.alert .d-inline-block .alert-defeated}
+
 ## Synopsis
 
 GPEW accepts the damning results of the 25th January
