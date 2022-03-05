@@ -10,11 +10,11 @@ coproposers: 4
 
 {%include amendment.html number="2"%}
 
-{%include amendment.html number="3"%}
+{%include amendment.html number="3" status="defeated"%}
 
-{%include amendment.html number="4"%}
+{%include amendment.html number="4" status="passed"%}
 
-{%include amendment.html number="5"%}
+{%include amendment.html number="5" status="passed"%}
 
 {%include amendment.html number="6"%}
 
