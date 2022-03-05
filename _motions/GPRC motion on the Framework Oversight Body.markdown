@@ -63,4 +63,4 @@ Documents may be added to the Framework by one of the following methods:
 
 •	Or for matters which fall within its remit, by a two-thirds majority vote of The Green Party Executive, or any successor body.
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="defeated"%}
