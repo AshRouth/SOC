@@ -3,7 +3,7 @@ section: A
 number: 1
 title: Standing Orders Committee Report
 spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
-status: tbd
+status: passed
 coproposers: 4
 ---
 {%include amendment.html number="1" status="passed"%}
