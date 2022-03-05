@@ -1,9 +1,9 @@
 ---
 section: A
 number: 2
-title: Policy Development Committee Report 
+title: Policy Development Committee Report
 spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
-status: tbd
+status: passed
 coproposers: 4
 ---
 ### Committee membership
