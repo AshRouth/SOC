@@ -3,7 +3,7 @@ section: A
 number: 3
 title: Alternative Dispute Resolution Committee Report
 spaces: https://spaces.greenparty.org.uk/s/soc/custom_pages/container/view?id=72
-status: tbd
+status: passed
 coproposers: 4
 ---
 
