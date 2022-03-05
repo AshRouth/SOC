@@ -3,7 +3,7 @@ section: E
 number: 7
 title: Fossil Fuel Non Proliferation Treaty
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78623
-status: tbd
+status: passed
 coproposers: 25
 ---
 ## Synopsis
