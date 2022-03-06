@@ -3,13 +3,13 @@ section: D
 number: 4
 title: Including remote attendance in quorum for Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78595
-status: tbd
+status: passed
 coproposers: 6
 affiliated: true
 ---
 ## Synopsis
 
-Standing Orders for the Conduct of Conference (SOCC) currently excludes online attendees from the quorum for Conference. This amendment seeks to include online attendees in that quorum, and change quoracy for online and telephone extraordinary conference.
+Standing Orders for the Conduct of Conference (SOCC) currently excludes online attendees from the quorum for Conference. This amendment seeks to include online attendees in that quorum, and change quoracy for online and telephone extraordinary conference. 
 
 ## Motion
 
