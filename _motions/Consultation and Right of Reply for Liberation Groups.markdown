@@ -3,7 +3,7 @@ section: D
 number: 2
 title: Consultation and Right of Reply for Liberation Groups
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78457
-status: tbd
+status: passed
 coproposers: 41
 ---
 ## Synopsis
