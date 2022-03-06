@@ -10,6 +10,8 @@ coproposers: 25
 
 Green Party calls for a halt to HS2 works in the Mid Chilterns Chalk aquifer, until HS2 can demonstrate that groundwater resources, providing significant quantities of Public Drinking Water, can be protected throughout construction and operation of the railway, in line with UK regulations.
 
+The background paper can be viewed by [clicking here.](https://hillingdon.greenparty.org.uk/londons-drinking-water/)
+
 ## Motion
 
 Conference calls for this motion to be recorded in RoPS and for GP
