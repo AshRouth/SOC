@@ -3,7 +3,7 @@ section: D
 number: 11
 title: Fixing low turnout at our internal elections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77457
-status: tbd
+status: notdebated
 coproposers: 15
 ---
 ## Synopsis

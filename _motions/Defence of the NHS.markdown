@@ -3,7 +3,11 @@ section: E
 number: 2
 title: Defence of the NHS
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78245
+<<<<<<< HEAD
+status: notdebated
+=======
 status: passed
+>>>>>>> f0d5ca5cfa050ac5a41f0233cbd6597d7f4a007d
 coproposers: 31
 ---
 ## Synopsis

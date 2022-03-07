@@ -3,7 +3,7 @@ section: E
 number: 16
 title: Ensuring Sex and Gender Are Not Conflated
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78493
-status: tbd
+status: notdebated
 coproposers: 30
 ---
 Note from SOC -- One part of this motion is
