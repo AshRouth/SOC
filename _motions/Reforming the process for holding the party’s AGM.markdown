@@ -3,13 +3,13 @@ section: D
 number: 3
 title: Reforming the process for holding the party’s AGM
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77825
-status: tbd
+status: defeated
 coproposers: 11
 affiliated: true
 ---
 ## Synopsis
 
-our current process for the Annual General Meeting is confusing and ill-defined, leading to a situation where the required business frequently dominates Autumn Conference to the exclusion of other important motions. This organisational motion seeks to clearly separate AGM business from other Conference business and clarify the processes involved.
+our current process for the Annual General Meeting is confusing and ill-defined, leading to a situation where the required business frequently dominates Autumn Conference to the exclusion of other important motions. This organisational motion seeks to clearly separate AGM business from other Conference business and clarify the processes involved. 
 
 ## Motion
 
