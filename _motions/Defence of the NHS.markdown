@@ -3,18 +3,14 @@ section: E
 number: 2
 title: Defence of the NHS
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78245
-<<<<<<< HEAD
-status: notdebated
-=======
 status: passed
->>>>>>> f0d5ca5cfa050ac5a41f0233cbd6597d7f4a007d
 coproposers: 31
 ---
 ## Synopsis
 
 We need to update our existing Health policy to reflect our opposition to the 2022 Health and Care Act and to escalating privatisation of health and social care provision in England and Wales.
 
-## Motion 
+## Motion
 
 In HE105, delete all after “will repeal the” and insert “the Health and Care Act 2022 in its entirety and the remaining provisions of the Health and Social Care Act 2012.” HE105 would then read:
 
