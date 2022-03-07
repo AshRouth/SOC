@@ -3,7 +3,7 @@ section: G
 number: 4
 title: Restriction on BDS activity in the investment policies of local authorities and public bodies
 spaces: https://spaces.greenparty.org.uk/s/spring-2022-emergency-motion-forum/?contentId=89933
-status: tbd
+status: notdebated
 coproposers: 56
 ---
 Restriction on BDS activity in the investment policies of local authorities and public bodies

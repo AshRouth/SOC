@@ -3,7 +3,7 @@ section: E
 number: 1
 title: Proposed Motion to Condemn and Campaign Against the Police, Crime, Sentencing and Courts Bill
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78279
-status: tbd
+status: notdebated
 coproposers: 34
 ---
 ## Synopsis

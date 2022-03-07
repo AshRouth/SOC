@@ -3,7 +3,7 @@ section: G
 number: 3
 title: Sexual Harassment/Abuse/Assault Within the Party
 spaces: https://spaces.greenparty.org.uk/content/perma?id=89752
-status: tbd
+status: notdebated
 coproposers: 90
 ---
 Conference notes:

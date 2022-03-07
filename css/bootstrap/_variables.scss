@@ -95,6 +95,7 @@ $tbd:           $light;
 $passed:        $green;
 $defeated:      $red;
 $referred:      $cyan;
+$notdebated:           $black;
 
 $custom-colors: (
     "draft": $draft,
@@ -102,7 +103,8 @@ $custom-colors: (
     "tbd": $tbd,
     "passed": $passed,
     "defeated": $defeated,
-    "referred": $referred
+    "referred": $referred,
+    "notdebated": $notdebated,
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 

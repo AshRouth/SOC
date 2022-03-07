@@ -3,7 +3,7 @@ section: E
 number: 11
 title: Failure of COP 26 GPEW Response to ‘climate genocide’
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78226
-status: tbd
+status: notdebated
 coproposers: 21
 ---
 Note from SOC -- One part of this motion is

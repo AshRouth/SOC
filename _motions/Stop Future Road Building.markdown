@@ -3,7 +3,7 @@ section: E
 number: 13
 title: Stop Future Road Building
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78603
-status: tbd
+status: notdebated
 coproposers: 36
 ---
 ## Synopsis

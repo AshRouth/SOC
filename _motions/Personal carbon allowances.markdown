@@ -3,7 +3,7 @@ section: E
 number: 15
 title: Personal carbon allowances
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=76987
-status: tbd
+status: notdebated
 coproposers: 13
 ---
 ## Synopsis

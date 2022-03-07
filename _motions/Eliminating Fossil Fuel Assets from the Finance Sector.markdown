@@ -3,7 +3,7 @@ section: C
 number: 2
 title: Eliminating Fossil Fuel Assets from the Finance Sector
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=77889
-status: tbd
+status: notdebated
 coproposers: 30
 ---
 ## Synopsis

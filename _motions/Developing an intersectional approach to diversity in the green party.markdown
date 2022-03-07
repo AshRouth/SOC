@@ -3,7 +3,7 @@ section: G
 number: 1
 title: Developing an Intersectional Approach to Diversity in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78245
-status: tbd
+status: notdebated
 coproposers: 31
 ---
 Note from SOC -- Two parts of this motion have been ruled out of

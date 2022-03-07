@@ -36,6 +36,8 @@ layout: primary
     {% assign label = "Motion referred back to conference" %}
   {% when "OoO" %}
     {% assign label = "Motion out of order" %}
+  {% when "notdebated" %}
+    {% assign label = "Motion not debated" %}
 {% endcase %}
 
 <!-- Page starts -->
