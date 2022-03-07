@@ -3,7 +3,7 @@ section: E
 number: 1
 title: Proposed Motion to Condemn and Campaign Against the Police, Crime, Sentencing and Courts Bill
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78279
-status: notdebated
+status: passed
 coproposers: 34
 ---
 ## Synopsis
@@ -18,7 +18,7 @@ Conference commits the Green Party of England & Wales to fighting this Bill at e
 
 Conference asserts that the proposed 10 year penalty for damaging memorials is grossly disproportionate, exceeding many penalties given for violent crimes.
 
-Conference acknowledges that the Bill’s proposals to criminalise “unauthorised encampments” and trespass seem designed to target Gypsy, Roma and Traveller communities, and condemn these measures as discriminatory.
+Conference acknowledges that the Bill’s proposals to criminalise “unauthorised encampments” and trespass seem designed to target Gypsy, Roma and Traveller communities, and condemns these measures as discriminatory.
 
 Conference also upholds the values of peaceful protest and direct action, recognising that they form an essential part of a healthy democracy. Conference recognises the following as legitimate peaceful protest tactics:
 

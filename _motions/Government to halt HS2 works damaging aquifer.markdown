@@ -3,12 +3,14 @@ section: C
 number: 3
 title: Government to halt HS2 works damaging aquifer
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2021-agenda-forum2/?contentId=78474
-status: notdebated
+status: passed
 coproposers: 25
 ---
 ## Synopsis
 
 Green Party calls for a halt to HS2 works in the Mid Chilterns Chalk aquifer, until HS2 can demonstrate that groundwater resources, providing significant quantities of Public Drinking Water, can be protected throughout construction and operation of the railway, in line with UK regulations.
+
+The background paper can be viewed by [clicking here.](https://hillingdon.greenparty.org.uk/londons-drinking-water/)
 
 ## Motion
 
