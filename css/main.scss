@@ -60,6 +60,14 @@ h1, .navbar-brand {
   scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
 }
 
+.btn-clear {
+  color:$light;
+  &:hover {
+    color:$dark;
+    background-color:$light;
+  }
+}
+
 .btn-outline-primary:hover {
   color: $light; // Used for Green Spaces button.
 }
@@ -195,18 +203,10 @@ $front-page: (
   }
 }
 
-.dark-mode::after {
-  content:"\F1D2";
-  font-family:"Bootstrap Icons";
-  font-family: 'bootstrap-icons';
-  transition: content 2s ease;
-}
-
 // Dark mode.
-.dark {
-  background-color:$gray-900;
-  .bg-secondary {
-    background-color:$gray-700 !important;
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color:$gray-900;
   }
   .bg-tbd {
     background-color:$gray-700 !important;
