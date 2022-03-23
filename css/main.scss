@@ -203,7 +203,6 @@ $front-page: (
   }
 }
 
-
 dark-mode-toggle {
   &::part(fieldset) {
     height:16px;
@@ -216,5 +215,14 @@ dark-mode-toggle {
     &::before {
       display:block;
     }
+  }
+}
+
+.archive {
+  background-color:$gray-900;
+  color:$light;
+  padding:10px;
+  p {
+    margin-bottom:0;
   }
 }

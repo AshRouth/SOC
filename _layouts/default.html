@@ -2,6 +2,9 @@
 <html class="h-100" lang="en">
   {% include head.html %}
   <body class="body d-flex flex-column h-100">
+    {% if site.archive == true %}
+      {% include archive_notice.html %}  
+    {% endif %}
     {% include navbar.html %}
     {% include offcanvas.html %}
     <div class="container my-3">
