@@ -1,12 +1,9 @@
----
----
-* {
-  color: default; // Not having a rule at the start of the page throws up a warning, so this is just a placeholder.
-}
-
 // Green Party branding
 $primary: #6AB023;
 $secondary: #006341;
+
+//
+$offcanvas-horizontal-width: 90vw;
 
 //Bootstrap
 @import "bootstrap"; // Specific unnecessary components are commented out.
@@ -51,13 +48,24 @@ h1, .navbar-brand {
 }
 
 @include media-breakpoint-down(md) {
-  .navbar .dropdown-item {
-    font-size:0.9rem; // Shrinks the dropdown on smaller screens.
+  .navbar .dropdown-menu {
+    max-width:calc(100vw - 50px);
+    .dropdown-item {
+      font-size:0.9rem; // Shrinks the dropdown on smaller screens.
+    }
   }
 }
 
 .content h3 {
   scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
+}
+
+.btn-clear {
+  color:$light;
+  &:hover {
+    color:$dark;
+    background-color:$light;
+  }
 }
 
 .btn-outline-primary:hover {
@@ -191,6 +199,22 @@ $front-page: (
     }
     .tooltip-inner {
       background-color: map-get($map, color);
+    }
+  }
+}
+
+
+dark-mode-toggle {
+  &::part(fieldset) {
+    height:16px;
+    padding-block:0;
+    padding-inline:0;
+  }
+  &::part(toggleLabel) {
+    --dark-mode-toggle-dark-icon: url("/agenda/css/icons/moon.svg");
+    --dark-mode-toggle-light-icon: url("/agenda/css/icons/sun.svg");
+    &::before {
+      display:block;
     }
   }
 }
