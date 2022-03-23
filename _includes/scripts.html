@@ -4,22 +4,8 @@
 <!-- Enable tooltips. -->
 <script>
   var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
   return new bootstrap.Tooltip(tooltipTriggerEl)
 })
 </script>
-<script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
-<script>
-
-  const toggle = document.querySelector('dark-mode-toggle');
-  const body = document.body;
-
-  // Set or remove the `dark` class the first time.
-  toggle.mode === 'dark' ? body.classList.add('dark') : body.classList.remove('dark');
-
-  // Listen for toggle changes (which includes `prefers-color-scheme` changes)
-  // and toggle the `dark` class accordingly.
-  toggle.addEventListener('colorschemechange', () => {
-    body.classList.toggle('dark', toggle.mode === 'dark');
-  });
-</script>
+<script type="module" src="https://googlechromelabs.github.io/dark-mode-toggle/src/dark-mode-toggle.mjs"></script>

@@ -1,12 +1,9 @@
----
----
-* {
-  color: default; // Not having a rule at the start of the page throws up a warning, so this is just a placeholder.
-}
-
 // Green Party branding
 $primary: #6AB023;
 $secondary: #006341;
+
+//
+$offcanvas-horizontal-width: 90vw;
 
 //Bootstrap
 @import "bootstrap"; // Specific unnecessary components are commented out.
@@ -51,8 +48,11 @@ h1, .navbar-brand {
 }
 
 @include media-breakpoint-down(md) {
-  .navbar .dropdown-item {
-    font-size:0.9rem; // Shrinks the dropdown on smaller screens.
+  .navbar .dropdown-menu {
+    max-width:calc(100vw - 50px);
+    .dropdown-item {
+      font-size:0.9rem; // Shrinks the dropdown on smaller screens.
+    }
   }
 }
 
@@ -203,55 +203,18 @@ $front-page: (
   }
 }
 
-// Dark mode.
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color:$gray-900;
-  }
-  .bg-tbd {
-    background-color:$gray-700 !important;
-    color:$gray-300;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color:$gray-200;
-  }
-  p {
-    color:$gray-300;
-  }
-  .text-muted {
-    p {
-      color:#6c757d !important;
-    }
 
+dark-mode-toggle {
+  &::part(fieldset) {
+    height:16px;
+    padding-block:0;
+    padding-inline:0;
   }
-  .front-page {
-    .motion-code {
-      color:$gray-600;
+  &::part(toggleLabel) {
+    --dark-mode-toggle-dark-icon: url("/agenda/css/icons/moon.svg");
+    --dark-mode-toggle-light-icon: url("/agenda/css/icons/sun.svg");
+    &::before {
+      display:block;
     }
-    .motion-title {
-      color: $gray-500;
-    }
-  }
-  .sidebar {
-    .btn {
-      color: $gray-300;
-      &::before {
-        content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%28225,225,225,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
-      }
-    }
-    a {
-      color: $gray-300;
-    }
-  }
-  .alert {
-    &.alert-primary {
-      color:$green-700;
-    }
-    &.alert-defeated {
-      color:$red-700;
-    }
-  }
-  .dark-mode::after {
-    content:"\F497";
   }
 }

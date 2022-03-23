@@ -1,14 +1,14 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top shadow-sm">
   <div class="container">
-    <a class="navbar-brand p-0" href="{{ site.baseurl }}/"><img height="32" class="pe-1 d-inline-block align-text-center" src="{{ site.baseurl }}/css/icons/gpew-logo.png">{{ site.title }}</a>
-    <div class="group">
+    <a class="navbar-brand p-0" href="{{ site.baseurl }}/"><img height="32" class="pe-1 d-inline-block align-text-center" src="{{ site.baseurl }}/css/icons/gpew-logo.png"><span class="d-none d-md-inline">{{ site.title }}</span></a>
+    <div class="btn-group">
       <button class="d-md-none btn btn-clear" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
         <i class="bi bi-justify"></i>
       </button>
       {% if content contains "<h3" %}
-      <button type="button" class="btn btn-clear" data-bs-toggle="dropdown" aria-expanded="false">
-        <i class="bi bi-bookmark"></i>
-      </button>
+        <button type="button" class="btn btn-clear" data-bs-toggle="dropdown" aria-expanded="false">
+          <i class="bi bi-bookmark"></i>
+        </button>
         {% include toc.html html=content h_min=3 h_max=3 class="shadow dropdown-menu dropdown-menu-end" anchor_class="dropdown-item"  %}
       {% endif %}
     </div>

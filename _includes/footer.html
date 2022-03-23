@@ -10,10 +10,7 @@
     </div>
     <div class="d-flex align-items-center">
     {% if page.layout == "home" %}<p class="text-light m-0 me-3">Website last updated {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>{% endif %}
-    <!-- <button class="dark-mode btn btn-clear" type="button" onclick="darkMode()" aria-controls="toggle" aria-label="Toggle dark mode."></button> -->
-    <dark-mode-toggle
-      permanent="true"
-    ></dark-mode-toggle>
+    <dark-mode-toggle title="Toggle dark mode""></dark-mode-toggle>
   </div>
   </div>
 </footer>
