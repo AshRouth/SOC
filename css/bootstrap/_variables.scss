@@ -95,7 +95,7 @@ $tbd:           $light;
 $passed:        $green;
 $defeated:      $red;
 $referred:      $cyan;
-$notdebated:           $black;
+$notdebated:    $black;
 
 $custom-colors: (
     "draft": $draft,
@@ -106,6 +106,7 @@ $custom-colors: (
     "referred": $referred,
     "notdebated": $notdebated,
 );
+
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
 // scss-docs-end theme-colors-map
