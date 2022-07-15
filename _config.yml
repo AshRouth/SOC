@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spring Conference 2022
+title: Autumn Conference 2022
 description: >- # this means to ignore newlines until "baseurl:"
-  Motions for the Green Party 2022 Spring Conference, from the Standing Orders Committee.
+  Motions for the Green Party 2022 Autumn Conference, from the Standing Orders Committee.
 email: mailto:soc@greenparty.org.uk
 baseurl: "/agenda" # the subpath of your site, e.g. /blog
 url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,7 +29,7 @@ url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site
 show_coproposers: false
 affiliated_threshold: 4
 unaffiliated_threshold: 12
-archive: true
+archive: false
 fixed_homepage: https://www.greencoordinate.co.uk/agenda
 
 # Build settings
