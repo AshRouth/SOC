@@ -48,8 +48,7 @@ layout: default
     </div>
   {% else %}
     {% assign motions = site.motions | sort: "number" %}
-    <div class="col-lg-4 column">
-      <p class="section-name mb-0 fw-bold">{{section.name}}</p>
+    <div class="col-lg-4 column mb-0">
       <ul class="list-unstyled">
         {% for motion in motions %}
         {% case motion.status %}
@@ -68,6 +67,13 @@ layout: default
               <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
             </a>
           </li>
+
+          {% if motion.number == 28 or motion.number == 54 %}
+            </ul>
+            </div>
+            <div class="col-lg-4 column">
+            <ul class="list-unstyled mb-0">
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
