@@ -1,17 +1,16 @@
 title: Autumn Conference 2022
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Motions for the Green Party 2022 Autumn Conference, from the Standing Orders Committee.
-email: mailto:soc@greenparty.org.uk
-baseurl: "/agenda" # the subpath of your site, e.g. /blog
-url: "http://greencoordinate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+email: soc@greenparty.org.uk
+baseurl: "/agenda"
+url: "http://greencoordinate.co.uk"
 
 # Switches
-create_sections: false
-show_coproposers: false
-affiliated_threshold: 4
-unaffiliated_threshold: 12
-archive: false
-fixed_homepage: https://www.greencoordinate.co.uk/agenda
+affiliated_threshold: 4 // The number of coproposers needed for an affiliated motion to be debated.
+unaffiliated_threshold: 12  // The number of coproposers needed for an unaffiliated motion to be debated.
+create_sections: false // If true, display each section as a separate list.
+show_coproposers: false // If true, list the coproposers for each motion.
+archive_notice: false // If true, prepend each page with "archive_notice.html".
 
 # Build settings
 sass:
@@ -26,8 +25,7 @@ collections:
 
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "motions"
     values:
