@@ -2,26 +2,31 @@
 layout: primary
 ---
 <!-- Code for calculating coproposer thresholds -->
-{% if page.coproposers >= 0 %}
-  {% assign coproposers = page.coproposers %}
+{% if page.coproposers %}
+  {% if page.coproposers >= 0 %}
+    {% assign coproposers = page.coproposers %}
+  {% else %}
+    {% assign coproposers = page.coproposers.size %}
+  {% endif %}
+  {% if page.affiliated == true %}
+    {% assign threshold = site.affiliated_threshold %}
+  {% else %}
+    {% assign threshold = site.unaffiliated_threshold %}
+  {% endif %}
+  {% if page.status == "final" and coproposers < threshold %}
+    {% assign status = "tbd" %}
+  {% else %}
+    {% assign status = page.status %}
+  {% endif %}
 {% else %}
-  {% assign coproposers = page.coproposers.size %}
-{% endif %}
-{% if page.affiliated == true %}
-  {% assign threshold = site.affiliated_threshold %}
-{% else %}
+  {% assign coproposers = 0 %}
   {% assign threshold = site.unaffiliated_threshold %}
-{% endif %}
-{% if page.status == "final" and coproposers < threshold %}
-  {% assign status = "tbd" %}
-{% else %}
-  {% assign status = page.status %}
 {% endif %}
 
 <!-- Assigning a label to put inside the infobox -->
 {% case page.status %}
   {% when "draft" %}
-    {% assign label = "Draft" %}
+    {% assign label = "Draft motion" %}
   {% when "final" %}
     {% capture label %}
       {{ coproposers }}/{{ threshold }} co-proposers
@@ -41,14 +46,14 @@ layout: primary
 {% endcase %}
 
 <!-- Page starts -->
-<p class="m-0 small text-muted">Motion #{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% if page.number < 10 %}0{% endif %}{{ page.number }}</p>
+<p class="m-0 small text-muted">Motion #{% if page.section == true %}{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% endif %}{% if page.number < 10 %}0{% endif %}{{ page.number }}</p>
 <h1>{{ page.title }}</h1>
-<div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center bg-{{ status }}" style="height: 40px">{{ label }}</div>
+<div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center bg-{{ page.status }}" style="height: 40px">{{ label }}</div>
 
-{% unless page.coproposers >= 0 or site.show_coproposers == false %}
+{% unless coproposers >= 0 or site.show_coproposers == false %}
 <p>
   Coproposers:
-  {{ page.coproposers | array_to_sentence_string }}
+  {{ coproposers | array_to_sentence_string }}
 </p>
 {% endunless %}
 
