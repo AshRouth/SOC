@@ -1,7 +1,7 @@
 ---
 section:
 number: 48
-title: Poverty and Local Councils
+title: Poverty and Council Tax
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100679
 status: draft
 coproposers:
