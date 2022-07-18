@@ -12,10 +12,6 @@ create_sections: false # If true, display each section as a separate list.
 show_coproposers: false # If true, list the coproposers for each motion.
 archive_notice: false # If true, prepend each page with "archive_notice.html".
 
-# Build settings
-sass:
-  sass_dir: /css/
-
 collections:
   amendments:
     output: false
@@ -23,6 +19,8 @@ collections:
     output: true
     permalink: :collection/:name/
 
+sass:
+  implementation: sass-embedded
 
 defaults:
   - scope:

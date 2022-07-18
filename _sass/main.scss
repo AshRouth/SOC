@@ -32,45 +32,62 @@ $motion-colors: (
   "notdebated": $notdebated,
 );
 
-//
+// Other defaults
 $offcanvas-horizontal-width: 90vw;
 
-//Bootstrap
-// @import "bootstrap"; // Specific unnecessary components are commented out.
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+$ff-header: 'Bebas Neue', sans-serif;
+$ff-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
-// Desired text colours for custom styles.
-.bg {
-  &-draft {
-    color: $dark;
+$fs-nav: 1.5rem;
+
+body {
+  font-family: $ff-body;
+  display:flex;
+  flex-direction:column;
+}
+
+a {
+  color:inherit;
+  text-decoration:none;
+}
+
+.container {
+  display:flex;
+  width:min(100vw - 2rem, 90rem);
+  margin:0 auto;
+}
+
+nav, footer {
+  background-color:$secondary;
+  padding-block:.5em;
+  .container {
+    justify-content:space-between;
   }
-  &-final {
-    color: $light;
-  }
-  &-tbd {
-    color: $dark;
-  }
-  &-passed {
-    color: $light;
-  }
-  &-defeated {
-    color: $light;
-  }
-  &-referred {
-    color: $light;
-  }
-  &-notdebated {
-    color: $light;
+}
+
+main {
+  flex-grow:1;
+  background-color:$light;
+  padding-block:.5em;
+  .container {
+    display:grid;
+    grid-template-columns:repeat(3, 33%);
+    gap:1rem;
   }
 }
 
 h1, .navbar-brand {
-  font-family: 'Bebas Neue', sans-serif
+  font-family: $ff-header;
+  color: $light;
 }
 
 .navbar-brand {
-  font-size:1.5em;
-  margin-right:0;
+  display:flex;
+  align-items:center;
+  font-size:$fs-nav;
+  * {
+    margin-inline-end:.5rem;
+  }
 }
 
 .content del {
@@ -253,5 +270,20 @@ dark-mode-toggle {
   padding:10px;
   p {
     margin-bottom:0;
+  }
+}
+
+// Text colours for motion backgrounds.
+.bg {
+  &-final,
+  &-passed,
+  &-defeated,
+  &-referred,
+  &-notdebated {
+    color: $light;
+  }
+  &-draft,
+  &-tbd {
+    color: $dark;
   }
 }

@@ -2,26 +2,18 @@
 layout: default
 ---
 {% if site.archive_mode == true %}
-
-  <div class="row">
-    <div class="col-md-5">
-      <p>This is the SOC website for compiling and displaying motions for Green Party conference. Motion data is taken from the Green Spaces forum and displayed here, with co-proposer numbers updated regularly by SOC.</p>
-      <p>Between conferences, the website is in archive mode. You can click on the links below to view past conference agendas.</p>
-      {% for conference in site.data.archive %}
-        <a class="d-block mb-2" href="{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
-      {% endfor %}
-    </div>
-  </div>
-
+    <p>This is the SOC website for compiling and displaying motions for Green Party conference. Motion data is taken from the Green Spaces forum and displayed here, with co-proposer numbers updated regularly by SOC.</p>
+    <p>Between conferences, the website is in archive mode. You can click on the links below to view past conference agendas.</p>
+    {% for conference in site.data.archive %}
+      <a class="d-block mb-2" href="{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
+    {% endfor %}
 {% else %}
-
-  <div class="row front-page">
   {% if site.create_sections == true %}
     {% for section in site.data.sections %}
       {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
-      <div class="col-lg-4 column">
+      <div class="column">
         <p class="section-name mb-0 fw-bold">{{section.name}}</p>
-        <ul class="list-unstyled">
+        <ul role="list">
           {% for motion in motions %}
           {% case motion.status %}
             {% when "passed" %}
@@ -48,8 +40,8 @@ layout: default
     </div>
   {% else %}
     {% assign motions = site.motions | sort: "number" %}
-    <div class="col-lg-4 column my-0">
-      <ul class="list-unstyled my-0">
+    <div class="column">
+      <ul role="list">
         {% for motion in motions %}
         {% case motion.status %}
           {% when "passed" %}
@@ -71,12 +63,11 @@ layout: default
           {% if motion.number == 27 or motion.number == 54 %}
             </ul>
             </div>
-            <div class="col-lg-4 column">
-            <ul class="list-unstyled my-0">
+            <div class="column">
+            <ul role="list">
           {% endif %}
         {% endfor %}
       </ul>
-    </div>
     </div>
   {% endif %}
 {% endif %}

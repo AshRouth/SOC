@@ -25,3 +25,6 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# Sass implementer that doesn't break
+gem 'sass-embedded', '~> 1.0'
