@@ -152,7 +152,6 @@ h1, .navbar-brand {
 
 // Front page styles, including tooltips.
 .front-page {
-  font-size: 0.85rem;
   .motion-code {
     color: var(--bs-gray-600)
   }
@@ -218,7 +217,7 @@ dark-mode-toggle {
   }
 }
 
-.archive {
+.archive-notice {
   background-color:$gray-900;
   color:$light;
   padding:10px;

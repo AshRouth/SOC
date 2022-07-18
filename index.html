@@ -48,8 +48,8 @@ layout: default
     </div>
   {% else %}
     {% assign motions = site.motions | sort: "number" %}
-    <div class="col-lg-4 column mb-0">
-      <ul class="list-unstyled">
+    <div class="col-lg-4 column my-0">
+      <ul class="list-unstyled my-0">
         {% for motion in motions %}
         {% case motion.status %}
           {% when "passed" %}
@@ -61,18 +61,18 @@ layout: default
           {% else %}
             {% assign label = "" %}
         {% endcase %}
-          <li class="my-1">
+          <li class="mb-2">
             <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ site.baseurl }}{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
               <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
               <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
             </a>
           </li>
 
-          {% if motion.number == 28 or motion.number == 54 %}
+          {% if motion.number == 27 or motion.number == 54 %}
             </ul>
             </div>
             <div class="col-lg-4 column">
-            <ul class="list-unstyled mb-0">
+            <ul class="list-unstyled my-0">
           {% endif %}
         {% endfor %}
       </ul>
