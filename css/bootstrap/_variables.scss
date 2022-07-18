@@ -89,13 +89,26 @@ $theme-colors: (
   "dark":       $dark
 ) !default;
 
-$draft:         $yellow;
-$final:         $secondary;
-$tbd:           $light;
-$passed:        $green;
-$defeated:      $red;
-$referred:      $cyan;
-$notdebated:           $black;
+$blue:    #0d6efd !default;
+$indigo:  #6610f2 !default;
+$purple:  #6f42c1 !default;
+$pink:    #d63384 !default;
+$red:     #dc3545 !default;
+$orange:  #fd7e14 !default;
+$yellow:  #ffc107 !default;
+$green:   #198754 !default;
+$teal:    #20c997 !default;
+$cyan:    #0dcaf0 !default;
+
+$primary:   $gp-primary;
+$secondary: $gp-secondary;
+$draft:     #ffc107;
+$final:     $gp-secondary;
+$tbd:       #f8f9fa;
+$passed:    #198754;
+$defeated:  #dc3545;
+$referred:  #0dcaf0;
+$notdebated:#fff;
 
 $custom-colors: (
     "draft": $draft,
