@@ -7,6 +7,9 @@ status: draft
 coproposers:
 ---
 ## Synopsis
-Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.
+Change constitution to always run in elections.
 
 ## Motion
+In section 3 part b of the constitution: b) to that end to win seats at all levels of government; Add: Between “to” and “win” insert “run in all possible elections and”
+
+So it reads: b) to that end to run in all possible elections and win seats at all levels of government wherever financially and organisationally feasible.
