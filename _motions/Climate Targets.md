@@ -16,9 +16,7 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 Changes to The Climate Emergency and Food and Agriculture chapters of Policies for a Sustainable
 Society (PSS) and Statement to be entered into the Record of Policy Statements (RoPS)
 
-
 CC013 currently reads:
-
 
 “CC013 The Climate Emergency is a global problem and can only be tackled by global action. Such
 action must be based on the work of the UNFCCC (United Nations Framework Convention on
@@ -28,27 +26,18 @@ below 2°C above pre-industrial levels and to pursue efforts to limit the temper
 1.5°C above pre-industrial levels". In aggregate, the national emissions plans (NDCs Nationally
 Determined Contributions) will not meet the aims of the Agreement.”
 
-
 After “especially on the Paris Agreement of 2015 (which the UK has ratified)” insert “and the
 Intergovernmental Panel on Climate Change (IPCC)”, and
 
-
 After “We support the aims of the” insert “Paris”, and
-
 
 Delete “In aggregate, the national emissions plans (NDCs Nationally Determined Contributions) will
 not meet the aims of the Agreement.” so that it reads:
 
 
-**CC013 The Climate Emergency is a global problem and can only be tackled by global action. Such
-action must be based on the work of the United Nations Framework Convention on Climate
-Change (UNFCCC) and especially on the Paris Agreement of 2015 (which the UK has ratified) and
-the Intergovernmental Panel on Climate Change (IPCC). We support the aims of the Paris
-Agreement to hold "the increase in the global average temperature to well below 2°C above preindustrial levels and to pursue efforts to limit the temperature increase to 1.5°C above preindustrial levels".**
-
+**CC013 The Climate Emergency is a global problem and can only be tackled by global action. Such action must be based on the work of the United Nations Framework Convention on Climate Change (UNFCCC) and especially on the Paris Agreement of 2015 (which the UK has ratified) and the Intergovernmental Panel on Climate Change (IPCC). We support the aims of the Paris Agreement to hold "the increase in the global average temperature to well below 2°C above preindustrial levels and to pursue efforts to limit the temperature increase to 1.5°C above preindustrial levels".**
 
 CC014 currently reads:
-
 
 “CC014 As the first country to industrialise and a major emitter of greenhouse gases over many
 decades the UK bears a particular responsibility. It should:
@@ -75,19 +64,20 @@ we do not support in its entirety due to its emphasis on economic growth (see PB
 reads:
 
 
-**“CC014 As a rich country that was the first to industrialise and a major emitter of greenhouse
-gases over many decades the UK bears a particular responsibility. It should:
-1. Act as an advocate for the Paris Agreement.
-2. Increase its Paris Agreement commitments through increasingly ambitious Nationally
-Determined Contributions (NDCs) on emissions reductions, climate finance, capacity
-building and technology transfer.
-3. Make the case for compensation for climate-related loss and damage and begin to pay
-such compensation.
-4. Advocate an emergency international agreement to conserve and enhance carbon sinks
-and reservoirs including forests, peatfields and coastal and estuarine areas.
-5. Reduce, by international collaboration, the emissions associated with its imports.
-6. Support the Sustainable Development Goals with the exception of Goal 8 that we do not
-support in its entirety due to its emphasis on economic growth (see PB106).”**
+**“CC014 As a rich country that was the first to industrialise and a major emitter of greenhouse**
+**gases over many decades the UK bears a particular responsibility. It should:**
+
+**1. Act as an advocate for the Paris Agreement.** \\
+**2. Increase its Paris Agreement commitments through increasingly ambitious Nationally**
+**Determined Contributions (NDCs) on emissions reductions, climate finance, capacity**
+**building and technology transfer.** \\
+**3. Make the case for compensation for climate-related loss and damage and begin to pay**
+**such compensation.** \\
+**4. Advocate an emergency international agreement to conserve and enhance carbon sinks**
+**and reservoirs including forests, peatfields and coastal and estuarine areas.** \\
+**5. Reduce, by international collaboration, the emissions associated with its imports.** \\
+**6. Support the Sustainable Development Goals with the exception of Goal 8 that we do not**
+**support in its entirety due to its emphasis on economic growth (see PB106).”**
 
 
 CC015 currently reads:

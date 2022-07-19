@@ -33,9 +33,7 @@ on heat pumps.
 In addition we demand that the government makes the case, as acts of solidarity with Ukraine, for people to reduce their personal energy use. We should target delivery of a 20% reduction by:
 
 * Driving less,
-
 * Flying less (or not at all)
-
 * Heating buildings less.
 
 The government should also reduce road speed limits, as was done during the 1973 oil crisis (and to match many other countries’ actions).
