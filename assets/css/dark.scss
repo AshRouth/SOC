@@ -1,8 +1,8 @@
 ---
 ---
+@import "reset";
+@import "main";
 // @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
-@import 'reset';
-@import 'main';
 
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
@@ -32,13 +32,11 @@ p, li, table {
   color:#6c757d !important;
 }
 
-.front-page {
-  .motion-code {
-    color:$gray-600;
-  }
-  .motion-title {
-    color: $gray-500;
-  }
+.motion-code {
+  color:$gray-600;
+}
+.motion-title {
+  color: $gray-500;
 }
 
 .sidebar {

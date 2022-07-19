@@ -53,7 +53,7 @@ a {
 
 .container {
   display:flex;
-  width:min(100vw - 2rem, 90rem);
+  width:min(100vw - 2rem, 81rem);
   margin:0 auto;
 }
 
@@ -68,11 +68,28 @@ nav, footer {
 main {
   flex-grow:1;
   background-color:$light;
-  padding-block:.5em;
+  padding-block:1em;
   .container {
+    flex-direction:column;
+  }
+  .motions {  
     display:grid;
     grid-template-columns:repeat(3, 33%);
-    gap:1rem;
+    gap:1.5rem;
+  }
+  .motion-entry {
+    margin-bottom:0.5rem;
+    a {
+      display:inline-flex;
+      align-items:flex-start;
+      justify-content:space-between;
+      .motion-code {
+        padding-right:0.5rem;
+      }
+    }
+  }
+  .introduction {
+    margin-bottom:1rem;
   }
 }
 

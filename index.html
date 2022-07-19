@@ -8,6 +8,8 @@ layout: default
       <a class="d-block mb-2" href="{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
     {% endfor %}
 {% else %}
+  <p class="introduction">This is the Standing Orders Committee website for compiling and displaying motions for the Green Party conference. Click on a motion to view the text and other information.</p>
+  <div class="motions">
   {% if site.create_sections == true %}
     {% for section in site.data.sections %}
       {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
@@ -25,7 +27,7 @@ layout: default
             {% else %}
               {% assign label = "" %}
           {% endcase %}
-            <li class="my-1">
+            <li class="motion-entry">
               <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ site.baseurl }}{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
                 <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
                 <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
@@ -53,7 +55,7 @@ layout: default
           {% else %}
             {% assign label = "" %}
         {% endcase %}
-          <li class="mb-2">
+          <li class="motion-entry">
             <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ site.baseurl }}{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
               <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
               <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
@@ -70,4 +72,5 @@ layout: default
       </ul>
     </div>
   {% endif %}
+  </div>
 {% endif %}
