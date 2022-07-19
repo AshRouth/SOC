@@ -7,6 +7,9 @@ status: draft
 coproposers:
 ---
 ## Synopsis
-Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.
+The Disability Policy Chapter received its last major update back in 1990. A rewrite is needed so that the chapter reflects the needs and desires of the disabled community.
 
 ## Motion
+The Disability chapter of the Policies for a Sustainable Society had its last full rewrite in 1990. Conference believes it is time to refresh this chapter so that we have a clear policy on inclusion in society for the disabled community in England and Wales.
+
+This Conference therefore instructs the Policy Development Committee to initiate a policy development process to rewrite and update this policy chapter. The process will be undertaken by a working group, which should seek the opinions and involvement of members of the Party with interest or expertise in these fields, as well as the views of NGOs and other relevant organisations and professionals.
