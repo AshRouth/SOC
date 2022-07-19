@@ -7,6 +7,18 @@ status: draft
 coproposers:
 ---
 ## Synopsis
-Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.
+The Constitution requires GPEx to meet "at least once every six weeks". Short Campaign periods last six weeks, which means convening a meeting either during, or immediately before and after, Short Campaigns. This motion improves flexibility of timetabling GPEx meetings which have to fit around the schedules of other committees.
 
 ## Motion
+
+Conference agrees to the following amendment to the Constitution of the Green Party:
+
+In Section 7viii, delete "at least once every six weeks."
+
+and replace with:
+
+"a minimum of ten times a year, at least once every nine weeks."
+
+So the whole paragraph 7viii reads as follows:
+
+"The Party Executive shall meet as necessary and a minimum of ten times a year, at least once every nine weeks."
