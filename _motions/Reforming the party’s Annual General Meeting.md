@@ -135,8 +135,8 @@ This Committee shall be responsible for enabling, co-ordinating and promoting po
 
 20 v) Where errors arise within the numbering, lettering and references within The Constitution, Standing Orders Committee are permitted to correct and republish them without recourse to conference for prior approval. All corrections made by Standing Orders Committee outside of conference will be reported to the next [AGM or Spring] conference as part of the Standing Orders Committee report.
 
-In the bye laws for Clause 5 xvii) Selection of Candidates for the House of Commons
-1. GPEW will set targets for the proportion of candidates and proportion of target candidates in respect to self-identified gender, race, disability, socio-economic status, age, and sexual orientation based on their respective proportion of the England and Wales population. The Elections Coordinator will report on this to [the AGM and may also be report to the Spring] conference [if it falls after a relevant election]. If targets are not met, the Elections Coordinator will present actions to meet them as part of their report to [the AGM or] Spring conference [as appropriate according to the timing of the election].
+In the bye laws for Clause 5 xvii) Selection of Candidates for the House of Commons \
+    1. GPEW will set targets for the proportion of candidates and proportion of target candidates in respect to self-identified gender, race, disability, socio-economic status, age, and sexual orientation based on their respective proportion of the England and Wales population. The Elections Coordinator will report on this to [the AGM and may also be report to the Spring] conference [if it falls after a relevant election]. If targets are not met, the Elections Coordinator will present actions to meet them as part of their report to [the AGM or] Spring conference [as appropriate according to the timing of the election].
 
 In Standing Orders for Conduct of Conference, in section F6 SOC Report, delete the wording ‘any other matters or recommendations that do not affect the running of conference; rulings requested and made since the previous conference’ that occurs at F6.1.
 
