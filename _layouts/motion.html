@@ -2,25 +2,24 @@
 layout: primary
 ---
 <!-- Code for calculating coproposer thresholds -->
+
+{% if page.affiliated == true %}
+  {% assign threshold = site.affiliated_threshold %}
+{% else %}
+  {% assign threshold = site.unaffiliated_threshold %}
+{% endif %}
+
 {% if page.coproposers %}
   {% if page.coproposers >= 0 %}
+    {% assign coproposer_format = "integer" %}
     {% assign coproposers = page.coproposers %}
   {% else %}
+    {% assign coproposer_format = "array" %}
     {% assign coproposers = page.coproposers.size %}
   {% endif %}
-  {% if page.affiliated == true %}
-    {% assign threshold = site.affiliated_threshold %}
-  {% else %}
-    {% assign threshold = site.unaffiliated_threshold %}
-  {% endif %}
-  {% if page.status == "final" and coproposers < threshold %}
-    {% assign status = "tbd" %}
-  {% else %}
-    {% assign status = page.status %}
-  {% endif %}
 {% else %}
+  {% assign coproposer_format = "integer" %}
   {% assign coproposers = 0 %}
-  {% assign threshold = site.unaffiliated_threshold %}
 {% endif %}
 
 <!-- Assigning a label to put inside the infobox -->
@@ -50,12 +49,9 @@ layout: primary
 <h1>{{ page.title }}</h1>
 <div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center bg-{{ page.status }}" style="height: 40px">{{ label }}</div>
 
-{% unless coproposers >= 0 or site.show_coproposers == false %}
-<p>
-  Coproposers:
-  {{ coproposers | array_to_sentence_string }}
-</p>
-{% endunless %}
+{% if coproposer_format == "array" and site.show_coproposers == true %}
+  <p><em>Coproposers: {{ page.coproposers | array_to_sentence_string }}</em></p>
+{% endif %}
 
 {{ content }}
 
