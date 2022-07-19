@@ -7,6 +7,9 @@ status: draft
 coproposers:
 ---
 ## Synopsis
-Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.
+By convention, new members are assigned to a local Party based on where they live. Members can change their local Party by request. This amendment would make current convention explicit.
 
 ## Motion
+In 4.ii of the Constitution, after "Membership shall be of the smallest appropriate Party", insert:
+
+"New members shall automatically be assigned to a local Party based on their home postcode. Members may choose to switch their membership to any other local Party within GPEW provided the executive of that local Party agree".

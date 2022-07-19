@@ -7,6 +7,9 @@ status: draft
 coproposers:
 ---
 ## Synopsis
-Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.
+Establishment, liable to authority for land. Authority, liable for social care pay and to person of working age for £15.49 per week and for nature for greenhouse gas depollution. Pollution, fodder, wetland farming, upland farming and greenfield development are offences, statutory.
 
 ## Motion
+SECTION E RECORD OF POLICY STATEMENTS
+
+Firm, farm, household, farmhouse, nonprofit and national and international authority should be liable to local authority for land. Local authority should be liable to an english or the welsh national authority for land evaluated simply as population. National authority should be liable for social care pay and to person of working age for £15.49 remittance per week and to an anglo-welsh or british or british-manx-irish international authority for population. International authority should be liable for nature for greenhouse gas depollution. Pollution, fodder, wetland farming, upland farming and greenfield development are offences should be statutory english and welsh in England and Wales.
