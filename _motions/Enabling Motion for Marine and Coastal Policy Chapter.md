@@ -3,8 +3,8 @@ section:
 number: 22
 title: Enabling Motion for Marine and Coastal Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100485
-status: draft
-coproposers:
+status: final
+coproposers: 17
 ---
 ## Synopsis
 The current Marine & Coastal chapter in Policies for a Sustainable Society dates back to 2007 and urgently needs updating, not least to reflect developments since the UK left the EU. A new Marine & Coastal policy working group has been convened to take this work forward.

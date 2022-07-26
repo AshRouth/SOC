@@ -3,8 +3,8 @@ section:
 number: 52
 title: Regulating “Big Tech” companies
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101920
-status: draft
-coproposers:
+status: final
+coproposers: 1
 ---
 ## Synopsis
 The “Big Tech” companies have accumulated significant wealth and power, through operating in ways that existing regulation is not capable of addressing. The Green Party will introduce modern fit-for-purpose regulation for the tech sector.

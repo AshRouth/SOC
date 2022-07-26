@@ -3,8 +3,8 @@ section:
 number: 42
 title: Moonshot to Retrofit Homes
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102562
-status: draft
-coproposers:
+status: final
+coproposers: 5
 ---
 ## Background
 To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/moonshot.pdf)

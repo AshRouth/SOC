@@ -3,8 +3,8 @@ section:
 number: 11
 title: Change to the Constitution for Disciplinary Committee
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100520
-status: draft
-coproposers:
+status: final
+coproposers: 13
 ---
 ## Synopsis
 To expand the Disciplinary Committee from 11 to 22 members.

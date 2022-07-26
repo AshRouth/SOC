@@ -3,8 +3,8 @@ section:
 number: 45
 title: Personal Carbon Allowances
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100611
-status: draft
-coproposers:
+status: final
+coproposers: 6
 ---
 ## Synopsis
 This policy replaces a weak reference to “possible carbon rationing” in CC121 with a strong section committing the Green Party to Personal Carbon Allowances as part of a transition towards a system that can realistically help us to overcome the climate emergency.

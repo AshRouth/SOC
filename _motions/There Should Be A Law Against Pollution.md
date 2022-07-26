@@ -3,8 +3,8 @@ section:
 number: 73
 title: There Should be a Law Against Pollution
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97530
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 Establishment, liable to authority for land. Authority, liable for social care pay and to person of working age for £15.49 per week and for nature for greenhouse gas depollution. Pollution, fodder, wetland farming, upland farming and greenfield development are offences, statutory.

@@ -3,8 +3,8 @@ section:
 number: 77
 title: Voting Paper - Land Use
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98794
-status: draft
-coproposers:
+status: final
+coproposers: 11
 ---
 ## Synopsis
 Current Green Party policies require more land than exists in the UK.
@@ -240,7 +240,7 @@ contains a duty to cooperate at national level and this will apply.
 
 **LD502** Policy levers to deliver the proposed changes include:
 
-* Capacity building and delivering a just transition 
+* Capacity building and delivering a just transition
 * The planning system
 * Land management investment and support
 * Fiscal measures (taxes, tax breaks and grants)
@@ -650,7 +650,7 @@ communities.
 **"FR200** \\
 Increase the area of cover in the UK to be between 30% and 40% in 10
 years, meeting these forestry objectives within the context of the land
-use key outcomes (See LD200): 
+use key outcomes (See LD200):
 * Sustained cooperative relationship between public and private
 estates
 * UK net self-sufficiency in forestry products to displace
@@ -842,7 +842,7 @@ emphasis on the green belt's use for wider sustainable built
 environment considerations such as flooding, biodiversity,
 agriculture, energy production and sustainable transport.The local
 authority role in reviewing and protecting their green belt is set out
-in LP510." 
+in LP510."
 
 **Insert a new LP407**, to reflect the Green Party's land
 use prioritisation: \\

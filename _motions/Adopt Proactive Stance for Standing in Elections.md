@@ -3,8 +3,8 @@ section:
 number: 6
 title: Adopt Proactive Stance for Standing in Elections
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101605
-status: draft
-coproposers:
+status: final
+coproposers: 1
 ---
 ## Synopsis
 Change constitution to always run in elections.

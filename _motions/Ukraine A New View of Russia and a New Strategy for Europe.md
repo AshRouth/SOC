@@ -3,8 +3,8 @@ section:
 number: 75
 title: Ukraine - A New View of Russia and a New Strategy for Europe
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97908
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 Russia's invasion of Ukraine shows the need a new view of Russia and a new strategy for peace in Europe. The new view is that Putin's Russia is a conscious, self-declared enemy. The new strategy is to defend the independent states, especially the democratic states, of Eastern Europe.

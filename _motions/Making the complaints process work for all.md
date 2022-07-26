@@ -3,8 +3,8 @@ section:
 number: 40
 title: Making the complaints process work for all
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100470
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 Our complaints procedure is failing, causing undue stress to all parties and a loss of confidence in the process.

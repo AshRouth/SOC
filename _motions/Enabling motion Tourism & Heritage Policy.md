@@ -3,8 +3,8 @@ section:
 number: 26
 title: Enabling motion Tourism & Heritage Policy
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101280
-status: draft
-coproposers:
+status: final 
+coproposers: 7
 ---
 ## Synopsis
 PDC to establish a working group to review the Green Party Tourism policies, last reviewed in 2009 with a particular remit to develop and incorporate Heritage policies to incorporate in this section of the PfSS.

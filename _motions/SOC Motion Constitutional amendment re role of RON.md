@@ -3,8 +3,8 @@ section:
 number: 60
 title: SOC Motion - Constitutional amendment re role of RON
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101271
-status: draft
-coproposers:
+status: final
+coproposers: 1
 ---
 ## Synopsis
 The constitution makes provision for negative voting in the form of RON (Re-open nominations). This amendment makes the provision of a RON option a requirement at every stage of election under STV (Single transferable vote). The current problem is that voting software doesn’t make this possible so a bespoke option

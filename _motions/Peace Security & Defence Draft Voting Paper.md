@@ -3,8 +3,8 @@ section:
 number: 44
 title: Peace Security & Defence Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101496
-status: draft
-coproposers:
+status: final
+coproposers: 7
 ---
 ## Synopsis
 No synopsis was submitted for this motion.

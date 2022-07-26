@@ -4,7 +4,7 @@ number: 5
 title: Add Constitution Section on Spokespeople
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101634
 status: final
-coproposers:
+coproposers: 7
 ---
 ## Synopsis
 This motion would add a section on Spokespeople to the constitution. This motion would outline that spokespeople are selected by the party (Co-)Leader(s) and Deputy Leader(s), following their elections. This motion will also outline Spokespeople’s expectations, accountability, etc.

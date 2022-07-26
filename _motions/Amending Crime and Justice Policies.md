@@ -4,7 +4,7 @@ number: 9
 title: Amending Crime and Justice Policies
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101883
 status: final
-coproposers:
+coproposers: 7
 ---
 ## Synopsis
 The Crime and Justice chapter has not undergone a major review since 1990. It needs updating to reflect and build on recent developments in progressive perspectives onto criminal justice and related policies. The motion proposes a new working group and a revision of the chapter.

@@ -3,8 +3,8 @@ section:
 number: 47
 title: Policy statement endorsing the ‘Manifesto for a People’s Media’
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100432
-status: draft
-coproposers:
+status: final
+coproposers: 4
 ---
 ## Synopsis
 Conference endorses the Media Reform Coalition’s ‘Manifesto for a People’s Media’ and its vision for a media commons

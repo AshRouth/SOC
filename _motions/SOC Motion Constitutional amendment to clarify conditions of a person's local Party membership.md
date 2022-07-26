@@ -3,8 +3,8 @@ section:
 number: 61
 title: SOC Motion - Constitutional amendment to clarify conditions of a person's local Party membership
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101268
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 By convention, new members are assigned to a local Party based on where they live. Members can change their local Party by request. This amendment would make current convention explicit.

@@ -3,8 +3,8 @@ section:
 number: 7
 title: Adopting EU regulations on levels of carcinogenic PAHs
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98733
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 No synopsis has been submitted

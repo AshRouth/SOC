@@ -3,8 +3,8 @@ section:
 number: 28
 title: Enhancing the complaints process
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102023
-status: draft
-coproposers:
+status: final
+coproposers: 1
 ---
 ## Synopsis
 Our complaints system is failing us, causing undue stress to all parties while a vast amount of our time and energy is wasted fighting each other. If the two tribes cannot find a way to co-exist more peacefully, I’m afraid our upward trajectory will ultimately plateau and then crash.

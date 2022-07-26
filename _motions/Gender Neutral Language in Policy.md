@@ -3,8 +3,8 @@ section:
 number: 33
 title: Gender Neutral Language in Policy
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100063
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 In most cases in the Policies for a Sustainable Society, gender neutral language is used, however on a handful of occasions gendered pronouns have been used. This motion addresses these instances while making no material changes to the policies in question.

@@ -3,8 +3,8 @@ section:
 number: 31
 title: Extending the term of elected Policy Development Committee membership
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101762
-status: draft
-coproposers:
+status: final
+coproposers: 4
 ---
 ## Synopsis
 Policy Development Committee membership, according to the constitution, has to change annually as all 5 roles are up for election. This motion seeks to alter the constitution to extend membership for elected members to 2 years, to provide for stability and experience which are important to provide policy development support.

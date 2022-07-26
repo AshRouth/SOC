@@ -3,8 +3,8 @@ section:
 number: 46
 title: Philosophical Basis Climate and Economy Updates
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99017
-status: draft
-coproposers:
+status: final
+coproposers: 13
 ---
 ## Background
 To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/philonomy.pdf)

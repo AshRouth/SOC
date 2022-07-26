@@ -3,8 +3,8 @@ section:
 number: 74
 title: Timing of GPEx Meetings
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100395
-status: draft
-coproposers:
+status: final
+coproposers: 2
 ---
 ## Synopsis
 The Constitution requires GPEx to meet "at least once every six weeks". Short Campaign periods last six weeks, which means convening a meeting either during, or immediately before and after, Short Campaigns. This motion improves flexibility of timetabling GPEx meetings which have to fit around the schedules of other committees.

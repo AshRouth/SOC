@@ -3,8 +3,8 @@ section:
 number: 24
 title: Enabling Motion for the Natural Resources and Waste Management Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98335
-status: draft
-coproposers:
+status: final
+coproposers: 2
 ---
 ## Synopsis
 The Natural Resources and Waste Management Policy Chapter received its last major update back in 2006. A rewrite is needed so that the chapter can be expanded in scope to include more policy positions on issues such as radioactive waste and other hazardous materials management.

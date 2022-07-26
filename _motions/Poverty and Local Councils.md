@@ -3,8 +3,8 @@ section:
 number: 48
 title: Poverty and Council Tax
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100679
-status: draft
-coproposers:
+status: final
+coproposers: 4
 ---
 ## Synopsis
 This motion is to act as guidance to local Green Councillors and local parties on the massive impact of trying to collect Council Tax from people in poverty or being forced into poverty due to the cost of living Crisis.

@@ -3,8 +3,8 @@ section:
 number: 59
 title: SOC Motion - Constitutional amendment re leadership election
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101264
-status: draft
-coproposers:
+status: final 
+coproposers: 1
 ---
 ## Synopsis
 Last year’s resignations of both the Party’s Co-Leaders exposed faults in the current wording of our Constitution in regard to leadership by-elections. A previous incarnation of SOC found that the clause in question, 8(xi), was capable of numerous different interpretations regarding the length of term that a new Leader or

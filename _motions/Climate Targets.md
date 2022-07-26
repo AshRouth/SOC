@@ -4,7 +4,7 @@ number: 15
 title: Climate Targets
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99015
 status: draft
-coproposers:
+coproposers: 10
 ---
 ## Synopsis
 Due to lack of effective action by governments since our zero carbon by 2030 target was set, this motion proposes to remove timebound climate targets from the Policies for a Sustainable Society and simultaneously enter into the Record of Policy Statements the emissions reductions possible with our current policies.

@@ -3,8 +3,8 @@ section:
 number: 16
 title: Closer Alignment to the European Union
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99034
-status: draft
-coproposers:
+status: final
+coproposers: 11
 ---
 ## Synopsis
 For the record of policy statements we propose updating the party’s position concerning the UK’s current and future relations with the European Union. The proposed position includes (a) rejoining the EU (subject to the right conditions), and (b) closer alignment in the meantime, to minimise the problems of Brexit.

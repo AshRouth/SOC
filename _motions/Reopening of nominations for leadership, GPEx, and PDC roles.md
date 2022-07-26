@@ -3,8 +3,8 @@ section:
 number: 54
 title: Reopen Nominations to Avoid All Men and all White Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100998
-status: draft
-coproposers:
+status: final
+coproposers: 2
 ---
 ## Synopsis
 The separate election for Deputy Leader in 2022 identified a gap in our gender balancing rules leading to no women being on the ballot. This motion corrects that for all roles elected in the Annual Ballot.

@@ -3,8 +3,8 @@ section:
 number: 57
 title: Short term aims for reducing sewage in water
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101943
-status: draft
-coproposers:
+status: final
+coproposers: 3
 ---
 ## Synopsis
 Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.

@@ -3,8 +3,8 @@ section:
 number: 25
 title: Enabling motion to rewrite the Education chapter of PSS
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100954
-status: draft
-coproposers:
+status: final
+coproposers: 3
 ---
 ## Synopsis
 The Education chapter of Policies for a Sustainable Society hasn’t undergone a full review in over a decade. Many policies are now in need of updating, adding to, rewriting or re-discussing, including those relating to academies, assessment and the climate emergency.

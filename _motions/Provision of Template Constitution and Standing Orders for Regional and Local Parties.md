@@ -3,8 +3,8 @@ section:
 number: 49
 title: Provision of Template Constitution and Standing Orders for Regional and Local Parties
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101917
-status: draft
-coproposers:
+status: final
+coproposers: 1
 ---
 ## Synopsis
 There is a wide variety of Constitutions and Standing Orders in use by Regional and Local Parties. This results in:

@@ -3,8 +3,8 @@ section:
 number: 66
 title: Stand down for other parties
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101621
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 No synopsis was submitted for this motion.

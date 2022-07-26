@@ -3,8 +3,8 @@ section:
 number: 50
 title: Recommend GPEx award Amelia Womack life membership for exceptional contribution to the party
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99890
-status: draft
-coproposers:
+status: final
+coproposers: 3
 ---
 ## Background
 This motion is necessary as a vote has inexplicably not been called on this following official recommendations to the chair of GPEx from members and from GPEx members, as is the usual process.

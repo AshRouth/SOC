@@ -3,8 +3,8 @@ section:
 number: 38
 title: Improving National Accountability for Climate Damage
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97884
-status: draft
-coproposers:
+status: final
+coproposers: 11
 ---
 ## Background
 To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/cop.pdf)

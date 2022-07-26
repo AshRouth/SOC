@@ -4,7 +4,7 @@ number: 17
 title: A toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102001
 status: draft
-coproposers:
+coproposers: 8
 ---
 ## Synopsis
 GPEW accepts the damning results of the 25th January 2022 Council of Europe report “Combating rising hate against LGBTI people in Europe”. GPEW accepts that it has been subject to hard-line anti-trans activism for some time; issues cannot be tackled without understanding; and oppression of marginalised groups intersect

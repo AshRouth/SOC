@@ -3,8 +3,8 @@ section:
 number: 72
 title: Dolphins
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
-status: draft
-coproposers:
+status: final
+coproposers: 5
 ---
 ## Synopsis
 Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end

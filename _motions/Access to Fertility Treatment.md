@@ -3,11 +3,11 @@ section:
 number: 4
 title: Access to Fertility Treatment
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102008
-status: draft
-coproposers:
+status: final
+coproposers: 4
 ---
 ## Synopsis
-Currently, it is difficult or virtually impossible for certain groups of people to receive fertility treatment through the NHS, for example, older people, same-sex couples, single people and people who are sex averse or repulsed. This motion seeks to address these issues and also to ensure consistency for cryopreservation funding.
+The Women’s Health Strategy for England (July 2022) introduces plans that rids additional barriers for same-sex couples to receive fertility treatment through the NHS. Additional barriers for single people, older people and people who are sex-averse/repulsed remain. This motion seeks to address these issues and ensure consistency for cryopreservation funding.
 
 ## Motion
 Insert new HE800 to HE803 and renumber PSS accordingly:

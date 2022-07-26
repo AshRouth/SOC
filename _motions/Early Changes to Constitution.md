@@ -3,8 +3,8 @@ section:
 number: 20
 title: Early Changes to Constituion
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101659
-status: draft
-coproposers:
+status: final
+coproposers: 0
 ---
 ## Synopsis
 Full motion text will be added to the website after the final version deadline passes. In the meantime, click "View on Green Spaces" to see the current draft.

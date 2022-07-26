@@ -3,8 +3,8 @@ section:
 number: 70
 title: Support for Parliamentary candidates to succeed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101931
-status: draft
-coproposers:
+status: final
+coproposers: 3
 ---
 ## Synopsis
 To set out a longstanding expectation that requires Green Party staff to provide media training for Parliamentary candidates and help Local Parties to ensure Parliamentary candidates positively promote Green Party policy across all media platforms.

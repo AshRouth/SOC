@@ -3,8 +3,8 @@ section:
 number: 78
 title: Wales Green Party Spokesperson Remuneration
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101869
-status: draft
-coproposers:
+status: final
+coproposers: 8
 ---
 ## Background
 The Green Party of England and Wales (GPEW) is so called in recognition that Wales and England are two separate countries. At present Wales has a form of devolved government and a Parliament – the Senedd. It is one of the strategic aims of GPEW that WGP should gain seats in the Senedd. After gaining 9 Councillors in the recent local elections, and taking into account the voting figures, WGP can realistically hope to gain Senedd seats in the Cardiff area. Greens in government in Wales and in England are a win-win situation, mutually helping our credibility and legitimacy.

@@ -3,8 +3,8 @@ section:
 number: 19
 title: Draft Voting Paper for revised Health and Wellbeing Policy
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101820
-status: draft
-coproposers:
+status: final
+coproposers: 1
 ---
 ## Synopsis
 This motion presents a draft voting paper for a revised PSS Health and Wellbeing Policy as described in the Enabling Motion passed at the Spring 21 Conference.
