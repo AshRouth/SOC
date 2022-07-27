@@ -5,6 +5,7 @@ title: Updates to the Philosophical Basis
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101586
 status: final
 coproposers: 7
+affiliated: true
 ---
 ## Synopsis
 Autumn Conference 2021 instructed the Rights and Responsibilities Policy Working Group (R&RPWG) to review and update the Rights and Responsibilities Chapter and relevant elements of the Philosophical Basis of Policies for a Sustainable Society. The R&RPWG is proposing the following changes which it considers to be essential to its work.

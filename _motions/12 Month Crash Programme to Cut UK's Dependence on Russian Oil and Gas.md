@@ -5,6 +5,7 @@ title: Emergency Energy Reduction for the UK
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97875
 status: final
 coproposers: 12
+affiliated: true
 ---
 ## Background
 To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/oilandgas.pdf)
