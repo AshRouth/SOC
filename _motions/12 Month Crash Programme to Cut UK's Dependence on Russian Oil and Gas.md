@@ -12,7 +12,7 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 {:.alert .alert-primary}
 
 ## Synopsis
-Russia’s invasion of Ukraine is funded by sales of coal, oil and gas making
+Russia’s invasion of Ukraine is funded by sales of coal, oil and gas, making
 buying these fuels both morally abhorrent and self-defeating. This motion demands an
 emergency programme to reduce our use of oil and gas and to help the rest of Europe do
 the same.
