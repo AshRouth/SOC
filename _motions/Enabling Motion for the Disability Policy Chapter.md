@@ -1,10 +1,10 @@
 ---
-section:
-number: 23
+section: E
+number: 6
 title: Enabling Motion for the Disability Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101775
 status: final
-coproposers: 4
+coproposers: 17
 ---
 ## Synopsis
 The Disability Policy Chapter received its last major update back in 1990. A rewrite is needed so that the chapter reflects the needs and desires of the disabled community.

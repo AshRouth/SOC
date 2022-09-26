@@ -1,10 +1,10 @@
 ---
-section:
-number: 55
+section: E
+number: 3
 title: Restitution and Repatriation of Cultural Objects
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101276
 status: final
-coproposers: 10
+coproposers: 22
 ---
 ## Synopsis
 This motion proposes an addition to party policy (PfSS) on the restitution and repatriation of cultural objects accumulated during colonialism.

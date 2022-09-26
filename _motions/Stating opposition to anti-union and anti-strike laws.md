@@ -1,10 +1,10 @@
 ---
-section:
-number: 67
+section: E
+number: 4
 title: Stating opposition to anti-union and anti-strike laws
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101888
 status: final
-coproposers: 8
+coproposers: 44
 ---
 ## Synopsis
 A motion stating the Green Party’s opposition to anti-union and anti-strike laws, noting the Conservative government’s policies; calling for the establishment of a positive charter of workers’ and trade union rights.

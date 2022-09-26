@@ -1,10 +1,10 @@
 ---
-section:
-number: 36
+section: D
+number: 14
 title: Green Party committee reform and expansion
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98143
 status: final
-coproposers: 1
+coproposers: 12
 ---
 ## Synopsis
 Given the wide-ranging remit of conference committees, in particular the Standing Orders Committee, all members should be able to vote for these committee, not just those who have the time and money to register for and attend Autumn Conference. Furthermore, committee membership should increase to accommodate the fact that GPEW  

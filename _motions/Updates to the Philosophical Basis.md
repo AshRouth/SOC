@@ -1,10 +1,10 @@
 ---
-section:
-number: 76
+section: E
+number: 1
 title: Updates to the Philosophical Basis
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101586
 status: final
-coproposers: 7
+coproposers: 13
 affiliated: true
 ---
 ## Synopsis

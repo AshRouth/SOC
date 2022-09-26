@@ -1,10 +1,10 @@
 ---
-section:
-number: 15
+section: C
+number: 1
 title: Climate Targets
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99015
 status: final
-coproposers: 10
+coproposers: 16
 affiliated: true
 ---
 ## Synopsis

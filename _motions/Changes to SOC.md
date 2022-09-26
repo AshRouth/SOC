@@ -1,10 +1,10 @@
 ---
-section:
-number: 14
+section: D
+number: 6
 title: Changes to SOC
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101841
 status: final
-coproposers: 5
+coproposers: 11
 ---
 ## Synopsis
 This motion responds to support in the recent consultations by the Party Structure Working Group to increase the number of people in SOC and to split out its work into two different committees, one dealing with the constitution and one dealing with conference.

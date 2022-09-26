@@ -1,10 +1,10 @@
 ---
-section:
-number: 21
+section: E
+number: 17
 title: Enabling Motion for culture and Media Policies
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100427
 status: final
-coproposers: 5
+coproposers: 15
 ---
 ## Synopsis
 The Culture, Media and Sport Policy Chapter received its last major update in 2007, and its last update in 2014. A rewrite is required to reflect changes to the media environment since then.

@@ -1,10 +1,10 @@
 ---
-section:
-number: 77
+section: B
+number: 1
 title: Voting Paper - Land Use
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98794
 status: final
-coproposers: 11
+coproposers: 19
 ---
 ## Synopsis
 Current Green Party policies require more land than exists in the UK.

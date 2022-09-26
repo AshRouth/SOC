@@ -1,13 +1,13 @@
 ---
-section:
-number: 43
+section: D
+number: 18
 title: Pathfinder Motion
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101657
 status: final
-coproposers: 4
+coproposers: 10
 ---
 ## Synopsis
-Housing for 18-30 year old; float a local council housing bond for (day) £2bn; allow 18-30 year olds to buy into the bond to buy a flat or house which would be built by local authorities; they can invest from between 5% and 40%. They can sell their investment at any time but can only take out the same percentage they put in; its value may go up or But they must sell between their 29th and 30th birthdays. This way a rolling stock of housing will always be available. This can also work for those over 70 except the bond lasts as long as they live. This bond provides levels of care, in-house cafes, a film centre and hospice care at the last on three different floors
+This motion is proposed as a result of the work undertaken by the Party Structure Working Group and seeks to coalesce consensus from conference around a desired end state that will inform a series of motion to be bought to the next two conferences.  The proposals seek to balance a bottom up led movement with political agility.
 
 ## Motion
 Conference instructs that the Green Party Executive (GPEx) and the Green Party Regional Council (GPRC) work together to bring a series of motions to the next two conferences that will change the party’s constitution and structure to deliver the following changes:

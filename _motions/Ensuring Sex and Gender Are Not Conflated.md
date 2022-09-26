@@ -1,10 +1,10 @@
 ---
-section:
-number: 29
+section: E
+number: 9
 title: Ensuring Sex and Gender Are Not Conflated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100420
 status: final
-coproposers: 1
+coproposers: 51
 ---
 ## Synopsis
 Sex refers to biology which is immutable, gender is a social construction

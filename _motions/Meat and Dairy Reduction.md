@@ -1,10 +1,10 @@
 ---
-section:
-number: 41
+section: OoO
+number: 3
 title: Meat and Dairy Reduction
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101937
 status: final
-coproposers: 10
+coproposers: 30
 ---
 ## Synopsis
 No synopsis submitted

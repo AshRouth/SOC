@@ -1,10 +1,10 @@
 ---
-section:
-number: 71
+section: E
+number: 11
 title: Supporting workers taking strike action
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101892
 status: final
-coproposers: 2
+coproposers: 35
 ---
 ## Synopsis
 A motion stating general support for workers organising industrial action to demand pay to match or exceed the rate of price inflation.

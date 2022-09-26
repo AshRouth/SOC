@@ -1,10 +1,10 @@
 ---
-section:
-number: 12
+section: D
+number: 16
 title: Changes to GPEx
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101838
 status: final
-coproposers: 6
+coproposers: 13
 ---
 ## Synopsis
 This motion reflects suggestions made by members in consultation with Party Structure Working Group to make GPEx smaller and simplify it.

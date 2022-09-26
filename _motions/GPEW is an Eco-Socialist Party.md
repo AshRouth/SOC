@@ -1,10 +1,10 @@
 ---
-section:
-number: 35
+section: E
+number: 13
 title: GPEW is an Eco-Socialist Party
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98641
 status: final
-coproposers: 11
+coproposers: 17
 ---
 ## Synopsis
 Capitalism is incompatible with a just society and a sustainable future. The exploitation of people and the planet, necessitated by capitalism, is fundamentally contradictory with Green principles; there can be no sustainable society under a system which is defined by constant growth.

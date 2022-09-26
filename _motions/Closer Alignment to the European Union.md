@@ -1,10 +1,10 @@
 ---
-section:
-number: 16
+section: C
+number: 3
 title: Closer Alignment to the European Union
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99034
 status: final
-coproposers: 11
+coproposers: 24
 affiliated: true
 ---
 ## Synopsis

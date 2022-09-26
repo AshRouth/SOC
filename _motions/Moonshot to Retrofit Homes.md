@@ -1,22 +1,17 @@
 ---
-section:
-number: 42
+section: E
+number: 7
 title: Moonshot to Retrofit Homes
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102562
 status: final
-coproposers: 5
+coproposers: 17
 ---
 ## Background
 To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/moonshot.pdf)
 {:.alert .alert-primary}
 
 ## Synopsis
-The UK has many poorly-insulated homes which need a makeover to reduce fuel-use and make them comfortable. Four million UK households are in ‘fuel poverty’. The End Fuel Poverty Coalition predicts that by Oct 2022, fuel bills will plunge almost a third of our population into poverty.
-
-Three climate-related dangers
-
-Synopsis word limit reached
-{:.alert .alert-primary}
+A third of us face fuel-poverty. Our homes overheat in summer and get cold in winter; and they puff out 1/5th of our carbon emissions. Government should take a Moonshot approach to building a new economy, working on the complex, costly task of retrofitting homes with insulation, ventilation and renewables.
 
 ## Motion
 That the Green Party advocate a moonshot at retrofit to provide fuel security, make home-heating affordable, protect our people from ill-health and death, and tackle climate change.

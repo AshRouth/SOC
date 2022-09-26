@@ -1,10 +1,10 @@
 ---
-section:
-number: 32
+section: E
+number: 19
 title: Fully fund HS2
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101459
 status: final
-coproposers: 9
+coproposers: 21
 ---
 ## Synopsis
 This motion calls for HS2 to be funded and completed in full, including the entire Eastern leg and an underground through station at Manchester Piccadilly. This motion also calls for the full potential of HS2 to be by building in full Northern Powerhouse Rail which will use HS2 infrastructure.

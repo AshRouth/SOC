@@ -1,13 +1,13 @@
 ---
-section:
-number: 17
+section: D
+number: 4
 title: A toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102001
 status: final
-coproposers: 8
+coproposers: 37
 ---
 ## Synopsis
-The Green Party has many points of conflict and has been ill-equipped to resolve them. The resulting distress to many members actively prevents us from tackling the climate and social justice emergency. This motion calls for a toolkit for healing these divisions that would make us stronger as a Party. 
+The Green Party has many points of conflict and has been ill-equipped to resolve them. The resulting distress to many members actively prevents us from tackling the climate and social justice emergency. This motion calls for a toolkit for healing these divisions that would make us stronger as a Party.
 
 ## Background
 Insert into Record of Organisational Statements:
@@ -20,19 +20,20 @@ This toolkit should provide learning and development in order to give local & re
 
 •	more fully understand the points of conflict creating ruptures in the Party
 •	have the skills required to resolve conflicts when they arise
-•	renew our trust in each other as fellow activists. 
+•	renew our trust in each other as fellow activists.
 •	bring Party members together as a team
 •	get members to know each other better
 •	enable members to be better able to work, grow and learn together
-•	collectively develop members’ skills in conflict resolution, decision-making, facilitation, and leadership 
-Features of the toolkit should include: 
+•	collectively develop members’ skills in conflict resolution, decision-making, facilitation, and leadership
+
+Features of the toolkit should include:
 •	group training in conflict resolution, advanced communication, decision-making and non-violent communication (NVC)
 •	training in facilitation, chairing and mediation
-•	equalities training including but not limited to unconscious bias, racial equity, the global & historic impact of racism, misogyny & patriarchy, LGBTIQA+, disability & antisemitism 
+•	equalities training including but not limited to unconscious bias, racial equity, the global & historic impact of racism, misogyny & patriarchy, LGBTIQA+, disability & antisemitism
 •	facilitated dialogue within the group or local party, to safely discuss areas of conflict and embed productive communication skills
 •	informal ‘getting to know each other’ chats to provide opportunities to reconnect with the humanity of each other following the isolating pandemic
 
-Conference further instructs GPRC to: 
+Conference further instructs GPRC to:
 
 •	bring updates on progress with creating, launching, and rolling out the toolkit to subsequent Conferences
 •	bring a costing for carrying out the actions above to Spring Conference 2023 for approval, and updated costings where necessary to subsequent conferences for further approval

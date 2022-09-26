@@ -1,10 +1,10 @@
 ---
-section:
-number: 18
-title: Draft Voting Paper - Migration Policy
+section: F
+number: 1
+title: Migration Policy Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101504
 status: final
-coproposers: 10
+coproposers: 20
 ---
 ## Background
 **Need for the Policy**

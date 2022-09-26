@@ -1,10 +1,10 @@
 ---
-section:
-number: 68
+section: D
+number: 5
 title: Stonewall and Disaffiliation from Diversity Champions scheme
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100609
 status: final
-coproposers: 6
+coproposers: 44
 ---
 ## Synopsis
 No synopsis was submitted for this motion.

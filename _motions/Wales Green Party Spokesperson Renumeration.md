@@ -1,10 +1,10 @@
 ---
-section:
-number: 78
+section: D
+number: 3
 title: Wales Green Party Spokesperson Remuneration
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101869
 status: final
-coproposers: 8
+coproposers: 20
 ---
 ## Synopsis
 Greens in government in Wales and in England are a win-win situation, helping our credibility and legitimacy. Gaining Green Members in the Senedd is more possible due to voting system change. The funding of the Spokesperson/Leader of the Wales Green Party needs to be adequate to achieve this strategic goal.

@@ -1,14 +1,14 @@
 ---
-section:
-number: 44
+section: F
+number: 2
 title: Peace Security & Defence Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101496
 status: final
-coproposers: 7
+coproposers: 9
 ---
 ## Synopsis
-No synopsis was submitted for this motion.
-{:.alert .alert-primary}
+This revised and updated chapter titled Peace Security & Defence is to replace the existing chapter Peace and Defence in the Policies for a Sustainable Society, [PfSS] It updates policy in the light of recent global events including the UK’s withdrawal from the EU. It proposes policies to promote peace in addition to security and defence policy.
+
 
 ## Motion
 

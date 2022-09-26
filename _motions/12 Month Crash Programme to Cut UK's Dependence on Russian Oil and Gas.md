@@ -1,10 +1,10 @@
 ---
-section:
+section: C
 number: 2
 title: Emergency Energy Reduction for the UK
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97875
 status: final
-coproposers: 12
+coproposers: 22
 affiliated: true
 ---
 ## Background

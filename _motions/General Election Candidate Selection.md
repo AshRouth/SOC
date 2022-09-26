@@ -1,6 +1,6 @@
 ---
-section:
-number: 34
+section: D
+number: 10
 title: General Election Candidate Selection - Update to Rules
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101556
 status: final

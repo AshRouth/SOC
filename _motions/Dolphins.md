@@ -1,10 +1,10 @@
 ---
-section:
-number: 72
-title: Dolphins
+section: E
+number: 20
+title: Dolphins and Pilot Whales in the Faroe Islands
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
 status: final
-coproposers: 5
+coproposers: 30
 ---
 ## Synopsis
 Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end.

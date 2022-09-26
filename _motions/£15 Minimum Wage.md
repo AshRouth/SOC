@@ -1,10 +1,10 @@
 ---
-section:
-number: 1
+section: E
+number: 2
 title: £15 Minimum Wage
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101886
 status: final
-coproposers: 76
+coproposers: 99
 ---
 ## Synopsis
 A motion to support the introduction of a £15 an hour minimum wage for all workers and to support all trade union campaigns for a £15 an hour minimum wage.
@@ -21,5 +21,3 @@ The Green Party supports the introduction of a minimum wage of at least £15 an 
 The Green Party supports all trade union campaigns for £15 an hour, and will stand in solidarity with them in fighting for higher wages and working conditions.
 
 The Green Party will seek to introduce a minimum wage of at least £15 an hour after the next general election.
-
-Links to statistics will be added later today 19072022 and added to background paper for Accreditation submission.

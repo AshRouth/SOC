@@ -1,10 +1,10 @@
 ---
-section:
-number: 51
+section: D
+number: 1
 title: Reforming the party’s Annual General Meeting
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101588
 status: final
-coproposers: 6
+coproposers: 15
 ---
 ## Synopsis
 Our current process for the Annual General Meeting is confusing and ill-defined, leading to a situation where the required business frequently dominates Autumn Conference to the exclusion of other important motions. This organisational motion seeks to clearly separate AGM business from other Conference business and clarify the processes involved.

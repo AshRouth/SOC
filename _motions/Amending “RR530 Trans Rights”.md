@@ -1,10 +1,10 @@
 ---
-section:
-number: 8
+section: OoO
+number: 1
 title: Amending “RR530 Trans Rights”
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98159
 status: final
-coproposers: 25
+coproposers: 12
 ---
 ## Synopsis
 Much has happened outside, and within the Green Party, since this policy was approved at the 2016 Autumn Conference with C4 motion “Recognising Trans identities” proposed by Aimee Challenor. The time has come for an update and for the party to resolve what has been a deeply divisive policy.
