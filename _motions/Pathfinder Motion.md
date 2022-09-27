@@ -75,3 +75,11 @@ The Young Greens would be recognised as the official youth wing of the Party.
 
 The wording of the documentation should be designed to make it accessible to all members and encourage good governance.  There will also be a requirement for the company to look at Directors and Officers Insurance and to progress this if financially viable.
 Where the intent of the motion cannot be met due to current legislation practical amends that deliver the same intent will be acceptable.
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%} 
+
+{%include amendment.html number="3"%}
+
+{%include amendment.html number="4"%}

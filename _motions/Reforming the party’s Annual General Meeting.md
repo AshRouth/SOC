@@ -161,3 +161,7 @@ g) Members of SOC and Alternative Dispute Resolution Committee shall take office
 So that it reads:
 
 g) Members of SOC and Alternative Disputes Resolution Committee shall take office at the end of the Conference at which they were elected.
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%} 

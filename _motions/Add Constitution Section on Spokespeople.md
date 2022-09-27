@@ -77,3 +77,7 @@ Currently Spokesperson posts are:
 10.  In the event of ten per cent of the membership or twenty percent of constituted Local Parties petitioning the Regional Council, a two-thirds majority of Spokespeople, or a unanimous decision by (Co-)Leader(s) and Deputy Leader(s) to recall a Spokesperson, a new selection process for that post only shall be held in which the current post-holder shall not be eligible to apply. The current post-holder will retain their post until the result of that selection.
 
 11.  In the event of the resignation or suspension of a Spokesperson, there will be a new selection by the (Co-)Leader(s) and Deputy Leader(s) for that post only. They shall serve a term lasting as if they were starting following the selection of the previous post-holder.
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%} 

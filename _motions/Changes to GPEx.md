@@ -114,3 +114,13 @@ iii.	The EEDI Committee shall also include a representative of each group that i
 iv.	The EEDI Committee shall provide a report to each Annual Conference.
 
 v.	The role of the EEDI Committee shall be to support the work of GPEx to improve Equalities Equity Diversity and Inclusion within the Green Party.
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%} 
+
+{%include amendment.html number="3"%}
+
+{%include amendment.html number="4"%}
+
+{%include amendment.html number="5"%}

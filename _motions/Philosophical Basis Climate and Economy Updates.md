@@ -369,3 +369,9 @@ necessarily accessed through wage labour. We also oppose the view that hard work
 praised for its own sake. A flourishing life is one that includes time for self-development, respect,
 fulfilment and the opportunity to contribute to the common good as well as time for relaxation,
 replenishment and enjoyment.”
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%} 
+
+{%include amendment.html number="3"%}

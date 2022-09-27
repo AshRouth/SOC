@@ -30,3 +30,5 @@ Conference instructs the Green Party Executive to publicly and fully campaign fo
 Conference instructs the Green Party Executive to set up a working group and work in conjunction with the General Election steering group on how a Green Government would finance an end to HIV transmission with a Green Government.
 
 Conference also instructs the Green Party Campaigns Coordinator and Campaigns Committee and the Association of Green Councillors to work with the LGBTIQA+ Greens on a fully pledged campaign, working with Councillors to bring motions forward at local authorities.
+
+{%include amendment.html number="1"%}

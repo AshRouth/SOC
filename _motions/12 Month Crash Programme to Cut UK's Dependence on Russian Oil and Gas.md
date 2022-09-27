@@ -38,3 +38,9 @@ In addition we demand that the government makes the case, as acts of solidarity 
 * Heating buildings less.
 
 The government should also reduce road speed limits, as was done during the 1973 oil crisis (and to match many other countries’ actions).
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%} 
+
+{%include amendment.html number="3"%}
