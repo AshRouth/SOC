@@ -21,3 +21,5 @@ The Green Party supports the introduction of a minimum wage of at least £15 an 
 The Green Party supports all trade union campaigns for £15 an hour, and will stand in solidarity with them in fighting for higher wages and working conditions.
 
 The Green Party will seek to introduce a minimum wage of at least £15 an hour after the next general election.
+
+{%include amendment.html number="1"%} 

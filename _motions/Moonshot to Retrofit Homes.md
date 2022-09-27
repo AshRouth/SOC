@@ -28,3 +28,5 @@ Insulation, heat-pumps, solar panels and other materials should be prioritised f
 We call on Government for moonshot pump-priming of this new industry and constant, reliable, long-term funding. Government is to provide £30bn towards fuel bills this year. That annual quantum could create the structural mechanism and enable the deep retrofit ultimately of at least a million homes a year.
 
 The time for retrofit is now. An economic boom would come from targetted investment in our homes, with a market of millions of householders. A moonshot approach would see the UK leading from the front with a world-class, exportable, innovatory strategy for mass-retrofit.
+
+{%include amendment.html number="1"%} 

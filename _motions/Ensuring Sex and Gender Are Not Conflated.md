@@ -23,3 +23,5 @@ The Green Party calls for a review of the language used in law, in government bo
 Gender is a term that cannot easily be defined in law, whereas sex has a clear meaning, and as the basis of female oppression is essential to be recorded in many circumstances.
 
 Therefore when data is being collected and analysed to form policy in relation to women, attention should be paid to whether the data is segregated by sex or by gender, and sex segregated data must be collected in order to monitor the effects of biological sex with regard to women’s position in society.
+
+{%include amendment.html number="1"%} 
