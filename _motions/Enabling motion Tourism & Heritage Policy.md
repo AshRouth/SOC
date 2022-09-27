@@ -10,6 +10,9 @@ coproposers: 12
 PDC to establish a working group to review the Green Party Tourism policies, last reviewed in 2009 with a particular remit to develop and incorporate Heritage policies to incorporate in this section of the PfSS.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 The Green Party Tourism Policy in Policies for a Sustainable Society (PfSS) was last reviewed in 2009, and has had no amendments since 2014. The policies need to be reviewed to take account of changes in the world since then. The Green Party does not have a Heritage Policy, and an enabling motion to agree one expired.
 
 Conference instructs Policy Development Committee (PDC) to initiate a policy development process to:

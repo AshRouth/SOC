@@ -9,6 +9,10 @@ coproposers: 6
 ## Synopsis
 Autumn 2020 Conference tasked SOC with reforming the proxy voting system. Proxy voting effectively gives some members more votes than others, but removing proxy voting raises issues about the accessibility of Conference. SOC believes post-plenary voting on motions would allow both removal of proxy voting and enable greater accessibility.
 
+## Background
+To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/socbp.pdf)
+{:.alert .alert-primary}
+
 ## Motion
 Section 1 - removal of voting from plenary except for procedural motions & removal of proxy voting
 

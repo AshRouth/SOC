@@ -14,6 +14,9 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 A third of us face fuel-poverty. Our homes overheat in summer and get cold in winter; and they puff out 1/5th of our carbon emissions. Government should take a Moonshot approach to building a new economy, working on the complex, costly task of retrofitting homes with insulation, ventilation and renewables.
 
 ## Motion
+SOC notes: This will be added into the Record of Policy Statements
+{:.alert .alert-primary}
+
 That the Green Party advocate a moonshot at retrofit to provide fuel security, make home-heating affordable, protect our people from ill-health and death, and tackle climate change.
 
 Government and councils should take a systems-approach to mass-retrofit; creating a national structure with delivery through local councils; with grants and zero-interest loans to householders.

@@ -193,6 +193,8 @@ Change must start now. It should be completed within 10 years. It will
 be achieved by encouraging and supporting people to be good stewards
 of the land.
 
+{%include B01A01.html number="1"%}
+
 **LD402** Peatlands must be restored as quickly as possible to a near
 natural condition. Rewetting of lowland farmland on peat must take
 precedence over upland peat, and begin immediately. Tree planting on
@@ -449,7 +451,7 @@ obligations."
 **Change the first sentence and insert a second sentence**
 so that it reads: \\
 **"EC777** A carbon tax will be introduced whereby a steadily rising
-price will be placed ces of greenhouse gas emissions in the UK, and
+price will be placed on sources of greenhouse gas emissions in the UK, and
 those embedded in imports . The exception to this will be all (non-built
 environment) emissions from land and livestock management, which will be
 discouraged via land management investment support (see FA301, FA602, LD505), or restricted via the
@@ -466,7 +468,7 @@ policy. Where stewardship obligations are placed on land holders to
 conserve wildlife habitats, archaeological sites or other landscape
 features, the capital value of the land may be assessed as zero or
 negative, and LVT would then become a subsidy. The effect of LVT on UK
-Agriculture will be managed through changes to l ent and support, in
+Agriculture will be managed through changes to land management investment and support, in
 line with objectives laid out in the LVT will be introduced gradually
 over a number of years. As a transitional measure, where land
 necessarily attached to a domestic dwelling was subject to a mortgage on
@@ -735,7 +737,7 @@ opportunities, particularly flood mitigation (See LD503).".
 **In HO401(a), replace the reference to LD400 (LVT), with a reference to EC780,**
 where the substantive policy sits, so that it reads: \\
 "a) gradually introduce a Land Value Tax (see EC780) to reduce profits
-from speculation on existing homes and development sites, aert term
+from speculation on existing homes and development sites, and in the short term
 increase the amount of land held by Community Land Trusts (see HO513-514);".
 
 #### Industry
@@ -1084,3 +1086,7 @@ ability to care for the planet.".
 
 No changes are proposed in this Voting Paper to the Records on Policy
 Statements or the 2019 General Election Manifesto.
+
+{%include B01A02.html number="2"%} 
+
+{%include B01A03.html number="3"%}

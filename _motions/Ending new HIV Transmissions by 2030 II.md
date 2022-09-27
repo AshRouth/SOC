@@ -10,6 +10,9 @@ coproposers: 29
 HIV affects every person regardless of age, gender, and ethnicity, and disproportionately impacts gay and bisexual men, trans people, migrants, and people of colour. The Green Party must adopt the targets recommended by the HIV Commission, campaign to ensure every part of the NHS and its partners do everything possible to end HIV transmissions by the end of the decade.
 
 ## Motion
+SOC notes: This motion has been split into two parts; the other part is in Section D.
+{:.alert .alert-primary}
+
 In: “HE1200 Sexual Health is a core provision of the NHS. The Green Party would provide more funding for sexual health awareness campaigns, provide greater access to free condoms and sexual health clinics.”,
 
 Delete: “The Green Party would provide more funding for sexual health awareness campaigns, provide greater access to free condoms and sexual health clinics."

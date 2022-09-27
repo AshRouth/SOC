@@ -10,6 +10,9 @@ coproposers: 4
 Last year’s resignations of both the Party’s Co-Leaders exposed faults in the current wording of our Constitution in regard to leadership by-elections. A previous incarnation of SOC found that the clause in question, 8(xi), was capable of numerous different interpretations regarding the length of term that a new Leader or
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 Clause 8(xi) of the Constitution currently states:
 
 *“If there are Co-leaders and one of the Co-Leaders resigns, there will be a by-election for both Co-Leaders. If there are two deputy leaders, should one of the deputy leaders resign, there will be a by-election for both deputy leaders. They shall serve a term lasting as if they were starting following the result of the previous Annual Ballot, or if held after May, lasting as if it were starting following the result of the next Annual Ballot.”*

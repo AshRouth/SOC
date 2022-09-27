@@ -11,6 +11,9 @@ affiliated: true
 Autumn Conference 2021 instructed the Rights and Responsibilities Policy Working Group (R&RPWG) to review and update the Rights and Responsibilities Chapter and relevant elements of the Philosophical Basis of Policies for a Sustainable Society. The R&RPWG is proposing the following changes which it considers to be essential to its work.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 In the ‘Humans in Society’ element of the Philosophical Basis, delete;
 
 PB301 Implementing the policies which will create an ecological society will necessarily take many years. It will require a great deal of social change if we are to accommodate the massive environmental changes facing us. We can, nevertheless, identify a number of principles upon which a truly sustainable society will be based.

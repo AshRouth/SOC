@@ -10,6 +10,9 @@ coproposers: 16
 To expand the Disciplinary Committee from 11 to 22 members.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 4.x currently reads:
 
 “There shall be a Disciplinary Committee, elected to handle all complaints of a disciplinary nature which have not been resolved at Regional or Local Party level. The committee will comprise eleven members, one member from each region, one from the Wales Green Party and a member elected biennially at the autumn conference. The term of office will be two years.”

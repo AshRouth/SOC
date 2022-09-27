@@ -10,6 +10,9 @@ coproposers: 12
 Policy Development Committee membership, according to the constitution, has to change annually as all 5 roles are up for election. This motion seeks to alter the constitution to extend membership for elected members to 2 years, to provide for stability and experience which are important to provide policy development support.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 Revise constitution as follows
 
 POLICY MAKING currently reads:

@@ -18,4 +18,10 @@ Conference believes that the current inflation is being caused by a combination 
 
 Conference applauds workers taking strike action and other industrial action to demand the government and employers meet these demands for pay and address the cost of living emergency. Conference applauds trade unions that recognise and use their leverage in a capitalist economy to advance the interests of both their members and working people as a whole, and urge unions to coordinate their efforts along industrial lines. We support building strike readiness across the general working population, and the building of a general strike for a political solution to the cost-of-living crisis.
 
-Conference calls for non-wage labour income, such as welfare benefits, to be increased to match or exceed the real rate of inflation. Conference further calls for a system of price controls to be introduced on key goods and services such as energy, to immediately mitigate the pressure on household incomes.
+SOC has ruled the final sentence below out of order as it strays too far from the subject of the motion and has complex implications for multiple other areas of policy.
+{:.alert .alert-primary}
+
+Conference calls for non-wage labour income, such as welfare benefits, to be increased to match or exceed the real rate of inflation.
+
+[OoO starts] Conference further calls for a system of price controls to be introduced on key goods and services such as energy, to immediately mitigate the pressure on household incomes. [OoO ends]
+{:.alert .alert-danger}

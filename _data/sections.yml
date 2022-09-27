@@ -16,14 +16,5 @@
 - name: Section F
   code: F
 
-- name: Section G
-  code: G
-
 - name: Out of Order
   code: OoO
-
-- name: Appendix
-  code: App
-
-- name: Motions
-  code: 

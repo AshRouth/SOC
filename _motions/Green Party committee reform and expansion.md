@@ -13,6 +13,9 @@ Synopsis word limit reached
 {:.alert .alert-primary}
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 Add a new article 9 subsection e) of the GPEW constitution, which reads:
 
 “All members of Standing Orders Committee, Campaigns Committee, Conferences Committee, Disputes Resolution Committee, Equality & Diversity Committee, Green World Editorial Board, and International Committee.”

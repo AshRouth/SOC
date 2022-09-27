@@ -10,6 +10,9 @@ coproposers: 13
 This motion reflects suggestions made by members in consultation with Party Structure Working Group to make GPEx smaller and simplify it.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass. If passed, changes will come into effect from the Annual Ballots of 2023 & 2024 as relevant.
+{:.alert .alert-primary}
+
 Amend Clause 7 in the constitution as follows to
 
 •	Clarify the separation of duties as they affect other constituted bodies (7i)

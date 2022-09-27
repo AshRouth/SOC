@@ -10,6 +10,9 @@ coproposers: 12
 Local parties are selecting General Election candidates ahead of the next election. A recent update of the General Election candidate selection guidance has clarified the process for local parties but this motion aims to make three changes to the bye-laws on General Election candidate selection to improve the process further.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 In Clause 5(xvii) of the constitutional bylaws (Selection of Candidates for the House of Commons)
 
 Replace (9):

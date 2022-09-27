@@ -17,6 +17,9 @@ recent updates to the Policies for a Sustainable Society (PSS) that recognise th
 and biodiversity crises are now more evident and warrant more urgent and ambitious action.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 Changes to Core Values and the Philosophical Basis
 
 Core principle 9 currently reads:

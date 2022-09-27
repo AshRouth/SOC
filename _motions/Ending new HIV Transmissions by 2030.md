@@ -10,6 +10,9 @@ coproposers: 29
 HIV affects every person regardless of age, gender, and ethnicity, and disproportionately impacts gay and bisexual men, trans people, migrants, and people of colour. The Green Party must adopt the targets recommended by the HIV Commission, campaign to ensure every part of the NHS and its partners do everything possible to end HIV transmissions by the end of the decade.
 
 ## Motion
+SOC notes: This motion has been split into two parts; the other part is in Section E
+{:.alert .alert-primary}
+
 Conference recognises that health is a fundamental human right. The vast majority of people diagnosed with HIV are promptly prescribed antiretroviral therapies and live long and healthy lives. Those on effective treatment cannot pass on the virus (Undetectable = Untransmissable). Since Terry Higgins was one of the first deaths from an AIDS related disease 40 years ago, the Terrence Higgins Trust has fought for better healthcare, HIV prevention, services and for the rights of people living with HIV.
 
 Conference notes and supports the recommendations made by the HIV Commission, founded by the Terrence Higgins Trust, the National AIDS Trust, and the Elton John AIDS Foundation, which provide recommendations on how to end new cases of HIV by 2030.

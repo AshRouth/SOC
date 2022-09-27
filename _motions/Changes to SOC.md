@@ -10,6 +10,9 @@ coproposers: 11
 This motion responds to support in the recent consultations by the Party Structure Working Group to increase the number of people in SOC and to split out its work into two different committees, one dealing with the constitution and one dealing with conference.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 Constitution
 
 Insert a new Clause 10 , reflect this in the page contents of the constitution and re-number the sections of the constitution accordingly

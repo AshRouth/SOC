@@ -13,6 +13,9 @@ This motion would add a section on Spokespeople to the constitution. This motion
 The selection process of Spokespeople is unclear to those not in GPEx. As our Spokespeople are effectively seen as our Party’s ‘frontbench’, with Party (Co-)Leader(s) and Deputy Leader(s) are often held responsible for Party Spokespeople by the general public, there should be a clear selection process, by the Party (Co-)Leader(s) and Deputy Leader(s), and recall process of our Party’s Spokespeople.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 Add a new section to the constitution titled Spokespeople.
 
 The content of this section will state:

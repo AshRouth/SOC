@@ -10,6 +10,9 @@ coproposers: 35
 The separate election for Deputy Leader in 2022 identified a gap in our gender balancing rules leading to no women being on the ballot. This motion corrects that for all roles elected in the Annual Ballot.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 In Section 9 of the Constitution (Annual Ballot), amend Clause 9(iii) which currently reads:
 
 > *“The nominations for all posts included in an Annual Ballot shall open at 10.00 on the first week-day in June and close at noon on the last week-day in June.  Voting shall close on receipt of the last post on the last week-day of August or five week-days before the start of the Autumn conference, whichever is the sooner.”*

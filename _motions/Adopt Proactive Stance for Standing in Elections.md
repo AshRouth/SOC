@@ -10,6 +10,9 @@ coproposers: 14
 Change constitution to always run in elections.
 
 ## Motion
+SOC notes: This motion will require a two-thirds majority to pass.
+{:.alert .alert-primary}
+
 In section 3 part b of the constitution: b) to that end to win seats at all levels of government; Add: Between “to” and “win” insert “run in all possible elections and”
 
 So it reads: b) to that end to run in all possible elections and win seats at all levels of government wherever financially and organisationally feasible.
