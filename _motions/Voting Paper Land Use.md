@@ -1,7 +1,7 @@
 ---
 section: B
 number: 1
-title: Voting Paper - Land Use
+title: Land Use Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98794
 status: final
 coproposers: 19
@@ -193,7 +193,7 @@ Change must start now. It should be completed within 10 years. It will
 be achieved by encouraging and supporting people to be good stewards
 of the land.
 
-{%include B01A01.html number="1"%}
+{% include amendment.html number="1"%}
 
 **LD402** Peatlands must be restored as quickly as possible to a near
 natural condition. Rewetting of lowland farmland on peat must take
@@ -1087,6 +1087,6 @@ ability to care for the planet.".
 No changes are proposed in this Voting Paper to the Records on Policy
 Statements or the 2019 General Election Manifesto.
 
-{%include B01A02.html number="2"%} 
+{%include amendment.html number="2"%} 
 
-{%include B01A03.html number="3"%}
+{%include amendment.html number="3"%}
