@@ -16,5 +16,8 @@
 - name: Section F
   code: F
 
+- name: Late Motions
+  code: LM
+
 - name: Out of Order
   code: OoO
