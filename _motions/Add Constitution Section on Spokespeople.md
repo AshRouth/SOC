@@ -24,39 +24,39 @@ The content of this section will state:
 
 Currently Spokesperson posts are:
 
-* Animal Rights Spokesperson
+Animal Rights Spokesperson
 
-* Business, Economy and Finance Spokesperson
+Business, Economy and Finance Spokesperson
 
-* Digital, Culture, Media and Sport Spokesperson
+Digital, Culture, Media and Sport Spokesperson
 
-* Education Spokesperson
+Education Spokesperson
 
-* Environment, Food and Rural Affairs Spokesperson
+Environment, Food and Rural Affairs Spokesperson
 
-* Equality, Diversity and Inclusion Spokesperson
+Equality, Diversity and Inclusion Spokesperson
 
-* Energy Spokesperson
+Energy Spokesperson
 
-* Foreign Affairs and International Development Spokesperson
+Foreign Affairs and International Development Spokesperson
 
-* Green New Deal Spokesperson
+Green New Deal Spokesperson
 
-* Health and Social Care Spokesperson
+Health and Social Care Spokesperson
 
-* Housing, Communities and Local Government Spokesperson
+Housing, Communities and Local Government Spokesperson
 
-* Justice Spokesperson
+Justice Spokesperson
 
-* Migration and Refugee Support Spokesperson
+Migration and Refugee Support Spokesperson
 
-* Transport Spokesperson
+Transport Spokesperson
 
-* Wales Spokesperson
+Wales Spokesperson
 
-* Work and Pensions Spokesperson
+Work and Pensions Spokesperson
 
-* Youth and Student Spokespeople
+Youth and Student Spokespeople
 
 2.  Spokespeople will be the public faces of the Party, responsible for presenting Green Party policy and promoting its campaigns, relevant to their role, to the public on a daily basis.
 
@@ -80,4 +80,4 @@ Currently Spokesperson posts are:
 
 {%include amendment.html number="1"%}
 
-{%include amendment.html number="2"%} 
+{%include amendment.html number="2"%}
