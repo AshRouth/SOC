@@ -621,3 +621,21 @@ SOC is of the opinion that it can not accept the ERO undermining SOC's standing 
 There is no clause stating that SOC rulings may be invalidated by consultation with previous Co-Convenors of SOC. The final say on SOC rulings is made at and by Conference. SOC's rulings on the constitution are subject to approval by Conference via the SOC Report, and any attendee may submit an amendment asking Conference to over-rule a particular SOC decision.
 Consequently, SOC's view is that it can not retain confidence in an ERO who declares its interpretation of the constitution invalid on the basis of consultation with previous SOC Co-Convenors.
 SOC would like to emphasise that the current ERO has contributed a great deal to the Party, and SOC respects the work he has done during his own terms on SOC. It is with regret that this vote was called and carried, but SOC can not retain confidence in an ERO who declares its interpretations to be unconstitutional.
+
+{%include amendment.html number="1"%}
+
+{%include amendment.html number="2"%}
+
+{%include amendment.html number="3"%}
+
+{%include amendment.html number="4"%}
+
+{%include amendment.html number="5"%}
+
+{%include amendment.html number="6"%}
+
+{%include amendment.html number="7"%}
+
+{%include amendment.html number="8"%}
+
+{%include amendment.html number="9"%}  
