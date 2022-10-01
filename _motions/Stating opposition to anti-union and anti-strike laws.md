@@ -3,7 +3,7 @@ section: E
 number: 4
 title: Stating opposition to anti-union and anti-strike laws
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101888
-status: final
+status: passed
 coproposers: 44
 ---
 ## Synopsis
