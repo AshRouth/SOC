@@ -3,7 +3,7 @@ section: A
 number: 6
 title: Publications Co-ordinator report
 spaces:
-status: tbd
+status: defeated
 coproposers:
 ---
 ## Motion
