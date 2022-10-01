@@ -3,7 +3,7 @@ section: A
 number: 12
 title: Green party executive committee chair report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion

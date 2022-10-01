@@ -3,7 +3,7 @@ section: A
 number: 17
 title: Bullying and Harassment Subcommittee report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion

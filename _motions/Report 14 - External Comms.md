@@ -3,7 +3,7 @@ section: A
 number: 14
 title: External Communications Coordinator Report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion
