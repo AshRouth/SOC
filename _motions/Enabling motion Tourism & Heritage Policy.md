@@ -3,7 +3,7 @@ section: E
 number: 10
 title: Enabling motion Tourism & Heritage Policy
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101280
-status: final
+status: passed
 coproposers: 12
 ---
 ## Synopsis

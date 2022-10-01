@@ -3,7 +3,7 @@ section: E
 number: 12
 title: Enabling Motion for the Natural Resources and Waste Management Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98335
-status: final
+status: passed
 coproposers: 16
 ---
 ## Synopsis

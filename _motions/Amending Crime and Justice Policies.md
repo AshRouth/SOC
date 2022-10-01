@@ -3,7 +3,7 @@ section: E
 number: 5
 title: Amending Crime and Justice Policies
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101883
-status: final
+status: passed
 coproposers: 35
 ---
 ## Synopsis

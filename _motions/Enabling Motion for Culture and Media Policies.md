@@ -3,7 +3,7 @@ section: E
 number: 17
 title: Enabling Motion for culture and Media Policies
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100427
-status: final
+status: passed
 coproposers: 15
 ---
 ## Synopsis

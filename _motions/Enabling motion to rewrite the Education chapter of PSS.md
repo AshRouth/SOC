@@ -3,7 +3,7 @@ section: E
 number: 15
 title: Enabling motion to rewrite the Education chapter of PSS
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100954
-status: final
+status: passed
 coproposers: 6
 affiliated: true
 ---

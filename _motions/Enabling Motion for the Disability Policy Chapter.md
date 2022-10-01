@@ -3,7 +3,7 @@ section: E
 number: 6
 title: Enabling Motion for the Disability Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101775
-status: final
+status: passed
 coproposers: 17
 ---
 ## Synopsis

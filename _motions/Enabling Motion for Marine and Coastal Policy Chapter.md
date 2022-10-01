@@ -3,7 +3,7 @@ section: E
 number: 8
 title: Enabling Motion for Marine and Coastal Policy Chapter
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100485
-status: final
+status: passed
 coproposers: 22
 ---
 ## Synopsis

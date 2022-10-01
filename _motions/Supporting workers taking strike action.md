@@ -3,7 +3,7 @@ section: E
 number: 11
 title: Supporting workers taking strike action
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101892
-status: final
+status: passed
 coproposers: 35
 ---
 ## Synopsis
