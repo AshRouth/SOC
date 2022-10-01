@@ -1087,6 +1087,8 @@ ability to care for the planet.".
 No changes are proposed in this Voting Paper to the Records on Policy
 Statements or the 2019 General Election Manifesto.
 
-{%include amendment.html number="2"%} 
+{%include amendment.html number="1"%} 
+
+{%include amendment.html number="2"%}
 
 {%include amendment.html number="3"%}
