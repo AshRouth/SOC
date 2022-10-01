@@ -4,7 +4,7 @@ number: 1
 title: Standing Orders Committee report
 spaces:
 status: passed
-coproposers: 12
+coproposers:
 ---
 ## Motion
 SOC note: Record of Organisational Statements for SOC is in Appendix 4

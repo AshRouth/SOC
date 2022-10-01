@@ -3,7 +3,7 @@ section: A
 number: 7
 title: Local Party Support Coordinator report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion

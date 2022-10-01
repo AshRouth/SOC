@@ -3,7 +3,7 @@ section: A
 number: 4
 title: Co-leaders’ report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion

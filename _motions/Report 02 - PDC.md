@@ -3,7 +3,7 @@ section: A
 number: 2
 title: Policy development committee report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion
