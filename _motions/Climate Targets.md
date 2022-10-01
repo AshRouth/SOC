@@ -247,7 +247,7 @@ The emissions reductions are built on the following main assumptions:
 
 {%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2" status="passed""%}
+{%include amendment.html number="2" status="passed"%}
 
 {%include amendment.html number="3" status="passed"%}
 
