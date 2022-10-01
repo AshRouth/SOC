@@ -3,7 +3,7 @@ section: B
 number: 1
 title: Land Use Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98794
-status: final
+status: referred
 coproposers: 19
 ---
 ## Synopsis
@@ -1087,8 +1087,8 @@ ability to care for the planet.".
 No changes are proposed in this Voting Paper to the Records on Policy
 Statements or the 2019 General Election Manifesto.
 
-{%include amendment.html number="1" status="passed"%} 
+{%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2"%}
+{%include amendment.html number="2" status="passed"%}
 
-{%include amendment.html number="3"%}
+{%include amendment.html number="3" status="defeated"%}

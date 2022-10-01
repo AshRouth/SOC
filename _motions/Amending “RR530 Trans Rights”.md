@@ -3,7 +3,7 @@ section: OoO
 number: 1
 title: Amending “RR530 Trans Rights”
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98159
-status: final
+status: tbd
 coproposers: 12
 ---
 ## Synopsis

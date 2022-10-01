@@ -3,7 +3,7 @@ section: E
 number: 9
 title: Ensuring Sex and Gender Are Not Conflated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100420
-status: final
+status: tbd
 coproposers: 51
 ---
 ## Synopsis
@@ -24,4 +24,4 @@ Gender is a term that cannot easily be defined in law, whereas sex has a clear m
 
 Therefore when data is being collected and analysed to form policy in relation to women, attention should be paid to whether the data is segregated by sex or by gender, and sex segregated data must be collected in order to monitor the effects of biological sex with regard to women’s position in society.
 
-{%include amendment.html number="1"%} 
+{%include amendment.html number="1"%}

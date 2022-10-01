@@ -3,7 +3,7 @@ section: D
 number: 1
 title: Reforming the party’s Annual General Meeting
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101588
-status: final
+status: tbd
 coproposers: 15
 ---
 ## Synopsis
@@ -164,4 +164,4 @@ g) Members of SOC and Alternative Disputes Resolution Committee shall take offic
 
 {%include amendment.html number="1"%}
 
-{%include amendment.html number="2"%} 
+{%include amendment.html number="2"%}

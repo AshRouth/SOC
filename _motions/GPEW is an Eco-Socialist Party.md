@@ -3,7 +3,7 @@ section: E
 number: 13
 title: GPEW is an Eco-Socialist Party
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98641
-status: final
+status: tbd
 coproposers: 17
 ---
 ## Synopsis
@@ -19,6 +19,6 @@ To PB107 add the following text after “Rather than set them against each other
 
 {%include amendment.html number="1"%}
 
-{%include amendment.html number="2"%} 
+{%include amendment.html number="2"%}
 
 {%include amendment.html number="3"%}

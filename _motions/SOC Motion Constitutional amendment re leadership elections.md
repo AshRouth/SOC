@@ -3,7 +3,7 @@ section: D
 number: 19
 title: SOC Motion - Constitutional amendment re leadership election
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101264
-status: final
+status: tbd
 coproposers: 4
 ---
 ## Synopsis

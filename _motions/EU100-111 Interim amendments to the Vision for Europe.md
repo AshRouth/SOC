@@ -3,7 +3,7 @@ section: E
 number: 18
 title: EU100-111 Interim amendments to the Vision for Europe
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100189
-status: final
+status: tbd
 coproposers: 27
 ---
 ## Background

@@ -3,7 +3,7 @@ section: A
 number: 10
 title: Trade union liaison officer report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

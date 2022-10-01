@@ -3,7 +3,7 @@ section: A
 number: 16
 title: Management co-ordinator report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

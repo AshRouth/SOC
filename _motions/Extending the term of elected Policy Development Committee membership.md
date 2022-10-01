@@ -3,7 +3,7 @@ section: D
 number: 7
 title: Extending the term of elected Policy Development Committee membership
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101762
-status: final
+status: tbd
 coproposers: 12
 ---
 ## Synopsis

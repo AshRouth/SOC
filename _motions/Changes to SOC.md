@@ -3,7 +3,7 @@ section: D
 number: 6
 title: Changes to SOC
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101841
-status: final
+status: tbd
 coproposers: 11
 ---
 ## Synopsis

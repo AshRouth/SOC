@@ -3,7 +3,7 @@ section: OoO
 number: 7
 title: Support for a Clean Air as a Human Right Bill
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101859
-status: final
+status: tbd
 coproposers: 10
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: OoO
 number: 2
 title: Lethal Autonomous Weapons Systems (Killer Robots)
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101872
-status: final
+status: tbd
 coproposers: 25
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: E
 number: 7
 title: Moonshot to Retrofit Homes
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102562
-status: final
+status: tbd
 coproposers: 17
 ---
 ## Background
@@ -29,4 +29,4 @@ We call on Government for moonshot pump-priming of this new industry and constan
 
 The time for retrofit is now. An economic boom would come from targetted investment in our homes, with a market of millions of householders. A moonshot approach would see the UK leading from the front with a world-class, exportable, innovatory strategy for mass-retrofit.
 
-{%include amendment.html number="1"%} 
+{%include amendment.html number="1"%}

@@ -3,7 +3,7 @@ section: D
 number: 15
 title: Reopen Nominations to Avoid All Men and all White Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100998
-status: final
+status: tbd
 coproposers: 35
 ---
 ## Synopsis

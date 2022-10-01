@@ -3,7 +3,7 @@ section: A
 number: 9
 title: Alternative dispute resolution committee report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

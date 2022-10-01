@@ -3,7 +3,7 @@ section: D
 number: 9
 title: Enhancing the complaints process
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102023
-status: final
+status: tbd
 coproposers: 15
 ---
 ## Synopsis

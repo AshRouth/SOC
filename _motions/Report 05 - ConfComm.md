@@ -3,7 +3,7 @@ section: A
 number: 5
 title: Conferences committee report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

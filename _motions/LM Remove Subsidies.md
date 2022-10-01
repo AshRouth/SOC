@@ -3,7 +3,7 @@ section: LM
 number: 3
 title: Removing subsidies for fossil fuel consumption from the "fairer, greener bills" campaign
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-late-motions-forum/?contentId=107900
-status: final
+status: tbd
 coproposers: 92
 ---
 ## Synopsis

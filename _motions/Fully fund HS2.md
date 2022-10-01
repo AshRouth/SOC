@@ -3,7 +3,7 @@ section: E
 number: 19
 title: Fully fund HS2
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101459
-status: final
+status: tbd
 coproposers: 21
 ---
 ## Synopsis

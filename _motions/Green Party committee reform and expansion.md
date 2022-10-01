@@ -3,7 +3,7 @@ section: D
 number: 14
 title: Green Party committee reform and expansion
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98143
-status: final
+status: tbd
 coproposers: 12
 ---
 ## Synopsis

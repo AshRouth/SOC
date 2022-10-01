@@ -3,7 +3,7 @@ section: OoO
 number: 6
 title: Short term aims for reducing sewage in water
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101943
-status: final
+status: tbd
 coproposers: 3
 ---
 ## Synopsis

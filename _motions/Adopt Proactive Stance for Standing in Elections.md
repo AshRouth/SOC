@@ -3,7 +3,7 @@ section: D
 number: 13
 title: Adopt Proactive Stance for Standing in Elections
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101605
-status: final
+status: tbd
 coproposers: 14
 ---
 ## Synopsis

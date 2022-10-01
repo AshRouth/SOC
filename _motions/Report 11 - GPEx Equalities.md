@@ -3,7 +3,7 @@ section: A
 number: 11
 title: Equality and diversity coordinators report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

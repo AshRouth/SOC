@@ -3,7 +3,7 @@ section: D
 number: 12
 title: Add Constitution Section on Spokespeople
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101634
-status: final
+status: tbd
 coproposers: 13
 ---
 ## Synopsis

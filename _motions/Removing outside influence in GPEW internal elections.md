@@ -3,7 +3,7 @@ section: D
 number: 11
 title: Changing Eligibility to Vote in  GPEW Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101082
-status: final
+status: tbd
 coproposers: 22
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: D
 number: 20
 title: SOC Motion - SOCC amendment for Conference reform
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101278
-status: final
+status: tbd
 coproposers: 6
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: E
 number: 20
 title: Dolphins and Pilot Whales in the Faroe Islands
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
-status: final
+status: tbd
 coproposers: 30
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: F
 number: 2
 title: Peace Security & Defence Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101496
-status: final
+status: tbd
 coproposers: 9
 ---
 ## Synopsis

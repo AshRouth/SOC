@@ -3,7 +3,7 @@ section: OoO
 number: 4
 title: Personal Carbon Allowances
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100611
-status: final
+status: tbd
 coproposers: 12
 ---
 ## Synopsis

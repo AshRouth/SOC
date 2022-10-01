@@ -3,7 +3,7 @@ section: A
 number: 13
 title: Green Party regional Council report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

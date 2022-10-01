@@ -3,7 +3,7 @@ section: D
 number: 22
 title: SOC Motion - SOCC amendment for separated motion submission deadlines
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101266
-status: final
+status: tbd
 coproposers: 4
 ---
 ## Synopsis

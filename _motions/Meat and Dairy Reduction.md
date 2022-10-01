@@ -3,7 +3,7 @@ section: OoO
 number: 3
 title: Meat and Dairy Reduction
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101937
-status: final
+status: tbd
 coproposers: 30
 ---
 ## Synopsis

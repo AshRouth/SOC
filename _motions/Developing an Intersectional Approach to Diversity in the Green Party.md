@@ -3,7 +3,7 @@ section: D
 number: 4
 title: A toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=102001
-status: final
+status: tbd
 coproposers: 37
 ---
 ## Synopsis

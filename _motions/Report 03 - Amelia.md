@@ -3,7 +3,7 @@ section: A
 number: 3
 title: Deputy Leader's Report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

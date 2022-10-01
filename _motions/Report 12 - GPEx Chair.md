@@ -3,7 +3,7 @@ section: A
 number: 12
 title: Green party executive committee chair report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion
@@ -31,6 +31,6 @@ We are influencing and implementing policy change to tackle the ecological and s
 
 Campaigns Coordinator
 The Campaigns Coordinator is in post as a result of cooption.
-Internal Communications Coordinator 
+Internal Communications Coordinator
 This post has been vacant since the newly-elected
 Internal Communications Coordinator resigned

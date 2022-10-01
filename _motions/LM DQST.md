@@ -3,7 +3,7 @@ section: LM
 number: 2
 title: Solidarity with Drag Queen Story Time / Hour
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
-status: final
+status: tbd
 coproposers: 148
 ---
 ## Synopsis

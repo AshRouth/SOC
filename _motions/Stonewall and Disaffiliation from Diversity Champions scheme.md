@@ -3,7 +3,7 @@ section: D
 number: 5
 title: Stonewall and Disaffiliation from Diversity Champions scheme
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100609
-status: final
+status: tbd
 coproposers: 44
 ---
 ## Synopsis

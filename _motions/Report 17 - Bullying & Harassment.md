@@ -3,7 +3,7 @@ section: A
 number: 17
 title: Bullying and Harassment Subcommittee report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion
@@ -13,4 +13,4 @@ The sub-committee brings together members of GPEx, GPRC, Disciplinary Committee 
 
 It is clear that implementation is key. There is much overlap between recommendations over the years. In many areas it is clear what needs to be done to make the Party a happier, safer place – what is needed is the resourcing and sustained commitment to see those changes come to pass. The need for clear boundaries as to how Party members can work with and sometimes disagree with each other, with clearly enforced consequences for those who step outside those boundaries, is particularly apparent. The sub-committee will work on creating a combined list of recommendations to reduce incidences of bullying and harassment, for Governance colleagues to consider. This list will be underpinned by an intersectional understanding that bullying and harassment can relate to people’s protected characteristics, sometimes as a means of defending positions of privilege within an institution.
 
-This work may be folded within the Equality and Diversity work programme to implement the Diverse Matters report, this process decision is for the new GPEx to make. What is crucial that the work itself continues and that a single plan to reduce bullying and harassment is drawn up and - most importantly of all - implemented. 
+This work may be folded within the Equality and Diversity work programme to implement the Diverse Matters report, this process decision is for the new GPEx to make. What is crucial that the work itself continues and that a single plan to reduce bullying and harassment is drawn up and - most importantly of all - implemented.

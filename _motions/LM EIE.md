@@ -3,7 +3,7 @@ section: LM
 number: 1
 title: Affiliate to Enough is Enough
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-late-motions-forum/?contentId=108431
-status: final
+status: tbd
 coproposers: 183
 ---
 ## Synopsis

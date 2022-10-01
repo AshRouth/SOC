@@ -3,7 +3,7 @@ section: OoO
 number: 5
 title: Calling for an increase in care workers’ pay and allowance
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101890
-status: final
+status: tbd
 coproposers: 14
 ---
 ## Synopsis

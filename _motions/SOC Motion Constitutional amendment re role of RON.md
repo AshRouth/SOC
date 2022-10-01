@@ -3,7 +3,7 @@ section: D
 number: 21
 title: SOC Motion - Constitutional amendment re role of RON
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101271
-status: final
+status: tbd
 coproposers: 5
 ---
 ## Synopsis

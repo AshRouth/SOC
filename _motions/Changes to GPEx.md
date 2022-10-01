@@ -3,7 +3,7 @@ section: D
 number: 16
 title: Changes to GPEx
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101838
-status: final
+status: tbd
 coproposers: 13
 ---
 ## Synopsis
@@ -117,7 +117,7 @@ v.	The role of the EEDI Committee shall be to support the work of GPEx to improv
 
 {%include amendment.html number="1"%}
 
-{%include amendment.html number="2"%} 
+{%include amendment.html number="2"%}
 
 {%include amendment.html number="3"%}
 

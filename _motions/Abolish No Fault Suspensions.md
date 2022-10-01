@@ -3,7 +3,7 @@ section: D
 number: 17
 title: Abolish No Fault Suspensions
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101988
-status: final
+status: tbd
 coproposers: 12
 ---
 ## Synopsis

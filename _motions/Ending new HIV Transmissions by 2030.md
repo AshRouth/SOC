@@ -3,7 +3,7 @@ section: D
 number: 8
 title: Ending new HIV Transmissions by 2030 part 1
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101501
-status: final
+status: tbd
 coproposers: 29
 ---
 ## Synopsis

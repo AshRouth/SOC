@@ -3,7 +3,7 @@ section: D
 number: 18
 title: Pathfinder Motion
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101657
-status: final
+status: tbd
 coproposers: 10
 ---
 ## Synopsis
@@ -78,7 +78,7 @@ Where the intent of the motion cannot be met due to current legislation practica
 
 {%include amendment.html number="1"%}
 
-{%include amendment.html number="2"%} 
+{%include amendment.html number="2"%}
 
 {%include amendment.html number="3"%}
 

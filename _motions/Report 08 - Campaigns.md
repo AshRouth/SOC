@@ -3,7 +3,7 @@ section: A
 number: 8
 title: Campaigns Committee report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion

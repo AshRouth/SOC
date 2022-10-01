@@ -3,7 +3,7 @@ section: C
 number: 4
 title: Improving National Accountability for Climate Damage
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97884
-status: final
+status: tbd
 coproposers: 18
 ---
 ## Background

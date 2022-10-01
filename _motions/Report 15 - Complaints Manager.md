@@ -3,7 +3,7 @@ section: A
 number: 15
 title: Complaints manager report
 spaces:
-status: final
+status: tbd
 coproposers:
 ---
 ## Motion
