@@ -3,7 +3,7 @@ section: D
 number: 1
 title: Reforming the party’s Annual General Meeting
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101588
-status: tbd
+status: passed
 coproposers: 15
 ---
 ## Synopsis
@@ -164,6 +164,6 @@ So that it reads:
 
 g) Members of SOC and Alternative Disputes Resolution Committee shall take office at the end of the Conference at which they were elected.
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2"%}
+{%include amendment.html number="2" status="passed"%}
