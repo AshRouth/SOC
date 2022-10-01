@@ -10,6 +10,8 @@ coproposers: 15
 Our current process for the Annual General Meeting is confusing and ill-defined, leading to a situation where the required business frequently dominates Autumn Conference to the exclusion of other important motions. This organisational motion seeks to clearly separate AGM business from other Conference business and clarify the processes involved.
 
 ## Motion
+SOC note: This motion will require a 2/3 majority to pass.
+{:.alert .alert-primary}
 
 In the Constitution, delete paragraphs i and ii of clause 10, which read: \
     10. CONFERENCES
