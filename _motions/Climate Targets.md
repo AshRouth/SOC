@@ -245,12 +245,12 @@ The emissions reductions are built on the following main assumptions:
 * 50% reduction in UK car use relative to 2019
 * There will be early behavioural changes to reduce emissions
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2"%}
+{%include amendment.html number="2" status="passed""%}
 
-{%include amendment.html number="3"%}
+{%include amendment.html number="3" status="passed"%}
 
-{%include amendment.html number="4"%}
+{%include amendment.html number="4" status="defeated"%}
 
-{%include amendment.html number="5"%}
+{%include amendment.html number="5" status="defeated"%}
