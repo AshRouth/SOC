@@ -622,20 +622,20 @@ There is no clause stating that SOC rulings may be invalidated by consultation w
 Consequently, SOC's view is that it can not retain confidence in an ERO who declares its interpretation of the constitution invalid on the basis of consultation with previous SOC Co-Convenors.
 SOC would like to emphasise that the current ERO has contributed a great deal to the Party, and SOC respects the work he has done during his own terms on SOC. It is with regret that this vote was called and carried, but SOC can not retain confidence in an ERO who declares its interpretations to be unconstitutional.
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2"%}
+{%include amendment.html number="2" status="passed"%}
 
-{%include amendment.html number="3"%}
+{%include amendment.html number="3" status="passed"%}
 
-{%include amendment.html number="4"%}
+{%include amendment.html number="4" status="passed"%}
 
-{%include amendment.html number="5"%}
+{%include amendment.html number="5" status="passed"%}
 
-{%include amendment.html number="6"%}
+{%include amendment.html number="6" status="passed"%}
 
-{%include amendment.html number="7"%}
+{%include amendment.html number="7" status="passed"%}
 
-{%include amendment.html number="8"%}
+{%include amendment.html number="8" status="passed"%}
 
-{%include amendment.html number="9"%}  
+{%include amendment.html number="9" status="passed"%}  
