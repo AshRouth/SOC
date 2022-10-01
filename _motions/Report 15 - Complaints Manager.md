@@ -3,7 +3,7 @@ section: A
 number: 15
 title: Complaints manager report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion
@@ -44,4 +44,4 @@ Conference is whole heartedly requested to support the motion to expand Discipli
 
 I wish to record my thanks to all involved in the disciplinary and disputes process, including those working at a regional level and in appeals, and to the on-going work of the Alternative Dispute Resolution Committee. I particularly wish to recognise the incredible hard work of current and former members of Disciplinary Committee.
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}

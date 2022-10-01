@@ -3,7 +3,7 @@ section: A
 number: 11
 title: Equality and diversity coordinators report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion
@@ -21,4 +21,4 @@ Moreover, we openly display ageism and BAME members are still woefully under-ser
 
 In conclusion, going forward, the GPEW needs to show a real commitment to ED&I, if the party intends to grow. There have been concerted attempts by predecessors in E&D to have these issues taken on board. It is to them and those current serving individuals -who pushed the audit forward- that credit ultimately belongs to.
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}

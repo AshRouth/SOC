@@ -3,7 +3,7 @@ section: A
 number: 13
 title: Green Party regional Council report
 spaces:
-status: tbd
+status: passed
 coproposers:
 ---
 ## Motion
@@ -99,4 +99,4 @@ Two whistleblowing allegations are currently under investigation.
 One is closed.
 One apology was sent to a member.
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}
