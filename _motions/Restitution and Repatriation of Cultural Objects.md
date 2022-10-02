@@ -3,7 +3,7 @@ section: E
 number: 3
 title: Restitution and Repatriation of Cultural Objects
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101276
-status: tbd
+status: passed
 coproposers: 22
 ---
 ## Synopsis
