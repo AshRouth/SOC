@@ -1,10 +1,10 @@
 ---
-section: LM
+section: G
 number: 2
 title: Solidarity with Drag Queen Story Time / Hour
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
 status: tbd
-coproposers: 148
+coproposers: 189
 ---
 ## Synopsis
 Recent weeks have seen rising hostile demonstrations against Drag Queen Story Time/Hour events across the UK, where drag queens read inclusive age-appropriate stories to children. This motion calls out those demonstrations and offers solidarity to those running these events.

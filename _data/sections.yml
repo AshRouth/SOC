@@ -17,7 +17,10 @@
   code: F
 
 - name: Late Motions
-  code: LM
+  code: G
+
+- name: Emergency Motions
+  code: EM
 
 - name: Out of Order
   code: OoO

@@ -1,10 +1,10 @@
 ---
-section: LM
+section: G
 number: 3
 title: Removing subsidies for fossil fuel consumption from the "fairer, greener bills" campaign
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-late-motions-forum/?contentId=107900
 status: tbd
-coproposers: 92
+coproposers: 245
 ---
 ## Synopsis
 Conference instructs GPRC to request the removal of reduced energy prices from our 'Fairer, Greener Bills' campaign, replacing it with our agreed policy of increasing taxes on polluters, asset owners, landlords and high earners, and distributing the revenue to all UK residents via flat universal payments.

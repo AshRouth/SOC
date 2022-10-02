@@ -1,10 +1,10 @@
 ---
-section: LM
+section: G
 number: 6
 title: Target King Charles III's coronation with a campaign to abolish the monarchy
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-late-motions-forum/?contentId=108390
 status: tbd
-coproposers: 68
+coproposers: 78
 ---
 ## Motion
 Conference notes the death of Queen Elizabeth II on 8th September 2022.

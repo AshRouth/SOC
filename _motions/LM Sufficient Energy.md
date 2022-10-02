@@ -1,10 +1,10 @@
 ---
-section: LM
+section: G
 number: 4
 title: Ensuring that sufficient energy is affordable to all
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
 status: tbd
-coproposers: 81
+coproposers: 245
 ---
 ## Synopsis
 This motion responds to the energy price cap rises, drawing on proposals from Molly Scott Cato and Martin Farley. It omits references to government fossil fuel subsidies through an energy price cap. Instead a Basic Energy Allowance and Universal Basic Income are proposed to make basic energy needs more affordable.

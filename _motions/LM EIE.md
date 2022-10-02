@@ -1,10 +1,10 @@
 ---
-section: LM
+section: G
 number: 1
 title: Affiliate to Enough is Enough
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-late-motions-forum/?contentId=108431
 status: tbd
-coproposers: 183
+coproposers: 264
 ---
 ## Synopsis
 In early August, a new campaign coalition was launched by trade unions, politicians and community organisations to tackle the cost of living crisis, called Enough is Enough. This motion calls for the Green Party to lend its political support to this vital and growing movement through affiliating to the campaign.
