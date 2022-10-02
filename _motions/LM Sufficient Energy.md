@@ -3,7 +3,7 @@ section: G
 number: 4
 title: Ensuring that sufficient energy is affordable to all
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=98042
-status: tbd
+status: 
 coproposers: 245
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: EM
 number: 3
 title: Decoupling Electricity Costs from Gas
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-emergency-motions-forum/?contentId=110158
-status: tbd
+status: 
 coproposers: 77
 ---
 ## Synopsis

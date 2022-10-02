@@ -148,21 +148,30 @@ before us. The Green Party therefore sees humanity as necessarily a dependent pa
 environment. Human activity has caused widespread and rapid damage to the environment and
 this is now threatening our future survival. Political objectives should accept our dependence, not
 seek to transgress it. We do not believe that any other species is expendable.”
+
+SOC note: Text highlighted below was taken as a part and defeated.
+{:.alert .alert-danger}
+
 PB301 currently reads:
+{:.alert .alert-danger}
 
 “PB301 Implementing the policies which will create an ecological society will necessarily take many
 years. It will require a great deal of social change if we are to accommodate the massive
 environmental changes facing us. We can, nevertheless, identify a number of principles upon which
 a truly sustainable society will be based.”
+{:.alert .alert-danger}
 
 Replace “which will create an ecological society will necessarily take many years” with “that will
 bring about a transition to an equitable and sustainable society is both urgent and essential” so that
 it reads:
+{:.alert .alert-danger}
 
 “PB301 Implementing the policies that will bring about a transition to an equitable and
 sustainable society is both urgent and essential. It will require a great deal of social change if we
 are to accommodate the massive environmental changes facing us. We can, nevertheless, identify
 a number of principles upon which a truly sustainable society will be based.”
+{:.alert .alert-danger}
+
 PB302 currently reads:
 
 “PB302 Democracy
@@ -370,8 +379,8 @@ praised for its own sake. A flourishing life is one that includes time for self-
 fulfilment and the opportunity to contribute to the common good as well as time for relaxation,
 replenishment and enjoyment.”
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2"%}
+{%include amendment.html number="2" status="passed"%}
 
 {%include amendment.html number="3"%}

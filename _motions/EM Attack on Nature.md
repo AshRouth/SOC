@@ -3,7 +3,7 @@ section: EM
 number: 1
 title: Government attack on Nature
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-emergency-motions-forum/?contentId=110945
-status: tbd
+status: 
 coproposers: 88
 ---
 ## Motion

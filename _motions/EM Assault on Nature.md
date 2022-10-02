@@ -3,7 +3,7 @@ section: EM
 number: 2
 title: Resisting the Conservative Assault on Nature
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-emergency-motions-forum/?contentId=111391
-status: tbd
+status: 
 coproposers: 79
 ---
 ## Motion
