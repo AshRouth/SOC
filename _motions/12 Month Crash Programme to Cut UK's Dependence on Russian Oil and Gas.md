@@ -3,7 +3,7 @@ section: C
 number: 2
 title: Emergency Energy Reduction for the UK
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=97875
-status: tbd
+status: passed
 coproposers: 22
 affiliated: true
 ---
@@ -39,8 +39,8 @@ In addition we demand that the government makes the case, as acts of solidarity 
 
 The government should also reduce road speed limits, as was done during the 1973 oil crisis (and to match many other countries’ actions).
 
-{%include amendment.html number="1"%}
+{%include amendment.html number="1" status="passed"%}
 
-{%include amendment.html number="2"%}
+{%include amendment.html number="2" status="defeated"%}
 
-{%include amendment.html number="3"%}
+{%include amendment.html number="3" status="passed"%}
