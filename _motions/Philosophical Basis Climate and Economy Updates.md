@@ -3,7 +3,7 @@ section: C
 number: 5
 title: Philosophical Basis Climate and Economy Updates
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=99017
-status: tbd
+status: passed
 coproposers: 10
 affiliated: true
 ---
