@@ -3,7 +3,7 @@ section: EM
 number: 4
 title: Supporting Iranian Protesters Resisting Compulsory Veiling Laws
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-emergency-motions-forum/?contentId=111346
-status: 
+status: tbd
 coproposers: 64
 ---
 ## Synopsis

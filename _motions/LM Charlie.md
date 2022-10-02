@@ -3,7 +3,7 @@ section: G
 number: 6
 title: Target King Charles III's coronation with a campaign to abolish the monarchy
 spaces: https://spaces.greenparty.org.uk/s/autumn-2022-late-motions-forum/?contentId=108390
-status: 
+status: tbd
 coproposers: 78
 ---
 ## Motion
