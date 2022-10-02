@@ -383,4 +383,4 @@ replenishment and enjoyment.”
 
 {%include amendment.html number="2" status="passed"%}
 
-{%include amendment.html number="3"%}
+{%include amendment.html number="3" status="passed"%}
