@@ -3,7 +3,7 @@ section: D
 number: 2
 title: Change to the Constitution for Disciplinary Committee
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=100520
-status: tbd
+status: passed
 coproposers: 16
 ---
 ## Synopsis
