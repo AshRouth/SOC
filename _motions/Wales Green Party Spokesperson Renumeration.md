@@ -3,7 +3,7 @@ section: D
 number: 3
 title: Wales Green Party Spokesperson Remuneration
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2022-agenda-forum/?contentId=101869
-status: tbd
+status: passed
 coproposers: 20
 ---
 ## Synopsis
