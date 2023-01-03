@@ -4,7 +4,7 @@ number: 01
 title: Abolish no Fault Suspensions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120313
 status: final
-coproposers: 2
+coproposers: 3
 ---
 ## Synopsis
 No-Fault Suspensions have damaged the reputation of the Party’s complaints system and traumatised its members. Under a No-Fault Suspension a member is banned from all Party activity including local, regional, national events, Conference, campaigning, electioneering - before an hearing has occurred to determine whether allegations of misconduct have substance.e.

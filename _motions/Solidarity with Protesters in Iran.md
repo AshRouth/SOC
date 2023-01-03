@@ -4,7 +4,7 @@ number: 34
 title: Solidarity with Protesters in Iran
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120254
 status: final
-coproposers: 1
+coproposers: 10
 ---
 ## Synopsis
 The Green Party stands in solidarity with protesters in Iran facing brutal suppression, calls for safe routes to the UK for Iranian refugees affected by the state violence, and calls for asylum for political prisoners from Iran.

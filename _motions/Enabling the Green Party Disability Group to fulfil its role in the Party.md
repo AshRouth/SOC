@@ -4,7 +4,7 @@ number: 35
 title: Enabling the Green Party Disability Group to fulfil its role in the Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119972
 status: final
-coproposers: 27
+coproposers: 31
 ---
 ## Synopsis
 The Green Party Executive must allocate resources to ensure that the Party’s Disability Group can function adequately. In setting the Party’s budget the Executive must provide the necessary funding through to 2025. The required resources will provide administrative and web support.

@@ -4,7 +4,7 @@ number: 61
 title: The Green Party’s Vision for Europe
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120264
 status: final
-coproposers: 0
+coproposers: 8
 ---
 ## Synopsis
 Europe PWG proposes to revise the opening of the Europe Chapter in PfSS, to align with GPEW’s current vision on Europe, as passed in a motion at Autumn Conference 2022.

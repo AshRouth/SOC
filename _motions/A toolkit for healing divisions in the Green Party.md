@@ -4,7 +4,7 @@ number: 05
 title: A toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118643
 status: final
-coproposers: 2
+coproposers: 3
 ---
 ## Synopsis
 The Green Party has many points of conflict and has been ill-equipped to resolve them. The resulting distress to many members actively prevents us from tackling the climate and social justice emergency. This motion calls for a toolkit for healing these divisions that would make us stronger as a Party.

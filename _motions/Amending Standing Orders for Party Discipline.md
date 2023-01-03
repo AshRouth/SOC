@@ -4,7 +4,7 @@ number: 03
 title: Amending Standing Orders for Party Discipline
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117076
 status: final
-coproposers: 12
+coproposers: 14
 ---
 ## Synopsis
 Amend Standing Orders for Party Discipline to enhance understanding of discrimination, to make the system easier to use for both complainants and respondents, and to ensure appeals are more fair to participants. These amendments are as a result of consultation with liberation groups.

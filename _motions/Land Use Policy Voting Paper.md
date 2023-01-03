@@ -4,7 +4,7 @@ number: 31
 title: Land Use Policy Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118244
 status: final
-coproposers: 9
+coproposers: 11
 ---
 ## Synopsis
 Current Green Party policies require more land than exists in the UK. In spring 2021, Conference instructed the Land Use Policy Working Group to develop policy that resolved this tension, and to seek the opinions and involvement of Party members, policy working groups, external organisations and the Green Parties of Scotland and Northern Ireland.

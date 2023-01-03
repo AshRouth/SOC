@@ -4,7 +4,7 @@ number: 57
 title: Standing Orders for the Conduct of the Annual General Meeting
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119490
 status: final
-coproposers: 0
+coproposers: 6
 ---
 ## Synopsis
 This document has been drafted in light of the decision taken by Autumn Conference 2022, to enable the party to hold its AGM separately from the Autumn Conference itself.
