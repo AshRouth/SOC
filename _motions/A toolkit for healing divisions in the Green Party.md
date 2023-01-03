@@ -1,6 +1,6 @@
 ---
 section:
-number: 05
+number: 5
 title: A toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118643
 status: final
