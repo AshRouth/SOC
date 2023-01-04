@@ -4,7 +4,7 @@ number: 47
 title: Personal Carbon Allowances
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119267
 status: final
-coproposers: 0
+coproposers: 2
 ---
 ## Synopsis
 This policy replaces a weak reference to “possible carbon rationing” in CC121 with a strong section committing the Green Party to Personal Carbon Allowances as part of a transition towards a system that can realistically help us to overcome the climate emergency.

@@ -4,7 +4,7 @@ number: 66
 title: A Members Led Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119677
 status: final
-coproposers: 0
+coproposers: 1
 ---
 ## Synopsis
 

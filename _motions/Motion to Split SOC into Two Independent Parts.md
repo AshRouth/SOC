@@ -4,7 +4,7 @@ number: 41
 title: Motion to Split SOC into Two Independent Parts
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118305
 status: final
-coproposers: 0
+coproposers: 2
 ---
 ## Synopsis
 This motion responds to support in the recent consultations by the Party Structure Working Group to increase the number of people in SOC and to split out its work into two different committees, one dealing with the constitution and one dealing with conference.

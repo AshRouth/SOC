@@ -1,10 +1,10 @@
 ---
 section:
 number: 33
-title: Migration Policy Working Paper
+title: Migration Policy Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119856
 status: final
-coproposers: 12
+coproposers: 13
 ---
 ## Synopsis
 To delete from the Migration chapter in PSS everything from MG 100 to MG 454, and substitute the motion text below.

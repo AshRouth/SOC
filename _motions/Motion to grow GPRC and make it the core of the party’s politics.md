@@ -4,7 +4,7 @@ number: 37
 title: Motion to grow GPRC and make it the core of the party’s politics.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118311
 status: final
-coproposers: 0
+coproposers: 1
 ---
 ## Synopsis
 This motion sets out to change the composition of the Regional Council in line with the suggestions contained in the pathfinder motion submitted to conference in Autumn 2022, following extensive consultation within the party.

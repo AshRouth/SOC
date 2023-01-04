@@ -4,7 +4,7 @@ number: 6
 title: A Transition Benefit
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120007
 status: final
-coproposers: 0
+coproposers: 1
 ---
 ## Synopsis
 Motion to add to policy on trans rights to provide, in principle, for financial support.
