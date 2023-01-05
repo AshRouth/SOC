@@ -4,7 +4,7 @@ number: 54
 title: Response to the Call for Evidence on Net Zero Governance
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119392
 status: final
-coproposers: 0
+coproposers: 1
 ---
 ## Synopsis
 

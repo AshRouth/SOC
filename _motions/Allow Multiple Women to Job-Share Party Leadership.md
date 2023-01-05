@@ -4,7 +4,7 @@ number: 67
 title: Allow Multiple Women to Job-Share Party Leadership
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117216
 status: final
-coproposers: 6
+coproposers: 16
 ---
 ## Synopsis
 The current gender balancing rules for party leadership are written in a way that prevent multiple women from serving as Co-Leaders or Co-Deputy Leaders. Gender balancing is intended to counteract misogyny in politics, not to hold women back. This motion fixes that.

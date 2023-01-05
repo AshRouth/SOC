@@ -4,7 +4,7 @@ number: 28
 title: A fairer multiplier for the Prioritisation Ballot
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119624
 status: final
-coproposers: 0
+coproposers: 7
 ---
 ## Synopsis
 This motion will halve the multiplier for the prioritisation ballot from 0.5 to 0.25 per additional conference. The multiplier for the prioritisation ballot was set too high. The intention was that all legit motions should get a chance to be heard within 4-6 conferences. But due to modified borda count being the voting system for the ballot, there is a much more even distribution on points than when we used standard borda count and therefore at the last conference we had the last placed motion pushed to 4th by doubling it's points after 2 conferences due to the multiplier being too generous.

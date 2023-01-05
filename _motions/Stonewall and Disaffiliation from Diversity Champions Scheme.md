@@ -4,7 +4,7 @@ number: 59
 title: Stonewall and Disaffiliation from Diversity Champions Scheme
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119265
 status: final
-coproposers: 13
+coproposers: 14
 ---
 ## Synopsis
 Conference instructs GPEX to disaffiliate from the Stonewall Diversity Champions Scheme from the next financial year for reasons of justified criticism of its equalities advice, lack of value for money, risk of Green party policy bias and overall consideration of reputational risk.

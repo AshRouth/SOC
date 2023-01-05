@@ -4,13 +4,13 @@ number: 48
 title: Proposed Revision to change constitution requirement for Campaigns Committee
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120289
 status: final
-coproposers: 2
+coproposers: 3
 ---
 ## Synopsis
 
 
 ## Motion
-Proposed revision to constitution: 
+Proposed revision to constitution:
 
 In GPEW constitution Section  which reads: iv) The role and organisation of the CampaignsCommittee is set out in the Extra Electoral Strategy Paper as agreed at Annual Conference 1995.
 

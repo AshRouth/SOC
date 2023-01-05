@@ -4,7 +4,7 @@ number: 14
 title: Decoupling Electricity Costs from Gas
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119001
 status: final
-coproposers: 3
+coproposers: 4
 ---
 ## Synopsis
 This motion proposes that the party campaigns to remove the absurd coupling of low-carbon electricity prices and gas prices. If these savings are passed on to the consumer, this could reduce typical household electricity bills by up to £300 over the next 6 months. It can be implemented almost immediately.
