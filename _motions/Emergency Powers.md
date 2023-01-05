@@ -4,7 +4,7 @@ number: 17
 title: Emergency Powers
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119443
 status: final
-coproposers: 13
+coproposers: 14
 ---
 ## Synopsis
 As the climate catastrophe develops an incoming Green government will require temporary emergency powers to intervene in the economy and society to bring about a rapid reduction in greenhouse gas emissions. It will need to ensure the population has sufficient information to play their part in the transition.

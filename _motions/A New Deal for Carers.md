@@ -4,7 +4,7 @@ number: 4
 title: A New Deal for Carers
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120293
 status: final
-coproposers: 14
+coproposers: 19
 ---
 ## Synopsis
 Carers save the UK economy billions a year, it’s about time they got a fair deal. This motion would specify what changes we would make to unpaid carers lives in the UK.

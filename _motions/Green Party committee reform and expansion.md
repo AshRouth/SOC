@@ -4,7 +4,7 @@ number: 25
 title: Green Party committee reform and expansion
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119574
 status: final
-coproposers: 2
+coproposers: 3
 ---
 ## Synopsis
 Given the wide-ranging remit of conference committees, in particular the Standing Orders Committee, all members should be able to vote for these committee, not just those who have the time and money to register for and attend Autumn Conference. Furthermore, committee membership should increase to accommodate the fact that GPEW now has over 50,000 members and counting.

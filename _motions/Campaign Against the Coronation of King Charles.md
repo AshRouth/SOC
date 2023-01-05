@@ -4,7 +4,7 @@ number: 8
 title: Campaign Against the Coronation of King Charles III
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117131
 status: final
-coproposers: 4
+coproposers: 5
 ---
 ## Synopsis
 This motion seeks to use King Charles III’s coronation as a context for campaigning
