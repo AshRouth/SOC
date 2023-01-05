@@ -4,7 +4,7 @@ number: 16
 title: Eliminate External Influence in GPEW Internal Election
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119477
 status: final
-coproposers: 12
+coproposers: 13
 ---
 ## Synopsis
 This motion will ban members from voting in national internal elections in the first 3 months of their membership. This will ensure that the results of our national internal elections are what our membership want and not influenced by candidates recruiting new members to join just to vote for them.

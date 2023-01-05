@@ -4,7 +4,7 @@ number: 32
 title: Leadership election constitution amendment
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119465
 status: final
-coproposers: 0
+coproposers: 1
 ---
 ## Synopsis
 Last year’s resignations of both the Party’s Co-Leaders exposed faults in the current wording of our Constitution in regard to leadership by-elections.

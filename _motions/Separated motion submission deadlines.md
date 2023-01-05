@@ -4,7 +4,7 @@ number: 56
 title: Separated Motion Submission Deadlines
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119471
 status: final
-coproposers: 1
+coproposers: 2
 ---
 ## Synopsis
 Standing Orders for Conduct of Conference (SOCC) doesn’t specify a deadline for co-proposals. Consequently, the First Agenda deadline tends to be used. This creates a bottleneck for both Standing Orders Committee and motion proposers. This amendment sets the co-proposal deadline at one week after the First Agenda deadline.

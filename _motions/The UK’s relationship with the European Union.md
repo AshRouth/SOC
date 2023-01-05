@@ -4,7 +4,7 @@ number: 62
 title: The UK’s relationship with the European Union
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120266
 status: final
-coproposers: 11
+coproposers: 12
 ---
 ## Synopsis
 To replace existing sections  “UK Membership of the EU” and “Britain's Exit from the EU/"Brexit" with text based on the Policy Statement “Closer Alignment to the European Union”, passed at Autumn Conference 2022. This motion amends our Europe policy, bringing it into line with that Policy Statement.
