@@ -2,12 +2,12 @@
 section:
 number: 68
 title: Extra-Electoral Campaigns Strategy
-spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119624
+spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120298
 status: final
 coproposers: 0
 ---
 ## Synopsis
- The Extra Electoral Strategy is a supporting document of the constitution. The last version was passed in 1994 when the Party was much smaller. This is a rewrite, renumbering and update to provide a clearer remit for Campaigns Committee that explicitly supports the Political Strategy. 
+ The Extra Electoral Strategy is a supporting document of the constitution. The last version was passed in 1994 when the Party was much smaller. This is a rewrite, renumbering and update to provide a clearer remit for Campaigns Committee that explicitly supports the Political Strategy.
 
 ## Background
 To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/1994.pdf)
