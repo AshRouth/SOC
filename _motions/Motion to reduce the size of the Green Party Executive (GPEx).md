@@ -4,7 +4,7 @@ number: 38
 title: Motion to reduce the size of the Green Party Executive (GPEx)
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118307
 status: final
-coproposers: 19
+coproposers: 20
 affiliated: true  
 ---
 ## Synopsis

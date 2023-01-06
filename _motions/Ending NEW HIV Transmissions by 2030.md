@@ -4,7 +4,7 @@ number: 20
 title: Ending NEW HIV Transmissions by 2030
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119664
 status: final
-coproposers: 18
+coproposers: 19
 ---
 ## Synopsis
 HIV affects every person regardless of age, gender, and ethnicity, and disproportionately impacts gay and bisexual men, trans people, those of Black African heritage, migrants, and people of colour. It is possible to end new cases of HIV by 2030. The Green Party must adopt the targets recommended by the HIV Commission and campaign to ensure health departments and the NHS and its partners do everything possible to end HIV transmissions by the end of the decade.

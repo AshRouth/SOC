@@ -4,7 +4,7 @@ number: 43
 title: Opposing new extraction of fossil fuels and false solutions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119519
 status: final
-coproposers: 11
+coproposers: 13
 ---
 ## Synopsis
 Greens must work with trade unions and other campaigners to oppose UK government policies undermining efforts to reduce climate change.

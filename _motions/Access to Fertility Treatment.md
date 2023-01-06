@@ -4,7 +4,7 @@ number: 2
 title: Access to Fertility Treatment
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120057
 status: final
-coproposers: 20
+coproposers: 21
 ---
 ## Synopsis
 The Women’s Health Strategy for England (July 2022) introduces plans that rids additional barriers for same-sex couples to receive fertility treatment through the NHS. Additional barriers for single people, older people and people who are sex-averse/repulsed remain. This motion seeks to address these issues and ensure consistency for cryopreservation funding.

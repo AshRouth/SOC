@@ -4,7 +4,7 @@ number: 9
 title: Centring the needs of survivors and marginalised groups in our disciplinary process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119580
 status: final
-coproposers: 21
+coproposers: 23
 ---
 ## Synopsis
 Reform the disciplinary process so that the needs of marginalised groups and survivors of abuse and trauma are centred: by updating Standing Orders for Party Discipline and the Constitution to comply with the recommendations of both the Equality and Human Rights Commission and the findings of the Diverse Matters report.
