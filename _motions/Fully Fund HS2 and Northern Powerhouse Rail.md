@@ -4,7 +4,7 @@ number: 24
 title: Fully Fund HS2 and Northern Powerhouse Rail
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119479
 status: final
-coproposers: 28
+coproposers: 30
 ---
 ## Synopsis
 This motion calls for HS2 to be funded and completed in full, including the entire Eastern leg and an underground through station at Manchester Piccadilly. This motion also calls for the full potential of HS2 to be by building in full Northern Powerhouse Rail which will use HS2 infrastructure.

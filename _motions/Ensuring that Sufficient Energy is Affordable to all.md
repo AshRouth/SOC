@@ -5,6 +5,7 @@ title: Ensuring that Sufficient Energy is Affordable to all
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118999
 status: final
 coproposers: 2
+affiliated: true
 ---
 ## Synopsis
 This motion responds to the energy price cap rises, drawing on proposals from Molly Scott Cato and Martin Farley. It omits references to government fossil fuel subsidies through an energy price cap. Instead a Basic Energy Allowance and Universal Basic Income are proposed to make basic energy needs more affordable.

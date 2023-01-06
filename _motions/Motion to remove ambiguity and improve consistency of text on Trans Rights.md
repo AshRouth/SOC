@@ -4,7 +4,7 @@ number: 39
 title: Motion to remove ambiguity and improve consistency of text on Trans Rights
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119258
 status: final
-coproposers: 11
+coproposers: 13
 ---
 ## Synopsis
 To add a clause to the second sentence in paragraph RR530, to make clear this is a statement of gender identity and to remove any possible ambiguity of meaning when taken in isolation. In third sentence, also change word to “valid” as consistent with what’s just been said.

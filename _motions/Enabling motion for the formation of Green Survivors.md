@@ -4,7 +4,7 @@ number: 19
 title: Enabling motion for the formation of Green Survivors
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119571
 status: final
-coproposers: 14
+coproposers: 15
 ---
 ## Synopsis
 This motion calls on Green Party Regional Council to recognise and constitute Green Survivors as a special interest group and liberation group within GPEW.

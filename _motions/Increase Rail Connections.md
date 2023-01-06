@@ -4,7 +4,7 @@ number: 30
 title: Increase International Rail Connections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120296
 status: final
-coproposers: 16
+coproposers: 19
 ---
 ## Synopsis
 Given the crisis we are in, we need to create an alternative to air travel. This motion would make it party policy to link HS1 to northbound and westbound railway lines and restart work on the Nightstar and Regional Eurostar trains.

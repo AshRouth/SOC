@@ -4,7 +4,7 @@ number: 18
 title: Organisation of an International Policy Working Group.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119246
 status: final
-coproposers: 0
+coproposers: 1
 ---
 ## Synopsis
 

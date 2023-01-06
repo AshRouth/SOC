@@ -4,7 +4,8 @@ number: 12
 title: Constitutional amendment regarding role of reopen nominations
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119469
 status: final
-coproposers: 1
+coproposers: 3
+affiliated: true
 ---
 ## Synopsis
 The constitution makes provision for negative voting in the form of RON (Re-open nominations). This amendment makes the provision of a RON option a requirement at every stage of election under STV (Single transferable vote). The current problem is that voting software doesn’t make this possible so a bespoke option

@@ -4,7 +4,8 @@ number: 10
 title: Conference reform amendment to SOCC
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119467
 status: final
-coproposers: 1
+coproposers: 4
+affiliated: true
 ---
 ## Synopsis
 Autumn 2020 Conference tasked SOC with reforming the proxy voting system. Proxy voting effectively gives some members more votes than others, but removing proxy voting raises issues about the accessibility of Conference. SOC believes post-plenary voting on motions would allow both removal of proxy voting and enable greater accessibility.
