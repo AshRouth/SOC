@@ -4,7 +4,7 @@ number: 40
 title: Enabling Conferences Committee in running Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119493
 status: final
-coproposers: 1
+coproposers: 2
 ---
 ## Synopsis
 Standing Orders Committee currently handles various administrative duties to enable the smooth running of conference, alongside other duties which must be performed simultaneously. Some of these duties could be better exercised under the Conferences Committee. This motion woIuld remove and reallocate some responsibility from Standing Orders Committee to Conferences Committee.

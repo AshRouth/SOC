@@ -4,7 +4,7 @@ number: 15
 title: Dirty Profits Tax
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119396
 status: final
-coproposers: 1
+coproposers: 2
 affiliated: true
 ---
 ## Synopsis

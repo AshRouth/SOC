@@ -4,7 +4,7 @@ number: 21
 title: Enhancing the Complaints Process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120315
 status: final
-coproposers: 16
+coproposers: 17
 ---
 ## Synopsis
 Our complaints procedure is failing, causing undue stress to all parties and a loss of confidence in the process. The following amendments to Standing Orders for Party Discipline (SOPD) are proposed with the aim of helping to restore trust in the complaints system.

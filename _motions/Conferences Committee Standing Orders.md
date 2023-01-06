@@ -4,7 +4,7 @@ number: 58
 title: Conferences Committee Standing Orders
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120320
 status: final
-coproposers: 3
+coproposers: 4
 affiliated: true
 ---
 ## Synopsis

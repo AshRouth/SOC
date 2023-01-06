@@ -4,7 +4,7 @@ number: 14
 title: Decoupling Electricity Costs from Gas
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119001
 status: final
-coproposers: 7
+coproposers: 8
 affiliated: true
 ---
 ## Synopsis

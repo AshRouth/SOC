@@ -4,7 +4,7 @@ number: 7
 title: Building the Green Movement to fight Climate Change
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119553
 status: final
-coproposers: 13
+coproposers: 14
 ---
 ## Synopsis
 The next General Election presents the Green Party of England & Wales (GPEW) a real opportunity to play a significate role in reducing the number of Tory MPs elected.

@@ -4,7 +4,7 @@ number: 22
 title: Ensuring that Sufficient Energy is Affordable to all
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118999
 status: final
-coproposers: 2
+coproposers: 6
 affiliated: true
 ---
 ## Synopsis
