@@ -4,7 +4,7 @@ number: 55
 title: Revised Five Point Plan for Energy Crisis
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119394
 status: final
-coproposers: 4
+coproposers: 6
 affiliated: true
 ---
 ## Synopsis

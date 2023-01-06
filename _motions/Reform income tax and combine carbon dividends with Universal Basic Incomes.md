@@ -4,7 +4,7 @@ number: 51
 title: Reform income tax and combine carbon dividends with Universal Basic Incomes.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120007
 status: final
-coproposers: 1
+coproposers: 2
 ---
 ## Synopsis
 Costed proposals for UBIs range from a small UBI with low income tax rates on low incomes, to a high UBI with increased taxes, quantitative easing, or means testing. This motion locates GPEW policy in the middle of the range, and includes the cost of a basic amount of energy.

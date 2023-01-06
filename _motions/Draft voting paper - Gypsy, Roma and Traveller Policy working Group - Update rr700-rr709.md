@@ -4,7 +4,7 @@ number: 27
 title: Gypsy, Roma and Traveller PWG Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118410
 status: final
-coproposers: 28
+coproposers: 31
 ---
 ## Synopsis
 The traditional way of life of ethnic Gypsies, Roma and Travellers is threatened by the recent Police, Crime, Sentencing and Courts Act, criminalising nomadic life. Systemic barriers for Gypsy, Roma and Traveller communities remain. This motion seeks to address these barriers and ensure equity, equality, and justice for these communities.

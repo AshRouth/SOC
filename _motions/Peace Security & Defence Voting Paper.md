@@ -4,7 +4,7 @@ number: 46
 title: Peace Security & Defence Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120046
 status: final
-coproposers: 19
+coproposers: 21
 ---
 ## Synopsis
 Policies on Peace promote peaceful relationships within the international community and support the work of the United Nations.  Security policy recognises the importance of human security and the threat posed by the Climate & Ecological Emergence. Defence brings policy in line with the Green Party's commitment to sustainability and ecological balance.

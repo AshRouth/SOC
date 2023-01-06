@@ -4,7 +4,7 @@ number: 52
 title: Regulating “Big Tech” companies
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119613
 status: final
-coproposers: 1
+coproposers: 4
 ---
 ## Synopsis
 The “Big Tech” companies have accumulated significant wealth and power, through operating in ways that existing regulation is not capable of addressing. The takeover of Twitter by Elon Musk has highlighted the importance of introducing such legislation. The Green Party will therefore introduce modern fit-for-purpose regulation for the tech sector.

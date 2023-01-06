@@ -4,7 +4,7 @@ number: 64
 title: Timing of Green Party Executive Meetings
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119358
 status: final
-coproposers: 10
+coproposers: 13
 ---
 ## Synopsis
 The Constitution requires the Party Executive to meet "at least once every six weeks". Short Campaign periods last six weeks, which means convening a meeting either during, or immediately before and after, Short Campaigns. This motion improves flexibility of timetabling Executive meetings which have to fit around the schedules of other committees.
