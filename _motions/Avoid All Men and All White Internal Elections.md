@@ -4,7 +4,7 @@ number: 53
 title: Avoid All Men and All White Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117218
 status: final
-coproposers: 25
+coproposers: 26
 ---
 ## Synopsis
 The separate election for Deputy Leader in 2022 identified a gap in our gender balancing rules leading to no women being on the ballot. This motion corrects that for all roles elected in the Annual Ballot.

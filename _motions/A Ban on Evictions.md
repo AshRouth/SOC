@@ -4,7 +4,7 @@ number: 65
 title: A Ban on Evictions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119673
 status: final
-coproposers: 7
+coproposers: 9
 ---
 ## Synopsis
 The present Housing Crisis requires a ban on evictions. Support for Tenants taking direct action, House build to relate to need.  
