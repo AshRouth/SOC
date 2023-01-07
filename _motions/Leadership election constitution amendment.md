@@ -4,7 +4,7 @@ number: 32
 title: Leadership election constitution amendment
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119465
 status: final
-coproposers: 3
+coproposers: 4
 affiliated: true
 ---
 ## Synopsis
