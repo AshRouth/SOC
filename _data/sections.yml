@@ -24,3 +24,9 @@
 
 - name: Out of Order
   code: OoO
+
+- name: In Order
+  code: IO
+
+- name: Insufficient proposers
+  code: IP

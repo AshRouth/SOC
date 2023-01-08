@@ -24,4 +24,4 @@ Features of the toolkit should include: • group training in conflict resolutio
 
 Conference further instructs GPRC to:
 
-• bring updates on progress with creating, launching, and rolling out the toolkit to subsequent Conferences • bring a costing for carrying out the actions above to Spring Conference 2023 for approval, and updated costings where necessary to subsequent conferences for further approval
+• bring updates on progress with creating, launching, and rolling out the toolkit to subsequent Conferences • bring a costing for carrying out the actions above to Autumn Conference 2023 for approval, and updated costings where necessary to subsequent conferences for further approval
