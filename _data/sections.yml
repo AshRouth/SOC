@@ -1,3 +1,12 @@
+- name: Out of Order
+  code: OoO
+
+- name: In Order
+  code: IO
+
+- name: Insufficient proposers
+  code: IP
+
 - name: Section A
   code: A
 
@@ -21,12 +30,3 @@
 
 - name: Emergency Motions
   code: EM
-
-- name: Out of Order
-  code: OoO
-
-- name: In Order
-  code: IO
-
-- name: Insufficient proposers
-  code: IP
