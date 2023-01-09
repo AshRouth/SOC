@@ -1,5 +1,5 @@
 ---
-section:
+section: IP
 number: 47
 title: Personal Carbon Allowances
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119267
@@ -14,6 +14,9 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 {:.alert .alert-primary}
 
 ## Motion
+SOC note: This motion did not receive sufficient coproposals.
+{:.alert .d-inline-block .alert-defeated}
+
 CC121 To drive change throughout society the UK should combine a carbon tax and dividend with publicity campaigns and possible carbon rationing. For instance, it should require all adverts for high carbon products, including food, to carry an 'environmental health warning'. The carbon tax would reflect all emissions of greenhouse gases, not just CO2. It should have a progressive element to deter high individual emitters.
 
 Delete “possible carbon rationing. For instance, it” in first and second sentence and replace with “transition towards Personal Carbon Allowances for personal activities. Publicity campaigns”.

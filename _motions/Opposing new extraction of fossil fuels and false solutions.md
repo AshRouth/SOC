@@ -1,5 +1,5 @@
 ---
-section:
+section: OoO
 number: 43
 title: Opposing new extraction of fossil fuels and false solutions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119519
@@ -10,6 +10,9 @@ coproposers: 13
 Greens must work with trade unions and other campaigners to oppose UK government policies undermining efforts to reduce climate change.
 
 ## Motion
+SOC note: This motion has been ruled Out of Order.
+{:.alert .d-inline-block .alert-defeated}
+
 This conference recognises that:
 
 Greens have adopted many policies related to Climate Change since 2010, recognising the urgency of action to reduce climate change.

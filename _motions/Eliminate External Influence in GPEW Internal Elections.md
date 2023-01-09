@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 16
 title: Eliminate External Influence in GPEW Internal Election
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119477

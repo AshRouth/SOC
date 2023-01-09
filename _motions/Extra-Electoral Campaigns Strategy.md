@@ -1,10 +1,11 @@
 ---
-section:
+section: IO
 number: 68
 title: Extra-Electoral Campaigns Strategy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120298
 status: final
 coproposers: 8
+affiliated: true
 ---
 ## Synopsis
  The Extra Electoral Strategy is a supporting document of the constitution. The last version was passed in 1994 when the Party was much smaller. This is a rewrite, renumbering and update to provide a clearer remit for Campaigns Committee that explicitly supports the Political Strategy.
@@ -15,6 +16,9 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 
 
 ## Motion
+SOC note: motion is in order provisional on minutes bring produced by proposer demonstrating that the motion omly requires 4 proposers
+{:.alert .d-inline-block .alert-primary}
+
 Delete title ‘Aims of Campaigning’ and EES200, EES210, EES220 and EES230
 
 Insert title: ‘AIMS OF THE STRATEGY’

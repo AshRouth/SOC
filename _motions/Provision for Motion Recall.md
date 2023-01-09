@@ -1,5 +1,5 @@
 ---
-section:
+section: OoO
 number: 50
 title: Provision for Motion Recall
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120257
@@ -10,6 +10,9 @@ coproposers: 16
 Following widespread dissatisfaction with the subsequent discovery of unprecedented procedural irregularities regarding the passage of a late motion at the end of the final plenary at Autumn 2022 conference, this motion would create a provision for members to recall a motion when serious, significant procedural irregularities have come to light.
 
 ## Motion
+SOC note: This motion has been ruled Out of Order.
+{:.alert .d-inline-block .alert-defeated}
+
 In Standing Orders for Conduct of Conference:
 
 Under “Section C: First Agenda”, add clause to list of exceptions under which a motion would not be ruled out of order, at end of 9.f:

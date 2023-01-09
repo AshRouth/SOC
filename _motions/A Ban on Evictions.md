@@ -1,5 +1,5 @@
 ---
-section:
+section: IP
 number: 65
 title: A Ban on Evictions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119673
@@ -10,6 +10,9 @@ coproposers: 9
 The present Housing Crisis requires a ban on evictions. Support for Tenants taking direct action, House build to relate to need.  
 
 ## Motion
+SOC note: This motion did not receive sufficient coproposals.
+{:.alert .d-inline-block .alert-defeated}
+
 From soaring food and energy prices to runaway rents and mortgage rates, the cost-of-living crisis is impacting many millions of people.
 
 The housing building policy of the UK Government is only designed to ensure developers rake in massive profits at the same time has tearing up open spaces and the green belt. We also note the concerns about many of the new build in terms of quality.

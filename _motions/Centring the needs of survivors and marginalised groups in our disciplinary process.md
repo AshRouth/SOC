@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 9
 title: Centring the needs of survivors and marginalised groups in our disciplinary process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119580
@@ -181,4 +181,6 @@ so that it reads:
 
 Add a new clause after 4xiii):
 
-xiv) Any person in the Green Party of England and Wales who makes a decision about a complaint or disciplinary matter without having undergone the training specified in the relevant Standing Order or Procedure shall be considered to be in violation of this Constitution.   
+SOC note: The text below has been ruled Out of Order
+xiv) Any person in the Green Party of England and Wales who makes a decision about a complaint or disciplinary matter without having undergone the training specified in the relevant Standing Order or Procedure shall be considered to be in violation of this Constitution.
+{:.alert .d-inline-block .alert-defeated}

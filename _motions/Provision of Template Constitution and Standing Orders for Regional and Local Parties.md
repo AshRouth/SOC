@@ -1,5 +1,5 @@
 ---
-section:
+section: IP
 number: 49
 title: Provision of Template Constitution and Standing Orders for Regional and Local Parties
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119611
@@ -18,6 +18,9 @@ Lack of clarity as to how local parties relate to regions and how regions relate
 Lack of clarity as to whether/how local and regional parties can/should influence GPEW policy and should make local/regional policy (e.g. for the London Assembly)
 
 ## Motion
+SOC note: This motion did not receive sufficient coproposals.
+{:.alert .d-inline-block .alert-defeated}
+
 The Green Party of England and Wales will develop a template Constitution and Standing Orders for Local and Regional Parties, setting out good practice for:
 
 Managing internal party business (meetings, officer elections etc.)

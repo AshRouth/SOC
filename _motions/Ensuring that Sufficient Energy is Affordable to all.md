@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 22
 title: Ensuring that Sufficient Energy is Affordable to all
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118999

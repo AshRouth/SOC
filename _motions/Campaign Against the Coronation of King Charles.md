@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 8
 title: Campaign Against the Coronation of King Charles III
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117131
@@ -12,7 +12,10 @@ for the abolition of the monarchy. It also calls for a comms plan for responding
 Royal events in a manner more in keeping with Party policy than has recently been
 the case.
 
-## Motion
+## Background
+SOC note: The below text has been removed from the motion text and added as background.
+{:.alert .d-inline-block .alert-primary}
+
 Conference notes the death of Queen Elizabeth II on 8th September 2022.
 
 Conference acknowledges the grief of those mourning the loss of Elizabeth
@@ -37,7 +40,9 @@ d. Peers and members of the royal family shall have the same civil rights and
 fiscal obligations as other citizens."
 Conference notes that the former Prince of Wales has been proclaimed King
 Charles III, and that his coronation will occur on Saturday 6th May 2023.
-Given the above, Conference instructs GPEx to:
+
+## Motion
+Conference instructs GPEx to:
 * plan and execute a campaign for the abolition of the monarchy focused on
 the Coronation of King Charles III, potentially in partnership with Republic
 * develop and bring to Autumn Conference 2023 for approval an external

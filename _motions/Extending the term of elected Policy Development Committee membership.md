@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 23
 title: Extending the term of elected Policy Development Committee membership
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119390

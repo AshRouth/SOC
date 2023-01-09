@@ -1,5 +1,5 @@
 ---
-section:
+section: IP
 number: 18
 title: Organisation of an International Policy Working Group.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119246
@@ -10,6 +10,9 @@ coproposers: 1
 
 
 ## Motion
+SOC note: This motion did not receive sufficient coproposals.
+{:.alert .d-inline-block .alert-defeated}
+
 The chapter has not been updated for 14 years. It provides plenty of detail on Middle East including many background facts and the situation which has continued.
 
 A review of the chapter would allow various regions and diplomacy to be brought together in one paper that would gain sufficient traction to enter into the Policies for a Sustainable Society.

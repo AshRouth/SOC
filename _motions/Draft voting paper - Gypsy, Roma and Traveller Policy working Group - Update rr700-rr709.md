@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 27
 title: Gypsy, Roma and Traveller PWG Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118410

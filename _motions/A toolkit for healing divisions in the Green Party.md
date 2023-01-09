@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 5
 title: A toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118643
@@ -12,7 +12,7 @@ The Green Party has many points of conflict and has been ill-equipped to resolve
 ## Motion
 Insert into Record of Organisational Statements:
 
-Conference instructs GPRC to facilitate the creation of a toolkit for healing divisions within the Party, and to make this toolkit available to be made to local & regional Parties, councillors, activists, and staff.
+Conference instructs GPRC to facilitate the creation of a toolkit for healing divisions within the Party, and to make this toolkit available to local & regional Parties, councillors, activists, and staff.
 
 Aims and scope of the toolkit:
 

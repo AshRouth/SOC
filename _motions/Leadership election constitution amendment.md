@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 32
 title: Leadership election constitution amendment
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119465

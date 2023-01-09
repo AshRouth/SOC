@@ -1,5 +1,5 @@
 ---
-section:
+section: OoO
 number: 36
 title: To Approve Statement of Policy on Meat and Dairy Reduction
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118535
@@ -10,6 +10,9 @@ coproposers: 13
 The motion proposes the Green Party adopts these policies on meat and dairy reduction and related issues concerning farming, food and taxation.  This statement confirms and deepens existing Green Party policies.
 
 ## Motion
+SOC note: This motion has been ruled Out of Order.
+{:.alert .d-inline-block .alert-defeated}
+
 That the policies set out in the Statement of Policy on Meat and Dairy Reduction in the file attached below should go forward and be accepted as Green Party policy.
 
 Submitted by:

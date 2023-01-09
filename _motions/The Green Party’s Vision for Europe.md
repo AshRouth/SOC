@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 61
 title: The Green Party’s Vision for Europe
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120264

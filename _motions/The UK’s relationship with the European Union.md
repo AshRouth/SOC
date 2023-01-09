@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 62
 title: The UK’s relationship with the European Union
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120266

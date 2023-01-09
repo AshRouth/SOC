@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 39
 title: Motion to remove ambiguity and improve consistency of text on Trans Rights
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119258

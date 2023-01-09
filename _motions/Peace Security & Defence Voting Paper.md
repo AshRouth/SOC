@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 46
 title: Peace Security & Defence Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120046

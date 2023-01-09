@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 21
 title: Enhancing the Complaints Process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120315
@@ -48,7 +48,7 @@ DC must give the highest priority to complaints where the Respondent is on a No-
 
 So, it reads:
 
-3.3 If a complaint is received with a request for an immediate No-Fault Suspension6, the Complaints Manager will pass the complaint to both the Referral Group, and within two working days of receipt to GPRC. As soon as practically possible, GPRC should consider whether there is evidence of an immediate risk to the party or to bodies or individuals, whereupon a No-Fault Suspension is activated, in accordance with the GPRC Standing Orders, and is communicated to the necessary parties as a matter of urgency. A request for a No-Fault Suspension should ideally take no more than three working days from receipt to notification of that suspension.
+3.3 If a complaint is received with a request for an immediate No-Fault Suspension, the Complaints Manager will pass the complaint to both the Referral Group, and within two working days of receipt to GPRC. As soon as practically possible, GPRC should consider whether there is evidence of an immediate risk to the party or to bodies or individuals, whereupon a No-Fault Suspension is activated, in accordance with the GPRC Standing Orders, and is communicated to the necessary parties as a matter of urgency. A request for a No-Fault Suspension should ideally take no more than three working days from receipt to notification of that suspension.
 
 3.4 In the event of a No-Fault Suspension being imposed a Respondent must be informed of the specific reasons for the No-Fault Suspension at the time it is imposed. The Respondent will be invited to submit a response to their GPRC reps. This response must be circulated to all GPRC members involved in making decisions about a No-Fault Suspension prior to the next meeting of GPRC when the continuation of the No-Fault Suspension is considered. If a No-Fault Suspension is rolled over by GPRC the Respondent must be informed and given the reasons why it was considered that they pose an ongoing threat to the Party.
 

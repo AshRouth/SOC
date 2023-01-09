@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 37
 title: Motion to grow GPRC and make it the core of the party’s politics.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118311

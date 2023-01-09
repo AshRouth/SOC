@@ -1,5 +1,5 @@
 ---
-section:
+section: IP
 number: 51
 title: Reform income tax and combine carbon dividends with Universal Basic Incomes.
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120007
@@ -14,6 +14,9 @@ To view the background paper for this motion, [click here.](https://spaces.green
 {:.alert .alert-primary}
 
 ## Motion
+SOC note: This motion did not receive sufficient coproposals.
+{:.alert .d-inline-block .alert-defeated}
+
 Delete policies EC724-EC725, EC734 and EC800-803.
 Replace EC730-EC733 with:
 

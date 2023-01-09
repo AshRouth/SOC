@@ -1,5 +1,5 @@
 ---
-section:
+section: OoO
 number: 17
 title: Emergency Powers
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119443
@@ -14,6 +14,9 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 {:.alert .alert-primary}
 
 ## Motion
+SOC note: This motion has been ruled Out of Order.
+{:.alert .d-inline-block .alert-defeated}
+
 Motion Text
 
 CC180 A future Green Government will need to take temporary emergency powers to support a rapid transition in the economy and society.

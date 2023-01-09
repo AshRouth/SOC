@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 20
 title: Ending NEW HIV Transmissions by 2030
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119664
@@ -7,18 +7,23 @@ status: final
 coproposers: 22
 ---
 ## Synopsis
-HIV affects every person regardless of age, gender, and ethnicity, and disproportionately impacts gay and bisexual men, trans people, those of Black African heritage, migrants, and people of colour. It is possible to end new cases of HIV by 2030. The Green Party must adopt the targets recommended by the HIV Commission and campaign to ensure health departments and the NHS and its partners do everything possible to end HIV transmissions by the end of the decade.
+HIV affects every person regardless of age, gender, and ethnicity, and disproportionately impacts gay and bisexual men, trans people, those of Black African heritage, migrants, and people of colour. It is possible to end new cases of HIV by 2030. The Green Party must adopt the targets recommended by the
+
+SOC note: synopsis word limit reached
+{:.alert .d-inline-block .alert-primary}
 
 ## Motion
 Conference recognises that health is a fundamental human right. The vast majority of people diagnosed with HIV are promptly prescribed antiretroviral therapies and live long and healthy lives. Those on effective treatment cannot pass on the virus (Undetectable = Untransmissable). Since Terry Higgins was one of the first deaths from an AIDS related disease 40 years ago, the Terrence Higgins Trust has fought for better healthcare, HIV prevention, services, and for the rights of people living with HIV.
 
 Conference notes and supports the recommendations made by the HIV Commission, founded by the Terrence Higgins Trust, the National AIDS Trust, and the Elton John AIDS Foundation, which provide recommendations on how to end new cases of HIV by 2030.
 
-As Green Councillors in Brighton & Hove City Council and Caroline Lucas MP are leading in this fight to end HIV transmissions by 2030, this is the first city in the country to do so. Following Brighton & Hove Council’s lead, other NHS settings across England have adopted the opt-out HIV testing.
+SOC note: The below text (marked with a ~~strikethrough~~) has been ruled out of order.
+{:.alert .d-inline-block .alert-primary}
+~~As Green Councillors in Brighton & Hove City Council and Caroline Lucas MP are leading in this fight to end HIV transmissions by 2030, this is the first city in the country to do so. Following Brighton & Hove Council’s lead, other NHS settings across England have adopted the opt-out HIV testing.
 
 In October 2021, the Chancellor announced the Government’s future spending commitments – the campaign of HIV organisations and allies demanded vital funds. Investment is needed to win the fight against HIV and fully support everyone living with HIV.
 
-Without new resources, we risk missing this once-in-a-generation opportunity to end the UK’s HIV epidemic. We now have the tools to end new cases of HIV and support everyone living with HIV, and yet each week, 60 people are still diagnosed with HIV, and many people living with HIV continue to experience poor mental health, stigma, and discrimination.
+Without new resources, we risk missing this once-in-a-generation opportunity to end the UK’s HIV epidemic. We now have the tools to end new cases of HIV and support everyone living with HIV, and yet each week, 60 people are still diagnosed with HIV, and many people living with HIV continue to experience poor mental health, stigma, and discrimination.~~
 
 Conference instructs the Party to commit to and support the following actions:
 

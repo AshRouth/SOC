@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 34
 title: Solidarity with Protesters in Iran
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120254

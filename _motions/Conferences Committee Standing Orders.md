@@ -1,5 +1,5 @@
 ---
-section:
+section: IO
 number: 58
 title: Conferences Committee Standing Orders
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120320
@@ -98,12 +98,11 @@ their election.
 10. Superiority of the GP Constitution
 If there is a discrepancy between these standing orders and the provisions of the Green Party’s constitution, the constitution shall have priority.
 
+Note from SOC: The below text is out of order
+{:.alert .d-inline-block .alert-defeated}
 Appendix 1
-
 Job Description of the Conference Manager.
-
 RESPONSIBLE TO :
-
 Conferences Committee Convenor and the Chief Executive Officer.
-
 tbc
+{:.alert .d-inline-block .alert-defeated}

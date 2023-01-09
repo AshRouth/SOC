@@ -1,5 +1,5 @@
 ---
-section:
+section: IP
 number: 25
 title: Green Party committee reform and expansion
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119574
@@ -10,6 +10,9 @@ coproposers: 5
 Given the wide-ranging remit of conference committees, in particular the Standing Orders Committee, all members should be able to vote for these committee, not just those who have the time and money to register for and attend Autumn Conference. Furthermore, committee membership should increase to accommodate the fact that GPEW now has over 50,000 members and counting.
 
 ## Motion
+SOC note: This motion did not receive sufficient coproposals.
+{:.alert .d-inline-block .alert-defeated}
+
 Add a new article 9 subsection e) of the GPEW constitution, which reads:
 
 “All members of Standing Orders Committee, Campaigns Committee, Conferences Committee, Alternate Disputes Resolution Committee, Equality & Diversity Committee, Green World Editorial Board, and International Committee.”

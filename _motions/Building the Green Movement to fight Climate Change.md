@@ -10,6 +10,9 @@ coproposers: 15
 The next General Election presents the Green Party of England & Wales (GPEW) a real opportunity to play a significate role in reducing the number of Tory MPs elected.
 
 ## Motion
+SOC note: This motion has been ruled Out of Order.
+{:.alert .d-inline-block .alert-defeated}
+
 Greens recognise that to fight climate change requires working with like-minded people in England and Wales and Internationally to build the green movement. We understand that 'Greens’ include members of other parties or none.
 
 Elections are an important element of our activity and Greens must think strategically at the next General Election. Greens note that although the Tories are behind in the polls, this may be misleading under First Past the Post, risking the disaster of another Tory government.
