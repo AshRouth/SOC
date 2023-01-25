@@ -1,6 +1,6 @@
 ---
 section: OoO
-number: 36
+number: 6
 title: To Approve Statement of Policy on Meat and Dairy Reduction
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118535
 status: final

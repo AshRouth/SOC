@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 8
+section: D
+number: 14
 title: Campaign Against the Coronation of King Charles III
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117131
 status: final

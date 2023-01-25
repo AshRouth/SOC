@@ -1,7 +1,7 @@
 ---
-section: IO
-number: 24
-title: Fully Fund HS2 and Northern Powerhouse Rail
+section: E
+number: 6
+title: Fund HS2 and Northern Powerhouse Rail
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119479
 status: final
 coproposers: 33

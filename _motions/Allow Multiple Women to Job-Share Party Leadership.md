@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 67
+section: D
+number: 11
 title: Allow Multiple Women to Job-Share Party Leadership
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117216
 status: final

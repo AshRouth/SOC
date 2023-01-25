@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 12
+section: D
+number: 2
 title: Constitutional amendment regarding role of reopen nominations
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119469
 status: final

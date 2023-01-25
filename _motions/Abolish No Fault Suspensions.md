@@ -7,7 +7,7 @@ status: final
 coproposers: 23
 ---
 ## Synopsis
-No-Fault Suspensions have damaged the reputation of the Party’s complaints system and traumatised its members. Under a No-Fault Suspension a member is banned from all Party activity including local, regional, national events, Conference, campaigning, electioneering - before an hearing has occurred to determine whether allegations of misconduct have substance.e.
+No-Fault Suspensions have damaged the reputation of the Party’s complaints system and traumatised its members. Under a No-Fault Suspension a member is banned from all Party activity including local, regional, national events, Conference, campaigning, electioneering - before an hearing has occurred to determine whether allegations of misconduct have substance.
 
 ## Motion
 SOC note: This motion has been ruled Out of Order.

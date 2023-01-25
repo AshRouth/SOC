@@ -1,7 +1,7 @@
 ---
-section: IO
-number: 27
-title: Gypsy, Roma and Traveller PWG Draft Voting Paper
+section: F
+number: 1
+title: Gypsy, Roma and Traveller Rights Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118410
 status: final
 coproposers: 32

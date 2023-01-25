@@ -1,7 +1,7 @@
 ---
-section: IO
-number: 35
-title: Enabling the Green Party Disability Group to fulfil its role in the Party
+section: D
+number: 18
+title: Enabling the Disability Group to fulfil its role in the Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119972
 status: final
 coproposers: 37

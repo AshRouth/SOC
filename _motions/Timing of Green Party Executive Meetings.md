@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 64
+section: D
+number: 24
 title: Timing of Green Party Executive Meetings
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119358
 status: final

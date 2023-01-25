@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 30
+section: E
+number: 7
 title: Increase International Rail Connections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120296
 status: final

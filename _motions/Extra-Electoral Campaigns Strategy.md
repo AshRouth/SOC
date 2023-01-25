@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 68
+section: D
+number: 3
 title: Extra-Electoral Campaigns Strategy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120298
 status: final

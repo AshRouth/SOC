@@ -1,7 +1,7 @@
 ---
-section: IO
-number: 6
-title: A Transition Benefit
+section: E
+number: 12
+title: Transition Benefit
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120007
 status: final
 coproposers: 18

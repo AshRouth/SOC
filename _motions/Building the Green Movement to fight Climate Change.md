@@ -1,6 +1,6 @@
 ---
 section: OoO
-number: 7
+number: 2
 title: Building the Green Movement to fight Climate Change
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119553
 status: final

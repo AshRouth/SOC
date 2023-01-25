@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 13
+section: E
+number: 3
 title: Declining Quality of Rivers and Coastal Waters
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119559
 status: final

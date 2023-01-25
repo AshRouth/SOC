@@ -1,6 +1,6 @@
 ---
 section: OoO
-number: 17
+number: 4
 title: Emergency Powers
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119443
 status: final

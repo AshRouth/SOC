@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 3
+section: D
+number: 12
 title: Amending Standing Orders for Party Discipline
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117076
 status: final

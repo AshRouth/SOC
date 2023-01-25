@@ -1,7 +1,7 @@
 ---
-section:  IO
-number: 48
-title: Proposed Revision to change constitution requirement for Campaigns Committee
+section:  D
+number: 8
+title: Revision to constitution requirement for Campaigns Committee
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120289
 status: final
 coproposers: 7

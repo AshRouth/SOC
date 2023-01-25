@@ -1,6 +1,6 @@
 ---
-section: OoO
-number: 26
+section: D
+number: 5
 title: Green World Motion
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118309
 status: final
@@ -12,6 +12,7 @@ This motion passes no comment on the benefits of Green World or the desirability
 
 ## Motion
 SOC note: This motion has been ruled Out of Order.
+Addendum: An amendment has been presented which will bring this motion back in order, and as such it has been included in the prioritisation ballot.
 {:.alert .d-inline-block .alert-defeated}
 
 Delete Clause 17 of the constitution, Green World, and re-number.

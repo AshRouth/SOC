@@ -1,6 +1,6 @@
 ---
-section: IO
-number: 53
+section: D
+number: 13
 title: Avoid All Men and All White Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117218
 status: final
