@@ -1,20 +1,5 @@
-- name: Out of Order
-  code: OoO
-
-- name: In Order
-  code: IO
-
-- name: Insufficient proposers
-  code: IP
-
-- name: Section A
-  code: A
-
 - name: Section B
   code: B
-
-- name: Section C
-  code: C
 
 - name: Section D
   code: D
@@ -24,9 +9,6 @@
 
 - name: Section F
   code: F
-
-- name: Late Motions
-  code: G
-
-- name: Emergency Motions
-  code: EM
+  
+- name: Out of Order
+  code: OoO
