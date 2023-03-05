@@ -13,3 +13,5 @@ This motion will halve the multiplier for the prioritisation ballot from 0.5 to 
 In the Standing Orders for the Conduct of Conference, Section F, the Final Agenda F1 f) replace 0.5 with 0.25 and 2.5 with 1.75 so that it reads:
 
 f) where a motion has been proposed to directly preceding conferences but not debated due to time restraints the points received by said motion will be multiplied by 1 plus 0.25 for every preceding conference the motion has been proposed to without receiving a debate. For example a motion that has been proposed to the preceding 3 conferences shall have their points multiplied by 1.75. The wording of the motion can be slightly changed so long as the aims and intentions of the motion are not changed, and SOC shall have final say on this.
+
+{% include amendment.html number="1" %}

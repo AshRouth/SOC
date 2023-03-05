@@ -1,5 +1,5 @@
 ---
-section: E
+section: C
 number: 1
 title: Composited IPP Motions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119001
@@ -42,6 +42,8 @@ GPEx/Leadership to campaign for emergency legislation to decouple the price of l
 GPEx/Leadership to continue campaigning for renewables and improved energy-efficiency to achieve gas-free electricity.
 
 Climate Emergency Policy Working Group to return to Spring 2023 conference with permanent measures for price stabilisation.
+
+{% include amendment.html number="1" %}
 
 ## Part 2: Dirty Profits Tax
 ## Motion
@@ -111,6 +113,8 @@ Remove Point [2] of the Five Point Plan on £320 winter fuel payments
 Remove “to 35%” from the Dirty Profits Tax, to leave the rate of supplementary tax unspecified
 
 Conference instructs GPEx to ensure Green Party Comms and Press Statements are consistent with the policy approach to affordability of energy crisis outlined in this motion and existing Green Party policy (as set out in Policies for a Sustainable Society)
+
+{% include amendment.html number="2" %}
 
 ## Part 4: Revised Five Point Plan for Energy Crisis
 ## Motion

@@ -18,11 +18,15 @@ Protests have taken place across Iran since Mahsa’s death, initially against c
 
 The Iranian authorities’ response to the protests has been one of shocking violence. Human rights groups report a death toll of over 500 people – including over 60 children – with over 18,000 reported to have been arrested. Protesters held in custody have reported being tortured and sexually assaulted, and some families of those killed have been forced to lie about their relatives’ deaths on TV.
 
+{% include amendment.html number="1" %}
+
 Some journalists reporting on the protests and some lawyers representing protesters have been arrested by Iranian authorities.
 
 Conference:
 
 Believes that women should have the right to choose how to express their religious beliefs. Compulsory veiling laws are abusive and patriarchal and have no place in society. Extreme violence should never be used to enforce laws.
+
+{% include amendment.html number="2" %}
 
 Welcomes the United Nations Human Rights Council’s decision to investigate human rights violations in the violent suppression of the protests in Iran and urges its commencement.
 

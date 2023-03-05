@@ -1,6 +1,6 @@
 ---
-section: E
-number: 11
+section: C
+number: 3
 title: The Green Party of england and Wales's Vision for Europe
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120264
 status: final

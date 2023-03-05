@@ -31,6 +31,10 @@ c)	Seven ordinary members.
 The Chief Executive Officer (CEO) will be a non-voting member of the Executive.
 
 iii)	Elections for the GPEx Chair, Treasurer and Ordinary member posts shall be by a ballot of all members of the party with voting included within the Annual Ballot.  The Chair and Treasurer shall be elected in one year in individual ballots by instant run off, at the same time as the Leader(s) plus Deputy Leader(s), and the ordinary members in the next year by a seven-seat single transferable vote, so that the two-year terms of the two groups are staggered.
+
+{% include amendment.html number="1a" %}
+
+{% include amendment.html number="1b" %}
  
 iv)	Subject to the collective responsibility of the Executive set out in 7 i), 7 xvi) and elsewhere in section 7 or other clauses of the constitution, within one month of the election of the Ordinary Members, GPEx will set out what their areas of responsibility are such that between the Chair, Treasurer and Ordinary Members, GPEx takes accountability for all sub-committees of GPEx and their individual accountabilities are aligned to the Party’s structures and staff responsibilities. ~~This will be done using an appropriate methodology, to ensure an acceptable workload and that each Party Executive’s skills are matches to their portfolio.~~
 
@@ -53,6 +57,8 @@ b)	The Party Executive shall nominate persons to Spokesperson roles, who shall e
 
 xii)	The Executive shall elect from among its elected members a deputy chair, to assist the chair in their duties, and to act in the role of the chair at any time when the chair is unable to do so. Such elections are to take place at least annually and by the end of November each year.
 
+{% include amendment.html number="2" %}
+
 ~~xiii)	By a two-thirds majority of its membership eligible to vote, the Party Executive may suspend from office any member of the Party Executive, if there is evidence of sustained conduct which in the opinion of the Party Executive is against the interests of the Party, subject to any decision of the Regional Council under Clause 6(xii) and subject to the right of such a member to appeal.~~
 
 xiv)	In the event of 20% of constituted Local Parties petitioning the Regional Council to recall the GPEx Chair, Treasurer or Ordinary Member, such a member shall be under suspension until a new ballot has been held for that post at a date to be determined by the Regional Council.
@@ -67,6 +73,8 @@ e)	to present a full written report on its activities and on the financial state
 f)	to present to the Annual General Meeting a plan for intended activities for the next 12 months
 
 xvii)	The Chair, and other Executive members that the Regional Council may from time to time, invite shall attend every meeting of the Regional Council to report on the work of the Party Executive, without prejudice to Clause 6 (xiii).
+
+{% include amendment.html number="3" %}
 
 Amend Clause 9) 1) b) to read:
 (b) GPEx Chair and Ordinary Members;
@@ -96,6 +104,8 @@ iii.	The role of the International Committee shall be to support the work of the
 iv.	The International Committee shall provide a report to each Annual General Meeting.
 
 v.	The International Committee is a working group of GPRC.
+
+{% include amendment.html number="4" %}
 
 Add new Clause 17, renumbering other clauses in the constitution as needed, to create a Trade Union Liaison Committee to coordinate the Party’s relationship with the trade union movement and other workers’ organisations:
 

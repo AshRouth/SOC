@@ -1,6 +1,6 @@
 ---
-section: E
-number: 12
+section: C
+number: 2
 title: The UK’s relationship with the European Union
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120266
 status: final
@@ -19,7 +19,11 @@ EU900 The Green Party supports European co-operation on Green lines, as set out 
 
 EU901 While much good has come out of the European Union there remain many policies that urgently need changing, such as the Common Agricultural Policy and the Common Fisheries Policy. Future developments in the EU must take the EU closer towards Green principles and objectives.
 
+{% include amendment.html number="1" %}
+
 EU902 The Green Party's aim is a reconstitution of the EU as a European Confederation of Regions on Green lines pursuing ecological policies.
+
+{% include amendment.html number="2" %}
 
 EU903 Whilst the Green Party is opposed to the objectives, structure and policies of the EU as currently constituted, as long as the U.K. remains a member of the EU the Green Party will stand in elections to the European Parliament and elected Green MEPs will work for fundamental reform of the EU from within.
 
@@ -54,6 +58,8 @@ EU 903: We believe that many of the worst problems resulting from Brexit would b
 EU 904: While we continue to support the principle of subsidiarity, local supply chains, and strengthened local economies, the Green Party believes that the UK should mirror or improve on the legislative rules governing the EU single market and its standards on workers’ rights, health and safety, and environmental protection.
 
 EU 905: In particular, we deeply regret the loss of rights and opportunities afforded to our young people and will campaign to ensure that all young people regardless of background and socio-economic status, continue to enjoy the opportunity to explore the continent they share with those from the 27 EU member states, particularly through continued participation in the Erasmus+ scheme.
+
+{% include amendment.html number="3" %}
 
 EU 906: The Green Party of England and Wales deplores the use of the UK Internal Market Act to limit the rights of the devolved nations to retain their alignment with the EU, and to go further and faster with environmental protection measures. We are deeply concerned that peace in Northern Ireland is threatened as a result of the UK government’s attempts to undo the Northern Ireland protocol.
 

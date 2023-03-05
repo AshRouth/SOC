@@ -104,6 +104,9 @@ A greater focus on outreach and dialogue to support global peace-building, solid
 A commitment to upholding human rights in all NATO’s actions and operations; although this should not be seen as a justification for unilateral military intervention.
 An end to fixed minimum level of military spending by each member state to be replaced with a flexible level set by consensus that will reflect the current military and strategic landscapes.
 A commitment to undertaking no out of area operations or military exercises, and to act solely in defence of member states.
+
+{% include amendment.html number="1" %}
+
 Other Treaties
 
 Antarctica
@@ -117,6 +120,8 @@ PSD331 The Green Party Supports the 1971 Seabed Arms Control Treaty which seeks 
 Missile Defence
 
 PSD 332 Developments since the 2002 withdrawal of the US from the 1972 Anti-Ballistic Missile (ABM) Treaty, have meant that ABM sites can be seen as components of a first strike nuclear strategy by preventing any retaliatory strike. As such they are dangerously destabilising systems, have increased international tension and are themselves targets. Therefore, we will  end all ABM related activity in the UK.
+
+{% include amendment.html number="2" %}
 
 Outer Space
 
@@ -227,6 +232,8 @@ PSD531  The Green Party believes that the use of nuclear weapons would be contra
 PSD532 The Green Party notes the risks of miscalculation, misappropriation or malfunction inherent in producing and maintaining nuclear weapons. The Green Party will work with all willing partners globally to progressively limit production capabilities for such weapons, and to collectively decommission existing stockpiles.
 
 PSD533 The Green Party believes that the UK should join the UN Treaty on the Prohibition of Nuclear Weapons  (TPNW) which came into force in January 2021. In doing so the UK would  join the majority of countries in committing to work to remove the threat of nuclear war.  Following this action the UK will immediately begin the process of dismantling our nuclear weapons, cancel the Trident  programme and remove any foreign nuclear weapons from the UK, ban the export of nuclear weapons related material, ban nuclear armed ships from UK territorial waters, and open the country to the appropriate international inspection agencies.
+
+{% include amendment.html number="3" %}
 
 PSD534 The Green Party supports the ICAN (International Campaign to Abolish Nuclear Weapons) Cities Appeal for a Nuclear Ban, and Green Councillors will advocate for their city or borough to support the Appeal, and to divest council funds from nuclear weapons.
 

@@ -102,12 +102,13 @@ for stewarding it, which in law would be permanent tenure. There will be compuls
 registration of all land (see LP517) within a statutory time limit, which will include name
 and address of the ultimate beneficial owners of the land.
 
+{% include amendment.html number="1a" %}
+
 **LD302** The holder of a land title (steward), will have responsibilities for stewarding land
 for the “common good” (PB451, MG201) which will be reasonable and clear. Advice
 and financial help will be available (see LD502 and FA204 and FA300). Stewardship will
 be transferred with ownership and they cannot be separated. This will primarily affect
 large pieces of land rather than private gardens.
-
 
 **LD303** Land unregistered for any reason (for example where an owner cannot be
 established, which ceases to have an owner, or for which ownership is removed (see
@@ -116,6 +117,8 @@ Crown or Duchies, as now (See LD002). Commons Trusts will be independent of
 Government and will be funded by revenues, such as Land Value Taxation (see EC780).
 The Commons Trusts’ policies, and major decisions will be made in accordance with
 the principles of democratic participation (see PA102 and PA103).
+
+{% include amendment.html number="2a" %}
 
 **LD304** The Commons Trusts would be empowered to:
 * provide advice and guidance on land stewardship
@@ -133,6 +136,8 @@ compulsory purchase by the Commons Trust (as the first charge prior to all other
 liabilities, including the banks/ and other lenders), with the deduction of reparations
 and costs. Where land is held by limited companies, directors may be held personally
 responsible.
+
+{% include amendment.html number="2b" %}
 
 #### LD400 Land Use Transition
 **LD401** Changing land use is fundamental to delivering a sustainable
@@ -201,6 +206,8 @@ apply.
 * Direct government ownership and
 * Enforcement of stewardship responsibilities by the Commons Trust
 
+{% include amendment.html number="2c" %}
+
 **LD503** To build capacity and deliver a just transition we will need
 to facilitate a mindset change to a new way of using land. We will
 need education, training, and support services. It is also critical
@@ -242,6 +249,10 @@ includes public forestry estate (FR200), and social housing
 
 **LD508** Enforcement of stewardship responsibilities - As a mechanism
 of last resort Commons Trust will have enforcement powers (see LD306).
+
+{% include amendment.html number="2d" %}
+
+{% include amendment.html number="2e" %}
 
 END OF LAND CHAPTER
 
@@ -438,6 +449,8 @@ therefore the quantity available will be limited. (See FR700)."
 "EN017 Solar Photovoltaic will largely be deployed on roofs. Solar farms
 will only be deployed on land where there is no better use of that land
 (see LD401).".
+
+{% include amendment.html number="3" %}
 
 #### Food and Agriculture
 **FA203 currently reads:** \\
@@ -690,6 +703,8 @@ where the substantive policy sits, so that it reads: \\
 from speculation on existing homes and development sites, and in the short term
 increase the amount of land held by Community Land Trusts (see HO513-514);".
 
+{% include amendment.html number="1b" %}
+
 #### Industry
 **IN401 to IN404 currently read:** \\
 IN401 The National Spatial Strategy will ensure individual planning
@@ -912,6 +927,8 @@ public interest, to prevent land hoarding."
 **Replace** with the following,so that it reads, \\
 "LP516 To minimise land hoarding, local authorities should exercise
 compulsory purchase orders in the public interest. See also LD508."
+
+{% include amendment.html number="2f" %}
 
 **Amend first sentence of LP517** to account for master land registry
 policy being in LD301 and add cross references, **so that LP517 reads:** \\

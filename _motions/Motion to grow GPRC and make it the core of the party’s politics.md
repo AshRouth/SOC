@@ -31,6 +31,10 @@ vi)	Any casual vacancy on the Regional Council may be filled by the appropriate 
 and replace it with
 v)	Casual vacancies on the Council shall be filled at the next Annual Ballot. The highest ranked candidate who did not meet the threshold to be ordinarily elected, shall be elected to fill any vacant seats, if any should exist, with their term being the original term of the casual vacancy they are filling.  This process will be repeated until all casual vacancies have been filled.
 
+{% include amendment.html number="1" %}
+
+{% include amendment.html number="2" %}
+
 Delete Clause viii
 viii)	The Regional Council shall elect by secret ballot from within its number two Co-chairpersons who have different gender identities, and shall appoint a secretary.
 and replace it with
@@ -44,6 +48,10 @@ xiii) The Council may request with reasonable notice any member of the Green Par
 Add Clause xv
 xv)	The Council will be run according to its Standing Orders.  Any change in its Standing Orders needs to be agreed by a two-thirds majority and be ratified by the following Conference.
 
+{% include amendment.html number="3" %}
+
+{% include amendment.html number="4" %}
+
 And to amend Clause 9 as follows:
 Add to Existing Clause 9) 1):
 (f) Members of The Council;
@@ -53,3 +61,11 @@ Following the passing of this motion we will transition to the new format of the
 At the first Annual Ballot following this motion being passed by conference the first twelve members of the Council will be elected in accordance with the process set out in this motion.  Any existing members of GPRC will transition to become full voting members of the Council with their terms expiring in line with their existing mandate. If any such councillor ceases to be a member of the council, the region which elected them shall not replace them.
 At the second Annual Ballot following this motion being passed by conference 24 members shall be elected.  Immediately after this election the councillors shall be divided evenly and randomly into two classes (Class one and Class three).  The terms of all councillors in Class one shall end in one year and for those in Class three shall end in three years.
 At all following Annual Ballots, only the seats belonging to councillors whose term has expired shall be up for election.
+
+{% include amendment.html number="5" %}
+
+{% include amendment.html number="6" %}
+
+{% include amendment.html number="7" %}
+
+{% include amendment.html number="8" %}

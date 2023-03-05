@@ -28,6 +28,8 @@ With:
 
 “The post of deputy leader will be held as a job share with two individuals, at least one of whom must be a woman or a gender non-conforming/non-binary person, noting that gender is self-determined.”
 
+{% include amendment.html number="1" %}
+
 Replace:
 
 “Two members of a different gender may together stand for the office of Leader in order to hold the post as a job share in which case they shall be known as ‘Co-Leaders’”
@@ -40,5 +42,6 @@ So that Subsection iv reads:
 
 “The post of deputy leader will be held as a job share with two individuals, at least one of whom must be a woman or a gender non-conforming/non-binary person, noting that gender is self-determined.
 
+{% include amendment.html number="2" %}
 
 Two members, of whom at least one must be a woman or a gender non-conforming/non-binary person, may together stand for the office of Leader in order to hold the post as a job share in which case they shall be known as ‘Co-Leaders’'. In this case a single Deputy, the individual who polls the highest vote, regardless of gender, will be elected. Members standing to be Co-Leaders may not simultaneously be candidates as individuals for either Leader or Deputy Leader.”

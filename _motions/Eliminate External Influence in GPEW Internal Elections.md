@@ -13,3 +13,5 @@ This motion will ban members from voting in national internal elections in the f
 In the Constitution add to 17. Elections:
 
 “v) All Green Party members will be eligible to vote in national elections after they have been a member for a minimum of three months at the close of nominations.”
+
+{% include amendment.html number="1" %}
