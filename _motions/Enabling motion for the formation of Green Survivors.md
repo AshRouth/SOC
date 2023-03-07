@@ -1,6 +1,6 @@
 ---
-section: OoO
-number: 5
+section: D
+number: 29
 title: Enabling motion for the formation of Green Survivors
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119571
 status: final

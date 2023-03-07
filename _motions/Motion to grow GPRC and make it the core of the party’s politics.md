@@ -1,7 +1,7 @@
 ---
 section: D
-number: 21
-title: Grow GPRC and make it the core of the party’s politics.
+number: 27
+title: Grow GPRC and make it the core of the party’s politics
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118311
 status: final
 coproposers: 16

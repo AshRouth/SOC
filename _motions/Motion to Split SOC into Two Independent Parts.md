@@ -1,6 +1,6 @@
 ---
-section: OoO
-number: 7
+section: D
+number: 23
 title: Motion to Split SOC into Two Independent Parts
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118305
 status: final

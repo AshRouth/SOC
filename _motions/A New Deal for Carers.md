@@ -1,6 +1,6 @@
 ---
 section: E
-number: 8
+number: 6
 title: New Deal for Carers
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120293
 status: final

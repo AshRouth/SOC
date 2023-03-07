@@ -1,6 +1,6 @@
 ---
 section: E
-number: 12
+number: 10
 title: Transition Benefit
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120007
 status: final

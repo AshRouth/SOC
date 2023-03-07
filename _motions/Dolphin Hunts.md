@@ -7,7 +7,7 @@ status: final
 coproposers: 16
 ---
 ## Synopsis
-Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end
+Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end 
 
 ## Motion
 Insert into Record of policy statements:

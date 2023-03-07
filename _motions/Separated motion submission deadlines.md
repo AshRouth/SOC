@@ -1,6 +1,6 @@
 ---
 section: D
-number: 9
+number: 7
 title: Separated Motion Submission Deadlines
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119471
 status: final

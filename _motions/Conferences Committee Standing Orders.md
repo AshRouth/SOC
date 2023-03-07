@@ -1,6 +1,6 @@
 ---
 section: D
-number: 10
+number: 18
 title: Standing Orders for Conferences Committee
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120320
 status: final

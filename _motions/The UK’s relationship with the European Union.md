@@ -10,7 +10,7 @@ coproposers: 14
 To replace existing sections  “UK Membership of the EU” and “Britain's Exit from the EU/"Brexit" with text based on the Policy Statement “Closer Alignment to the European Union”, passed at Autumn Conference 2022. This motion amends our Europe policy, bringing it into line with that Policy Statement.
 
 ## Motion
-Revise and update the policies EU 900-908 as follows.
+Revise and update the policies EU 900-908 as follows. 
 
 Delete existing text entirely, EU 900-906 including associated headings:
 Part 8: UK Membership of the EU

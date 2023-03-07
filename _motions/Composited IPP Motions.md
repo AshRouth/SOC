@@ -1,7 +1,7 @@
 ---
 section: C
 number: 1
-title: Composited IPP Motions
+title: Amalgamated IPP Statements
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119001
 status: final
 coproposers: 10
@@ -12,7 +12,7 @@ SOC note: This motion is a composite of the Interim Policy Position statements p
 
 ## Part 1: Decoupling Electricity Costs from Gas
 ## Synopsis
-This motion proposes that the party campaigns to remove the absurd coupling of low-carbon electricity prices and gas prices. If these savings are passed on to the consumer, this could reduce typical household electricity bills by up to £300 over the next 6 months. It can be implemented almost immediately.
+This motion proposes that the party campaigns to remove the absurd coupling of low-carbon electricity prices and gas prices. If these savings are passed on to the consumer, this could reduce typical household electricity bills by up to £300 over the next 6 months. It can be implemented almost immediately. 
 
 ## Motion
 Conference Notes:

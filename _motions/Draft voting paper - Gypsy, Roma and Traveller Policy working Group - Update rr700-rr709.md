@@ -7,7 +7,7 @@ status: final
 coproposers: 32
 ---
 ## Synopsis
-The traditional way of life of ethnic Gypsies, Roma and Travellers is threatened by the recent Police, Crime, Sentencing and Courts Act, criminalising nomadic life. Systemic barriers for Gypsy, Roma and Traveller communities remain. This motion seeks to address these barriers and ensure equity, equality, and justice for these communities.
+The traditional way of life of ethnic Gypsies, Roma and Travellers is threatened by the recent Police, Crime, Sentencing and Courts Act, criminalising nomadic life. Systemic barriers for Gypsy, Roma and Traveller communities remain. This motion seeks to address these barriers and ensure equity, equality, and justice for these communities. 
 
 ## Motion
 Insert new RR700 – RR707 to replace RR700 - RR709, and renumber PSS accordingly:
