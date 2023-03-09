@@ -1,5 +1,11 @@
+- name: Section A
+  code: A
+
 - name: Section B
   code: B
+
+- name: Section C
+  code: C
 
 - name: Section D
   code: D
@@ -9,6 +15,3 @@
 
 - name: Section F
   code: F
-  
-- name: Out of Order
-  code: OoO
