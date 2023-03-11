@@ -15,3 +15,9 @@
 
 - name: Section F
   code: F
+
+- name: Late motions
+  code: LM
+
+- name: Emergency Motions
+  code: EM

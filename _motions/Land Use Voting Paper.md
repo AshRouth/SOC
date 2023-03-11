@@ -3,7 +3,7 @@ section: B
 number: 1
 title: Land Use Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118244
-status: tbd
+status: passed
 coproposers: 17
 ---
 ## Synopsis
@@ -102,7 +102,7 @@ for stewarding it, which in law would be permanent tenure. There will be compuls
 registration of all land (see LP517) within a statutory time limit, which will include name
 and address of the ultimate beneficial owners of the land.
 
-{% include amendment.html number="1a" %}
+{% include amendment.html number="1a" status=defeated %}
 
 **LD302** The holder of a land title (steward), will have responsibilities for stewarding land
 for the “common good” (PB451, MG201) which will be reasonable and clear. Advice
