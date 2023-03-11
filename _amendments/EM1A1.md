@@ -1,5 +1,5 @@
 ---
-motion_title: Green Party Solidarity With Gary Lineker
+motion_title: Green Party solidarity with Gary Lineker
 amendment_number: 1
 status: tbc
 # Looking for the amendment status? Update it directly from the motion page!
