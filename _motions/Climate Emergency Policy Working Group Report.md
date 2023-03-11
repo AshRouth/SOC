@@ -3,7 +3,7 @@ section: A
 number: 5
 title: Climate Emergency Policy Working Group Report
 spaces:
-status: final
+status: passed
 coproposers: 1
 ---
 ## Report

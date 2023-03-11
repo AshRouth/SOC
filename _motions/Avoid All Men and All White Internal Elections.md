@@ -3,7 +3,7 @@ section: D
 number: 8
 title: Avoid All Men and All White Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117218
-status: final
+status: tbd
 coproposers: 26
 ---
 ## Synopsis

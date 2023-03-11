@@ -3,7 +3,7 @@ section: D
 number: 9
 title: Stonewall and Disaffiliation from Diversity Champions Scheme
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119265
-status: final
+status: tbd
 coproposers: 17
 ---
 ## Synopsis

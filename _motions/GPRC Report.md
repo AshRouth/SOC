@@ -3,7 +3,7 @@ section: A
 number: 4
 title: Green Party Regional Council (GPRC) Report
 spaces:
-status: final
+status: passed
 coproposers: 2
 ---
 ## Report

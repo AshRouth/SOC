@@ -3,11 +3,11 @@ section: E
 number: 4
 title: Dolphin Hunts
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119217
-status: final
+status: passed
 coproposers: 16
 ---
 ## Synopsis
-Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end 
+Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end
 
 ## Motion
 Insert into Record of policy statements:

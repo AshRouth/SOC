@@ -3,7 +3,7 @@ section: E
 number: 3
 title: Declining Quality of Rivers and Coastal Waters
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119559
-status: final
+status: passed
 coproposers: 23
 ---
 ## Synopsis
@@ -13,7 +13,7 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 {:.alert .alert-primary}
 
 ## Motion
-This statement is a response from the Wildlife & Habitats pwg to the declining quality of rivers notably in England due to the failure of the private water companies to properly monitor pollution levels and build the infrastructure needed to protect water quality.  All policies are drawn from the PfSS 
+This statement is a response from the Wildlife & Habitats pwg to the declining quality of rivers notably in England due to the failure of the private water companies to properly monitor pollution levels and build the infrastructure needed to protect water quality.  All policies are drawn from the PfSS
 
 1 This Conference deplores the declining quality of rivers, estuaries and inshore waters of England and holds this Government’s ideologically driven policy of privatisations and ‘small state’ to be responsible.
 

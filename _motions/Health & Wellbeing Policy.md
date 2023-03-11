@@ -3,11 +3,11 @@ section: F
 number: 2
 title: Health & Wellbeing Policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120252
-status: final
+status: tbd
 coproposers: 17
 ---
 ## Synopsis
-This motion presents a draft voting paper for a revised PSS Health and Wellbeing Policy as described in the Enabling Motion passed at the Spring 21 Conference. 
+This motion presents a draft voting paper for a revised PSS Health and Wellbeing Policy as described in the Enabling Motion passed at the Spring 21 Conference.
 
 ## Motion
 Spring Conference instructs Policy Committee to continue the policy development process for a redrafted PSS section on Health and Wellbeing, taking into account the feedback on the draft policy obtained from workshops and debate at the Spring Conference and to present the final version at the Spring 2023 Conference.

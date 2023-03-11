@@ -3,7 +3,7 @@ section: D
 number: 26
 title: Campaign Against the Coronation of King Charles III
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117131
-status: final
+status: tbd
 coproposers: 18
 ---
 ## Synopsis

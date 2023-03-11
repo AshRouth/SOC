@@ -3,7 +3,7 @@ section: D
 number: 14
 title: Enhancing the Complaints Process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120315
-status: final
+status: tbd
 coproposers: 17
 ---
 ## Synopsis

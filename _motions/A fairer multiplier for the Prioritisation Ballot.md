@@ -3,7 +3,7 @@ section: D
 number: 24
 title: Fairer multiplier for the Prioritisation Ballot
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119624
-status: final
+status: tbd
 coproposers: 15
 ---
 ## Synopsis

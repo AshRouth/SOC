@@ -3,7 +3,7 @@ section: C
 number: 3
 title: The Green Party of england and Wales's Vision for Europe
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120264
-status: final
+status: tbd
 coproposers: 15
 ---
 ## Synopsis
@@ -12,7 +12,7 @@ Europe PWG proposes to revise the opening of the Europe Chapter in PfSS, to alig
 ## Motion
 To make the following revisions to EU 100-113 in the Policies for a Sustainable Society.
 
-Part 1: The Green Vision for Europe 
+Part 1: The Green Vision for Europe
 Delete existing text:
 
 EU100 In our Green vision for Europe we seek to replace the unsustainable economics of free trade and unrestricted growth with the ecological alternative of local self reliance and resource conservation, within a context of wider diversity. We want to foster co-operation on issues of common interest, not establish  international institutions for their own sake. We want social justice and economic democracy to bring fairer and more resilient societies to Europe.

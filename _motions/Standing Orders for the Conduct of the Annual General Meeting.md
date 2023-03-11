@@ -3,7 +3,7 @@ section: D
 number: 1
 title: Standing Orders for the Conduct of the Annual General Meeting
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119490
-status: final
+status: tbd
 coproposers: 16
 ---
 ## Synopsis

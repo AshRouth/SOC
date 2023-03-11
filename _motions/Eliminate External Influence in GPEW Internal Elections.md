@@ -3,7 +3,7 @@ section: D
 number: 10
 title: Eliminate External Influence in GPEW Internal Elections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119477
-status: final
+status: tbd
 coproposers: 16
 ---
 ## Synopsis

@@ -3,7 +3,7 @@ section: D
 number: 17
 title: Amending Standing Orders for Party Discipline
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=117076
-status: final
+status: tbd
 coproposers: 22
 ---
 ## Synopsis

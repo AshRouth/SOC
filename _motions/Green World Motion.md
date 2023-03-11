@@ -3,7 +3,7 @@ section: D
 number: 16
 title: Green World Motion
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118309
-status: final
+status: tbd
 coproposers: 9
 affiliated: true
 ---

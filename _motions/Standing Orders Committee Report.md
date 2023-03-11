@@ -3,7 +3,7 @@ section: A
 number: 1
 title: Standing orders committee (SOC) report
 spaces:
-status: final
+status: passed
 coproposers: 1
 ---
 ## Report

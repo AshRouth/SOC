@@ -3,7 +3,7 @@ section: A
 number: 2
 title: Policy development committee (PDC) report
 spaces:
-status: final
+status: passed
 coproposers: 1
 ---
 ## Report

@@ -3,7 +3,7 @@ section: E
 number: 7
 title: Solidarity with Protesters in Iran
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120254
-status: final
+status: tbd
 coproposers: 17
 ---
 ## Synopsis
