@@ -16,9 +16,6 @@ To view the background paper for this motion, [click here.]({{ site.baseurl }}/f
 
 
 ## Motion
-SOC note: motion is in order provisional on minutes bring produced by proposer demonstrating that the motion omly requires 4 proposers
-{:.alert .d-inline-block .alert-primary}
-
 Delete title ‘Aims of Campaigning’ and EES200, EES210, EES220 and EES230
 
 Insert title: ‘AIMS OF THE STRATEGY’

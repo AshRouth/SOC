@@ -11,9 +11,6 @@ affiliated: true
 This motion responds to support in the recent consultations by the Party Structure Working Group to increase the number of people in SOC and to split out its work into two different committees, one dealing with the constitution and one dealing with conference.
 
 ## Motion
-SOC note: This motion has been ruled Out of Order.
-{:.alert .d-inline-block .alert-defeated}
-
 This motion calls on conference to make the following changes to the constitution to create two new governance bodies to take over the work currently done by Standing Orders Committee (SOC) and to enact this through the transition process outlined.
 Constitution Changes
 Insert the following Clause after Clause 9 and renumber

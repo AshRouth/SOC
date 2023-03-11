@@ -10,7 +10,7 @@ coproposers: 14
 To replace existing sections  “UK Membership of the EU” and “Britain's Exit from the EU/"Brexit" with text based on the Policy Statement “Closer Alignment to the European Union”, passed at Autumn Conference 2022. This motion amends our Europe policy, bringing it into line with that Policy Statement.
 
 ## Motion
-Revise and update the policies EU 900-908 as follows. 
+Revise and update the policies EU 900-908 as follows.
 
 Delete existing text entirely, EU 900-906 including associated headings:
 Part 8: UK Membership of the EU
@@ -19,11 +19,7 @@ EU900 The Green Party supports European co-operation on Green lines, as set out 
 
 EU901 While much good has come out of the European Union there remain many policies that urgently need changing, such as the Common Agricultural Policy and the Common Fisheries Policy. Future developments in the EU must take the EU closer towards Green principles and objectives.
 
-{% include amendment.html number="1" %}
-
 EU902 The Green Party's aim is a reconstitution of the EU as a European Confederation of Regions on Green lines pursuing ecological policies.
-
-{% include amendment.html number="2" %}
 
 EU903 Whilst the Green Party is opposed to the objectives, structure and policies of the EU as currently constituted, as long as the U.K. remains a member of the EU the Green Party will stand in elections to the European Parliament and elected Green MEPs will work for fundamental reform of the EU from within.
 
@@ -50,6 +46,10 @@ Replace with the following new text (EU 900-908)
 EU 900: The Green Party regrets that the UK is no longer a member of the European Union. We continue to believe that the UK would be in a better position socially, environmentally and economically if we had maintained our EU membership. ​​We recognise that a united international response to global issues is even more needed in the contemporary world.
 
 EU 901: The Green Party maintains that full membership of the EU remains the best option for the UK, and we are in favour of pursuing a policy to re-join as soon as the political situation is favourable and the right terms are available.
+
+{% include amendment.html number="1" %}
+
+{% include amendment.html number="2" %}
 
 EU 902: We deplore the UK government’s failure to prepare properly for the massive changes to our economic and social structures caused by the UK’s withdrawal from the EU, putting businesses at risk and damaging citizens’ opportunities. We also regret the decision not to undertake any official monitoring of the economic impacts of leaving the EU.
 

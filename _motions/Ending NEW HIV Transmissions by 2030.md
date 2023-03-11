@@ -13,7 +13,8 @@ SOC note: synopsis word limit reached
 {:.alert .d-inline-block .alert-primary}
 
 ## Motion
-SOC Notes: We have split this motion into two parts; the other part is in section E.
+SOC Note: We have split this motion into two parts; the other part is in section E.
+{:.alert .d-inline-block .alert-primary}
 
 Conference instructs the Party to commit to and support the following actions:
 

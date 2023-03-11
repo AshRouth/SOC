@@ -10,9 +10,6 @@ coproposers: 13
 Greens must work with trade unions and other campaigners to oppose UK government policies undermining efforts to reduce climate change.
 
 ## Motion
-SOC note: This motion has been ruled Out of Order.
-{:.alert .d-inline-block .alert-defeated}
-
 This conference recognises that:
 
 Greens have adopted many policies related to Climate Change since 2010, recognising the urgency of action to reduce climate change.
