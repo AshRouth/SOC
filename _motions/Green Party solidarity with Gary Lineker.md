@@ -3,7 +3,7 @@ section: EM
 number: 1
 title: Green Party solidarity with Gary Lineker
 spaces:
-status: final
+status: passed
 coproposers: 91
 ---
 ## Motion
