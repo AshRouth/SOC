@@ -102,7 +102,7 @@ for stewarding it, which in law would be permanent tenure. There will be compuls
 registration of all land (see LP517) within a statutory time limit, which will include name
 and address of the ultimate beneficial owners of the land.
 
-{% include amendment.html number="1a" status=defeated %}
+{% include amendment.html number="1a" status="defeated" %}
 
 **LD302** The holder of a land title (steward), will have responsibilities for stewarding land
 for the “common good” (PB451, MG201) which will be reasonable and clear. Advice
@@ -118,7 +118,7 @@ Government and will be funded by revenues, such as Land Value Taxation (see EC78
 The Commons Trusts’ policies, and major decisions will be made in accordance with
 the principles of democratic participation (see PA102 and PA103).
 
-{% include amendment.html number="2a" %}
+{% include amendment.html number="2a" status="defeated" %}
 
 **LD304** The Commons Trusts would be empowered to:
 * provide advice and guidance on land stewardship
@@ -137,7 +137,7 @@ liabilities, including the banks/ and other lenders), with the deduction of repa
 and costs. Where land is held by limited companies, directors may be held personally
 responsible.
 
-{% include amendment.html number="2b" %}
+{% include amendment.html number="2b" status="defeated" %}
 
 #### LD400 Land Use Transition
 **LD401** Changing land use is fundamental to delivering a sustainable
@@ -206,7 +206,7 @@ apply.
 * Direct government ownership and
 * Enforcement of stewardship responsibilities by the Commons Trust
 
-{% include amendment.html number="2c" %}
+{% include amendment.html number="2c" status="defeated" %}
 
 **LD503** To build capacity and deliver a just transition we will need
 to facilitate a mindset change to a new way of using land. We will
@@ -250,9 +250,9 @@ includes public forestry estate (FR200), and social housing
 **LD508** Enforcement of stewardship responsibilities - As a mechanism
 of last resort Commons Trust will have enforcement powers (see LD306).
 
-{% include amendment.html number="2d" %}
+{% include amendment.html number="2d" status="defeated" %}
 
-{% include amendment.html number="2e" %}
+{% include amendment.html number="2e" status="defeated" %}
 
 END OF LAND CHAPTER
 
@@ -450,7 +450,7 @@ therefore the quantity available will be limited. (See FR700)."
 will only be deployed on land where there is no better use of that land
 (see LD401).".
 
-{% include amendment.html number="3" %}
+{% include amendment.html number="3" status="passed" %}
 
 #### Food and Agriculture
 **FA203 currently reads:** \\

@@ -3,7 +3,7 @@ section: C
 number: 1
 title: Amalgamated IPP Statements
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119001
-status: passed 
+status: passed
 coproposers: 10
 affiliated: true
 ---
@@ -43,7 +43,7 @@ GPEx/Leadership to continue campaigning for renewables and improved energy-effic
 
 Climate Emergency Policy Working Group to return to Spring 2023 conference with permanent measures for price stabilisation.
 
-{% include amendment.html number="1" %}
+{% include amendment.html number="1" status="passed" %}
 
 ## Part 2: Dirty Profits Tax
 ## Motion
@@ -114,7 +114,7 @@ Remove “to 35%” from the Dirty Profits Tax, to leave the rate of supplementa
 
 Conference instructs GPEx to ensure Green Party Comms and Press Statements are consistent with the policy approach to affordability of energy crisis outlined in this motion and existing Green Party policy (as set out in Policies for a Sustainable Society)
 
-{% include amendment.html number="2" %}
+{% include amendment.html number="2" status="passed" %}
 
 ## Part 4: Revised Five Point Plan for Energy Crisis
 ## Motion

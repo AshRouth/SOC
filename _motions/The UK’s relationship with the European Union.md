@@ -47,9 +47,9 @@ EU 900: The Green Party regrets that the UK is no longer a member of the Europea
 
 EU 901: The Green Party maintains that full membership of the EU remains the best option for the UK, and we are in favour of pursuing a policy to re-join as soon as the political situation is favourable and the right terms are available.
 
-{% include amendment.html number="1" %}
+{% include amendment.html number="1" status="passed" %}
 
-{% include amendment.html number="2" %}
+{% include amendment.html number="2" status="defeated" %}
 
 EU 902: We deplore the UK government’s failure to prepare properly for the massive changes to our economic and social structures caused by the UK’s withdrawal from the EU, putting businesses at risk and damaging citizens’ opportunities. We also regret the decision not to undertake any official monitoring of the economic impacts of leaving the EU.
 
@@ -59,7 +59,7 @@ EU 904: While we continue to support the principle of subsidiarity, local supply
 
 EU 905: In particular, we deeply regret the loss of rights and opportunities afforded to our young people and will campaign to ensure that all young people regardless of background and socio-economic status, continue to enjoy the opportunity to explore the continent they share with those from the 27 EU member states, particularly through continued participation in the Erasmus+ scheme.
 
-{% include amendment.html number="3" %}
+{% include amendment.html number="3" status="passed" %}
 
 EU 906: The Green Party of England and Wales deplores the use of the UK Internal Market Act to limit the rights of the devolved nations to retain their alignment with the EU, and to go further and faster with environmental protection measures. We are deeply concerned that peace in Northern Ireland is threatened as a result of the UK government’s attempts to undo the Northern Ireland protocol.
 
