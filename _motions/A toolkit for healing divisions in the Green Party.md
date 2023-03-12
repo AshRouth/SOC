@@ -3,7 +3,7 @@ section: D
 number: 2
 title: Toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118643
-status: tbd
+status: passed
 coproposers: 27
 ---
 ## Synopsis

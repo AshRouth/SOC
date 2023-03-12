@@ -3,7 +3,7 @@ section: D
 number: 3
 title: Extending the term of elected Policy Development Committee membership
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119390
-status: tbd
+status: passed
 coproposers: 11
 affiliated: true
 ---

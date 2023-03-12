@@ -3,7 +3,7 @@ section: D
 number: 1
 title: Standing Orders for the Conduct of the Annual General Meeting
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119490
-status: tbd
+status: passed
 coproposers: 16
 ---
 ## Synopsis
@@ -251,7 +251,7 @@ H9.3 In determining majorities, the majority required must be obtained as a majo
 H9.4 The AGM may appoint scrutineers to assist SOC in the counting of plenary votes, at the discretion of the Chair.
 H.9.5 No proxy voting is permitted for the AGM.
 
-{% include amendment.html number="1" %}
+{% include amendment.html number="1" status="passed" %}
 
 H10 Ballot card votes
 H10.1 A vote using ballot cards shall be referred to as a ballot card vote or card vote. A ballot card vote is taken by collecting ballot cards of attending members.
@@ -259,7 +259,7 @@ H10.2 Such a vote shall be taken if requested by ten Green Party members. Additi
 H10.3 If ConfComm and SOC agree that there is suitable secure technology, ballot cards may be taken to mean or include ballot cards issued electronically.
 H10.4 If votes are taken in order, then votes of attendees shall be counted first, then votes of those registered to vote remotely.
 
-{% include amendment.html number="2" %}
+{% include amendment.html number="2" status="defeated" %}
 
 H11. Participation by members not attending at the AGM venue
 H11.1 Plenary sessions shall be recorded and livestreamed where possible.
