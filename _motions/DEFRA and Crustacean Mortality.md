@@ -3,7 +3,7 @@ section: LM
 number: 1
 title: DEFRA and Crustacean Mortality
 spaces:
-status: final
+status: passed
 coproposers: 61
 ---
 ## Synopsis

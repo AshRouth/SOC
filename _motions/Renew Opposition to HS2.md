@@ -4,7 +4,7 @@ number: 2
 title: Renew opposition to HS2 in response to further delays and cost increases
 spaces:
 status: tbd
-coproposers: 105
+coproposers: 125
 ---
 ## Synopsis
 Carers save the UK economy billions a year, it’s about time they got a fair deal. This motion would specify what changes we would make to unpaid carers lives in the UK.
