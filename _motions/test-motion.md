@@ -7,6 +7,6 @@ motion_code:
   number: 5
 status: tbd
 spaces: https://google.com
-coproposers: "12"
+coproposers: 12
 ---
 Testing.

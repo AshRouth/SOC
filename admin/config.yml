@@ -6,7 +6,8 @@ media_folder: 'assets/uploads'
 site_url: https://fantastic-crepe-2e5bfe.netlify.app
 collections:
   - name: 'motions'
-    label: 'Motion'
+    label: 'Motions'
+    label_singular: 'Motion'
     folder: '_motions/'
     create: true
     editor:
@@ -36,5 +37,5 @@ collections:
             widget: "number"
       - { label: 'Status', name: 'status', widget: 'string' }
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
-      - { label: 'Coproposer Count', name: 'coproposers', widget: 'string' }
+      - { label: 'Coproposer Count', name: 'coproposers', widget: 'number' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
