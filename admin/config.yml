@@ -10,7 +10,7 @@ collections:
     label_singular: 'Motion'
     folder: '_motions/'
     create: true
-    summary: "#{{motion_code.section}}{% if motion_code.number < 10 %}0{% endif %}{{ motion_code.number }} {{title}}"
+    summary: "#{{motion_code.section}}{{motion_code.number}} {{title}}"
     editor:
       preview: false
     sortable_fields: ['title', 'motion_code.section']
