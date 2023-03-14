@@ -10,9 +10,10 @@ collections:
     label_singular: 'Motion'
     folder: '_motions/'
     create: true
-    summary: "{{motion_code.summary}} - {{title}}"
+    summary: "#{{motion_code.section}}{{motion_code.number}} - {{title}}"
     editor:
       preview: false
+    sortable_fields: ['title', 'motion_code.section']
     view_groups:
       - label: Section
         field: motion_code.section
