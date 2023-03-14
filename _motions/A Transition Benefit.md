@@ -1,6 +1,7 @@
 ---
-section: E
-number: 10
+motion_code:
+	section: E
+	number: 10
 title: Transition Benefit
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120007
 status: tbd

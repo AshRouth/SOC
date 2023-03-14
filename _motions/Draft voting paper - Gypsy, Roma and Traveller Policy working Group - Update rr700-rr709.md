@@ -1,6 +1,7 @@
 ---
-section: F
-number: 1
+motion_code:
+	section: F
+	number: 1
 title: Gypsy, Roma and Traveller Rights Draft Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118410
 status: tbd

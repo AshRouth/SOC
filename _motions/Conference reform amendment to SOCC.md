@@ -1,6 +1,7 @@
 ---
-section: D
-number: 6
+motion_code:
+	section: D
+	number: 6
 title: Conference reform amendment to SOCC
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119467
 status: tbd

@@ -1,6 +1,7 @@
 ---
-section: A
-number: 2
+motion_code:
+	section: A
+	number: 2
 title: Policy development committee (PDC) report
 spaces:
 status: passed

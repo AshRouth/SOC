@@ -1,6 +1,7 @@
 ---
-section: D
-number: 14
+motion_code:
+	section: D
+	number: 14
 title: Enhancing the Complaints Process
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120315
 status: tbd

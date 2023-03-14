@@ -1,6 +1,7 @@
 ---
-section: EM
-number: 1
+motion_code:
+	section: EM
+	number: 1
 title: Green Party solidarity with Gary Lineker
 spaces:
 status: passed

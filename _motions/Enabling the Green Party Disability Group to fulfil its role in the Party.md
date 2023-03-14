@@ -1,6 +1,7 @@
 ---
-section: D
-number: 20
+motion_code:
+	section: D
+	number: 20
 title: Enabling the Disability Group to fulfil its role in the Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119972
 status: tbd

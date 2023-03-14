@@ -1,6 +1,7 @@
 ---
-section: D
-number: 19
+motion_code:
+	section: D
+	number: 19
 title: Reduce the size of the Green Party Executive (GPEx)
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118307
 status: tbd

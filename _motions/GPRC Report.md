@@ -1,6 +1,7 @@
 ---
-section: A
-number: 4
+motion_code:
+	section: A
+	number: 4
 title: Green Party Regional Council (GPRC) Report
 spaces:
 status: passed

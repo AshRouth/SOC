@@ -1,6 +1,7 @@
 ---
-section: C
-number: 1
+motion_code:
+	section: C
+	number: 1
 title: Amalgamated IPP Statements
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119001
 status: passed

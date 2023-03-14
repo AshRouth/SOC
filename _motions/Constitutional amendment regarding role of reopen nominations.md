@@ -1,6 +1,7 @@
 ---
-section: D
-number: 4
+motion_code:
+	section: D
+	number: 4
 title: Constitutional amendment regarding role of reopen nominations
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119469
 status: passed

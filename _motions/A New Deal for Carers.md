@@ -1,6 +1,7 @@
 ---
-section: E
-number: 6
+motion_code:
+	section: E
+	number: 6
 title: New Deal for Carers
 motion_code:
   section: A

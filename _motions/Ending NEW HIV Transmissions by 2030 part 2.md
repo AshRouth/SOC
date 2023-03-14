@@ -1,6 +1,7 @@
 ---
-section: E
-number: 2
+motion_code:
+	section: E
+	number: 2
 title: Ending New HIV Transmissions by 2030 Part 2
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119664
 status: passed

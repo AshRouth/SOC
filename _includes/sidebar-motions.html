@@ -1,7 +1,7 @@
 <ul class="sidebar list-unstyled mb-0 py-3 pt-md-1">
   {% if site.create_sections == true %}
     {% for section in site.data.sections %}
-      {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
+      {% assign motions = site.motions | where: "motion_code.section" , section.code | sort: "motion_code.number" %}
       {% unless motions.size == 0 %}
         <li class="mb-1">
           <button class="btn d-inline-flex align-items-center rounded" data-bs-toggle="collapse" data-bs-target="#{{ section.code }}-collapse" aria-expanded="{% if section.code == page.section %}true{% else %}false{% endif %}" aria-current="true">{{ section.name }}</button>
@@ -11,7 +11,7 @@
                 <li class="rounded">
                   <a class="d-flex justify-content-between align-items-center {% if motion.url == page.url %}active{% endif %}" href="{{ motion.url }}">
                     {{ motion.title }}
-                    <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
+                    <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
                   </a>
                 </li>
               {% endfor %}
@@ -27,12 +27,12 @@
   {% else %}
   <li>
     <ul class="inner list-unstyled pb-1 small">
-      {% assign motions = site.motions | sort: "number" %}
+      {% assign motions = site.motions | sort: "motion_code.number" %}
       {% for motion in motions %}
       <li class="rounded">
         <a class="d-flex justify-content-between align-items-center {% if motion.url == page.url %}active{% endif %}" href="{{ motion.url }}">
           {{ motion.title }}
-          <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
+          <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
         </a>
       </li>
       {% endfor %}

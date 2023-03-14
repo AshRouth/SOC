@@ -1,6 +1,7 @@
 ---
-section: EM
-number: 3
+motion_code:
+	section: EM
+	number: 3
 title: Protect Public Drinking Water From HS2
 spaces:
 status: final

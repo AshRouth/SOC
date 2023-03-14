@@ -1,6 +1,7 @@
 ---
-section: D
-number: 31
+motion_code:
+	section: D
+	number: 31
 title: Opposing new extraction of fossil fuels and false solutions
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119519
 status: tbd
