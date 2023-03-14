@@ -17,8 +17,6 @@ collections:
     view_groups:
       - label: Section
         field: motion_code.section
-        # groups items based on the value matched by the pattern
-        pattern: \w+
     fields:
       - label: 'Layout'
         name: 'layout'
