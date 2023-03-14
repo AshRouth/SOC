@@ -9,7 +9,7 @@ coproposers: 16
 ## Synopsis
 To delete from the Migration chapter in PSS everything from MG 100 to MG 454, and substitute the motion text below.
 
-To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/migpolbp.pdf)
+To view the background paper for this motion, [click here.](/files/migpolbp.pdf)
 {:.alert .alert-primary}
 
 ## Motion

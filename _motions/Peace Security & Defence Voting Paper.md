@@ -10,7 +10,7 @@ coproposers: 21
 Policies on Peace promote peaceful relationships within the international community and support the work of the United Nations.  Security policy recognises the importance of human security and the threat posed by the Climate & Ecological Emergence. Defence brings policy in line with the Green Party's commitment to sustainability and ecological balance.
 
 ## Background
-To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/PS&DBackground.pdf)
+To view the background paper for this motion, [click here.](/files/PS&DBackground.pdf)
 {:.alert .alert-primary}
 
 ## Motion

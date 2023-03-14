@@ -11,7 +11,7 @@ affiliated: true
  The Extra Electoral Strategy is a supporting document of the constitution. The last version was passed in 1994 when the Party was much smaller. This is a rewrite, renumbering and update to provide a clearer remit for Campaigns Committee that explicitly supports the Political Strategy.
 
 ## Background
-To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/1994.pdf)
+To view the background paper for this motion, [click here.](/files/1994.pdf)
 {:.alert .alert-primary}
 
 

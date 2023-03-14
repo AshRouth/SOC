@@ -9,7 +9,7 @@ coproposers: 23
 ## Synopsis
 
 ## Background
-To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/riverquality.pdf)
+To view the background paper for this motion, [click here.](/files/riverquality.pdf)
 {:.alert .alert-primary}
 
 ## Motion

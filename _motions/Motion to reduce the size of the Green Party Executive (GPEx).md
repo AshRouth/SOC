@@ -11,7 +11,7 @@ affiliated: true
 This motion reflects suggestions made by members in consultation with Party Structure Working Group to make GPEx smaller and simplify it.  This is one of a number of constitutional changes being made to facilitate incorporation.
 
 ## Background
-To view the background paper for this motion, [click here.]({{ site.baseurl }}/files/ShrinkGPEx.pdf)
+To view the background paper for this motion, [click here.](/files/ShrinkGPEx.pdf)
 {:.alert .alert-primary}
 
 ## Motion
