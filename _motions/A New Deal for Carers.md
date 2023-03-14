@@ -2,14 +2,23 @@
 section: E
 number: 6
 title: New Deal for Carers
-spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120293
+motion_code:
+  section: A
+  number: 1
 status: tbd
+spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120293
 coproposers: 27
 ---
 ## Synopsis
+
 Carers save the UK economy billions a year, it’s about time they got a fair deal. This motion would specify what changes we would make to unpaid carers lives in the UK.
 
 ## Background
+
+```
+Default
+```
+
 SOC note: The below text has been removed from the motion text and added as background.
 {:.alert .d-inline-block .alert-primary}
 
@@ -20,6 +29,7 @@ Carers, including young carers, deserve a better deal from government. Supportin
 To do this the current carers allowance payment needs to be increased to a living wage for the hours of care provided and young carers should have the right to be compensated by government, supported in education and be provided with respite written into law.”
 
 ## Motion
+
 Conference therefore:
 
 ·       Insert in the PfSS at the end of ‘SW905’ to say “…and supports the increase of Carers Allowance to a £15 an hour living wage for unpaid care provided, including by young carers, and supports the removal of means testing and the removal of parts of the cared for persons welfare payments”
