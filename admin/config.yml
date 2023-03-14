@@ -10,7 +10,6 @@ collections:
     label_singular: 'Motion'
     folder: '_motions/'
     create: true
-    summary: {{motion_code}} {{title}}
     editor:
       preview: false
     fields:
