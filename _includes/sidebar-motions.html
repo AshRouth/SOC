@@ -11,7 +11,7 @@
                 <li class="rounded">
                   <a class="d-flex justify-content-between align-items-center {% if motion.url == page.url %}active{% endif %}" href="{{ motion.url }}">
                     {{ motion.title }}
-                    <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
+                    <span {% unless motion.url == page.url %}text-muted{% endunless %}>#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
                   </a>
                 </li>
               {% endfor %}

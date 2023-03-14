@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: D
-	number: 28
+  section: D
+  number: 28
 title: Conflict of Interests - Joint Membership of SOC and GPRC
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120322
 status: tbd

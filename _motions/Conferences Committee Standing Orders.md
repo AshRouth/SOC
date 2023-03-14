@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: D
-	number: 18
+  section: D
+  number: 18
 title: Standing Orders for Conferences Committee
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120320
 status: tbd

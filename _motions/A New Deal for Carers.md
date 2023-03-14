@@ -1,11 +1,8 @@
 ---
 motion_code:
-	section: E
-	number: 6
+  section: E
+  number: 6
 title: New Deal for Carers
-motion_code:
-  section: A
-  number: 1
 status: tbd
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120293
 coproposers: 27

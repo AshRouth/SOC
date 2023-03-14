@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section:  D
-number: 12
+  section:  D
+  number: 12
 title: Revision to constitution requirement for Campaigns Committee
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120289
 status: tbd

@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: EM
-	number: 2
+  section: EM
+  number: 2
 title: Renew opposition to HS2 in response to further delays and cost increases
 spaces:
 status: tbd

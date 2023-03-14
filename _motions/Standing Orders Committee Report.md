@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: A
-	number: 1
+  section: A
+  number: 1
 title: Standing orders committee (SOC) report
 spaces:
 status: passed

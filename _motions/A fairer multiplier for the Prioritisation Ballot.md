@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: D
-	number: 24
+  section: D
+  number: 24
 title: Fairer multiplier for the Prioritisation Ballot
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119624
 status: tbd

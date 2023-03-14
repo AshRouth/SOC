@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: B
-	number: 1
+  section: B
+  number: 1
 title: Land Use Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118244
 status: passed

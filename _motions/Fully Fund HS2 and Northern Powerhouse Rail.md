@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: E
-	number: 5
+  section: E
+  number: 5
 title: Fund HS2 and Northern Powerhouse Rail
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119479
 status: tbd

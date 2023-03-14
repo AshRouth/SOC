@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: E
-	number: 1
+  section: E
+  number: 1
 title: Access to Fertility Treatment
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120057
 status: passed

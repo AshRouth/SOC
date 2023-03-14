@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: D
-	number: 30
+  section: D
+  number: 30
 title: Provision for Motion Recall
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120257
 status: tbd

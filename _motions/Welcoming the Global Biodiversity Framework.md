@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: LM
-	number: 2
+  section: LM
+  number: 2
 title: Welcoming the Global Biodiversity Framework
 spaces:
 status: final

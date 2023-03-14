@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: B
-	number: 2
+  section: B
+  number: 2
 title: Migration Policy Voting Paper
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119856
 status: passed

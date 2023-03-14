@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: E
-	number: 8
+  section: E
+  number: 8
 title: Increase International Rail Connections
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120296
 status: tbd

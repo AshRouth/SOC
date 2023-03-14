@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: A
-	number: 3
+  section: A
+  number: 3
 title: Alternative Dispute Resolution Committee Report
 spaces:
 status: passed

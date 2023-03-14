@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: F
-	number: 2
+  section: F
+  number: 2
 title: Health & Wellbeing Policy
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=120252
 status: tbd

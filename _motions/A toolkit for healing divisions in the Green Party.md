@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: D
-	number: 2
+  section: D
+  number: 2
 title: Toolkit for healing divisions in the Green Party
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=118643
 status: passed

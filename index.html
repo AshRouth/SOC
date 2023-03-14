@@ -47,7 +47,7 @@ layout: default
     {% endfor %}
     </div>
   {% else %}
-    {% assign motions = site.motions | sort: "number" %}
+    {% assign motions = site.motions | sort: "motion_code.number" %}
     <div class="col-lg-4 column my-0">
       <ul class="list-unstyled my-0">
         {% for motion in motions %}

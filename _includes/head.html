@@ -2,7 +2,7 @@
     <!-- Required -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.collection == "motions" %}{{ page.title }} (#{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% if page.number < 10 %}0{% endif %}{{ page.number }}) • {% endif %}{{ site.title }}</title>
+    <title>{% if page.collection == "motions" %}{{ page.title }} (#{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% if page.motion_code.number < 10 %}0{% endif %}{{ page.motion_code.number }}) • {% endif %}{{ site.title }}</title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="76x76" href="/css/icons/apple-touch-icon.png">

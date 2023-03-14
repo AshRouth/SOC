@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: D
-	number: 22
+  section: D
+  number: 22
 title: Enabling Conferences Committee in running Conference
 spaces: https://spaces.greenparty.org.uk/s/spring-conference-2023-agenda-forum/?contentId=119493
 status: tbd

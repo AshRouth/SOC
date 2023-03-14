@@ -1,7 +1,7 @@
 ---
 motion_code:
-	section: LM
-	number: 1
+  section: LM
+  number: 1
 title: DEFRA and Crustacean Mortality
 spaces:
 status: passed
