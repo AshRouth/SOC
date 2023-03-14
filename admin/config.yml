@@ -4,8 +4,36 @@ backend:
   branch: ash
 media_folder: 'assets/uploads'
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
+  - name: 'motions'
+    label: 'Motion'
+    folder: '_motions/'
+    create: true
+    editor:
+      preview: false
     fields:
-      - { name: Title }
+      - label: 'Layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'motion'
+      - label: 'TOC'
+        name: 'toc'
+        widget: 'hidden'
+        default: 'true'
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+      - label: 'Motion Code'
+        name: 'motion_code'
+        widget: 'object'
+        summary: '#{{fields.section}}{{fields.number}}'
+        fields: 
+          - label: "Section"
+            name: "section"
+            widget: "string"
+          - label: "Number"
+            name: "number"
+            widget: "number"
+      - { label: 'Status', name: 'status', widget: 'string' }
+      - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
+      - { label: 'Coproposer Count', name: 'coproposers', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
