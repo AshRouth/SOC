@@ -13,7 +13,7 @@ collections:
     summary: "#{{motion_code.section}}{{motion_code.number}} {{title}}"
     editor:
       preview: false
-    sortable_fields: ['title', 'motion_code.section']
+    sortable_fields: ['motion_code.number']
     view_groups:
       - label: Section
         field: motion_code.section
