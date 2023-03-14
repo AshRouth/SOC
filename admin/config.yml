@@ -1,0 +1,11 @@
+backend:
+  name: github
+  repo: rileyrouth/greencoordinate
+  branch: ash
+media_folder: 'assets/uploads'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    fields:
+      - { name: Title }
