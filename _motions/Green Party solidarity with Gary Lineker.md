@@ -11,6 +11,15 @@ coproposers: 91
 
 Green Party conference expresses solidarity with Gary Lineker and instructs the External Communicator to call on the BBC to reverse the decision to remove him from Match of the Day.
 
+
+        <details>
+          <summary>World...</summary>
+
+          undefined
+
+        </details>
+        
+
 The party believes in the principle of BBC impartiality and is clear the organisation is making a mockery of its own policy in this instance. Instead, they are bowing to party political pressure and undermining free speech in the process. 
 
 {% include amendment.html number="1" status="passed" %}
