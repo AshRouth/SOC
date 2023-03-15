@@ -9,7 +9,7 @@ coproposers: 22
 ---
 
         <details>
-          <summary>Amendment</summary>
+          <summary>Testing.</summary>
 
           undefined
 
