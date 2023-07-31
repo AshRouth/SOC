@@ -57,26 +57,12 @@
           // This is used to serialize the data from the custom widget to the
           // markdown document
           toBlock: function(data) {
-            return `
-        <details>
-          <summary>${data.summary}</summary>
-
-          ${data.detail}
-
-        </details>
-        `;
+            return '<details><summary>${data.summary}</summary>${data.detail}</details>';
           },
           // Preview output for this component. Can either be a string or a React component
           // (component gives better render performance)
           toPreview: function(data) {
-            return `
-        <details>
-          <summary>${data.summary}</summary>
-
-          ${data.detail}
-
-        </details>
-        `;
+            return '<details><summary>${data.summary}</summary>${data.detail}</details>';
           }
         });
 
