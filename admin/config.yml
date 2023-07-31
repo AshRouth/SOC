@@ -41,10 +41,10 @@ collections:
             name: "number"
             widget: "number"
       - label: "Gallery"
-          name: "galleryImages"
-          widget: "list"
-          summary: '{{fields.image}}'
-          field: {label: Image, name: image, widget: image}
+        name: "galleryImages"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
       - { label: 'Status', name: 'status', widget: 'string' }
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
       - { label: 'Coproposer Count', name: 'coproposers', widget: 'number' }
