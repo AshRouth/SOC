@@ -10,7 +10,7 @@ affiliated_threshold: 4 # The number of coproposers needed for an affiliated mot
 unaffiliated_threshold: 12 # The number of coproposers needed for an unaffiliated motion to be debated.
 create_sections: true # If true, display each section as a separate list.
 show_coproposers: false # If true, list the coproposers for each motion.
-archive_notice: false # If true, prepend each page with "archive_notice.html".
+archive_notice: true # If true, prepend each page with "archive_notice.html".
 
 # Build settings
 sass:
