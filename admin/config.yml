@@ -40,11 +40,11 @@ collections:
           - label: "Number"
             name: "number"
             widget: "number"
-      - label: "Gallery"
-        name: "galleryImages"
+      - label: "Tags"
+        name: "tags"
         widget: "list"
-        summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image}
+        allow_add: false
+        default: ["news"]
       - { label: 'Status', name: 'status', widget: 'string' }
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
       - { label: 'Coproposer Count', name: 'coproposers', widget: 'number' }
