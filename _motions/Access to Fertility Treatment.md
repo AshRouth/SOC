@@ -18,7 +18,7 @@ The Women’s Health Strategy for England (July 2022) introduces plans that rids
 
 Insert new HE800 to HE803 and renumber PSS accordingly:
 
-<div class="amendment amendment-defeated"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3><p class="badge bg-defeated">Amendment defeated</p></div><span><p>Hooray!</p></span></div>
+<div class="amendment amendment-defeated"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3><p class="badges bg-defeated">Amendment defeated</p></div><span><p>Hooray!</p></span></div>
 
 Heading: Fertility
 
