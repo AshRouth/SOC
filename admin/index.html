@@ -14,19 +14,24 @@
       
         CMS.registerEditorComponent({
           // Internal id of the component
-          id: "collapsible-note",
+          id: "amendment",
           // Visible label
-          label: "Collapsible Note",
+          label: "Amendment",
           // Fields the user need to fill out when adding an instance of the component
           fields: [
             {
-              name: 'summary',
-              label: 'Summary',
+              name: 'number',
+              label: 'Number',
+              widget: 'number'
+            },
+            {
+              name: 'status',
+              label: 'Status',
               widget: 'string'
             },
             {
-              name: 'detail',
-              label: 'Detail',
+              name: 'details',
+              label: 'Details',
               widget: 'markdown'
             }
           ],
@@ -39,7 +44,7 @@
           //
           // Additionally, it's recommended that you use non-greedy capturing groups (e.g.
           // `(.*?)` vs `(.*)`), especially if matching against newline characters.
-          pattern: /^<details>$\s*?<summary>(.*?)<\/summary>\n\n(.*?)\n^<\/details>$/ms,
+          pattern: /<div class="amendment amendment-(.*?)">\n\s*<div class="d-flex justify-content-between align-items-start">\n\s*<h3 id="amendment-(\d*?)">Amendment #\d*?<\/h3>\n\s*?<p class="badge bg-.*?">Amendment .*?<\/p>\n\s*<\/div>\n\s*<span><p>(.*)<\/p>\n\s*?<\/span>\n\s*?<\/div>/ms,
           // Given a RegExp Match object
           // (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match#return_value),
           // return an object with one property for each field defined in `fields`.
@@ -47,8 +52,9 @@
           // This is used to populate the custom widget in the markdown editor in the CMS.
           fromBlock: function(match) {
             return {
-              summary: match[1],
-              detail: match[2]
+              status: match[1],
+              number: match[2],              
+              details: match[3]
             };
           },
           // Given an object with one property for each field defined in `fields`,
@@ -57,12 +63,12 @@
           // This is used to serialize the data from the custom widget to the
           // markdown document
           toBlock: function(data) {
-            return '<details><summary>' + data.summary + '</summary>' + data.detail + '</details>';
+            return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${data.status}</p></div><span><p>${data.details}</p></span></div>`;
           },
           // Preview output for this component. Can either be a string or a React component
           // (component gives better render performance)
           toPreview: function(data) {
-            return '<details><summary>' + data.summary + '</summary>' + data.detail + '</details>';
+            return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${data.status}</p></div><span><p>${data.details}</p></span></div>`;
           }
         });
 
