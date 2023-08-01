@@ -2,7 +2,7 @@ backend:
   name: github
   repo: rileyrouth/greencoordinate
   branch: ash
-media_folder: 'assets/uploads'
+media_folder: '/files/'
 site_url: https://greencoordinate.netlify.app
 publish_mode: editorial_workflow
 collections:
