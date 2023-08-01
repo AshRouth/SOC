@@ -3,7 +3,7 @@ backend:
   repo: AshRouth/SOC
   branch: ash
 media_folder: 'assets/uploads'
-site_url: https://greencoordinate.netlify.app
+site_url: https://illustrious-mousse-b63d64.netlify.app/
 publish_mode: editorial_workflow
 collections:
   - name: 'motions'
@@ -34,7 +34,7 @@ collections:
         name: 'motion_code'
         widget: 'object'
         summary: '#{{fields.section}}{{fields.number}}'
-        fields: 
+        fields:
           - label: "Section"
             name: "section"
             widget: "string"
