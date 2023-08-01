@@ -3,7 +3,7 @@ backend:
   repo: AshRouth/SOC
   branch: ash
 media_folder: 'assets/uploads'
-site_url: https://fantastic-crepe-2e5bfe.netlify.app
+site_url: https://greencoordinate.netlify.app
 publish_mode: editorial_workflow
 collections:
   - name: 'motions'
