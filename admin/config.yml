@@ -1,0 +1,48 @@
+backend:
+  name: github
+  repo: rileyrouth/greencoordinate
+  branch: ash
+media_folder: 'assets/uploads'
+site_url: https://fantastic-crepe-2e5bfe.netlify.app
+publish_mode: editorial_workflow
+collections:
+  - name: 'motions'
+    label: 'Motions'
+    label_singular: 'Motion'
+    folder: '_motions/'
+    create: true
+    summary: "#{{motion_code.section}}{{motion_code.number}} {{title}}"
+    editor:
+      preview: false
+    sortable_fields: ['motion_code.number']
+    view_groups:
+      - label: Section
+        field: motion_code.section
+    fields:
+      - label: 'Layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'motion'
+      - label: 'TOC'
+        name: 'toc'
+        widget: 'hidden'
+        default: 'true'
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+      - label: 'Motion Code'
+        name: 'motion_code'
+        widget: 'object'
+        summary: '#{{fields.section}}{{fields.number}}'
+        fields: 
+          - label: "Section"
+            name: "section"
+            widget: "string"
+            required: false
+          - label: "Number"
+            name: "number"
+            widget: "number"
+      - { label: 'Status', name: 'status', widget: 'string' }
+      - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
+      - { label: 'Coproposer Count', name: 'coproposers', widget: 'number', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

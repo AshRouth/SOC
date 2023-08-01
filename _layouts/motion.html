@@ -45,7 +45,7 @@ layout: primary
 {% endcase %}
 
 <!-- Page starts -->
-<p class="m-0 small text-muted">Motion #{% if page.section == true %}{% unless page.section.size > 3 %}{{ page.section }}{% endunless %}{% if page.section.size > 1 %}&nbsp;{% endif %}{% endif %}{% if page.number < 10 %}0{% endif %}{{ page.number }}</p>
+<p class="m-0 small text-muted">Motion #{% if page.motion_code.section == true %}{% unless page.motion_code.section.size > 3 %}{{ page.motion_code.section }}{% endunless %}{% if page.motion_code.section.size > 1 %}&nbsp;{% endif %}{% endif %}{% if page.motion_code.number < 10 %}0{% endif %}{{ page.motion_code.number }}</p>
 <h1>{{ page.title }}</h1>
 <div class="my-3 d-flex align-items-center justify-content-center infobox rounded text-center bg-{{ page.status }}" style="height: 40px">{{ label }}</div>
 

@@ -1,14 +1,14 @@
-title: Spring Conference 2023
+title: Autumn Conference 2023
 description: >-
-  Motions for the Green Party 2023 Spring Conference, from the Standing Orders Committee.
+  Motions for the Green Party 2023 Autumn Conference, from the Standing Orders Committee.
 email: soc@greenparty.org.uk
-baseurl: "/agenda"
+baseurl: ""
 url: "http://greencoordinate.co.uk"
 
 # Switches
 affiliated_threshold: 4 # The number of coproposers needed for an affiliated motion to be debated.
 unaffiliated_threshold: 12 # The number of coproposers needed for an unaffiliated motion to be debated.
-create_sections: true # If true, display each section as a separate list.
+create_sections: false # If true, display each section as a separate list.
 show_coproposers: false # If true, list the coproposers for each motion.
 archive_notice: true # If true, prepend each page with "archive_notice.html".
 
