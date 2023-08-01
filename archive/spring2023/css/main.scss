@@ -1,0 +1,227 @@
+// Green Party branding
+$primary: #6AB023;
+$secondary: #006341;
+
+//
+$offcanvas-horizontal-width: 90vw;
+
+//Bootstrap
+@import "bootstrap"; // Specific unnecessary components are commented out.
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+// Desired text colours for custom styles.
+.bg {
+  &-draft {
+    color: $dark;
+  }
+  &-final {
+    color: $light;
+  }
+  &-tbd {
+    color: $dark;
+  }
+  &-passed {
+    color: $light;
+  }
+  &-defeated {
+    color: $light;
+  }
+  &-referred {
+    color: $light;
+  }
+  &-notdebated {
+    color: $light;
+  }
+}
+
+h1, .navbar-brand {
+  font-family: 'Bebas Neue', sans-serif
+}
+
+.navbar-brand {
+  font-size:1.5em;
+  margin-right:0;
+}
+
+.content del {
+  color: $defeated;
+}
+
+@include media-breakpoint-down(md) {
+  .navbar .dropdown-menu {
+    max-width:calc(100vw - 50px);
+    .dropdown-item {
+      font-size:0.9rem; // Shrinks the dropdown on smaller screens.
+    }
+  }
+}
+
+.content h3 {
+  scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
+}
+
+.btn-clear {
+  color:$light;
+  &:hover {
+    color:$dark;
+    background-color:$light;
+  }
+}
+
+.btn-outline-primary:hover {
+  color: $light; // Used for Green Spaces button.
+}
+
+// Sidebar.
+.sidebar {
+  .btn {
+    &::before{
+    	width: 1.25em;
+    	line-height: 0;
+    	content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
+      transition: transform 0.35s ease;
+    	transform-origin: .5em 50%;
+    }
+    &[aria-expanded="true"]::before {
+      transform: rotate(90deg);
+    }
+    &:hover {
+      background-color: rgba(121,82,179,0.1);
+    }
+    &:focus{
+      background-color: rgba(121,82,179,0.1);
+      border: 1px solid $primary;
+      box-shadow: none;
+    }
+  }
+  a {
+    color: rgba(0,0,0,0.65);
+    text-decoration: none;
+  }
+  .inner li {
+    padding: .1875rem .5rem;
+    margin-top: .125rem;
+    margin-left: 1.25rem;
+    .active {
+      font-weight:600;
+    }
+    &:hover {
+      color: rgba(0,0,0,0.85);
+      background-color: rgba(121,82,179,0.1);
+    }
+  }
+}
+
+// Border for grey infobox
+.infobox {
+  &.bg-tbd {
+    border: 1px solid $gray-500;
+  }
+  &.bg-OoO {
+    background: $defeated;
+    color: $light;
+  }
+}
+
+// Custom styles for amendment components, based on callouts from bs-docs. Thanks!
+.amendment {
+  padding:1.25rem;
+  margin-top:1.25rem;
+  margin-bottom:1.25rem;
+  border:1px solid $tbd;
+  border-left-width:.25rem;
+  border-radius:.25rem;
+  h4 {
+    margin-bottom:.25rem
+  }
+  p:last-child {
+    margin-bottom:0;
+  }
+  @each $name, $color in $theme-colors {
+    &-#{$name} {
+      border-left-color: $color;
+    }
+  }
+}
+
+// Footer icons.
+.footer .icons a {
+  margin-right:0.5rem;
+  text-decoration:none;
+}
+
+// Front page styles, including tooltips.
+.front-page {
+  .motion-code {
+    color: var(--bs-gray-600)
+  }
+  .motion-title {
+    color: var(--bs-gray-800)
+  }
+}
+
+$front-page: (
+  passed: (
+    color: $passed,
+    content: "\F26C"
+  ),
+  defeated: (
+    color: $defeated,
+    content: "\F628"
+  ),
+  referred: (
+    color: $referred,
+    content: "\F568"
+  )
+);
+
+@each $label, $map in $front-page {
+  .front-page .#{$label}::after {
+    content: map-get($map, content);
+    color: map-get($map, color);
+    font-family: 'bootstrap-icons';
+    vertical-align:bottom;
+    margin:0 0.3rem;
+  }
+  .tooltip-#{$label} {
+    &.bs-tooltip-start .tooltip-arrow::before {
+      border-left-color: map-get($map, color)
+    }
+    &.bs-tooltip-end .tooltip-arrow::before {
+      border-right-color: map-get($map, color)
+    }
+    &.bs-tooltip-top .tooltip-arrow::before {
+      border-top-color: map-get($map, color)
+    }
+    &.bs-tooltip-bottom .tooltip-arrow::before {
+      border-bottom-color: map-get($map, color)
+    }
+    .tooltip-inner {
+      background-color: map-get($map, color);
+    }
+  }
+}
+
+dark-mode-toggle {
+  &::part(fieldset) {
+    height:16px;
+    padding-block:0;
+    padding-inline:0;
+  }
+  &::part(toggleLabel) {
+    --dark-mode-toggle-dark-icon: url("/agenda/css/icons/moon.svg");
+    --dark-mode-toggle-light-icon: url("/agenda/css/icons/sun.svg");
+    &::before {
+      display:block;
+    }
+  }
+}
+
+.archive-notice {
+  background-color:$gray-900;
+  color:$light;
+  padding:10px;
+  p {
+    margin-bottom:0;
+  }
+}

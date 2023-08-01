@@ -3,22 +3,14 @@ layout: default
 ---
 {% if site.archive_mode == true %}
 
-  <div class="row">
-    <div class="col-md-5">
-      <p>This is the SOC website for compiling and displaying motions for Green Party conference. Motion data is taken from the Green Spaces forum and displayed here, with co-proposer numbers updated regularly by SOC.</p>
-      <p>Between conferences, the website is in archive mode. You can click on the links below to view past conference agendas.</p>
-      {% for conference in site.data.archive %}
-        <a class="d-block mb-2" href="{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
-      {% endfor %}
-    </div>
-  </div>
+{% include archive_details.html %}
 
 {% else %}
   <p>This is the Standing Orders Committee website for compiling and displaying motions for the Green Party conference. Click on a motion to view the text and other information.</p>
   <div class="row front-page">
   {% if site.create_sections == true %}
     {% for section in site.data.sections %}
-      {% assign motions = site.motions | where: "section" , section.code | sort: "number" %}
+      {% assign motions = site.motions | where: "motion_code.section" , section.code | sort: "motion_code.number" %}
       <div class="col-lg-4 column">
         <p class="section-name mb-0 fw-bold">{{section.name}}</p>
         <ul class="list-unstyled">
@@ -34,8 +26,8 @@ layout: default
               {% assign label = "" %}
           {% endcase %}
             <li class="my-1">
-              <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ site.baseurl }}{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
-                <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
+              <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
+                <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
                 <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
               </a>
             </li>
@@ -47,7 +39,7 @@ layout: default
     {% endfor %}
     </div>
   {% else %}
-    {% assign motions = site.motions | sort: "number" %}
+    {% assign motions = site.motions | sort: "motion_code.number" %}
     <div class="col-lg-4 column my-0">
       <ul class="list-unstyled my-0">
         {% for motion in motions %}
@@ -62,13 +54,13 @@ layout: default
             {% assign label = "" %}
         {% endcase %}
           <li class="mb-2">
-            <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ site.baseurl }}{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
-              <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.number < 10 %}0{% endif %}{{ motion.number }}</span>
+            <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
+              <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
               <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
             </a>
           </li>
 
-          {% if motion.number == 27 or motion.number == 53 %}
+          {% if motion.motion_code.number == 27 or motion.motion_code.number == 53 %}
             </ul>
             </div>
             <div class="col-lg-4 column">
