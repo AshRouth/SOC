@@ -3,15 +3,7 @@ layout: default
 ---
 {% if site.archive_mode == true %}
 
-  <div class="row">
-    <div class="col-md-5">
-      <p>This is the SOC website for compiling and displaying motions for Green Party conference. Motion data is taken from the Green Spaces forum and displayed here, with co-proposer numbers updated regularly by SOC.</p>
-      <p>Between conferences, the website is in archive mode. You can click on the links below to view past conference agendas.</p>
-      {% for conference in site.data.archive %}
-        <a class="d-block mb-2" href="{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
-      {% endfor %}
-    </div>
-  </div>
+{% include archive_details.html %}
 
 {% else %}
   <p>This is the Standing Orders Committee website for compiling and displaying motions for the Green Party conference. Click on a motion to view the text and other information.</p>
