@@ -1,7 +1,7 @@
 ---
 layout: motion
 toc: "true"
-title: Add Constitution Section on Spokespeople
+title: sAdd Constitution Section on Spokespeople
 motion_code:
   number: 1
 status: final
