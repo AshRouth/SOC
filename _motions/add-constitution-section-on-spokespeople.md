@@ -13,8 +13,6 @@ coproposers: 0
 \
 This motion would add a section on Spokespeople to the constitution. This motion would outline that spokespeople are selected by the current process of a sub-committee of GPEx. This motion will also outline Spokespeople’s expectations, accountability, etc.
 
-<a href="/files/green-party-stacked-logo-fair-cmyk.pdf"><button class="btn btn-outline-primary download-link">Download File</button></a>
-
 ## **Background**
 
 \
