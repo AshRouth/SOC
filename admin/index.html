@@ -94,7 +94,7 @@
           //
           // Additionally, it's recommended that you use non-greedy capturing groups (e.g.
           // `(.*?)` vs `(.*)`), especially if matching against newline characters.
-          pattern: /<div class="alert d-inline-block alert-primary"><p class="alert-title">SOC Note<\/p><p>(.*)<\/p><\/div>/ms,
+          pattern: /<p class="alert d-inline-block alert-primary"><strong>SOC Note: <\/strong> .*<\/p>/ms,
           // Given a RegExp Match object
           // (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match#return_value),
           // return an object with one property for each field defined in `fields`.
@@ -111,12 +111,12 @@
           // This is used to serialize the data from the custom widget to the
           // markdown document
           toBlock: function(data) {
-            return `<div class="alert d-inline-block alert-primary"><p class="alert-title">SOC Note</p><p>${data.comment}</p></div>`;
+            return `<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> ${data.comment}</p>`;
           },
           // Preview output for this component. Can either be a string or a React component
           // (component gives better render performance)
           toPreview: function(data) {
-            return `<div class="alert d-inline-block alert-primary"><p class="alert-title">SOC Note</p><p>${data.comment}</p></div>`
+            return `<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> ${data.comment}</p>`;
           }
         });
     </script>
