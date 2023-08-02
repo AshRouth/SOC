@@ -9,4 +9,4 @@ spaces: S
 ---
 T
 
-<div class="alert d-inline-block alert-primary"><p class="alert-title">SOC Note</p><p>Testing.</p></div>
+<div class="alert d-inline-block alert-primary"><p class="alert-title">SOC Note</p><p>sTesting.</p></div>
