@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Landfill Mining Policy
 motion_code:
-  number: 44
+  number: 45
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10912
 coproposers: 0
