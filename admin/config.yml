@@ -53,7 +53,6 @@ collections:
           - { label: "Defeated", value: "defeated" }
           - { label: "Referred", value: "referred" }
           - { label: "Not debated", value: "notdebated" }
-      - { label: 'Status', name: 'status', widget: 'string' }
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
       - { label: 'Coproposer Count', name: 'coproposers', widget: 'number', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
