@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: AshRouth/SOC
+  repo: rileyrouth/greencoordinate
   branch: ash
-media_folder: 'assets/uploads'
+media_folder: 'files'
 site_url: https://illustrious-mousse-b63d64.netlify.app/
 publish_mode: editorial_workflow
 collections:
@@ -42,7 +42,17 @@ collections:
           - label: "Number"
             name: "number"
             widget: "number"
-      - { label: 'Status', name: 'status', widget: 'string' }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Final", value: "final" }
+          - { label: "To be debated", value: "tbd" }
+          - { label: "Passed", value: "passed" }
+          - { label: "Defeated", value: "defeated" }
+          - { label: "Referred", value: "referred" }
+          - { label: "Not debated", value: "notdebated" }
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
       - { label: 'Coproposer Count', name: 'coproposers', widget: 'number', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
