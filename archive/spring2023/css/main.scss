@@ -209,8 +209,8 @@ dark-mode-toggle {
     padding-inline:0;
   }
   &::part(toggleLabel) {
-    --dark-mode-toggle-dark-icon: url("/agenda/css/icons/moon.svg");
-    --dark-mode-toggle-light-icon: url("/agenda/css/icons/sun.svg");
+    --dark-mode-toggle-dark-icon: url("icons/moon.svg");
+    --dark-mode-toggle-light-icon: url("/css/icons/sun.svg");
     &::before {
       display:block;
     }
