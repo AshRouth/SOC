@@ -225,3 +225,15 @@ dark-mode-toggle {
     margin-bottom:0;
   }
 }
+
+.download-link {
+  display:inline-flex;
+  gap:.5rem;
+  align-items:center;
+}
+
+.download-link::after {
+  content:'\F63D';
+  font-family: 'bootstrap-icons';
+  font-size:1.5rem;
+}

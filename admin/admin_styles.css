@@ -1,3 +1,31 @@
-body {
-    background-color:black;
+#motion_code-field-12 div[class=""] {
+    display:grid;
+    grid-template-columns:auto auto;
+    gap:2rem;
+}
+
+#motion_code-field-12 div[class=""] div {
+    margin-top:0 !important;
+}
+
+#motion_code-field-12 .css-1265b6l-TopBarContainer {
+    display:none;
+}
+
+label[for="motion_code-field-12"] {
+    display:none;
+}
+
+#motion_code-field-12 {
+    border:none;
+    padding:0;
+}
+
+.css-1iqjs8m-ControlContainer-Shortcode > label,
+.css-1iqjs8m-ControlContainer-Shortcode .css-1265b6l-TopBarContainer {
+    display:none;
+}
+
+.css-1iqjs8m-ControlContainer-Shortcode > div {
+    border:none;
 }

@@ -20,6 +20,8 @@ Carers, including young carers, deserve a better deal from government. Supportin
 
 To do this the current carers allowance payment needs to be increased to a living wage for the hours of care provided and young carers should have the right to be compensated by government, supported in education and be provided with respite written into law.”
 
+<a href=""><button class="btn btn-outline-primary download-link">Download File</button></a>
+
 **Motion**
 
 Conference therefore:
