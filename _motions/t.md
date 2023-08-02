@@ -4,7 +4,7 @@ toc: "true"
 title: T
 motion_code:
   number: 2
-status: E
+status: draft
 spaces: S
 ---
 T
