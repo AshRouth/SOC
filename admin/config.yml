@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: rileyrouth/greencoordinate
+  repo: AshRouth/SOC
   branch: ash
 media_folder: 'files'
 site_url: https://illustrious-mousse-b63d64.netlify.app/
