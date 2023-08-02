@@ -2,8 +2,8 @@ backend:
   name: github
   repo: rileyrouth/greencoordinate
   branch: ash
-media_folder: '/files/'
-site_url: https://greencoordinate.netlify.app
+media_folder: 'files'
+site_url: https://illustrious-mousse-b63d64.netlify.app/
 publish_mode: editorial_workflow
 collections:
   - name: 'motions'
@@ -34,7 +34,7 @@ collections:
         name: 'motion_code'
         widget: 'object'
         summary: '#{{fields.section}}{{fields.number}}'
-        fields: 
+        fields:
           - label: "Section"
             name: "section"
             widget: "string"
@@ -56,4 +56,3 @@ collections:
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
       - { label: 'Coproposer Count', name: 'coproposers', widget: 'number', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  
