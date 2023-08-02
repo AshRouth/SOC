@@ -4,9 +4,9 @@ toc: "true"
 title: T
 motion_code:
   number: 2
-status: E
+status: draft
 spaces: S
 ---
 T
 
-<div class="alert d-inline-block alert-primary"><p class="alert-title">SOC Note</p><p>Testing.</p></div>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Testing.</p>
