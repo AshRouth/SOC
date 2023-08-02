@@ -1,7 +1,7 @@
 ---
 layout: motion
 toc: "true"
-title: "Heating Houses: To Remove Mention of Using Hydroge"
+title: "Heating Houses: To Remove Mention of Using Hydrogen"
 motion_code:
   number: 41
 status: final
