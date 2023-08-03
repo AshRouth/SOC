@@ -6,7 +6,7 @@ motion_code:
   number: 86
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10844
-coproposers: 1
+coproposers: 9
 ---
 **Use planning powers to limit conversion of people’s homes into short-term accommodation (a.k.a. Just Stop Airbnb)**
 
