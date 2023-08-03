@@ -6,7 +6,7 @@ motion_code:
   number: 46
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10950
-coproposers: 0
+coproposers: 7
 ---
 The Land Use Voting Paper was presented to Spring 2023 conference. This was passed. Due to administrative errors, some policies were not properly presented in conference documentation. Standing Orders Committee and Policy Development Committee have not resolved these errors. Thus this motion is required to correct the errors. Full motion in attachment.
 
