@@ -6,7 +6,7 @@ motion_code:
   number: 68
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10739
-coproposers: 0
+coproposers: 3
 ---
 **Special Interests groups constitutions**
 
