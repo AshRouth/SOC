@@ -14,4 +14,4 @@ This is the first Draft Voting Paper for the Economy Chapter Enabling Motion whi
 
 This Draft Voting Paper is Proposed by Peter Sims as convener of Tax & Fiscal Policy Working Group which voted at joint [meeting with Economy Subgroup of Climate Emergency PWG between 7:30am and 9am on Weds 19th July 2023](https://spaces.greenparty.org.uk/content/perma?id=154157) to support this motion to autumn Conference.
 
-<a href="/files/economy-chapter-2023-draft-voting-paper-v1.6-autumn-2023-conference.pdf"><button class="btn btn-outline-primary download-link">Download File</button></a>
+<a href="/files/economy-chapter-2023-draft-voting-paper-v1.6-autumn-2023-conference.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

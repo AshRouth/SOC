@@ -20,4 +20,4 @@ That conference approves the draft policy for final development.
 
 
 
-<a href="/files/gpew-health-policy-draft-v-8.1.pdf"><button class="btn btn-outline-primary download-link">Download File</button></a>
+<a href="/files/gpew-health-policy-draft-v-8.1.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

@@ -18,4 +18,4 @@ INSERT the attached Social Media Policy as a new appendix to the Code of Conduct
 
 
 
-<a href="/files/social-media-policy.pdf"><button class="btn btn-outline-primary download-link">Download File</button></a>
+<a href="/files/social-media-policy.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

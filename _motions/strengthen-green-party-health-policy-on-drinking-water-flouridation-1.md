@@ -44,4 +44,4 @@ The Green Party believes this is of sufficient concern at fluoride levels added 
 
 Note: The “review” referred to is “The Draft Monograph on the State of Science Concerning Fluoride Exposure and Neurodevelopment and Cognitive Health Effects: A Systematic Review. NTP Monograph 08. September 2022.”
 
-<a href="/files/f-wow-till-ntp-review-2023.odt"><button class="btn btn-outline-primary download-link">Download File</button></a>
+<a href="/files/f-wow-till-ntp-review-2023.odt"><button class="btn btn-secondary download-link">Download File</button></a>

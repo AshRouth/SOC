@@ -28,4 +28,4 @@ E          Create and develop healthy and sustainable places and commun
 
 F          Strengthen the role and impact of health prevention.
 
-<a href="/files/health-equity-policy-v1.pdf"><button class="btn btn-outline-primary download-link">Download File</button></a>
+<a href="/files/health-equity-policy-v1.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

@@ -14,7 +14,7 @@ Supplies of green hydrogen will remain limited within our ten year planning peri
 
 ## B﻿ackground
 
-<a href="/files/h2-homes-briefing-paper-v0.2.docx"><button class="btn btn-outline-primary download-link">Download File</button></a>
+<a href="/files/h2-homes-briefing-paper-v0.2.docx"><button class="btn btn-secondary download-link">Download File</button></a>
 
 ## **Motion**
 
