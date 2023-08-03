@@ -31,3 +31,5 @@ defaults:
     values:
       layout: "motion"
       toc: true
+
+include: ["/", "_redirects"]
