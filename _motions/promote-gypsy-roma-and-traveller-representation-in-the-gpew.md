@@ -6,7 +6,7 @@ motion_code:
   number: 55
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10789
-coproposers: 7
+coproposers: 16
 ---
 **Synopsis:** Systemic barriers for Gypsy, Roma and Traveller communities are widespread. This motion sets out how the Green Party should support Gypsies, Roma Travellers who join the party, to make contributions and to be empowered to stand as candidates, in order to improve Gypsy, Roma and Traveller political representation.
 
