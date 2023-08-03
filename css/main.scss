@@ -1,13 +1,15 @@
+---
+---
 // Green Party branding
-$primary: #6AB023;
-$secondary: #006341;
+$primary: #00a85a; // "Fair green"
+$secondary: #00643b; // "Forest green"
 
 //
 $offcanvas-horizontal-width: 90vw;
 
 //Bootstrap
-@import "bootstrap"; // Specific unnecessary components are commented out.
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
 
 // Desired text colours for custom styles.
 .bg {
@@ -60,14 +62,6 @@ h1, .navbar-brand {
   scroll-margin-top: 5rem; // Ensures the jumps in navigation compensate for the fixed navbar.
 }
 
-.btn-clear {
-  color:$light;
-  &:hover {
-    color:$dark;
-    background-color:$light;
-  }
-}
-
 .btn-outline-primary:hover {
   color: $light; // Used for Green Spaces button.
 }
@@ -85,9 +79,6 @@ h1, .navbar-brand {
     &[aria-expanded="true"]::before {
       transform: rotate(90deg);
     }
-    &:hover {
-      background-color: rgba(121,82,179,0.1);
-    }
     &:focus{
       background-color: rgba(121,82,179,0.1);
       border: 1px solid $primary;
@@ -95,7 +86,7 @@ h1, .navbar-brand {
     }
   }
   a {
-    color: rgba(0,0,0,0.65);
+    color:inherit;
     text-decoration: none;
   }
   .inner li {
@@ -106,7 +97,6 @@ h1, .navbar-brand {
       font-weight:600;
     }
     &:hover {
-      color: rgba(0,0,0,0.85);
       background-color: rgba(121,82,179,0.1);
     }
   }
@@ -151,13 +141,8 @@ h1, .navbar-brand {
 }
 
 // Front page styles, including tooltips.
-.front-page {
-  .motion-code {
-    color: var(--bs-gray-600)
-  }
-  .motion-title {
-    color: var(--bs-gray-800)
-  }
+.front-page a {
+  color: inherit;
 }
 
 $front-page: (
@@ -230,10 +215,13 @@ dark-mode-toggle {
   display:inline-flex;
   gap:.5rem;
   align-items:center;
+  &::after {
+    content:'\F63D';
+    font-family: 'bootstrap-icons';
+    font-size:1.5rem;
+  }
 }
 
-.download-link::after {
-  content:'\F63D';
-  font-family: 'bootstrap-icons';
-  font-size:1.5rem;
+#bd-theme::after {
+  display:none;
 }

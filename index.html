@@ -27,8 +27,8 @@ layout: default
           {% endcase %}
             <li class="my-1">
               <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
-                <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
-                <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
+                <span class="text-muted pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
+                <span class="{{ motion.status }}">{{ motion.title }}</span>
               </a>
             </li>
           {% else %}
@@ -55,8 +55,8 @@ layout: default
         {% endcase %}
           <li class="mb-2">
             <a data-bs-placement="right" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-{{ motion.status }}" title="{{ label }}" href="{{ motion.url }}" class="d-inline-flex align-items-start text-decoration-none">
-              <span class="motion-code pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
-              <span class="motion-title {{ motion.status }}">{{ motion.title }}</span>
+              <span class="text-muted pe-2 ">#{% unless section.code.size > 3 %}{{ section.code }}{% endunless %}{% if section.code.size > 1 %}&nbsp;{% endif %}{% if motion.motion_code.number < 10 %}0{% endif %}{{ motion.motion_code.number }}</span>
+              <span class="{{ motion.status }}">{{ motion.title }}</span>
             </a>
           </li>
 

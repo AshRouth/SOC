@@ -1,16 +1,47 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top shadow-sm">
   <div class="container">
     <a class="navbar-brand p-0" href="/"><img height="32" class="pe-1 d-inline-block align-text-center" src="/css/icons/gpew-logo.png"><span class="d-none d-md-inline">{{ site.title }}</span></a>
-    <div class="btn-group">
-      <button class="d-md-none btn btn-clear" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
+    <div class="btn-toolbar">
+      <div class="btn-group">
+      <button class="d-md-none btn btn-secondary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="toggle" aria-expanded="false" aria-label="Toggle navigation">
         <i class="bi bi-justify"></i>
       </button>
       {% if content contains "<h3" %}
-        <button type="button" class="btn btn-clear" data-bs-toggle="dropdown" aria-expanded="false">
-          <i class="bi bi-bookmark"></i>
-        </button>
-        {% include toc.html html=content h_min=3 h_max=3 class="shadow dropdown-menu dropdown-menu-end" anchor_class="dropdown-item"  %}
-      {% endif %}
+      <button type="button" class="btn btn-secondary" data-bs-toggle="dropdown" aria-expanded="false">
+        <i class="bi bi-bookmark"></i>
+      </button>
+      {% include toc.html html=content h_min=3 h_max=3 class="shadow dropdown-menu dropdown-menu-end" anchor_class="dropdown-item"  %}
+      {% endif %}  
     </div>
+    <div class="btn-group">
+      <button class="btn btn-sm btn-secondary dropdown-toggle" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme (dark)">
+        <i id="theme-icon-active" class=""></i>
+        <span class="d-none" id="bd-theme-text">Toggle theme</span>
+      </button>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text">
+        <li>
+          <button type="button" class="btn btn-sm dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+            <i data-icon-class="bi-sun-fill" class="me-2 bi-sun-fill"></i>
+            Light
+            <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn btn-sm dropdown-item d-flex align-items-center active" data-bs-theme-value="dark" aria-pressed="true">
+            <i data-icon-class="bi-moon-fill" class="me-2 bi-moon-fill"></i>
+            Dark
+            <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn btn-sm dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="false">
+            <i data-icon-class="bi-circle-half" class="me-2 bi-circle-half"></i>
+            Auto
+            <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+          </button>
+        </li>
+      </ul>
+    </div>
+  </div>
   </div>
 </nav>
