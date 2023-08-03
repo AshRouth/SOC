@@ -6,7 +6,7 @@ motion_code:
   number: 83
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11175
-coproposers: 0
+coproposers: 6
 ---
 ## **Synopsis**
 
