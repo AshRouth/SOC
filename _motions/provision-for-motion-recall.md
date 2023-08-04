@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11008
 coproposers: 9
 ---
-## **Synopsis**
+## Synopsis
 
 This motion would create a provision for members to recall a motion when serious, significant procedural irregularities have come to light.
 
-## **Motion**
+## Motion
 
 *In Standing Orders for Conduct of Conference:*
 

@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10859
 coproposers: 0
 ---
-## **Synopsis**
+## Synopsis
 
 New very robust data is now available from the U.S. Government National Toxicology Program, from which leading researchers are warning of the potential for “huge societal harm” from the expansion of fluoridation. Ministers have planned to expand populations of domestic water supply containing added fluoride by more than 1.6 million.
 
-## **Motion**
+## Motion
 
 Amend HE1103
 

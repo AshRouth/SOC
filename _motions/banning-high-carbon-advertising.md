@@ -8,12 +8,12 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11124
 coproposers: 17
 ---
-## **Synopsis**
+## Synopsis
 
 \
 The climate crisis poses an existential risk. Advertising of high carbon products is a significant driver of consumption habits that are perpetuating climate emissions. The continued advertising of high carbon products is incompatible with efforts to address the climate crisis. This motion seeks to regulate and ban such advertising.
 
-## **Motion**
+## Motion
 
 Conference notes that high carbon advertising, as defined as forms of advertising that promote goods, products and services that are carbon intensive, is incompatible with a sustainable society. High carbon advertising underpins mass carbon consumption and promotes high carbon goods, products and services, and is therefore a significant factor in the climate crisis.
 

@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11189
 coproposers: 0
 ---
-## **Synopsis**
+## Synopsis
 
 20% of NHS spending treats avoidable illness from wider determinants of health; poor employment, poverty, poor housing, pollution, transport and poor local amenities.  The right policies will reduce NHS and social care demand. The policy framework in the report 'Fair Society, Healthy Lives' can test and refine all our policies.
 
-## **Motion**
+## Motion
 
 That conference approves a ‘Health in All Policies’ approach and utilises the policy framework in the report “Fair Society, Healthy Lives in order that all of our policies are aligned to the following aims, designed to reduce health inequality.
 

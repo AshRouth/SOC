@@ -9,11 +9,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11188
 coproposers: 15
 ---
-## **Synopsis**
+## Synopsis
 
 This motion introduces diversity criteria for local, regional and general election candidate selections.
 
-## **Background**
+## Background
 
 * There is no climate justice without social, racial and economic justice.
 * Society is not structured equally, meaning there is not equal access to opportunities.
@@ -21,7 +21,7 @@ This motion introduces diversity criteria for local, regional and general electi
 * Politics is under-representative of global majority individuals, disabled people, LGBTIQA+ people, women and young people under 30.
 * Our internal policies must match external policies for social justice.
 
-## **Motion**
+## Motion
 
 Delete the following from the Record of Organisational Statements under the section titled ‘Elections Coordinator to undertake:’:
 

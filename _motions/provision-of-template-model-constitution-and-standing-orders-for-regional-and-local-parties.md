@@ -9,7 +9,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11176
 coproposers: 3
 ---
-## **Synopsis**
+## Synopsis
 
 There is a wide variety of Constitutions and Standing Orders in use by Regional and Local Parties. This results in:
 
@@ -24,7 +24,7 @@ Note that:
 * The Green Party Regional Council has been selected to be tasked with this work in accordance with clause 6 (iii) of the Constitution of the Green Party of England and Wales.
 * Due to the different constitutional status of the Wales Green Party, it is not in scope of this motion.
 
-## **Motion**
+## Motion
 
 The Green Party Regional Council will organise the development of a template/model Constitution and Standing Orders for Local Parties and a template/model Constitution and Standing Orders for Regional Parties, setting out good practice for:
 

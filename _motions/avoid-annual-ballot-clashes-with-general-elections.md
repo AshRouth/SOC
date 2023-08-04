@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10554
 coproposers: 22
 ---
-## **Synopsis**
+## Synopsis
 
 This motion delays the annual ballot if it would clash with a General Election, which may happen more often since the Fixed Term Parliaments Act was repealed. General Elections are a political priority, and holding the Annual Ballot (including party leadership) during one is a distraction harmful to our goals.
 
-## **Motion**
+## Motion
 
 In Section 9 of the Constitution (Annual Ballot), Clause 9(iii) currently reads:
 

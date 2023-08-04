@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11057
 coproposers: 44
 ---
-## **Synopsis**
+## Synopsis
 
 This motion calls for HS2 to be funded and completed in full, including the entire Eastern leg and an underground through station at Manchester Piccadilly. This motion also calls for the full potential of HS2 to be by building in full Northern Powerhouse Rail which will use HS2 infrastructure.
 
-## **Motion**
+## Motion
 
 In Record of Policy Statements (RoPS) delete the sections “High Speed Rail” and “Stop HS2”
 

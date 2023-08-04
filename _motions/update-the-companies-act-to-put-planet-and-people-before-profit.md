@@ -8,13 +8,13 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11166
 coproposers: 16
 ---
-## **Synopsis**
+## Synopsis
 
 Companies should be required to put environmental and social priorities ahead of financial returns to shareholders.
 
 This will be done by amending the Companies Act and making mandatory the declaration of a purpose in companies’ Articles of Association in line with the amended Companies Act.
 
-## **Motion**
+## Motion
 
 **EC652 currently reads:**
 

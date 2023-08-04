@@ -10,13 +10,13 @@ coproposers: 1
 ---
 
 
-## **Synopsis**
+## Synopsis
 
 Rewrite, renumbering and update of the Extra-Electoral Strategy drawn up in 1995.  This is to provide a clearer and more up-to-date remit for the Party’s Campaigns Committee.
 
 
 
-## **Motion**
+## Motion
 
 
 

@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10788
 coproposers: 15
 ---
-## **Synopsis**
+## Synopsis
 
 The traditional way of life of Gypsies, Roma and Travellers is threatened by the recent Police, Crime, Sentencing and Courts Act, criminalising nomadic life. Systemic barriers for Gypsy, Roma and Traveller communities remain. This motion seeks to address these barriers and ensure equity, equality, and justice for these communities.
 
-## **Motion**
+## Motion
 
 Delete RR700 – RR709 and replace it with the following RR700 - RR708:
 

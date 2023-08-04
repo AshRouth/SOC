@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11170
 coproposers: 30
 ---
-## **SYNOPSIS**
+## SYNOPSIS
 
 UK regulations on landfill and toxic waste disposal are dangerously inadequate, especially given climate breakdown, rising sea levels, increased rainfall, and flooding. ‘Zane’s Law’, named after 7-year-old Zane Gbangbola, who tragically died of Hydrogen Cyanide conducted by floodwater from a contaminated landfill site, proposes initial steps to address this crisis.
 
-## **MOTION**
+## MOTION
 
 Conference notes that current UK regulations with regard to toxic waste disposal and the danger to human life, to our environment, and to the planet as a whole, from both historic landfill sites and currently approved landfill sites operating the ‘dry tomb’ principle, are dangerously inadequate. Especially so, in the face of climate breakdown, with rising sea levels, increased rainfall, and widespread flooding.
 

@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10912
 coproposers: 0
 ---
-## **Synopsis**
+## Synopsis
 
 Over the years many things have gone to landfills that should instead have been recycled. Landfills take up land which could be better used for other purposes. Landfill mining is the practice of removing materials from landfills on mass, and processing them for better use.
 
-## **Motion**
+## Motion
 
 Insert after NR 425:
 

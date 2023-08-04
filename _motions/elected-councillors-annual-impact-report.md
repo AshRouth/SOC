@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11114
 coproposers: 18
 ---
-## **Synopsis**
+## Synopsis
 
 As the party increases its success and enters administration on – at the time of writing - 35 different principal authorities in service of aim i) in the constitution, the impact of our elected councillors should be reported on and widely communicated, allowing the AGM, and the party, to celebrate, question and challenge their work.
 
-## **Motion**
+## Motion
 
 In the Standing Orders for the Conduct of the AGM, in section B1.2 add in new section:
 

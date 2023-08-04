@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11175
 coproposers: 6
 ---
-## **Synopsis**
+## Synopsis
 
 The “Big Tech” companies have accumulated significant wealth and power, through operating in ways that existing Green Party policy does not fully address. This motion begins to address those gaps.
 
@@ -18,7 +18,7 @@ Background:
 * Governments across the world are starting to take action, for example in the USA, the EU and even in the UK: “The UK government has announced new legislation intended to prevent big tech firms from unduly dominating digital markets, and to hold firms more accountable to customer obligations.” ([ https://www.itpro.com/business/policy-and-legislation/big-tech-firms-face-10-turnover-fines-under-new-competition-law](https://www.itpro.com/business/policy-and-legislation/big-tech-firms-face-10-turnover-fines-under-new-competition-law)). The UK is, however, too small to unilaterally set global governance standards, and will need to work together with others (primarily the EU) to do so.
 * The motion therefore sets out to set out the principles required to address these power imbalances, by seeking to open up dominant digital services to scrutiny and competition. Specifically, there will be new duties on how they operate that put more power in the hands of their suppliers and users, more transparency as to how they operate, and additional duties for the most systemically important platforms to proactively identify and manage risks of manipulation.
 
-## **Motion**
+## Motion
 
 The E-Commerce section of the Economy Policy of the Policies for a Sustainable Society is to be amended as follows:
 

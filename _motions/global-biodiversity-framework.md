@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11179
 coproposers: 11
 ---
-## **SYNOPSIS**
+## SYNOPSIS
 
 Policy amendments following the decisons of the Global Biodiversity Framework (GBF) agreed in Montreal in December 2022 (COP 15). The government of the day signs on behalf of the UK and so is required to implement its decisions. Further consideration of the GBF is expected to lead to future amendments.
 
-## **MOTION**
+## MOTION
 
 Conference instructs the Policy Development Committee to make the following changes to the Wildlife and Habitats chapter of the Policies for a Sustainable Society (PfSS).
 

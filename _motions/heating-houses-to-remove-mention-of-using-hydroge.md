@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10792
 coproposers: 6
 ---
-## **Synopsis**
+## Synopsis
 
 Supplies of green hydrogen will remain limited within our ten year planning period and hydrogen is an inefficient heating method. Therefore we should not use it to heat buildings and should prioritise its other uses.
 
@@ -16,7 +16,7 @@ Supplies of green hydrogen will remain limited within our ten year planning peri
 
 <a href="/files/h2-homes-briefing-paper-v0.2.docx"><button class="btn btn-secondary download-link">Download File</button></a>
 
-## **Motion**
+## Motion
 
 **EN016** reads:
 

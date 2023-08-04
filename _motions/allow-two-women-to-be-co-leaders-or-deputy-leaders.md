@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10553
 coproposers: 31
 ---
-## **Synopsis**
+## Synopsis
 
 The current gender-balancing rules for party leadership are written in a way that prevents multiple women from serving as Co-Leaders or Co-Deputy Leaders. Gender balancing is intended to counteract misogyny in politics, not to hold women back. This motion fixes that.
 
-## **Motion**
+## Motion
 
 Subsection i) of Article 8, Green Party of England and Wales Constitution:
 

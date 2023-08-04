@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/?contentId=145018&commentId=28123
 coproposers: 16
 ---
-## **Motion**
+## Motion
 
 \
 **Add to Record of Policy Statements:**\

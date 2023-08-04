@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11185
 coproposers: 17
 ---
-## **Synopsis**
+## Synopsis
 
 Typically, our party publishes manifestos from our special interest groups at election time. However, the process at the last General Election was vague - with shifting timelines and goalposts. This motion seeks to formalise a process making manifestos for Special Interest Groups mandatory.
 
-## **Motion**
+## Motion
 
 Insert a new 13 vii into the Green Party Constitution and renumber
 

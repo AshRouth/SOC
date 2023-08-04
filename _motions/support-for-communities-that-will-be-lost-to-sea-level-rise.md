@@ -8,14 +8,14 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11177
 coproposers: 7
 ---
-## **Synopsis**
+## Synopsis
 
 With the world already passing 1.2º C of warming, climate change adaptation measures are increasingly going to be needed, and these need to be delivered in a socially just way. One aspect which needs to be addressed are properties at risk of flooding due to rising sea levels:
 
 * While major towns and cities will likely be protected by enhanced flood defences, for many smaller communities face being abandoned to rising sea levels, e.g. 200,000 properties in England alone may have to be abandoned due to rising sea levels by 2050 ([ https://www.bbc.co.uk/news/science-environment-61795783](https://www.bbc.co.uk/news/science-environment-61795783));
 * Currently, at-risk communities have no clarity as to which might be abandoned, by when, and what assistance will be provided to those who will lose their homes and businesses (e.g. [ https://www.theguardian.com/environment/2019/may/18/this-is-a-wake-up-call-the-villagers-who-could-be-britains-first-climate-refugees](https://www.theguardian.com/environment/2019/may/18/this-is-a-wake-up-call-the-villagers-who-could-be-britains-first-climate-refugees)).
 
-## **Motion**
+## Motion
 
 The Green Party of England and Wales will ensure that where a community has to be lost to sea-level rise:
 

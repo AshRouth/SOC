@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11180
 coproposers: 13
 ---
-## **Synopsis**
+## Synopsis
 
 A motion to improve and update policy on the rights of platform workers (workers engaged by platforms in the so-called ‘gig economy’) to provide proper legal protections. It covers the classification of workers in law, the regulation of platform employers and enforcement of the same.
 
-## **Motion**
+## Motion
 
 Conference notes:
 

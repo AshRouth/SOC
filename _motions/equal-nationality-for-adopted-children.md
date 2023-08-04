@@ -8,13 +8,13 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11056
 coproposers: 3
 ---
-## **Synopsis**
+## Synopsis
 
 Current UK law does not treat biological and adopted children equally in its consideration of their eligibility for the right to UK citizenship.
 
 This motion aims to make their equality explicit within our own policy.
 
-## **Motion**
+## Motion
 
 In NY513 where it says:
 

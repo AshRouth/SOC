@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10700
 coproposers: 5
 ---
-## **Synopsis**
+## Synopsis
 
 The principle of incorporation has been approved by Conference, leaving members to decide which model to adopt. In 2015, legal advice to GPEX as to which model would be closest to our philosophical basis and green values identified the co-operative company limited by guarantee as the best option.
 
-## **Motion**
+## Motion
 
 Conference therefore calls on GPEX to urgently seek to employ legal professionals to draft a new Memorandum and Articles of Association based on the values of the co-operative movement to be submnitted for consideraton by the Co-operatives UK and the Financial Conduct Authority* no later than December 2023.
 

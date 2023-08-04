@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11190
 coproposers: 35
 ---
-## **S﻿ynopsis**
+## S﻿ynopsis
 
 This motion calls on Green Party members to treat each other with tolerance and civility - particularly those with a different opinion to theirs on issues relating to sex and gender.
 

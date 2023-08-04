@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11145
 coproposers: 9
 ---
-## **Synopsis**
+## Synopsis
 
 The Europe Policy Working Group proposes to insert into the Europe Chapter an affirmation of the importance of continued membership of the Council of Europe and the European Convention on Human Rights.
 
-## **Motion:**
+## Motion:
 
 To insert into Policies for a Sustainable Society the following new section:
 

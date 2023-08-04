@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10552
 coproposers: 25
 ---
-## **Synopsis**
+## Synopsis
 
 This motion introduces the nomination reopening process used in much of the party (such as General Election selection) to encourage diverse candidates for the Annual Ballot. It aims to avoid situations like the all-male Deputy Leadership election in 2022.
 
-## **Motion**
+## Motion
 
 In Section 9 of the Constitution (Annual Ballot), Clause 9(iii) currently reads:
 

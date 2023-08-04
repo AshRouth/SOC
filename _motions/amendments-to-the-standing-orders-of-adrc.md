@@ -8,11 +8,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11169
 coproposers: 5
 ---
-## **Synopsis**
+## Synopsis
 
 The Alternative Dispute Resolution Committee (ADRC) standing orders were last amended as part of the Co-ordinator’s Report A11 to Autumn Conference 2021. The ADRC has been working on multiple changes to these standing orders since January 2023. ADRC therefore now proposes Conference approves its current Standing Orders in full.
 
-## **Motion**
+## Motion
 
 Replace all existing Standing Orders for the Alternative Dispute Resolution Committee with the following;
 

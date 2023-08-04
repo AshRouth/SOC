@@ -9,11 +9,11 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11182
 coproposers: 33
 ---
-## **Synopsis**
+## Synopsis
 
  A motion to emphasise the Green Party’s desire to work hand-in-glove with trade unions in political, electoral, and other campaigns. The motion sets out the Party’s ambition to build permanent, substantial relationships with trade unions in order to achieve our shared goals of social and climate justice.
 
-## **Motion**
+## Motion
 
 Conference believes:
 

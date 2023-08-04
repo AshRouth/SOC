@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11155
 coproposers: 7
 ---
-## **Synopsis**
+## Synopsis
 
 This is the first Draft Voting Paper for the Economy Chapter Enabling Motion which passed in Spring 2022. It is a work in progress for initial feedback on structure/style and there are many points of detail which have yet to be properly discussed, let alone, a consensus reached.
 

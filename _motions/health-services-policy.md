@@ -8,13 +8,13 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11186
 coproposers: 15
 ---
-## **Synopsis**
+## Synopsis
 
 Following feedback on an earlier draft, HPWG presents a revised Health Services Policy. The headline objectives are 1) Rescue the NHS, 2) Address Health Inequality, 3) Revise management of chronic illness, 4) Address Commercial Determinants of Health.  Only those services affected by the headline objectives feature in the policy.
 
 
 
-## **Motion**
+## Motion
 
 That conference approves the draft policy for final development.
 

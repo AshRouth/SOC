@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11139
 coproposers: 16
 ---
-## **Background**
+## Background
 
 Our current political strategy (Building Power To Transform Society – Green Party Political Strategy to 2030) was adopted at Spring Conference 2021 and was due for review in spring 2023.
 
@@ -20,11 +20,11 @@ Another consequence is that making “electoral success (our) top priority for a
 
 The purpose of this amendment is twofold. Firstly, it attempts to better align our strategy with our established core values (for example, “Electoral politics is not the only way to achieve change in society, and we will use a variety of methods, including lifestyle changes, to help effect progress, providing those methods do not conflict with our other core principles.”) Secondly, it attempts to address the concerns of many members, heard at recent meetings and workshops across the party, who feel that the amount of time required for Greens to win effective political power on the scale required (even based on heroic assumptions) is much greater than the science now tells us we have left to address the multiple crises, in consequence of which we need a broader, multi-pronged strategy.
 
-## **Synopsis**
+## Synopsis
 
  Social and environmental justice will not be achieved through our own actions or by legislative means alone. We must work on several fronts and use multiple means to accomplish change. Our Political Strategy should emphasise this more clearly.
 
-## **Motion**
+## Motion
 
 Conference approves the following changes to the document “Building Power To Transform Society – Green Party Political Strategy to 2030”, first adopted (with an amendment) at Spring Conference 2021.
 

@@ -8,7 +8,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11158
 coproposers: 26
 ---
-## **Synopsis**
+## Synopsis
 
 This Motion commits the Green Party to actively oppose the EAPB Bill as it undermines the democratic right of public bodies to seek peaceful means to promote human rights and climate justice and calls on the Party to support the Right to Boycott Coalition.
 
