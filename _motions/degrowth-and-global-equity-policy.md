@@ -13,7 +13,7 @@ For the Record of Policy Statements:
 We must deal with the climate and ecological emergency together. This will involve substantial efforts to make existing resource use more circular (such as through better reuse and recycling). This will however not be enough if the UK and global resource use continues to grow.  Therefore, we accept that the transition to zero carbon will require us to reduce overall resource use to within environmental limits.'
 
 We also accept that demand for critical minerals and resources, including copper will increase in the short term, as these are vital to the deployment of renewable energy and other zero carbon enabling technologies in the UK and around the world.\
-\
+
 Extraction of these materials has the potential to damage the local environment, undermine civil rights and perpetuate inequality, and will increase the need to establish governance mechanisms to protect people and the environment in places where resources are found.
 
 We accept that the UK has benefited from historic imperialism, and this has allowed it to extract and consume an unfair share of the world's resources, including copper. This is ethically unacceptable and should not continue.

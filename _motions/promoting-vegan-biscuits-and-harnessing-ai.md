@@ -10,12 +10,12 @@ coproposers: 0
 ---
 ## Synopsis
 
-\
+
 Recognising the significant impact of our dietary choices on the environment, animal welfare, and public health, the Green Party acknowledges the importance of promoting sustainable and ethical food options. This motion aims to highlight the benefits of vegan biscuits and emphasises the potential of artificial intelligence (AI) in advancing sustainability and accessibility in food production.
 
 ## Motion
 
-\
+
 Conference resolves to:
 
 1. Promote Vegan Biscuits:\

@@ -14,7 +14,7 @@ This motion calls on Green Party members to treat each other with tolerance and 
 
 ## Motion
 
-\
+
 The Green Party should be a welcoming and safe place for all, including women, trans and non-binary people. It should also be a safe place for those with a variety of opinions on issues relating to sex and gender. The Green Party Code of Conduct (12.1) states "As the Green Party welcomes people from a wide range of backgrounds, members may encounter people who hold differing political or philosophical worldviews. Freedom of belief and the right to change that belief is a fundamental human right. Members should therefore show tolerance and respect towards people that hold political or philosophical worldviews that differ from their own."
 
 On the issue of sex and gender, the party includes people with so-called gender-critical views and others who oppose such views. It is now established in law that gender-critical views are covered by the protected characteristic of Religion and Belief under the Equality Act (2010). It is assumed that views opposing gender-critical views would also be protected as a philosophical belief. The Green Party code of conduct states  “11.3 Members must not behave in a discriminatory manner towards someone on the basis of any protected characteristic that person may have.”

@@ -11,17 +11,17 @@ affiliated: false
 ---
 ## Synopsis
 
-\
+
 This motion would add a section on Spokespeople to the constitution. This motion would outline that spokespeople are selected by the current process of a sub-committee of GPEx. This motion will also outline Spokespeople’s expectations, accountability, etc.
 
 ## Background
 
-\
+
 The selection process of Spokespeople is unclear to those not in GPEx. As our Spokespeople are effectively seen as our Party’s ‘frontbench’, Party (Co-)Leader(s) and Deputy Leader(s) are often held responsible for Party Spokespeople by the general public, as is the Party as a whole, there should therefore be a clear selection process and recall process of our Party’s Spokespeoples.
 
 ## Motion
 
-\
+
 Add a new section to the constitution titled Spokespeople.
 
 The content of this section will state:

@@ -14,7 +14,7 @@ Under current rules, groups recognised by Equality & Diversity (E&D) committee a
 
 ## Motion
 
-\
+
 Amend the Standing Orders for the Conduct of Conference (SOCC), Section B2.2 to read:\
 B2.2 Motions and Draft Voting Papers may be proposed and co-proposed for the First Agenda by:
 

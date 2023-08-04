@@ -28,4 +28,4 @@ This Conference resolves:
 * To reaffirm the Party’s commitment to providing independent trade unions with a statutory right of access to workplaces in order to speak to workers during their working hours.
 * To repeal all anti-union and anti-strike laws since 1979, in line with other policy statements, to empower workers to organise and defend themselves collectively.
 
-\[1] [ https://www.ipsos.com/en-uk/public-opinion-split-towards-day-of-multiple-union-strike-action-though-few-think-government-handling-negotations-well](https://www.ipsos.com/en-uk/public-opinion-split-towards-day-of-multiple-union-strike-action-though-few-think-government-handling-negotations-well)
+[1] [ https://www.ipsos.com/en-uk/public-opinion-split-towards-day-of-multiple-union-strike-action-though-few-think-government-handling-negotations-well](https://www.ipsos.com/en-uk/public-opinion-split-towards-day-of-multiple-union-strike-action-though-few-think-government-handling-negotations-well)

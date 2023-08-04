@@ -92,4 +92,4 @@ ii)    ADRC will also invite a member of GPRC to become its GPRC Friend. This
 
 - - -
 
-\**Guidance for the ADRC’s decision here is that they are confident it will be a temporary period of inactivity and full duties will be resumed in an agreed period if the workload of the committee can accommodate this. Committee members are expected to contact the ADRC about any expected inactive period as soon as possible prior to the inactivity.*
+**Guidance for the ADRC’s decision here is that they are confident it will be a temporary period of inactivity and full duties will be resumed in an agreed period if the workload of the committee can accommodate this. Committee members are expected to contact the ADRC about any expected inactive period as soon as possible prior to the inactivity.*

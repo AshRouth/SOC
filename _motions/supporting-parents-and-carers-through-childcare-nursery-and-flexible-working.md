@@ -25,7 +25,7 @@ The current system is complex, expensive to administer and difficult for parents
 **Suggest policy on childcare provision**
 
 Give all parents and carers access to 48 hours childcare during their children’s primary education including the pre-school year before reception.  Childcare would be available from 8am to 6pm.\
-\
+
 Give all children access to a nursery place from aged one for thirty five ours a week.
 
 Childcare should be funded through a single means tested benefit for all children between the age one and leaving primary education.

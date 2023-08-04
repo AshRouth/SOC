@@ -24,7 +24,7 @@ HE703 The Green Party would support a change in the law to allow the procedure t
 
 HE703 The Green Party would support a change in the law to allow abortion care to be approved and carried out by appropriately trained nurses and midwives up to 12 weeks of pregnancy. From 12 to 24 weeks, abortion care can be approved and administered by a single doctor. After 24 weeks, an abortion of pregnancy will require agreement from two doctors prior to being administered and is only allowed if there is a risk of life to the pregnant person or child, or remaining risk of grave physical,  or mental injury from continuing with the pregnancy after alternative courses of treatment have been exhausted.
 
-\
+
 Clarification on existing policy HE706
 
 *Existing text:*
@@ -35,7 +35,7 @@ HE706 The Green Party believes that no person should face imprisonment for endin
 
 HE706 The Green Party believes that no pregnant person and no registered, medical professional trained in abortions in independently regulated conditions should face imprisonment for ending a pregnancy. A Green government would ensure that abortion is removed from the 1861 Offences Against the Person Act and is instead governed by the same robust regulatory and ethical frameworks as all other medical procedures. As abortion is a devolved issue in Scotland and Northern Ireland, it is intended that this policy would apply to England and Wales.
 
-\
+
 New Policy: Introduction of Safe Access Zones
 
 HEXXX The Green Party would implement safe access zones, to be introduced with a ‘blanket’ provision, applying to all sites across England and Wales that provide abortion care without evidence of local harassment being required. Responsibility for establishing these safe access zones sits at a national level and not with local councils or health boards. Councils could be given the power to vary these zones depending on individual site circumstances. Breaches of the terms of these zones could be addressed by police intervention, with the potential for those breaching the terms of the zone being charged with a criminal offence.

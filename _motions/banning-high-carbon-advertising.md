@@ -10,7 +10,7 @@ coproposers: 17
 ---
 ## Synopsis
 
-\
+
 The climate crisis poses an existential risk. Advertising of high carbon products is a significant driver of consumption habits that are perpetuating climate emissions. The continued advertising of high carbon products is incompatible with efforts to address the climate crisis. This motion seeks to regulate and ban such advertising.
 
 ## Motion

@@ -26,7 +26,7 @@ In Policies for a Sustainable Society, in the workers’ rights policy section, 
 
 ~~WR348 There will be incentives for employers who provide support facilities at the workplace such as childcare, job-sharing, flexible working, counselling and family planning~~
 
-\
+
 To read as follows (new wording in bold):
 
 WR344 **Under the Green Party, the full time working week will be reduced to 35 hours in the short term and 32 in the medium term. In the medium term, workers will have a right to request these reduced hours at no loss of pay and without detriment. The Green Party will develop pilot schemes, monitoring and effective support, for small to medium sized businesses and public sector institutions, during the process of transition to a shorter worker week.**
