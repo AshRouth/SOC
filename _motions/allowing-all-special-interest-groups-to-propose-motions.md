@@ -15,7 +15,8 @@ Under current rules, groups recognised by Equality & Diversity (E&D) committee a
 ## Motion
 
 
-Amend the Standing Orders for the Conduct of Conference (SOCC), Section B2.2 to read:\
+Amend the Standing Orders for the Conduct of Conference (SOCC), Section B2.2 to read:
+
 B2.2 Motions and Draft Voting Papers may be proposed and co-proposed for the First Agenda by:
 
 a) any constituted Local or Regional Party (see also B2.5); or
@@ -30,5 +31,6 @@ e) Any group recognised as a member of the Equality and Diversity Committee or t
 
 f) at least twelve co-proposers, one of whom is to be the proposer for the purposes of B1.4 and B1.5. One of the co-proposers must be the member who posted the draft motion to the Pre-Agenda as in A1.3 above.
 
-Amend B2.7 to read:\
+Amend B2.7 to read:
+
 B2.7 Motions proposed under B2.2(c), B2.2(d) and B2.2(e) by a constituted Committee or Working Group must include co-proposal by the Convenor and three other Party members. Evidence of appropriate discussion and voting must be provided to SOC and PDC in the same way as for proposals from a Local or Regional Party.

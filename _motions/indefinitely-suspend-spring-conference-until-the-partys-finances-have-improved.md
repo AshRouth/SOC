@@ -26,11 +26,11 @@ Conference further instructs GPEX to investigate whether a four-day Autumn Confe
 
 Conference, within Section 10.i of the Green Party’s Constitution, deletes the following wording:
 
-> “... and will usually hold an additional Conference each spring…”
+“... and will usually hold an additional Conference each spring…”
 
 and replaces it with the following wording:
 
-> “...and may also hold an additional Conference each spring, only when it is financially prudent to do so…”
+“...and may also hold an additional Conference each spring, only when it is financially prudent to do so…”
 
 Conference resolves that in years without a Spring Conference, Enabling Motions currently set to become due at that Spring Conference will now come due at the following Autumn Conference.
 

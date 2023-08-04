@@ -55,7 +55,8 @@ Conference instructs that the Green Party Executive (GPEx) and the Green Party R
 9. Standing Orders Committee.  The two major constituent roles of SOC are split into two.
    There will be a Standing Orders Committee tasked with interpreting the constitution and relevant standing orders created under it. This will report to the council on its decisions as they are made for their dissemination, send all rulings to the CEO, and be accountable to conference for them in a specific report. This will be made up of at least 5 people elected in a single block for a 2 year term through single transferable vote in addition to a non-voting member of the council.
    There will be a Conference Resolution Board which takes on the stewarding of the agenda process for each conference. The committee is made up of at least 5 people who have attended at least 2 conferences in the last 3 years, elected in a single block for a 1 year term using Single Transferable Vote.
-10. Policy.  There are no proposals to change the policy process as part of this motion.\
+10. Policy.  There are no proposals to change the policy process as part of this motion.
+
     However, Policy Development Committee (PDC) will become a joint committee of the board and council – with the board managing the maintenance of our policy library and the policy process, with Council indicating policy priorities.
     As at present the Council will be able to make interim policy statement, subject to agreement from the relevant policy working group, for subsequent ratification at conference, e.g. statements on specific issues arising in contemporary politics or the publication of the manifesto.
     Political Committee will become a sub-committee of the Council.

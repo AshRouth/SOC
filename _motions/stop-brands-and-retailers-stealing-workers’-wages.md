@@ -12,7 +12,6 @@ coproposers: 3
 
 Joint liability means that brands and retailers share in the legal responsibility alongside their manufacturers to stop workplace violations and ensure legal wages. Many major fashion brands consistently underpay factories or ignore obvious workplace violations. This policy follows the example of the Californian Garment Worker Protection Act.
 
-## \
-Motion
+## Motion
 
 Insert new WR686 and renumber: Consumer brands and retailers would share joint legal liability alongside their manufacturers for any breach of minimum wage or workplace legislation.
