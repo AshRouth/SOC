@@ -55,4 +55,5 @@ collections:
           - { label: "Not debated", value: "notdebated" }
       - { label: 'Green Spaces Link', name: 'spaces', widget: 'string' }
       - { label: 'Coproposer Count', name: 'coproposers', widget: 'number', required: false }
+      - { label: 'Affiliated Motion', name: 'affiliated', widget: 'boolean', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
