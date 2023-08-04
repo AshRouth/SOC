@@ -36,5 +36,3 @@ This Conference resolves:
 * To repeal all anti-union and anti-strike laws since 1979 in line with other recent policy statements, to empower workers to organise and defend themselves collectively
 * To create a legal duty for other public authorities, especially licensing authorities, to suspend and ultimately remove operating licences for any company that repeatedly breaks the law in regard to workers’ rights.
 * To end the hostile environment and the racialised targeting of platform workers by police forces and immigration authorities.
-
-<!--EndFragment-->

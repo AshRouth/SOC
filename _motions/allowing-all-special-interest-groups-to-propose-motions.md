@@ -32,5 +32,3 @@ f) at least twelve co-proposers, one of whom is to be the proposer for the purpo
 
 Amend B2.7 to read:\
 B2.7 Motions proposed under B2.2(c), B2.2(d) and B2.2(e) by a constituted Committee or Working Group must include co-proposal by the Convenor and three other Party members. Evidence of appropriate discussion and voting must be provided to SOC and PDC in the same way as for proposals from a Local or Regional Party.
-
-<!--EndFragment-->
