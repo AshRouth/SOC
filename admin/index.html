@@ -90,7 +90,7 @@
             else {
               statusLabel = data.status;
             }
-            return `<div class="amendment amendment-${statusLabel}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${data.status}</p></div><div>${data.details}</div></div>`;
+            return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${statusLabel}</p></div><div>${data.details}</div></div>`;
           },
           // Preview output for this component. Can either be a string or a React component
           // (component gives better render performance)
@@ -102,7 +102,7 @@
             else {
               statusLabel = data.status;
             }
-            return `<div class="amendment amendment-${statusLabel}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${data.status}</p></div><div>${data.details}</div></div>`;
+            return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${statusLabel}</p></div><div>${data.details}</div></div>`;
           }
         });
     </script>
