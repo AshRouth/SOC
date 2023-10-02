@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Allowing all Special Interest Groups to propose motions
 motion_code:
-  number: 2
+  number: 17
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10794
 coproposers: 18
