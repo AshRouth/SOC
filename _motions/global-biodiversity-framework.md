@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Global Biodiversity Framework
 motion_code:
-  number: 36
+  number: 8
+  section: C
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11179
 coproposers: 11

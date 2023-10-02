@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Ensure Diversity of Candidates in Internal Elections
 motion_code:
-  number: 7
+  number: 3
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10552
 coproposers: 25

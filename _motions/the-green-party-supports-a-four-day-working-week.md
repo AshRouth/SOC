@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: The Green Party supports a four day working week
 motion_code:
-  number: 34
+  number: 10
+  section: C
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11146
 coproposers: 28

@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Policy on Artificial Intelligence
 motion_code:
-  number: 54
+  number: 9
+  section: C
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11184
 coproposers: 20
