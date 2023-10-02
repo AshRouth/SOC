@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Pathfinder Motion
 motion_code:
-  number: 52
+  number: 14
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10923
 coproposers: 9

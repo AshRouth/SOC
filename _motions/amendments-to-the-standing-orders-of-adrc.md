@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Amendments to the Standing Orders of ADRC
 motion_code:
-  number: 5
+  number: 10
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11169
 coproposers: 5

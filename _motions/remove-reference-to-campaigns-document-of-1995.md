@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Remove Reference to Campaigns Document of 1995
 motion_code:
-  number: 63
+  number: 13
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11192
 coproposers: 2
