@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Reaffirm Opposition to HS2
 motion_code:
-  number: 59
+  number: 5
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11193
 coproposers: 119
