@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Fairer multiplier for the Prioritisation Ballot
 motion_code:
-  number: 32
+  number: 12
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11005
 coproposers: 9
