@@ -229,3 +229,7 @@ dark-mode-toggle {
 table th {
   font-weight:inherit;
 }
+
+btn.disabled {
+  border-color:none;
+}
