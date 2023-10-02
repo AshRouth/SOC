@@ -369,6 +369,7 @@ Policy Development Committee
 
 | Ballots | 2941 |
 | ------- | ---- |
+| | |
 
 Counting votes for Policy Development Committee using STV. 8 candidates running for 5 seats.
 
