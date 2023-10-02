@@ -4,7 +4,6 @@ backend:
   branch: ash
 media_folder: 'files'
 site_url: https://illustrious-mousse-b63d64.netlify.app/
-publish_mode: editorial_workflow
 collections:
   - name: 'motions'
     label: 'Motions'
