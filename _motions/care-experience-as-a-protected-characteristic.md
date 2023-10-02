@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: " 'Care Experience' as a Protected Characteristic"
 motion_code:
-  number: 16
+  number: 9
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/?contentId=145018&commentId=28123
 coproposers: 16
