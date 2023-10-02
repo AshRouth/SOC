@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: General Election Candidate Selection
 motion_code:
-  number: 35
+  number: 20
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10994
 coproposers: 27
