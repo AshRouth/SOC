@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Economy Chapter - DVP
 motion_code:
-  number: 89
+  number: 1
+  section: F
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11155
 coproposers: 7
