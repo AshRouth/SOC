@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Solidarity with Protesters in Iran
 motion_code:
-  number: 67
+  number: 6
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10971
 coproposers: 11
