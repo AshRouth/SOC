@@ -11,7 +11,6 @@ coproposers: 17
 ---
 ## Synopsis
 
-
 The climate crisis poses an existential risk. Advertising of high carbon products is a significant driver of consumption habits that are perpetuating climate emissions. The continued advertising of high carbon products is incompatible with efforts to address the climate crisis. This motion seeks to regulate and ban such advertising.
 
 ## Motion
@@ -32,3 +31,7 @@ Conference notes in order for this to become policy we will need amendments in t
 4. Amend TR550, delete "resources wasted and damage done by excessive use of air transport" and insert "environmental damage caused by frequent air travel", delete "considers that governments should" and insert "would", insert " It would also introduce tough measures to end air travel advertising in recognition of its impact as a high carbon activity " after "human health"
 5. Amend TR552, delete” introduce legislative controls on the advertising of air travel” and insert “ban the advertising of air travel”.
 6. Amend TR553, delete "specifically" and insert "Until there’s a ban on the advertising of all air travel”, delete "will campaign for UK and/or EU legislation for" and insert "supports", delete "and would take up a significant and specified proportion of the area of each advert/ticket" and insert "." after "flight tickets" and after this, insert "Advertising restrictions would ensure consumers aren't exposed to overly frequent advertising for air travel (or other high carbon products and services) and would instead actively promote alternatives.”
+
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p>Conference agrees to insert the following sentence at the end of existing CMS686:
+
+*“In addition a cap on the percentage of a company’s turnover that can be spent on marketing shall be introduced (with an exception for start ups). See EC652.”*</p></span></div>
