@@ -84,7 +84,7 @@
           // markdown document
           toBlock: function(data) {
             let statusLabel = "";
-            if (data.status == "tbd") {
+            if (data.status === "tbd") {
               statusLabel = "To Be Dsebated";
             }
             else {
@@ -96,7 +96,7 @@
           // (component gives better render performance)
           toPreview: function(data) {
             let statusLabel = "";
-            if (data.status == "tbd") {
+            if (data.status === "tbd") {
               statusLabel = "To Be Dsebated";
             }
             else {
