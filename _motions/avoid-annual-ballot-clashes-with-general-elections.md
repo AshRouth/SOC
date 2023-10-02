@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Avoid Annual Ballot clashes with General Elections
 motion_code:
-  number: 8
+  number: 16
+  section: D
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10554
 coproposers: 22
