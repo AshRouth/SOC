@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Health Policy - Abortion
 motion_code:
-  number: 40
+  number: 11
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11171
 coproposers: 8

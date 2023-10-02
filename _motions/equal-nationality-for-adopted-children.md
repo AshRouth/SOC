@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Equal nationality for adopted children
 motion_code:
-  number: 29
+  number: 12
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11056
 coproposers: 3

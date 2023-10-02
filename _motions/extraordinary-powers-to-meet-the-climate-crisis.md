@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Extraordinary Powers to Meet the Climate Crisis
 motion_code:
-  number: 31
+  number: 2
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11118
 coproposers: 15

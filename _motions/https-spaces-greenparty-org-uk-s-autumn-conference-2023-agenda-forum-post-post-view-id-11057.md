@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Green Rail Strategy for the Midlands and the North
 motion_code:
-  number: 38
+  number: 3
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11057
 coproposers: 44

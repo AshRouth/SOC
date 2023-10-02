@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Electrify the East West Railway line from the beginning
 motion_code:
-  number: 25
+  number: 7
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11036
 coproposers: 16

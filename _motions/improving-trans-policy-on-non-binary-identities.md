@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Improving trans policy on non-binary identities
 motion_code:
-  number: 42
+  number: 10
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11011
 coproposers: 11

@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Remove Ambiguity and Improve Consistency in Trans Rights
 motion_code:
-  number: 61
+  number: 13
+  section: E
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11006
 coproposers: 11
