@@ -3,7 +3,8 @@ layout: motion
 toc: "true"
 title: Ban Greyhound Racing
 motion_code:
-  number: 10
+  number: 7
+  section: C
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11197
 coproposers: 36
