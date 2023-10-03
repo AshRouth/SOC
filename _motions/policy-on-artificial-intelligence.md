@@ -9,7 +9,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11184
 coproposers: 20
 ---
-## sSynopsis
+## Synopsis
 
 The rise of AI is transforming many industries. AI is now used in public domain and corporate sectors and concerns exist at individual, national and international levels. However, the potential for benefit from AI is enormous, encompassing most areas of society so good governance rather than prevention is our aim.
 
