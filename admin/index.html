@@ -42,11 +42,7 @@
               {
                 label: 'Defeated',
                 value: 'defeated'
-              },
-              {
-                label: 'Out of Order',
-                value: 'OoO'
-              },
+              }
             ]
             },
             {
@@ -83,12 +79,26 @@
           // This is used to serialize the data from the custom widget to the
           // markdown document
           toBlock: function(data) {
-            return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3></div><div>${data.details}</div></div>`;
+            return `
+              <div class="amendment amendment-${data.status}">
+                <div class="d-flex justify-content-between align-items-start">
+                  <h3 id="amendment-${data.number}">Amendment #${data.number}</h3>
+                </div>
+                <b>${data.details}</b>
+              <div>            
+            `;
           },
           // Preview output for this component. Can either be a string or a React component
           // (component gives better render performance)
           toPreview: function(data) {
-            return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3></div><div>${data.details}</div></div>`;
+            return `
+            <div class="amendment amendment-${data.status}">
+                <div class="d-flex justify-content-between align-items-start">
+                  <h3 id="amendment-${data.number}">Amendment #${data.number}</h3>
+                </div>
+                <b>${data.details}</b>
+              <div>
+            `
           }
         });
     </script>
