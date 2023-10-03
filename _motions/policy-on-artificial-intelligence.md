@@ -9,7 +9,7 @@ status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11184
 coproposers: 20
 ---
-## Synopsis
+## sSynopsis
 
 The rise of AI is transforming many industries. AI is now used in public domain and corporate sectors and concerns exist at individual, national and international levels. However, the potential for benefit from AI is enormous, encompassing most areas of society so good governance rather than prevention is our aim.
 
@@ -22,10 +22,6 @@ POLICY STATEMENT on ARTIFICIAL INTELLIGENCE (also known as Machine Learning; ref
 The Green Party of England and Wales acknowledges that there are both existential threats and massive potential benefits for a sustainable future for humanity possible with the increasing prevalence of AI. We will introduce a precautionary regulatory system to avert the former and bring about the latter. In creating this regulatory framework we shall base much upon the EU AI Act and UNESCO recommendations, and aim to ensure UK legislation and practice aligns with this. We shall also foster international co-operation towards the establishment of a world-wide body that could oversee and police AI development globally.
 
 Through regulation we will oversee that AI development is based on ethical principles for development and deployment so that systems using AI are safe, robust, transparent, accountable, and human-centric. Development will be regulated into producing systems that are socially and environmentally responsible, that include safeguards against inappropriate or under-age use, measures to address and rectify existing bias, discrimination and equality issues, measures that protect individual privacy and liberty, ways to rectify mistakes made and ways to allow use to be switched off or paused.
-
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3></div><div>In paragraph 1, insert after “worldwide body that could oversee and police AI development globally.” the additional sentence “We will place deliberative and democratic decision making, and the voice of those most affected by AI technology development and adoption at the heart of any decision making and governance processes."
-
-And In paragraph 2 after “Development will be regulated into producing systems that are socially and environmentally responsible, that include” insert “consultation and participatory decision making with those affected by AI systems, also " And replace “measures that protect individual privacy and liberty” with “measures that protect the privacy and liberty of individuals and communitiese"</div></div>
 
 We neither aim nor wish to stifle the innovation and development of AI as an important sector of our economy nor to reduce the UK’s current status as one of the most advanced nations in this field. To this end our current research frameworks will be enhanced along with other developmental ideas including “sandboxes” for safe yet innovative trialling of AI systems.
 
