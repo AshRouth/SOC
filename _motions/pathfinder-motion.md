@@ -11,12 +11,9 @@ coproposers: 9
 ---
 ## Synopsis
 
-
 This motion is proposed as a result of the work undertaken by the Party Structure Working Group and seeks to coalesce consensus from conference around a desired end state that will inform a series of motion to be bought to the next two conferences.  The proposals seek to balance a bottom up led movement with political agility.
 
-## 
 Motion
-
 
 Conference instructs that the Green Party Executive (GPEx) and the Green Party Regional Council (GPRC) work together to bring a series of motions to the next two conferences that will change the party’s constitution and structure to deliver the following changes:
 
@@ -56,6 +53,22 @@ Conference instructs that the Green Party Executive (GPEx) and the Green Party R
 9. Standing Orders Committee.  The two major constituent roles of SOC are split into two.
    There will be a Standing Orders Committee tasked with interpreting the constitution and relevant standing orders created under it. This will report to the council on its decisions as they are made for their dissemination, send all rulings to the CEO, and be accountable to conference for them in a specific report. This will be made up of at least 5 people elected in a single block for a 2 year term through single transferable vote in addition to a non-voting member of the council.
    There will be a Conference Resolution Board which takes on the stewarding of the agenda process for each conference. The committee is made up of at least 5 people who have attended at least 2 conferences in the last 3 years, elected in a single block for a 1 year term using Single Transferable Vote.
+
+   <div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p>Replace the above paragraph with:
+
+   Standing Orders Committee. SOC will be increased in size. This committee will report to the council on its decisions as they are made for their dissemination, send all rulings to the CEO, and be accountable to conference for them in a specific report. This will be made up of at least 7 people elected at Conference in a single block for a 1 year term through single transferable vote in addition to a non-voting member of the council. Members of SOC will have their ticket, travel and accommodation for Conference provided/reimbursed by the party, and will have access to staff support consisting of no less than 0.3 FTE and ideally at least 0.4 FTE, unless there are severe budget constraints preventing this. Standing Orders Committee will delegate the choosing of Conference Plenary chairs to Conferences Committee, who will pick from a list of Chairs drawn up by and approved by Standing Orders Committee. Standing Orders Committee will produce a codified criteria for becoming part of this list (i.e, having chaired workshops, having attended sufficient conferences, etc). The final rota of Plenary chairs will be approved by Standing Orders Committee. There will be a named member (or members) of Standing Orders Committee who will liaise with Conferences Committee at all times. There will be at least three named members of Standing Orders Committee who will take on stewarding the agenda process for each conference, including liaising with staff members and other party members throughout the agenda process for each Conference.
+
+   Policy. There are no proposals to change the policy process as part of this motion.
+
+   However, Policy Development Committee (PDC) will become a joint committee of the board and council – with the board managing the maintenance of our policy library and the policy process, with Council indicating policy priorities. As at present the Council will be able to make interim policy statement, subject to agreement from the relevant policy working group, for subsequent ratification at conference, e.g. statements on specific issues arising in contemporary politics or the publication of the manifesto. Political Committee will become a sub-committee of the Council. Policy Development Committee would still authorise and monitor policy working groups, though as with 75 other groups of common interest, the rights and responsibilities of Policy Working Groups (PWG) would vary by size and governance of the relevant PWG.
+
+   Standing Committees – there will be a number of standing committees with membership directly elected, as at present, however, they will be subcommittees of the following governing bodies: • Equalities Equity Diversity and Inclusion – Joint Board and Council • International – Council • Policy Development Committee – Joint Board and Council • Finance and HR Committee – Board • Campaigns Committee – Joint Board and Council Disciplinary Committee and Alternative Dispute Resolution Committee will remain independent bodies reporting directly to conference
+
+   Groups of Common Interest. The recognition of such groups will be dealt with via a specific subcommittee of the Council, and as the groups grow in their representation and organisational capacity, they will be afforded increased rights and responsibilities according to a defined system. As an example – all recognised groups, no matter how small, would be able to request space to meet at conference, but only groups with a certain level of engagement from members would be afforded the ability to propose motions as a group. This would provide an opportunity to build capacity in these groups as well as supporting them to target their efforts towards the strategic goals of the party at that time. The Young Greens would be recognised as the official youth wing of the Party.
+
+   Political Deals. We would remain a principles led party, and any political deals will be agreed at the most appropriate level, with all Westminster agreements being overseen by the Council in dialogue with the relevant stakeholders in the local and regional / national parties.
+
+   The wording of the documentation should be designed to make it accessible to all members and encourage good governance. There will also be a requirement for the company to look at Directors and Officers Insurance and to progress this if financially viable. Where the intent of the motion cannot be met due to current legislation practical amends that deliver the same intent will be acceptable</p></span></div>
 10. Policy.  There are no proposals to change the policy process as part of this motion.
 
     However, Policy Development Committee (PDC) will become a joint committee of the board and council – with the board managing the maintenance of our policy library and the policy process, with Council indicating policy priorities.
