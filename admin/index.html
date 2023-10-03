@@ -83,25 +83,11 @@
           // This is used to serialize the data from the custom widget to the
           // markdown document
           toBlock: function(data) {
-            let statusLabel = "";
-            if (data.status === "tbd") {
-              statusLabel = "To Be Dsebated";
-            }
-            else {
-              statusLabel = data.status;
-            }
             return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${statusLabel}</p></div><div>${data.details}</div></div>`;
           },
           // Preview output for this component. Can either be a string or a React component
           // (component gives better render performance)
           toPreview: function(data) {
-            let statusLabel = "";
-            if (data.status === "tbd") {
-              statusLabel = "To Be Dsebated";
-            }
-            else {
-              statusLabel = data.status;
-            }
             return `<div class="amendment amendment-${data.status}"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-${data.number}">Amendment #${data.number}</h3><p class="badge bg-${data.status}">Amendment ${statusLabel}</p></div><div>${data.details}</div></div>`;
           }
         });
