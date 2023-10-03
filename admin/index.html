@@ -81,11 +81,13 @@
           toBlock: function(data) {
             return `
 <div class="amendment amendment-${data.status}">
-  <div class="d-flex justify-content-between align-items-start">
-    <h3 id="amendment-${data.number}">Amendment #${data.number}</h3>
-  </div>
-  <b>${data.details}</b>
-<div>            
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-${data.number}">Amendment #${data.number}</h3>
+</div>
+    
+${data.details}
+  
+</div>          
             `;
           },
           // Preview output for this component. Can either be a string or a React component
@@ -93,11 +95,13 @@
           toPreview: function(data) {
             return `
 <div class="amendment amendment-${data.status}">
-    <div class="d-flex justify-content-between align-items-start">
-      <h3 id="amendment-${data.number}">Amendment #${data.number}</h3>
-    </div>
-    <b>${data.details}</b>
-  <div>
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-${data.number}">Amendment #${data.number}</h3>
+</div>
+
+${data.details}
+
+</div>
             `
           }
         });
