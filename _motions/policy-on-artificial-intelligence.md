@@ -28,9 +28,9 @@ Through regulation we will oversee that AI development is based on ethical princ
   <div class="d-flex justify-content-between align-items-start">
     <h3 id="amendment-undefined">Amendment #undefined</h3>
   </div>
-  <b>Test #1
+  <b>Testing
 
-Test #2</b>
+Testing</b>
 <div>            
             
 
