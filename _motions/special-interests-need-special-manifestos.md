@@ -70,3 +70,7 @@ At the start of the election GPRC will be mandated to provide a clear timeline f
 <p>I· An Animal Protection manifesto (produced by Greens for Animal Protection)” </p>
 
 <p>Insert at the end “Wales Green Party and the Young Greens may choose to publish their own manifestos through their own processes as autonomous organisations, which do not require GPRC approval but nevertheless will be supported and published by the Green Party if requested by these organisations”.</p></p></span></div>
+
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-3">Amendment #3</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p>Where it says “At the start of the election GPRC will be mandated to provide a clear timeline for approval and publication.”</p>
+
+<p>Remove “At the start of the election” Insert at the end “GPRC will not approve manifestos which contain policy which contradicts Green Party of England and Wales policy (on the advice of Policy Development Committee), or policy substantially outside of the subject area of the group.”</p></p></span></div>
