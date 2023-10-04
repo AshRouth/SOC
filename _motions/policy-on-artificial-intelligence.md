@@ -28,8 +28,8 @@ Through regulation we will oversee that AI development is based on ethical princ
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-Testa">Amendment #Testa</h3>
 </div>
-    
-Gogu
+
+Grogu
 
 Tests.
   
