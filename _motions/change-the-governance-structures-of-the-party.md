@@ -248,6 +248,65 @@ iv)	Subject to the collective responsibility of the Executive set out in 7 i), 7
 
 v)	Procedures for the election of Leader and Deputy Leader(s) or Co-Leaders of the Green Party and their duties and responsibilities are outlined in Section 8 of this Constitution. 
 
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-4b">Amendment #4b</h3>
+</div>
+    
+<p><strong>In “Green Party Executive”:</strong></p>
+
+<p><strong>In clause iii, which currently reads:</strong></p>
+
+<p>ii) The Party Executive shall consist of the following voting members: Leader plus Deputy Leader(s) or Co-Leaders, Wales Green Party Leader, the two co-chairs of the Young Greens as a job share and the additional members elected to the following functional positions, to serve for two years: a) Chair; b) Treasurer; c) Seven ordinary members. The Chief Executive Officer (CEO) will be a non-voting member of the Executive.</p>
+
+<p>After “Chief Executive Officer (CEO)”, insert “and the Convenor of International Committee”, and replace “a non-voting member” with “non-voting members” so that it reads:</p>
+
+<p>ii) The Party Executive shall consist of the following voting members: Leader plus Deputy Leader(s) or Co-Leaders, Wales Green Party Leader, the two co-chairs of the Young Greens as a job share, and the additional members elected to the following functional positions, to serve for two years: a) Chair; b) Treasurer; c) Seven ordinary members. The Chief Executive Officer (CEO) and the Convenor of International Committee will be non-voting members of the Executive.</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2b">Amendment #2b</h3>
+</div>
+    
+<p>In ii)</p>
+
+<p>Delete “Wales Green Party Leader” and replace with “Leader (or Co-Leaders) of the Wales Green Party, the Deputy Leader(s) of the Wales Green Party”.</p>
+  
+</div>          
+            
+
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> The eighth proposed amendment has been split by SOC into two parts, 8A and 8B, for ease of reading, but can be debated together</p>
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-8a">Amendment #8a</h3>
+</div>
+    
+<p>In “Green Party Executive”, where it says:</p>
+
+<blockquote>ii) The Party Executive shall consist of the following voting members: Leader plus Deputy Leader(s) or Co-Leaders, Wales Green Party Leader, the two co-chairs of the Young Greens as a job share and the additional members elected to the following functional positions, to serve for two years: a) Chair; b) Treasurer; c) Seven ordinary members. The Chief Executive Officer (CEO) will be a non-voting member of the Executive.</blockquote>
+
+<p>After “Chief Executive Officer (CEO)”, insert “and the Chair of Green Party Trade Union Group ”, and replace “a non-voting member” with “non-voting members” so that it reads:</p>
+
+<blockquote>ii) The Party Executive shall consist of the following voting members: Leader plus Deputy Leader(s) or Co-Leaders, Wales Green Party Leader, the two co-chairs of the Young Greens as a job share, and the additional members elected to the following functional positions, to serve for two years: a) Chair; b) Treasurer; c) Seven ordinary members. The Chief Executive Officer (CEO) and the Chair of Green Party Trade Union Group will be non-voting members of the Executive.</blockquote>
+
+<p>Where it says:</p>
+
+<blockquote>“vi) The Green Party Leader (or Co-Leaders), the Deputy Leader (or Deputy Leaders), the Wales Leader, and the Young Greens Co-Chairs will all be voting members of the Council. Where the position is a job-share, the role will have a single vote. The two Young Greens Co-Chairs will have one vote each. The Chair and Treasurer of the Executive, plus the CEO will be non-voting members of the Council. And renumber subsequent clauses.”</blockquote>
+
+<p>Replace “the Chair and Treasurer of the Executive, plus the CEO will be non-voting members of the Council” with “the Chair and Treasurer of the Executive, the Chair of Green Party Trade Union Group, and the CEO will be non-voting members of the Council”, so that it reads:</p>
+
+<blockquote>“vi) The Green Party Leader (or Co-Leaders), the Deputy Leader (or Deputy Leaders), the Wales Leader, and the Young Greens Co-Chairs will all be voting members of the Council. Where the position is a job-share, the role will have a single vote. The two Young Greens Co-Chairs will have one vote each. The Chair and Treasurer of the Executive, the Chair of Green Party Trade Union Group, and the CEO will be non-voting members of the Council. And renumber subsequent clauses.”</blockquote>
+  
+</div>          
+            
+
 vi)	Candidates for the GPEx Chair, Treasurer and Ordinary Member positions shall have been a member of the Party for the two complete years preceding the date of close of nominations, and shall be required to complete a standard application form. Nominations of candidates must be supported by the signatures of a minimum of ten members of the Green Party of England and Wales. Or, if they have been a member for a minimum of one complete year preceding the date of close of nominations, their nomination must be supported by a majority of the Green Party Regional Council’s members in attendance at a quorate official meeting of that body. 
 
 vii)	Members of the Party may be nominated for no more than one GPEx post at any one time, and no member may hold more than one post on the Party Executive at any one time. Members of the Party Executive may not hold any other elected office in the Party at national level. Members of the Party may be nominated for both Leader and Deputy Leader(s). 
