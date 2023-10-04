@@ -4,7 +4,7 @@ toc: "true"
 title: School Uniforms
 motion_code:
   number: 64
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11068
 coproposers: 0
 ---

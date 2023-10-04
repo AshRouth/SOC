@@ -5,7 +5,7 @@ title: Use Planning Powers to Limit Conversion of Homes into Short-Term Lets
 motion_code:
   number: 17
   section: E
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10844
 coproposers: 9
 ---

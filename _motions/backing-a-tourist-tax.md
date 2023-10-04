@@ -4,7 +4,7 @@ toc: "true"
 title: Backing A Tourist Tax
 motion_code:
   number: 78
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11038
 coproposers: 5
 ---

@@ -4,7 +4,7 @@ toc: "true"
 title: Remove constitutional right for GPRC to expel members
 motion_code:
   number: 62
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10748
 coproposers: 7
 ---

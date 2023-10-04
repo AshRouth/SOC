@@ -4,7 +4,7 @@ toc: "true"
 title: Stop brands and retailers stealing workers’ wages
 motion_code:
   number: 44
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11039
 coproposers: 3
 ---

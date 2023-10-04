@@ -5,7 +5,7 @@ title: Split SOC into Two Independent Parts
 motion_code:
   number: 2
   section: D
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10921
 coproposers: 8
 ---

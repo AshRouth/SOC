@@ -4,7 +4,7 @@ toc: "true"
 title: "Special Interests Groups Constitutions "
 motion_code:
   number: 68
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10739
 coproposers: 3
 ---

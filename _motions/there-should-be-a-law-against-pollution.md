@@ -4,7 +4,7 @@ toc: "true"
 title: There Should Be A Law Against Pollution
 motion_code:
   number: 77
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10703
 coproposers: 3
 ---

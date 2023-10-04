@@ -5,7 +5,7 @@ title: Elected Councillors Annual Impact Report
 motion_code:
   number: 23
   section: D
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11114
 coproposers: 18
 ---

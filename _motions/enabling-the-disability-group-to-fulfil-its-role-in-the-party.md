@@ -5,7 +5,7 @@ title: Enabling the Disability Group to Fulfil its Role in the Party
 motion_code:
   number: 11
   section: D
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11151
 coproposers: 22
 ---

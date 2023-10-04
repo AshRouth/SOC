@@ -4,7 +4,7 @@ toc: "true"
 title: Provision for Motion Recall
 motion_code:
   number: 57
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11008
 coproposers: 9
 ---

@@ -5,7 +5,7 @@ title: Gypsy Roma Traveller PWG - DVP
 motion_code:
   number: 1
   section: B
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10788
 coproposers: 15
 ---

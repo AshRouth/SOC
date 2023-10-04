@@ -5,7 +5,7 @@ title: Eliminate External Influence in GPEW Internal Elections
 motion_code:
   number: 4
   section: D
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11001
 coproposers: 14
 ---

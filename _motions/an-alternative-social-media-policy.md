@@ -4,7 +4,7 @@ toc: "true"
 title: An Alternative Social Media Policy
 motion_code:
   number: 6
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11042
 coproposers: 0
 ---

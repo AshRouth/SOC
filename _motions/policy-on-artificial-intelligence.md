@@ -5,7 +5,7 @@ title: Policy on Artificial Intelligence
 motion_code:
   number: 9
   section: C
-status: final
+status: tbd
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11184
 coproposers: 20
 ---
