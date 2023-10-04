@@ -15,6 +15,8 @@ This motion will prevent members from voting in national internal elections in t
 
 ## Motion
 
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This motion will require a 2/3 majority to pass.</p>
+
 In the Constitution add to 17. Elections:
 
 “v) All Green Party members will be eligible to vote in national elections after they have been a member for a minimum of three months at the close of nominations.”
