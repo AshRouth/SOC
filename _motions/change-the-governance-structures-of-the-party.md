@@ -25,19 +25,6 @@ ii)	It will be responsible for supporting and advising the Green Party Executive
 And renumber, deleting Regional Council throughout Clause 6 and elsewhere in the Constitution and replacing it with Council
 
 
-<div class="amendment amendment-passed">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-0">Amendment #0</h3>
-</div>
-    
-<p>Testing.</p>
-
-<p> Testing!</p>
-  
-</div>          
-            
-
-
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
