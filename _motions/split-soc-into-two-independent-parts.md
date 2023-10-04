@@ -11,12 +11,9 @@ coproposers: 8
 ---
 ## S﻿ynopsis
 
-
 This motion responds to support in the recent consultations by the Party Structure Working Group to increase the number of people in SOC and to split out its work into two different committees, one dealing with the constitution and one dealing with conference.
 
-## 
 Motion
-
 
 This motion calls on conference to make the following changes to the constitution to create two new governance bodies to take over the work currently done by Standing Orders Committee (SOC) and to enact this through the transition process outlined.
 Constitution Changes
@@ -42,3 +39,27 @@ Amend \[existing] Clause 17 ii) to add a reference to the CBC, so it reads:
 ii)	In all elections for Constitution Interpretation Committee, Conference Business Committee, Policy Development Committee, Campaigns Committee, International Committee, the Alternative Dispute Resolution Committee, Equalities & Diversity Committee, the Regional Council, and the Party Executive there will be an election, even when there are no more candidates than positions to be filled. In such an event provision will be made for negative voting, in a form to be decided by CIC from time to time, such that if any candidate receives more negative than positive votes such candidate shall not be elected.
 Add to Existing Clause 9) 1):
 (e) Members of Constitution Interpretation Committee;
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+<p>In paragraph iii)</p>
+
+<p>change “Conference Business Committee (CBC). Conference shall elect a Conference Business Committee. (CBC)”</p>
+
+<p>to</p>
+
+<p>“A Conference Business Committee (CBC) shall be elected in the Annual Ballot“</p>
+
+<p>In paragraph iv) change</p>
+
+<p>“elected by Annual Conference”</p>
+
+<p>to</p>
+
+<p>“elected every two years in the Annual Ballot using a single transferable vote ballot”</p>
+  
+</div>
