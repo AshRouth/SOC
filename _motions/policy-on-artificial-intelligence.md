@@ -23,25 +23,19 @@ The Green Party of England and Wales acknowledges that there are both existentia
 
 Through regulation we will oversee that AI development is based on ethical principles for development and deployment so that systems using AI are safe, robust, transparent, accountable, and human-centric. Development will be regulated into producing systems that are socially and environmentally responsible, that include safeguards against inappropriate or under-age use, measures to address and rectify existing bias, discrimination and equality issues, measures that protect individual privacy and liberty, ways to rectify mistakes made and ways to allow use to be switched off or paused.
 
-<b>Okay!</b>
-
-
 <div class="amendment amendment-tbd">
+
 <div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-Testa">Amendment #Testa</h3>
+
+<h3 id="amendment-1">Amendment #1</h3>
+
 </div>
-    
-Grogu
 
-Tests.
-  
-</div>          
-            
+<p>This goes here.</p>
 
-```
-      
-        
-```
+<p>And this goes here.</p>
+
+</div>
 
 We neither aim nor wish to stifle the innovation and development of AI as an important sector of our economy nor to reduce the UK’s current status as one of the most advanced nations in this field. To this end our current research frameworks will be enhanced along with other developmental ideas including “sandboxes” for safe yet innovative trialling of AI systems.
 
