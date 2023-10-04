@@ -32,7 +32,7 @@ And renumber, deleting Regional Council throughout Clause 6 and elsewhere in the
     
 <p>Testing.</p>
 
-</p> Testing!</p>
+<p> Testing!</p>
   
 </div>          
             
