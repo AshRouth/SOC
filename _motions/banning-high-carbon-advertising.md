@@ -32,6 +32,14 @@ Conference notes in order for this to become policy we will need amendments in t
 5. Amend TR552, delete” introduce legislative controls on the advertising of air travel” and insert “ban the advertising of air travel”.
 6. Amend TR553, delete "specifically" and insert "Until there’s a ban on the advertising of all air travel”, delete "will campaign for UK and/or EU legislation for" and insert "supports", delete "and would take up a significant and specified proportion of the area of each advert/ticket" and insert "." after "flight tickets" and after this, insert "Advertising restrictions would ensure consumers aren't exposed to overly frequent advertising for air travel (or other high carbon products and services) and would instead actively promote alternatives.”
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3></div><div>Conference agrees to insert the following sentence at the end of existing CMS686:
 
-*“In addition a cap on the percentage of a company’s turnover that can be spent on marketing shall be introduced (with an exception for start ups). See EC652.”*</div></div>
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+<p>Conference agrees to insert the following sentence at the end of existing CMS686:</p>
+
+<p><em>*“In addition a cap on the percentage of a company’s turnover that can be spent on marketing shall be introduced (with an exception for start ups). See EC652.”*</em></p>
+  
+</div>
