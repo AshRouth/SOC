@@ -49,7 +49,4 @@ EC652 The right of the shareholders to dividends must not be the single most imp
 
 <p><em>'Companies must publicly disclose ultimate beneficial owners with significant control.’</em></p>
   
-</div>          
-            
-
 </div>
