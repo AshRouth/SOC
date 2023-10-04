@@ -30,13 +30,13 @@ with
 
 “culture, wellbeing, and governance; creating the political strategy; and setting the political direction of the Party in between conferences.” 
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: an amendment originally proposing the insertion of ‘GPC’ after ‘Green Party Council’ was recognised as a minor textual amendment and made by SOC of its own motion</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> an amendment originally proposing the insertion of ‘GPC’ after ‘Green Party Council’ was recognised as a minor textual amendment and made by SOC of its own motion</p>
 
 Delete existing clause iv) iv) The Regional Council shall consist of two members elected by postal ballot (as specified in Appendix C) by and from each constituted Region. Each term of membership of Regional Council shall be for two years commencing from the date of election by the individual Region. Such election shall be notified, in writing, to the Secretary of the Regional Council giving the date of election and confirmed by the Region’s Electoral Returning Officer. Such notice is to be given not less than two weeks prior to the next meeting of the Regional Council. and replace it with iv) The Council shall consist of 36 members. Each council member’s term will be for three years and 12 people will be elected every year, using a single transferable vote process, as part of the annual ballot. Any member who has been a member for over two years will be eligible to stand. v) No person can be elected to more than two full terms consecutively. Terms will be considered non-consecutive if they are approximately one year apart. Members elected to a shortened term at the first Annual Ballot or elected to a shortened term to fill a vacancy are not considered to be elected to a full term. vi) The Green Party Leader (or Co-Leaders), the Deputy Leader (or Deputy Leaders), the Wales Leader, and the Young Greens Co-Chairs will all be voting members of the Council. Where the position is a job-share, the role will have a single vote. The two Young Greens Co-Chairs will have one 57 vote each. The Chair and Treasurer of the Executive, plus the CEO will be non-voting members of the Council. And renumber subsequent clauses.
 
 SOC Note: the second proposed amendment has been split by SOC into two parts, 2A and 2B, for ease of reading, but can be debated together</p></span></div>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-2">Amendment #2</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 2A</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-2">Amendment #2</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 2A</p>
 
 In iv) 
 
@@ -76,9 +76,9 @@ For the purpose of term limits as set out in Section 5 Clause 20, terms will be 
 
 
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: the fourth proposed amendment has been split by SOC into three parts, 4A, 4B and 4C, for ease of reading, but can be debated together</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> the fourth proposed amendment has been split by SOC into three parts, 4A, 4B and 4C, for ease of reading, but can be debated together</p>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-4">Amendment #4</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 4A</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-4">Amendment #4</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 4A</p>
 
 Where it says:
 
@@ -122,7 +122,7 @@ Part Two This motion calls on conference to amend Clause 7 of the constitution b
 
 GREEN PARTY EXECUTIVE i) There shall be a Green Party Executive (hereinafter referred to as the Party Executive or GPEx) which shall be responsible for the overall and day-to-day direction of the Party. Certain duties and responsibilities are reserved to other Party bodies specified in this Constitution, in particular Conference, Standing Orders Committee, Green Party Regional Council, Disciplinary Committee, Appeals Committee and Alternative Dispute Resolution Committee. The authority of the Executive does not extend over those reserved duties and responsibilities. ii) The Party Executive shall consist of the following voting members: Leader plus Deputy Leader(s) or Co-Leaders, Wales Green Party Leader, the two co-chairs of the Young Greens as a job share and the additional members elected to the following functional positions, to serve for two years: a) Chair; b) Treasurer; c) Seven ordinary members. The Chief Executive Officer (CEO) will be a non-voting member of the Executive. iii) Elections for the GPEx Chair, Treasurer and Ordinary member posts shall be by a ballot of all members of the party with voting included within the Annual Ballot. The Chair and Treasurer shall be elected in one year in individual ballots by instant run off, at the same time as the Leader(s) plus Deputy Leader(s), and the ordinary members in the next year by a seven-seat single transferable vote, so that the two-year terms of the two groups are staggered. iv) Subject to the collective responsibility of the Executive set out in 7 i), 7 xvi) and elsewhere in section 7 or other clauses of the constitution, within one month of the election of the Ordinary Members, GPEx will set out what their areas of responsibility are such that between the Chair, Treasurer and Ordinary Members, GPEx takes accountability for all sub-committees of GPEx and their individual accountabilities are aligned to the Party’s structures and staff responsibilities. This will be done using an appropriate methodology, to ensure an acceptable workload and that each Party Executive’s skills are matches to their portfolio. v) Procedures for the election of Leader and Deputy Leader(s) or Co-Leaders of the Green Party and their duties and responsibilities are outlined in Section 8 of this Constitution.</p></span></div>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-94">Amendment #94</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 4B</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-94">Amendment #94</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 4B</p>
 
 In “Green Party Executive”:
 
@@ -136,13 +136,13 @@ ii) The Party Executive shall consist of the following voting members: Leader pl
 
 <!--EndFragment--></p></span></div>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-92">Amendment #92</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 2B</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-92">Amendment #92</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 2B</p>
 
 In ii) Delete “Wales Green Party Leader” and replace with “Leader (or Co-Leaders) of the Wales Green Party, the Deputy Leader(s) of the Wales Green Party”</p></span></div>
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: the eighth proposed amendment has been split by SOC into two parts, 8A and 8B, for ease of reading, but can be debated together</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> the eighth proposed amendment has been split by SOC into two parts, 8A and 8B, for ease of reading, but can be debated together</p>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-8">Amendment #8</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 8A</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-8">Amendment #8</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 8A</p>
 
 In “Green Party Executive”, where it says:
 
@@ -182,9 +182,9 @@ Amend Clause 16 International Committee, to make it a working group of the regio
 
 INTERNATIONAL COMMITTEE i. There shall be a Green Party International working group (hereafter called the International Committee) which shall be convened by a specified member of the Green Party Regional Council (GPRC). ii. The International Committee shall include five members elected at Annual Conference with vacancies filled by election or by co-option to be ratified at an intervening conference. iii. The role of the International Committee shall be to support the work of the Green Party of England and Wales (GPEW) and organise the International work of the party. This includes, among other things, selecting delegates and / or representatives to 64 meetings of fellow Green parties and groupings of Green parties worldwide. iv. The International Committee shall provide a report to each Annual General Meeting. v. The International Committee is a working group of GPRC.</p></span></div>
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: amendments 4C and 10 are to be considered as alternatives to one another and should be debated together</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> amendments 4C and 10 are to be considered as alternatives to one another and should be debated together</p>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-84">Amendment #84</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 4C</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-84">Amendment #84</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 4C</p>
 
 In clause i, which currently reads:
 
@@ -228,7 +228,7 @@ iii. Every year after Annual Conference, and whenever there is a vacancy, the In
 
 Add new Clause 17, renumbering other clauses in the constitution as needed, to create a Trade Union Liaison Committee to coordinate the Party’s relationship with the trade union movement and other workers’ organisations: 17 TRADE UNION LIAISON COMMITTEE I. There shall be a Green Party Trade Union Liaison working group (hereafter called the Trade Union Liaison Committee) which shall be convened by a specified member of GPRC, who is to have responsibility for Trades Unions. II. The Trade Union Liaison Committee shall include five members elected at Annual Conference with vacancies filled by election or by co-option to be ratified at an intervening conference. III. The role of the Trade Union Liaison Committee shall be to support the work of GPEW and coordinate and strengthen the Party’s work with the trade union movement and other workers’ organisations. IV. The Trade Union Liaison Committee shall provide a report to each Annual General Meeting. V. The Trade Union Liaison Committee is a working group of GPRC.</p></span></div>
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-98">Amendment #98</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC note for the website: THIS IS AMENDMENT 8B</p>
+<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-98">Amendment #98</h3><p class="badge bg-tbd">Amendment tbd</p></div><span><p><p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> THIS IS AMENDMENT 8B</p>
 
 Remove section:
 
