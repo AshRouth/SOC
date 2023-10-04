@@ -24,15 +24,20 @@ i)	There shall be a Green Party Council which shall be responsible for managing 
 ii)	It will be responsible for supporting and advising the Green Party Executive and hold the Executive to account for the delivery of the political strategy
 And renumber, deleting Regional Council throughout Clause 6 and elsewhere in the Constitution and replacing it with Council
 
-<div class="amendment amendment-tbd"><div class="d-flex justify-content-between align-items-start"><h3 id="amendment-1">Amendment #1</h3></div>
 
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
 <p>In Part 1, in (i) replace “culture, creating the political strategy, and directing the political direction of the Party in between conferences.”</p>
 
-<p>with </p>
+<p>with: </p>
 
 <p>“culture, wellbeing, and governance; creating the political strategy; and setting the political direction of the Party in between conferences.” </p>
-
-</div>
+  
+</div>          
+            
 
 Delete existing clause iv)
 iv)	The Regional Council shall consist of two members elected by postal ballot (as specified in Appendix C) by and from each constituted Region. Each term of membership of Regional Council shall be for two years commencing from the date of election by the individual Region. Such election shall be notified, in writing, to the Secretary of the Regional Council giving the date of election and confirmed by the Region’s Electoral Returning Officer. Such notice is to be given not less than two weeks prior to the next meeting of the Regional Council. 
