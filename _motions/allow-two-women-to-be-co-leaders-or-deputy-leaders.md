@@ -15,6 +15,8 @@ The current gender-balancing rules for party leadership are written in a way tha
 
 ## Motion
 
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This motion will require a 2/3 majority to pass.</p>
+
 Subsection i) of Article 8, Green Party of England and Wales Constitution:
 
 “There shall be a leader and two deputy leaders of the party. The leader shall be a voting member of the Executive and the deputy leaders be treated as a job-share.”
