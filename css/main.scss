@@ -1,5 +1,9 @@
 ---
 ---
+:root {
+  --bs-btn-disabled-border-color: none;
+}
+
 // Green Party branding
 $primary: #00a85a; // "Fair green"
 $secondary: #00643b; // "Forest green"
@@ -231,5 +235,5 @@ table th {
 }
 
 btn.disabled {
-  border-color:none;
+  border-color:none !important;
 }
