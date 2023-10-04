@@ -327,6 +327,23 @@ c)	In addition the Party Executive may create such posts as it considers necessa
 
 xii)	The Executive shall elect from among its elected members a deputy chair, to assist the chair in their duties, and to act in the role of the chair at any time when the chair is unable to do so. Such elections are to take place at least annually and by the end of November each year.
 
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-9">Amendment #9</h3>
+</div>
+    
+<p>Change (xi) in Part 2 which reads:</p>
+
+<p>b) The Party Executive shall nominate persons to Spokesperson roles,</p>
+
+<p>So that it reads:</p>
+
+<p>b) The party Leadership team, including the Wales Green Party Leader, shall nominate persons to Spokesperson roles,</p>
+  
+</div>          
+            
+
 xiii)	By a two-thirds majority of its membership eligible to vote, the Party Executive may suspend from office any member of the Party Executive, if there is evidence of sustained conduct which in the opinion of the Party Executive is against the interests of the Party, subject to any decision of the Regional Council under Clause 6(xii) and subject to the right of such a member to appeal. 
 
 xiv)	In the event of 20% of constituted Local Parties petitioning the Regional Council to recall the GPEx Chair, Treasurer or Ordinary Member, such a member shall be under suspension until a new ballot has been held for that post at a date to be determined by the Regional Council. 
@@ -381,6 +398,64 @@ iv.	The International Committee shall provide a report to each Annual General Me
 
 v.	The International Committee is a working group of GPRC.
 
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Amendments 4c and 10 are to be considered as alternatives to one another and should be debated together</p>
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-4c">Amendment #4c</h3>
+</div>
+    
+<p>In clause i, which currently reads:</p>
+
+<p>i. There shall be a Green Party International working group (hereafter called the International Committee) which shall be convened by a specified member of the Green Party Regional Council (GPRC).</p>
+
+<p>Delete “ which shall be convened by a specified member of the Green Party Regional Council (GPRC)”</p>
+
+<p>In clause ii, which currently reads:</p>
+
+<p>ii. The International Committee shall include five members elected at Annual Conference with vacancies filled by election or by co-option to be ratified at an intervening conference.</p>
+
+<p>Replace “five” with “six”.</p>
+
+<p>ii. The International Committee shall include six members elected at Annual Conference with vacancies filled by election or by co-option to be ratified at an intervening conference</p>
+
+<p>Insert new clause iii (and renumber): iii. Every year after Annual Conference, and whenever there is a vacancy, the International Committee will elect from within its number a Convenor or Co-Convenors.</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-10">Amendment #10</h3>
+</div>
+    
+<p>In “International Committee”</p>
+
+<p>In clause i, which currently reads:</p>
+
+<p>i. There shall be a Green Party International working group (hereafter called the International Committee) which shall be convened by a specified member of the Green Party Regional Council (GPRC).</p>
+
+<p>Delete</p>
+
+<p>“ which shall be convened by a specified member of the Green Party Regional Council (GPRC)”</p>
+
+<p>In clause ii, which currently reads:</p>
+
+<p>ii. The International Committee shall include five members elected at Annual Conference with vacancies filled by election or by co-option to be ratified at an intervening conference.</p>
+
+<p>Replace “five” with “six”, and insert at the end:</p>
+
+<p>“, and a non-voting member of the Council”,</p>
+
+<p>Insert new clause iii (and renumber):</p>
+
+<p>iii. Every year after Annual Conference, and whenever there is a vacancy, the International Committee will elect from within its number a Convenor or Co-Convenors.</p>
+  
+</div>          
+            
+
 Add new Clause 17, renumbering other clauses in the constitution as needed, to create a Trade Union Liaison Committee to coordinate the Party’s relationship with the trade union movement and other workers’ organisations:
 
 #### TRADE UNION LIAISON COMMITTEE
@@ -394,6 +469,23 @@ III.	The role of the Trade Union Liaison Committee shall be to support the work 
 IV.	The Trade Union Liaison Committee shall provide a report to each Annual General Meeting.
 
 V.	The Trade Union Liaison Committee is a working group of GPRC.
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-8b">Amendment #8b</h3>
+</div>
+    
+<p>Remove section:</p>
+
+<blockquote>Add new Clause 17, renumbering other clauses in the constitution as needed, to create a Trade Union Liaison Committee to coordinate the Party’s relationship with the trade union movement and other workers’ organisations: 17 TRADE UNION LIAISON COMMITTEE I. There shall be a Green Party Trade Union Liaison working group (hereafter called the Trade Union Liaison Committee) which shall be convened by a specified member of GPRC, who is to have responsibility for Trades Unions. II. The Trade Union Liaison Committee shall include five members elected at Annual Conference with vacancies filled by election or by co-option to be ratified at an intervening conference. III. The role of the Trade Union Liaison Committee shall be to support the work of GPEW and coordinate and strengthen the Party’s work with the trade union movement and other workers’ organisations. IV. The Trade Union Liaison Committee shall provide a report to each Annual General Meeting. V. The Trade Union Liaison Committee is a working group of GPRC.</blockquote>
+
+<p>In Section B1.2 of the Standing Orders for the Conduct of the Annual General Meeting (SOCAGM), which lists the bodies which report to Conference, insert new list item at the end:</p>
+
+<blockquote>“Green Party Trade Union Group shall be invited to provide a report”</blockquote>
+  
+</div>          
+            
 
 Amend Clause 20 Equalities and Diversity Committee , to make consistent the relationship with GPEx in light of the changes made to GPEx above, so it reads:
 
@@ -426,6 +518,27 @@ This clause shall be removed automatically once all of the following have taken 
 * The first Annual Ballot has concluded,
 * The terms of any and all Regional Councillors have expired.
 
+
+  <div class="amendment amendment-tbd">
+  <div class="d-flex justify-content-between align-items-start">
+  <h3 id="amendment-11">Amendment #11</h3>
+  </div>
+      
+  <p>In “Transitions”:</p>
+
+  <p>Where it reads: "If any such Regional Councillor is elected to the Council at an Annual Ballot, they shall immediately cease to be a member by way of this transition clause. If any Regional Councillor ceases to be a member of the Council, or is elected to the Council at an Annual Ballot, the region which elected them shall not replace them.”</p>
+
+  <p>Replace:</p>
+
+  <p>“If any Regional Councillor ceases to be a member of the Council, or is elected to the Council at an Annual Ballot, the region which elected them shall not replace them.”</p>
+
+  <p>With:</p>
+
+  <p>”, and the region which elected them shall not replace them. Additionally they shall not replace them if any Regional Councillor ceases to be a member of the Council after the first Annual Ballot after this motion is passed.”</p>
+    
+  </div>          
+              
+
 ##### GPEx
 
 At the next Annual Ballot following this motion being passed, those members standing down, comprising half of GPEx, will be replaced by the seven ordinary members elected as set out in this motion.
@@ -433,6 +546,37 @@ At the next Annual Ballot following this motion being passed, those members stan
 The accountabilities set out in Clause 7 iv) shall exclude the responsibilities of those members of GPEx who still have a year left to serve.
 
 In the following Annual Ballot, the remaining half of the existing GPEx members shall stand down and elections conducted for the new Chair and Treasurer elected as set out in this motion.
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-12">Amendment #12</h3>
+</div>
+    
+<p>In “Transitions”:</p>
+
+<p>Where it says:</p>
+
+<p>“GPEx At the next Annual Ballot following this motion being passed, those members standing down, comprising half of GPEx, will be replaced by the seven ordinary members elected as set out in this motion. The accountabilities set out in Clause 7 iv) shall exclude the responsibilities of those members of GPEx who still have a year left to serve. In the following Annual Ballot, the remaining half of the existing GPEx members shall stand down and elections conducted for the new Chair and Treasurer elected as set out in this motion.”</p>
+
+<p>Replace:</p>
+
+<p>“will be replaced by the seven ordinary members elected as set out in this motion”</p>
+
+<p>With:</p>
+
+<p>“will be replaced by the new Chair and Treasurer elected as set out in this motion (alongside the Leader(s) and Deputy Leader(s) due to be elected at that Annual Ballot)”.</p>
+
+<p>Replace:</p>
+
+<p>“elections conducted for the new Chair and Treasurer elected as set out in this motion.”</p>
+
+<p>With:</p>
+
+<p>“elections conducted for the seven ordinary members as set out in this motion.“</p>
+  
+</div>          
+            
 
 #### Incorporation
 
