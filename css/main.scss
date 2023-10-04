@@ -1,7 +1,7 @@
 ---
 ---
 :root {
-  --bs-btn-disabled-border-color: none;
+  --bs-btn-disabled-border-color: transparent;
 }
 
 // Green Party branding
@@ -232,8 +232,4 @@ dark-mode-toggle {
 
 table th {
   font-weight:inherit;
-}
-
-btn.disabled {
-  border-color:transparent !important;
 }
