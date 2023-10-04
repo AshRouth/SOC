@@ -17,7 +17,7 @@ This motion changes the composition of the Regional Council and the Executive in
 
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This motion will require a 2/3 majority to pass.</p>
 
-Part One
+### Part One
 
 This motion calls on Conference to amend Clause 6 of the constitution as follows:
 
@@ -224,11 +224,11 @@ Add to Existing Clause 9) 1):
 </div>          
             
 
-Part Two
+### Part Two
 
 This motion calls on conference to amend Clause 7 of the constitution by deleting the existing Clause 7 and replacing it with the following:
 
-GREEN PARTY EXECUTIVE 
+#### GREEN PARTY EXECUTIVE
 
 i)	There shall be a Green Party Executive (hereinafter referred to as the Party Executive or GPEx) which shall be responsible for the overall and day-to-day direction of the Party. Certain duties and responsibilities are reserved to other Party bodies specified in this Constitution, in particular Conference, Standing Orders Committee, Green Party Regional Council, Disciplinary Committee, Appeals Committee and Alternative Dispute Resolution Committee. The authority of the Executive does not extend over those reserved duties and responsibilities.
 
@@ -296,7 +296,7 @@ Amend Clause 9) 1) b) to read:
 
 Amend Clause 15 Campaigning, to make consistent the relationship with GPEx in light of the changes made to GPEx above, so it reads:
 
-CAMPAIGNING
+#### CAMPAIGNING
 
 i.	There shall be a Green Party Campaigns sub-committee (hereafter called the Campaigns Committee) which shall be convened by a specified member of GPEx as set out in 7 iv, and shall be responsible for organising campaigning, consistent with the Objects and Aims set out in part 3. 
 
@@ -310,7 +310,7 @@ v.	The Campaigns Committee is a sub-committee of GPEx.
 
 Amend Clause 16 International Committee, to make it a working group of the regional Council consistent with the Regional Council leading on political issues, and to remove repetition in the current constitution and to require a report to be made annually at conference so it reads:
 
-INTERNATIONAL COMMITTEE
+#### INTERNATIONAL COMMITTEE
 
 i.	There shall be a Green Party International working group (hereafter called the International Committee) which shall be convened by a specified member of the Green Party Regional Council (GPRC). 
 
@@ -324,7 +324,7 @@ v.	The International Committee is a working group of GPRC.
 
 Add new Clause 17, renumbering other clauses in the constitution as needed, to create a Trade Union Liaison Committee to coordinate the Party’s relationship with the trade union movement and other workers’ organisations:
 
-TRADE UNION LIAISON COMMITTEE
+#### TRADE UNION LIAISON COMMITTEE
 
 I.	There shall be a Green Party Trade Union Liaison working group (hereafter called the Trade Union Liaison Committee) which shall be convened by a specified member of GPRC, who is to have responsibility for Trades Unions.
 
@@ -338,7 +338,7 @@ V.	The Trade Union Liaison Committee is a working group of GPRC.
 
 Amend Clause 20 Equalities and Diversity Committee , to make consistent the relationship with GPEx in light of the changes made to GPEx above, so it reads:
 
-EQUALITIES EQUITY DIVERSITY AND INCLUSION (EEDI) COMMITTEE
+#### EQUALITIES EQUITY DIVERSITY AND INCLUSION (EEDI) COMMITTEE
 
 i.	There shall be a Green Party Equalities Equity Diversity and Inclusion sub-committee (hereafter called the EEDI Committee) which shall be convened by a specified member of GPEx as set out in 7 iv.
 
@@ -350,9 +350,9 @@ iv.	The EEDI Committee shall provide a report to each Annual Conference.
 
 v.	The role of the EEDI Committee shall be to support the work of GPEx to improve Equalities Equity Diversity and Inclusion within the Green Party.
 
-Transitions
+#### Transitions
 
-GPRC
+##### GPRC
 
 Following the passing of this motion we will transition to the new format of the Council as follows:
 
@@ -367,7 +367,7 @@ This clause shall be removed automatically once all of the following have taken 
 * The first Annual Ballot has concluded,
 * The terms of any and all Regional Councillors have expired.
 
-GPEx
+##### GPEx
 
 At the next Annual Ballot following this motion being passed, those members standing down, comprising half of GPEx, will be replaced by the seven ordinary members elected as set out in this motion.
 
@@ -375,6 +375,6 @@ The accountabilities set out in Clause 7 iv) shall exclude the responsibilities 
 
 In the following Annual Ballot, the remaining half of the existing GPEx members shall stand down and elections conducted for the new Chair and Treasurer elected as set out in this motion.
 
-Incorporation
+#### Incorporation
 
 Conference instructs GPRC through its Party Structure Working Group to bring back further motions to build on these changes to enable the incorporation of the Party.
