@@ -38,6 +38,23 @@ Under section 11(iv) of the Constitution, reports from the leadership team, all 
 
 **SOC refers members to the AGM Final Agenda \[https://members.greenparty.org.uk/sites/default/files/2023-08/AGM%20Final%20Agenda%20v1.4.pdf] for the texts of these reports.**
 
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+<p>At the end of ‘SECTION A REPORTS’, add:</p>
+
+<p>
+‘SOC was in receipt of the Climate Emergency Policy Working Group Report on 31 st August 2023 but
+due to an error this was overlooked in preparing for the Final Agenda, and therefore this is offered as
+a fifth A report to be presented by the proposer. A text of this report is supplied as an Addendum to
+the Final Agenda.’</p>
+  
+</div>          
+            
+
 ### Amendments to section A:
 
 Amendments to motions A01 and A02 can be made from the floor of Conference, except in relation to that part of A01 concerned with the proceedings of the AGM where Standing Orders for Conduct of the AGM (SOCAGM) shall apply.
@@ -106,6 +123,53 @@ A total of 33 amendments were proposed for the motions in Section D, 22 of which
 | D14          | 23     | D23          |
 | D20          | 24     | D24          |
 
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2">Amendment #2</h3>
+</div>
+    
+<p>In ‘SECTION D’, at the paragraph beginning:</p>
+
+
+<p>‘The ranking of these motions is as in the Prioritisation Ballot. SOC has discretion under SOCC F2.6(c)
+to give special priority to any motion in section D which it considers to be urgent for the functioning
+of the party or any part of it…’</p>
+
+<p>Delete</p>
+
+
+<p>‘but on this occasion declined to do so as no motions were considered to reach this threshold.’
+And replace with
+‘and on this occasion has decided to prioritise motion D18, to follow any motion prioritised by GPEx.’</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-3">Amendment #3</h3>
+</div>
+    
+<p>In ‘SECTION D’, at the paragraph beginning:</p>
+
+
+<p>‘The ranking of these motions is as in the Prioritisation Ballot. SOC has discretion under SOCC F2.6(c)
+to give special priority to any motion in section D which it considers to be urgent for the functioning
+of the party or any part of it…’</p>
+
+
+<p>Add the following final paragraph:</p>
+
+
+<p>‘GPEx informed SOC on 29 th September 2023 that, at a meeting of 12 th September 2023 they had
+determined to exercise their discretion under SOCC H2.5 to prioritise motion D20, whic,h SOC
+therefore recommends to be taken as the first of the D Motions at the relevant plenary.</p>
+  
+</div>          
+            
+
 ### Section E Unaccredited policy motions.
 
 We have moved First Agenda motions E04, E06, E09, E10, E11, E12, E13, E18 and E24 to the C section. The remaining motions are ordered according to the Prioritisation Ballot.
@@ -166,6 +230,173 @@ Following the First Agenda meeting, 4 motions were initially found to be Out of 
 Ultimately SOC recommended that 1 motion be restored to order following consultation with members of the Policy Development Committee (PDC) and Tax and Fiscal Policy Working Group (PWG). This motion then became C09 on the Final Agenda.
 
 SOC found a single proposed amendment to D02 to be out of order for being either retrospective in effect, or else for having no consequential effect since it proposed a course of action that would be secured by the motion regardless.
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-4">Amendment #4</h3>
+</div>
+    
+<p>After the paragraph:</p>
+
+
+<p>‘At a Final Agenda meetings of 2nd and 5th September 2023 PDC also noted that they had originally considered what became motion E01 for fast-tracking, but were also mindful of how highly these motions had placed in the prioritisation ballot. Following discussion, SOC decided not to recommend</p>
+
+<p>this motion for fast-tracking, considering it had placed highest of all the E Motions and was therefore likely to be debated in any event.’</p>
+
+
+<p>Add the following:</p>
+
+
+<p>‘SOC also recommends motion D13 for fast-tracking, finding that SOCC does not specifically exclude D motions from consideration and it otherwise meets the criteria set down.’</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-5">Amendment #5</h3>
+</div>
+    
+<p>In order to ensure D16 “Avoid annual ballot clashes with General Elections” isheard, in A01 in “Section D” where it says:</p>
+
+
+<p>“The ranking of these motions is as in the Prioritisation Ballot” </p>
+
+<p>insert </p>
+
+<p>“, except that due to exceptional circumstances, D16 will be heard as the third motion in section D. If by the final plenary D16 has not already been heard, D16 will be heard as the first motion in the final plenary.” </p>
+
+<p>so that the section reads:</p>
+
+
+<p>“The ranking of these motions is as in the Prioritisation Ballot, except that due to exceptional
+circumstances, D16 will be heard as the third motion in section D. If by the final plenary D16 has not
+already been heard, D16 will be heard as the first motion in the final plenary. SOC has discretion
+under SOCC F2.6(c) to give special priority to any motion in section D which it considers to be urgent
+for the functioning of the party or any part of it, but on this occasion declined to do so as no motions
+were considered to reach this threshold.”</p>
+
+
+<p>This makes D06 which is appears to be uncontentious and does not amend the constitution or any
+standing orders less likely to be heard, which means it is eligible for fast tracking. Therefore in A01 in
+“Timetabling, chairing and other procedural matters affecting conference including elections to be
+held at conference, with the recommendations of SOC”, </p>
+
+<p>where it says: “The following motions are proposed for fast-tracking:”  </p>
+
+<p>insert at the end </p>
+
+<p>“D06 Promote Gypsy, Roma and Traveller
+representation in the GPEW” </p>
+
+<p>so that it reads:</p>
+
+
+<p>The following motions are proposed for fast-tracking:</p>
+
+
+<p>C01 ‘Land Use Policy Correction’;</p>
+<p>C05 ‘Consolidating the Energy IPPs agreed at Spring Conference 2023’; </p>
+
+<p>E05 ‘Heating homes: to remove mention of using hydrogen’; </p>
+
+<p>and</p>
+<p>E07 ‘Solidarity with protesters in Iran’ </p>
+
+<p>D06 Promote Gypsy, Roma and Traveller representation in the GPEW</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-6">Amendment #6</h3>
+</div>
+    
+<p>In order to ensure D08 and D14 are heard and the party can move towards limited liability as
+conference has previously instructed, ensure the four motions authored by the Party Structures
+Working Group are heard together i.e. in A01 in “Section D” where it says:</p>
+
+<p>“The ranking of these motions is as in the Prioritisation Ballot” insert a new sentence “D08 and then
+D14 will be heard between D01 and D02.”</p>
+
+<p>To save conference time, the following non-controversial amendments to D08 approved by at least
+60% of the workshop are proposed to be basketed by SOC : Amendments 1, 3, 4, 5, 6, 7, 8, 9, 11, 12. (i.e. not
+2 or 10).</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-7">Amendment #7</h3>
+</div>
+    
+<p>Delete the paragraph:</p>
+
+
+<p>At a Final Agenda meetings of 2nd and 5th September 2023 PDC also noted that they had originally
+considered what became motion E01 for fast-tracking, but were also mindful of how highly these
+motions had placed in the prioritisation ballot. Following discussion, SOC decided not to recommend
+this motion for fast-tracking, considering it had placed highest of all the E Motions and was therefore
+likely to be debated in any event.</p>
+
+
+<p>AND</p>
+
+
+<p>Add E01 to the list in this paragraph:</p>
+
+
+<p>The following motions are proposed for fast-tracking:</p>
+
+
+<p>C01 ‘Land Use Policy Correction’;</p>
+<p>C05 ‘Consolidating the Energy IPPs agreed at Spring Conference 2023’;</p>
+<p>E05 ‘Heating homes: to remove mention of using hydrogen’; and</p>
+<p>E07 ‘Solidarity with protesters in Iran’ </p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-8">Amendment #8</h3>
+</div>
+    
+<p>In the section ‘Compositing’, add to the end the following sentence:</p>
+
+
+<p>‘SOC is mindful of SOCC F2.6(b), concerning the desirability of placing motions on the same subject
+together for discussion (which also required discussion among Committee members as to what was
+encompassed by ‘the same subject’). To that end, SOC recommends that the following motions be
+‘paired’ for discussion, ie. both will be debated and then voted on one after the other, in the order of
+whichever came first in the Prioritisation Ballot:</p>
+
+
+<p>C05 and E01 \[‘Council of Europe’ and ‘Europe Enabling Motion’];</p>
+<p>D09 and D21 \[‘Stonewall Disaffiliation’ and ‘EDI Accreditation’]; and</p>
+<p>E03 and E05; \[‘Green Rail Strategy’ and ‘Opposition to HS2]’</p>
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-9">Amendment #9</h3>
+</div>
+    
+To the end of ‘AMENDMENTS TO SECTION D’ add the following sentence:
+‘It is noted that the Workshop for Motion C09 proposed that all amendments be basketed.’
+  
+</div>          
+            
 
 **A report on SOC’s participation in the Agenda process including any motions or amendments that SOC is submitting to conference**
 
@@ -369,7 +600,7 @@ Policy Development Committee
 
 | Ballots | 2941 |
 | ------- | ---- |
-| | |
+|         |      |
 
 Counting votes for Policy Development Committee using STV. 8 candidates running for 5 seats.
 
