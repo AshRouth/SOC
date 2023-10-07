@@ -37,3 +37,24 @@ This Conference resolves:
 * To repeal all anti-union and anti-strike laws since 1979 in line with other recent policy statements, to empower workers to organise and defend themselves collectively
 * To create a legal duty for other public authorities, especially licensing authorities, to suspend and ultimately remove operating licences for any company that repeatedly breaks the law in regard to workers’ rights.
 * To end the hostile environment and the racialised targeting of platform workers by police forces and immigration authorities.
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+<p> After “and especially those with precarious immigration statuses.”, add new bullet points:
+
+* Platform employers are increasingly concealing their management control through the use of unaccountable algorithmic management processes, which include automated dismissals, ‘dynamic’ pay setting, and profiling of workers. 
+* Poor pay and overwork in the platform economy poses a significant threat to workers’ and public safety, such as through minicab driver fatigue. 
+
+<p> After “racialised targeting of platform workers by police forces and immigration authorities.”, add new bullet point: 
+
+*  To ban automated management decision making without explicit consent freely given by workers, to give workers transparent access to their data and meaningful explanations for all automated management decision making that affects workers and their work, to give workers meaningful explanations and appeal mechanisms to a human being for any decision to suspend or terminate employment, and to end ‘dynamic’ pay setting. 
+
+<p> Remove “To create a legal duty for other public authorities, especially licensing authorities, to suspend and ultimately remove operating licences for any company that repeatedly breaks the law in regard to workers’ rights.”, 
+
+<p> and replace with “To create a legal duty for public authorities, especially licensing authorities, to satisfy themselves that the licensee has obeyed data protection, employment and taxation law before and during the licensing term, and to suspend and remove the licence should the licensee fail to do so.”. </p>
+  
+</div>
