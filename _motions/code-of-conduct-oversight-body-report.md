@@ -5,7 +5,7 @@ title: Code of Conduct Oversight Body Report
 motion_code:
   section: A
   number: 3
-status: tbd
+status: passed
 ---
 ### Motion
 
