@@ -5,7 +5,7 @@ title: Consolidating the Energy IPPs Agreed at Spring Conference 2023
 motion_code:
   number: 6
   section: C
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10949
 coproposers: 5
 ---
