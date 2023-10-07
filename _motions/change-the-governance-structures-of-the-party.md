@@ -519,24 +519,24 @@ This clause shall be removed automatically once all of the following have taken 
 * The terms of any and all Regional Councillors have expired.
 
 
-  <div class="amendment amendment-tbd">
-  <div class="d-flex justify-content-between align-items-start">
-  <h3 id="amendment-11">Amendment #11</h3>
-  </div>
-      
-  <p>In “Transitions”:</p>
-
-  <p>Where it reads: "If any such Regional Councillor is elected to the Council at an Annual Ballot, they shall immediately cease to be a member by way of this transition clause. If any Regional Councillor ceases to be a member of the Council, or is elected to the Council at an Annual Ballot, the region which elected them shall not replace them.”</p>
-
-  <p>Replace:</p>
-
-  <p>“If any Regional Councillor ceases to be a member of the Council, or is elected to the Council at an Annual Ballot, the region which elected them shall not replace them.”</p>
-
-  <p>With:</p>
-
-  <p>”, and the region which elected them shall not replace them. Additionally they shall not replace them if any Regional Councillor ceases to be a member of the Council after the first Annual Ballot after this motion is passed.”</p>
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-11">Amendment #11</h3>
+</div>
     
-  </div>          
+<p>In “Transitions”:</p>
+
+<p>Where it reads: "If any such Regional Councillor is elected to the Council at an Annual Ballot, they shall immediately cease to be a member by way of this transition clause. If any Regional Councillor ceases to be a member of the Council, or is elected to the Council at an Annual Ballot, the region which elected them shall not replace them.”</p>
+
+<p>Replace:</p>
+
+<p>“If any Regional Councillor ceases to be a member of the Council, or is elected to the Council at an Annual Ballot, the region which elected them shall not replace them.”</p>
+
+<p>With:</p>
+
+<p>”, and the region which elected them shall not replace them. Additionally they shall not replace them if any Regional Councillor ceases to be a member of the Council after the first Annual Ballot after this motion is passed.”</p>
+  
+</div>          
               
 
 ##### GPEx
@@ -580,4 +580,4 @@ In the following Annual Ballot, the remaining half of the existing GPEx members 
 
 #### Incorporation
 
-Conference instructs GPRC through its Party Structure Working Group to bring back further motions to build on these changes to enable the incorporation of the Party.s
+Conference instructs GPRC through its Party Structure Working Group to bring back further motions to build on these changes to enable the incorporation of the Party.
