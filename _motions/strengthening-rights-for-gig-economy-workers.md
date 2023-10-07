@@ -46,12 +46,9 @@ This Conference resolves:
     
 <p> After “and especially those with precarious immigration statuses.”, add new bullet points:
 
-* <p>Platform employers are increasingly concealing their management control through the use of unaccountable algorithmic management processes, which include automated dismissals, ‘dynamic’ pay setting, and profiling of workers. 
-* <p>Poor pay and overwork in the platform economy poses a significant threat to workers’ and public safety, such as through minicab driver fatigue. 
-
 <p> After “racialised targeting of platform workers by police forces and immigration authorities.”, add new bullet point: 
 
-* <p> To ban automated management decision making without explicit consent freely given by workers, to give workers transparent access to their data and meaningful explanations for all automated management decision making that affects workers and their work, to give workers meaningful explanations and appeal mechanisms to a human being for any decision to suspend or terminate employment, and to end ‘dynamic’ pay setting. 
+<p> To ban automated management decision making without explicit consent freely given by workers, to give workers transparent access to their data and meaningful explanations for all automated management decision making that affects workers and their work, to give workers meaningful explanations and appeal mechanisms to a human being for any decision to suspend or terminate employment, and to end ‘dynamic’ pay setting. 
 
 <p> Remove “To create a legal duty for other public authorities, especially licensing authorities, to suspend and ultimately remove operating licences for any company that repeatedly breaks the law in regard to workers’ rights.”, 
 
