@@ -5,7 +5,7 @@ title: Climate Emergency Policy Working Group (PWG) Report
 motion_code:
   section: A
   number: 5
-status: tbd
+status: passed
 ---
 <p>SUMMARY</p>
 <p>• Significant policy development has continued during 2023, some outside our previous technical focus.</p>
