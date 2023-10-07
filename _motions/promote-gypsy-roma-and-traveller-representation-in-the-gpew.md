@@ -5,7 +5,7 @@ title: Promote Gypsy, Roma and Traveller Representation in the GPEW
 motion_code:
   number: 6
   section: D
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10789
 coproposers: 7
 ---
