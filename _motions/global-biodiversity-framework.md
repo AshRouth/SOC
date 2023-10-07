@@ -5,7 +5,7 @@ title: Global Biodiversity Framework
 motion_code:
   number: 8
   section: C
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11179
 coproposers: 11
 ---
