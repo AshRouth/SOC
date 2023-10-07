@@ -41,5 +41,7 @@ As such, conference instructs the Green Party Parliamentary representatives to c
 <li>The removal of safeguarding of the route, effectively an attempt to sabotage future governments</li>
 
 <li>The redirecting of funds from HS2 cancellation to road building schemes which is incompatible with the Climate Emergency</li>
+
+</ul>
   
 </div>
