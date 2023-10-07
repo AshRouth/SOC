@@ -5,7 +5,7 @@ title: Funding our biggest general election campaign ever
 motion_code:
   section: A
   number: 4
-status: tbd
+status: passed
 ---
 ## Synopsis
 
