@@ -5,7 +5,7 @@ title: Policy Development Committee (PDC) Report
 motion_code:
   section: A
   number: 2
-status: tbd
+status: passed
 ---
 The Committee met in August 2023 to consider 12 applications for accreditation – a possible record. The motions which it was agreed had met the criteria can be found in the C Section of this agenda. Accredited motions should show evidence that full consultation, both within and outwith the party has taken place, that high quality supporting evidence has been provided (usually a background paper), the motion is endorsed by a Policy Working Group or other recognised body within the party, and the motion is consistent with the Party’s strategic political objectives as advised by relevant bodies within the party. Accreditation does not mean endorsement from the committee, but that it is agreed that they have met these specific criteria. Yet again, the committee remarked upon the high-quality evidence submitted for all the motions which had clearly taken time and effort to produce – thank you. PDC welcomed a number of observers to this online accreditation meeting, and remind members that meetings are usually notified on Green Spaces in advance so that party members can be in attendance if they wish.
 
