@@ -580,4 +580,4 @@ In the following Annual Ballot, the remaining half of the existing GPEx members 
 
 #### Incorporation
 
-Conference instructs GPRC through its Party Structure Working Group to bring back further motions to build on these changes to enable the incorporation of the Party.
+Conference instructs GPRC through its Party Structure Working Group to bring back further motions to build on these changes to enable the incorporation of the Party.s
