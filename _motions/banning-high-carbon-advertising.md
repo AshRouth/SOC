@@ -5,7 +5,7 @@ title: Banning High Carbon Advertising
 motion_code:
   number: 4
   section: C
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11124
 coproposers: 17
 ---
@@ -33,7 +33,7 @@ Conference notes in order for this to become policy we will need amendments in t
 6. Amend TR553, delete "specifically" and insert "Until there’s a ban on the advertising of all air travel”, delete "will campaign for UK and/or EU legislation for" and insert "supports", delete "and would take up a significant and specified proportion of the area of each advert/ticket" and insert "." after "flight tickets" and after this, insert "Advertising restrictions would ensure consumers aren't exposed to overly frequent advertising for air travel (or other high carbon products and services) and would instead actively promote alternatives.”
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-defeated">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
