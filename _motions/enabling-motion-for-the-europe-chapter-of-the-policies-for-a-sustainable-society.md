@@ -6,7 +6,7 @@ title: Enabling Motion for the Europe chapter of the Policies for a Sustainable
 motion_code:
   number: 1
   section: E
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11144
 coproposers: 5
 ---
