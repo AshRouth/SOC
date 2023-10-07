@@ -233,3 +233,23 @@ dark-mode-toggle {
 table th {
   font-weight:inherit;
 }
+
+.amendment-passed .justify-content-between::after {
+  content:'Amendment passed';
+  background-color: $passed;
+  color:$light;
+  border-radius:1rem;
+  padding:.25rem .5rem;
+  font-size:.9rem;
+  font-weight:600;
+}
+
+.amendment-defeated .justify-content-between::after {
+  content:'Amendment defeated';
+  background-color: $defeated;
+  color:$light;
+  border-radius:1rem;
+  padding:.25rem .5rem;
+  font-size:.9rem;
+  font-weight:600;
+}
