@@ -5,7 +5,7 @@ title: Update the Companies Act to put Planet and People before Profit
 motion_code:
   number: 3
   section: C
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11166
 coproposers: 16
 ---
@@ -36,7 +36,7 @@ Before ‘environment’, delete ‘local’.
 EC652 The right of the shareholders to dividends must not be the single most important criterion for company policy making. The Companies Act 2006 (section 172) will be amended such that directors of a company must prioritise the well-being of all living entities (including all nations, all species and future generations, as well as all people alive today) and avoid negative environmental and social consequences. This means that companies will need to invest profits in a just transition of their company before distributing dividends to shareholders. Companies will also be required to include a clear purpose in their Articles of Association aligned with this change to the Companies Act.  Those with a stake in the company’s decisions must have the right to make informed input into those decisions. These ‘stakeholders’ include the share holders, the workers, the local community (where appropriate) and advocates for the environment. New legal and institutional structures will be created to enable these stakeholders to have a voice in the running of companies and other relevant organisations.
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
