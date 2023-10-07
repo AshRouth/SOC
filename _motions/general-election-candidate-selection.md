@@ -5,7 +5,7 @@ title: General Election Candidate Selection
 motion_code:
   number: 20
   section: D
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10994
 coproposers: 27
 ---
@@ -27,7 +27,7 @@ To achieve this, conference resolves to add to point 6 of Clause 5(xvii) in the 
 *6.    Exceptionally, in the event of a Parliamentary election being called at short notice and the procedure being declared operative by the Regional Council Co-chairs, where no Prospective Parliamentary Candidate (PPC) is in place, the relevant Local Party/ies may adopt a candidate by vote at a meeting called for that purpose, of which all Green Party members of those local parties have been notified in advance in writing.* In the event of no initiation of a candidate selection process earlier than 28 calendar days ahead of the likely date that Parliament is dissolved, the Green Party Executive (GPEx) or its General Election Steering Group reserves the right to initiate this selection process in the absence of a local party doing so, and subsequently nominate the selected candidate at the General Election.
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
