@@ -19,25 +19,27 @@ The most recently published board minutes for HS2 Ltd show that the Government-o
 As such, conference instructs the Green Party Parliamentary representatives to call for a full public inquiry into the lack of oversight and regulation of HS2 finances, and that a fully resourced fraud investigation should be initiated.
 
 
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+<p>Replace:</p>
 
->
-> <div class="amendment amendment-tbd">
-> <div class="d-flex justify-content-between align-items-start">
-> <h3 id="amendment-1">Amendment #1</h3>
-> </div>
->     
-> <p>Replace:</p>
->
-> <p>As such, conference instructs the Green Party Parliamentary representatives to call for a full public inquiry into the lack of oversight and regulation of HS2 finances, and that a fully resourced fraud investigation should be initiated.</p>
->
-> <p>With:</p>
->
-> <p>As such, conference requests the Green Party Parliamentary representatives to call for a full public inquiry into the Conservative Government’s mismanagement of the project. The scope should cover:</p>
->
-> * <p>Lack of oversight and regulation of HS2 finances</p>
-> * <p>The mismanagement of the Euston rebuild, including the government continually redesigning that has caused billions of extra costs and left residents with a building site for years longer than necessary, and the newly announced plans to descope Euston to 6 platforms and use the land for commercial development, severely restricting the potential for future services to the North of England and Scotland</p>
-> * <p>The removal of safeguarding of the route, effectively an attempt to sabotage future governments</p>
-> * <p>The redirecting of funds from HS2 cancellation to road building schemes which is incompatible with the Climate Emergency</p>
->   
-> </div>          
->
+<p>As such, conference instructs the Green Party Parliamentary representatives to call for a full public inquiry into the lack of oversight and regulation of HS2 finances, and that a fully resourced fraud investigation should be initiated.</p>
+
+<p>With:</p>
+
+<p>As such, conference requests the Green Party Parliamentary representatives to call for a full public inquiry into the Conservative Government’s mismanagement of the project. The scope should cover:</p>
+
+<ul>
+
+<li>Lack of oversight and regulation of HS2 finances</li>
+
+<li>The mismanagement of the Euston rebuild, including the government continually redesigning that has caused billions of extra costs and left residents with a building site for years longer than necessary, and the newly announced plans to descope Euston to 6 platforms and use the land for commercial development, severely restricting the potential for future services to the North of England and Scotland</li>
+
+<li>The removal of safeguarding of the route, effectively an attempt to sabotage future governments</li>
+
+<li>The redirecting of funds from HS2 cancellation to road building schemes which is incompatible with the Climate Emergency</li>
+  
+</div>
