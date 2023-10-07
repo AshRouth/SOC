@@ -5,7 +5,7 @@ title: Standing Orders Committee (SOC) Report
 motion_code:
   section: A
   number: 1
-status: tbd
+status: passed
 ---
 ## Motion
 
@@ -39,7 +39,7 @@ Under section 11(iv) of the Constitution, reports from the leadership team, all 
 **SOC refers members to the AGM Final Agenda \[https://members.greenparty.org.uk/sites/default/files/2023-08/AGM%20Final%20Agenda%20v1.4.pdf] for the texts of these reports.**
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
@@ -54,6 +54,11 @@ the Final Agenda.’</p>
   
 </div>          
             
+
+```
+      
+        
+```
 
 ### Amendments to section A:
 
@@ -124,7 +129,7 @@ A total of 33 amendments were proposed for the motions in Section D, 22 of which
 | D20          | 24     | D24          |
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
@@ -146,8 +151,13 @@ And replace with
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-3">Amendment #3</h3>
 </div>
@@ -169,6 +179,11 @@ therefore recommends to be taken as the first of the D Motions at the relevant p
   
 </div>          
             
+
+```
+      
+        
+```
 
 ### Section E Unaccredited policy motions.
 
@@ -232,7 +247,7 @@ Ultimately SOC recommended that 1 motion be restored to order following consulta
 SOC found a single proposed amendment to D02 to be out of order for being either retrospective in effect, or else for having no consequential effect since it proposed a course of action that would be secured by the motion regardless.
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-4">Amendment #4</h3>
 </div>
@@ -253,8 +268,13 @@ SOC found a single proposed amendment to D02 to be out of order for being either
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-5">Amendment #5</h3>
 </div>
@@ -310,8 +330,13 @@ representation in the GPEW” </p>
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-6">Amendment #6</h3>
 </div>
@@ -330,8 +355,13 @@ D14 will be heard between D01 and D02.”</p>
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-7">Amendment #7</h3>
 </div>
@@ -363,8 +393,13 @@ likely to be debated in any event.</p>
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-8">Amendment #8</h3>
 </div>
@@ -386,8 +421,13 @@ whichever came first in the Prioritisation Ballot:</p>
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-9">Amendment #9</h3>
 </div>
@@ -397,6 +437,11 @@ To the end of ‘AMENDMENTS TO SECTION D’ add the following sentence:
   
 </div>          
             
+
+```
+      
+        
+```
 
 **A report on SOC’s participation in the Agenda process including any motions or amendments that SOC is submitting to conference**
 
