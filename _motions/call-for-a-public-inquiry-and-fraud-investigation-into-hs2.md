@@ -5,7 +5,7 @@ title: Call for a public inquiry and fraud investigation into HS2
 motion_code:
   section: EM
   number: 1
-status: final
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-2023-emergency-motions-forum/post/post/view?id=11684
 coproposers: 104
 ---
