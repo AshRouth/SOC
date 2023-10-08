@@ -6,7 +6,8 @@ motion_code:
   section: EM
   number: 1
 status: final
-coproposers: 82
+spaces: https://spaces.greenparty.org.uk/s/autumn-2023-emergency-motions-forum/post/post/view?id=11684
+coproposers: 98
 ---
 On the 4th of October 2023, the Prime Minister announced that Phase 2 of HS2 would be cancelled due to escalating costs. It is said that cancelling the Birmingham to Manchester part of HS2 would save £36bn, which is more than the £33bn that the whole scheme connecting London, Manchester, Birmingham, Leeds, Nottingham, Sheffield, and Manchester, with links to HS1 and Heathrow was originally meant to cost.
 
