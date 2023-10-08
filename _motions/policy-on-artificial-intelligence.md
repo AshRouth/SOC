@@ -38,16 +38,6 @@ Through regulation we will oversee that AI development is based on ethical princ
 </div>          
             
 
-```
-      
-        
-```
-
-```
-      
-        
-```
-
 We neither aim nor wish to stifle the innovation and development of AI as an important sector of our economy nor to reduce the UK’s current status as one of the most advanced nations in this field. To this end our current research frameworks will be enhanced along with other developmental ideas including “sandboxes” for safe yet innovative trialling of AI systems.
 
 In addition to preserving freedoms, personal safety and maintaining physical health for every individual to a standard similar to that enjoyed in the UK today, AI development and usage will be regulated to encourage and facilitate for all individuals the freedom to live a worthwhile life, devoting time in whatever proportions they choose to the following “seven C’s”: - Curiosity, Conservation, Challenge, Creativity, Community, Charity, Care.
@@ -68,16 +58,6 @@ Initial regulation will make mandatory that AI generated content identifies itse
   
 </div>          
             
-
-```
-      
-        
-```
-
-```
-      
-        
-```
 
 We will enable uses of AI in the interests of national security and defence whilst avoiding an arms-race developing between ourselves and other nations, also ensuring that “human-in-the-loop” control is always required in accordance with our policies PSD541 and PSD421. We will prohibit the use of remote biometric identification in public spaces.
 
@@ -104,16 +84,6 @@ We assert that every individual has a right to the ownership of their own identi
 </div>          
             
 
-```
-      
-        
-```
-
-```
-      
-        
-```
-
 The many positive uses of AI that already exist in the field of healthcare, fostered by enabling many independent research initiatives from central funding, will continue to be grown and the framework for doing so shared into other spheres including education, local government, the judiciary, transport and utility management and infrastructure.
 
 We acknowledge the great potential for AI usage to augment, not replace, many professionals such as doctors, teachers and lawyers to the benefit of those receiving their services, whilst still retaining the need for humans to make all key decisions. Additionally, we aim to make available training in AI literacy and use for all so that we can each make good use of AI, for example to create our own healthy lifestyle plans or individualised learning plans with AI assistance.
@@ -130,16 +100,6 @@ In paragraph 11, after “for those displaced” insert “and we will introduce
   
 </div>          
             
-
-```
-      
-        
-```
-
-```
-      
-        
-```
 
 
 <div class="amendment amendment-passed">
