@@ -5,7 +5,7 @@ title: Confirming veracity of claimed leaked internal document.
 motion_code:
   section: EM
   number: 3
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-2023-emergency-motions-forum/post/post/view?id=11688
 coproposers: 60
 ---
