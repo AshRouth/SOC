@@ -5,7 +5,7 @@ title: Allow Two Women to be Co-Leaders or Deputy Leaders
 motion_code:
   number: 5
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10553
 coproposers: 31
 ---

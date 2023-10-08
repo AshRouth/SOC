@@ -4,7 +4,7 @@ toc: "true"
 title: Executive Pay Ratios
 motion_code:
   number: 30
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11064
 coproposers: 0
 ---

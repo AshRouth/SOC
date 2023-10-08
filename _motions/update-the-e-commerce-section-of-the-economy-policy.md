@@ -4,7 +4,7 @@ toc: "true"
 title: Update the E-Commerce section of the Economy Policy
 motion_code:
   number: 83
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11175
 coproposers: 6
 ---

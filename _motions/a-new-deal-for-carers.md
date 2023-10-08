@@ -5,7 +5,7 @@ title: A New Deal for Carers
 motion_code:
   number: 4
   section: E
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11167
 coproposers: 24
 ---

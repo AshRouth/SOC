@@ -4,7 +4,7 @@ toc: "true"
 title: Updates to Standing Orders for Party Discipline
 motion_code:
   number: 85
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11055
 coproposers: 1
 ---

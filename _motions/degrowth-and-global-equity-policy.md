@@ -4,7 +4,7 @@ toc: "true"
 title: Degrowth and Global Equity Policy
 motion_code:
   number: 20
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10913
 coproposers: 1
 ---

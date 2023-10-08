@@ -5,7 +5,7 @@ title: Pathfinder Motion
 motion_code:
   number: 14
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10923
 coproposers: 9
 ---

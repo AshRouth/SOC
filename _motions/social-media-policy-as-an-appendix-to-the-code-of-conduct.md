@@ -4,7 +4,7 @@ toc: "true"
 title: Social Media Policy as an Appendix to the Code of Conduct
 motion_code:
   number: 66
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11018
 coproposers: 3
 ---

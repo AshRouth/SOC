@@ -5,7 +5,7 @@ title: Disability Policy - DVP
 motion_code:
   number: 3
   section: F
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10944
 coproposers: 12
 ---

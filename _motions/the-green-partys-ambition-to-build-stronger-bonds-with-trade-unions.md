@@ -5,7 +5,7 @@ title: The Green Party's ambition to build stronger bonds with trade unions
 motion_code:
   number: 18
   section: E
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11182
 coproposers: 33
 ---

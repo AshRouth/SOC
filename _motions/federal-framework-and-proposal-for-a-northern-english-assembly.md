@@ -4,7 +4,7 @@ toc: "true"
 title: Federal Framework and Proposal for a Northern English Assembly
 motion_code:
   number: 33
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10745
 coproposers: 1
 ---

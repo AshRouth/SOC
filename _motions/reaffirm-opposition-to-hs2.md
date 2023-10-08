@@ -5,7 +5,7 @@ title: Reaffirm Opposition to HS2
 motion_code:
   number: 5
   section: E
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11193
 coproposers: 119
 ---

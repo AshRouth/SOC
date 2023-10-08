@@ -4,7 +4,7 @@ toc: "true"
 title: Change the Voting Arrangements for Standing Orders Committee
 motion_code:
   number: 15
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11026
 coproposers: 16
 ---

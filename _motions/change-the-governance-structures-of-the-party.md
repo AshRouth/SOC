@@ -5,7 +5,7 @@ title: Change the Governance Structures of the Party
 motion_code:
   number: 8
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10920
 coproposers: 6
 ---

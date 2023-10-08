@@ -4,7 +4,7 @@ toc: "true"
 title: "Promoting Vegan Biscuits and Harnessing AI "
 motion_code:
   number: 56
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11030
 coproposers: 0
 ---

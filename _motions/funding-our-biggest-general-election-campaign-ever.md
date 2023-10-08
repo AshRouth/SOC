@@ -4,7 +4,7 @@ toc: "true"
 title: Funding our biggest General Election campaign ever
 motion_code:
   number: 80
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11178
 coproposers: 5
 ---

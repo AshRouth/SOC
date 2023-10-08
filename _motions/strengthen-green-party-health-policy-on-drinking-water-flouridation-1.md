@@ -4,7 +4,7 @@ toc: "true"
 title: Strengthen Green Party Health Policy on Drinking Water Flouridation
 motion_code:
   number: 70
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10859
 coproposers: 0
 ---

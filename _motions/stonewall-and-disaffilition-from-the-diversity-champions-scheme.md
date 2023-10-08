@@ -5,7 +5,7 @@ title: Stonewall and Disaffilition from the Diversity Champions Scheme
 motion_code:
   number: 9
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11007
 coproposers: 30
 ---

@@ -5,7 +5,7 @@ title: Amend Standing Orders for Party Discipline
 motion_code:
   number: 7
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10833
 coproposers: 18
 ---

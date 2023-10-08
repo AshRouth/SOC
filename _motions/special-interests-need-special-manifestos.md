@@ -5,7 +5,7 @@ title: Special Interests Need Special Manifestos
 motion_code:
   number: 24
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11185
 coproposers: 17
 ---

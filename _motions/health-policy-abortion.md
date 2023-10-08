@@ -5,7 +5,7 @@ title: Health Policy - Abortion
 motion_code:
   number: 11
   section: E
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11171
 coproposers: 8
 ---

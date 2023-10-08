@@ -5,7 +5,7 @@ title: Opposing the Anti-Boycott Bill
 motion_code:
   number: 14
   section: E
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11158
 coproposers: 26
 ---

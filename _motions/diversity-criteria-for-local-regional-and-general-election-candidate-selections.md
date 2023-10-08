@@ -6,7 +6,7 @@ title: Diversity Criteria for Local, Regional and General Election Candidate
 motion_code:
   number: 19
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11188
 coproposers: 15
 ---

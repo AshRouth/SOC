@@ -4,7 +4,7 @@ toc: "true"
 title: Democratic Approach to the next General Election
 motion_code:
   number: 22
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10975
 coproposers: 0
 ---

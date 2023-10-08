@@ -5,7 +5,7 @@ title: Add Constitution Section on Spokespeople
 motion_code:
   number: 15
   section: D
-status: tbd
+status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11181
 coproposers: 15
 affiliated: false
