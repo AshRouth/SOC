@@ -50,17 +50,6 @@ v) If a General Election is announced while voting is open in the Annual Ballot 
 </div>          
             
 
-```
-      
-        
-```
-
-
-
-
-
-
-
 
 <div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
