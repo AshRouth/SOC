@@ -9,11 +9,11 @@ status: notdebated
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=11167
 coproposers: 24
 ---
-**Synopsis**
+## Synopsis
 
 Carers save the UK economy billions a year, it’s about time they got a fair deal. This motion would specify what changes we would make to unpaid carers lives in the UK.
 
-**Background**
+## Background
 
 “That the cost-of-living crisis is disproportionately affecting unpaid carers. Carers UK estimates that the number of unpaid carers has risen to 10.6 million, meaning 1 in 5 adults and 1 in 12 young people care for those around them. People of colour, disabled people, elderly people and LGBTIQA+ people who care are impacted worse financially and socially. Unpaid care is worth £193bn a year whilst austerity cuts to social care is massively affecting unpaid carer. To add insult to injury, Carers Allowance is means tested, is unavailable to under 16’s and those in full time education and is removed from the cared for persons welfare payments.
 
@@ -21,7 +21,7 @@ Carers, including young carers, deserve a better deal from government. Supportin
 
 To do this the current carers allowance payment needs to be increased to a living wage for the hours of care provided and young carers should have the right to be compensated by government, supported in education and be provided with respite written into law.”
 
-**Motion**
+## Motion
 
 Conference therefore:
 

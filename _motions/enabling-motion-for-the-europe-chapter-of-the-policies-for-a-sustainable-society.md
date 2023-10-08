@@ -14,8 +14,6 @@ coproposers: 5
 
 For two years the Europe Policy Working Group has been drafting revisions to the Europe Chapter, and addressing urgent problems by bringing motions in 2022 and 2023. Additional time is needed to complete the work and consultation. The group requests a further two years.
 
-## **
-
-Motion**
+## Motion
 
 Conference entrusts the process of revising the Europe Chapter in Policies for a Sustainable Society to the Europe Policy Working Group, to work in consultation with other relevant Policy Working Groups and experts within and beyond the GPEW, for a draft voting paper to be brought to conference no later than Autumn conference 2025, while hoping to complete before the end of 2024.
