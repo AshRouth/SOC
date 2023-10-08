@@ -47,9 +47,7 @@ v) If a General Election is announced while voting is open in the Annual Ballot 
 
 <p> iv) If, in order to protect the party's political interests, the timetable of the Annual Ballot needs to depart from that outlined in clause iii (e.g., to avoid a clash with a General Election), GPRC may, prior to voting opening, instruct the ERO to modify the timetable. The timetable may be brought forward or delayed by up to twelve months, and the terms of existing and new postholders will be modified accordingly. Conference resolves to hold the 2024 Annual Ballot early, with nominations opening at 10.00 on the first weekday in December 2023 and closing at noon on the last weekday in December 2023. Voting will close on receipt of the last post on the last weekday of February 2024.</p>
   
-</div>          
-            
-
+</div>
 
 <div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
