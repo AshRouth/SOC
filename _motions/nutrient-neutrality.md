@@ -6,7 +6,8 @@ motion_code:
   section: EM
   number: 2
 status: final
-coproposers: 57
+spaces: https://spaces.greenparty.org.uk/s/autumn-2023-emergency-motions-forum/post/post/view?id=11579
+coproposers: 89
 ---
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Insert into Record of Policy Statements</p>
 
