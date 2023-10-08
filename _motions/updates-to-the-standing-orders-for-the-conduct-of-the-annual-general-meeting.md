@@ -6,6 +6,8 @@ motion_code:
   section: LM
   number: 1
 status: tbd
+spaces: https://spaces.greenparty.org.uk/s/autumn-2023-late-motions-forum/post/post/view?id=11488
+coproposers: 62
 ---
 # S﻿ynopsis
 
