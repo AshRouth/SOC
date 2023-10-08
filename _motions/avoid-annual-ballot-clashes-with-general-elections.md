@@ -5,7 +5,7 @@ title: Avoid Annual Ballot clashes with General Elections
 motion_code:
   number: 16
   section: D
-status: tbd
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-conference-2023-agenda-forum/post/post/view?id=10554
 coproposers: 22
 ---
@@ -30,7 +30,7 @@ iv) If the date of the General Election is unknown at the time of the opening of
 v) If a General Election is announced while voting is open in the Annual Ballot and the date of the election falls less than three months after voting is due to close for the Annual Ballot, voting will be paused until at least two weeks after the General Election, and will then reopen for two weeks at a time decided by the Electoral Returning Officer in consultation with the Executive Commitee. Voting must have reopened within two months after the General Election. The terms of all relevant postholders will be extended until the declaration of the results.
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-defeated">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
@@ -50,8 +50,19 @@ v) If a General Election is announced while voting is open in the Annual Ballot 
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+
+
+
+
+
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
