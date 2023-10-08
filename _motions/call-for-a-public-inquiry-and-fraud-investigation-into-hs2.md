@@ -7,7 +7,7 @@ motion_code:
   number: 1
 status: final
 spaces: https://spaces.greenparty.org.uk/s/autumn-2023-emergency-motions-forum/post/post/view?id=11684
-coproposers: 98
+coproposers: 104
 ---
 On the 4th of October 2023, the Prime Minister announced that Phase 2 of HS2 would be cancelled due to escalating costs. It is said that cancelling the Birmingham to Manchester part of HS2 would save £36bn, which is more than the £33bn that the whole scheme connecting London, Manchester, Birmingham, Leeds, Nottingham, Sheffield, and Manchester, with links to HS1 and Heathrow was originally meant to cost.
 
@@ -20,7 +20,7 @@ The most recently published board minutes for HS2 Ltd show that the Government-o
 As such, conference instructs the Green Party Parliamentary representatives to call for a full public inquiry into the lack of oversight and regulation of HS2 finances, and that a fully resourced fraud investigation should be initiated.
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
