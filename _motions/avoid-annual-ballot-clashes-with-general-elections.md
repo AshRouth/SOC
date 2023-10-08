@@ -47,4 +47,25 @@ v) If a General Election is announced while voting is open in the Annual Ballot 
 
 <p> iv) If, in order to protect the party's political interests, the timetable of the Annual Ballot needs to depart from that outlined in clause iii (e.g., to avoid a clash with a General Election), GPRC may, prior to voting opening, instruct the ERO to modify the timetable. The timetable may be brought forward or delayed by up to twelve months, and the terms of existing and new postholders will be modified accordingly. Conference resolves to hold the 2024 Annual Ballot early, with nominations opening at 10.00 on the first weekday in December 2023 and closing at noon on the last weekday in December 2023. Voting will close on receipt of the last post on the last weekday of February 2024.</p>
   
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2">Amendment #2</h3>
+</div>
+    
+<p>In new clause iii, which currently reads:</p>
+
+<p>iii) The nominations for all posts included in an Annual Ballot shall ordinarily open at 10.00 on the first weekday in June and ordinarily close at noon on the last weekday in June. Voting shall ordinarily close on receipt of the last post on the last weekday of August or five weekdays before the start of the Autumn conference, whichever is the sooner. Insert at the end: If this timetable is departed from, eligibility for candidates based on the duration of their membership will be determined based on when the Annual Ballot would have been held under this clause.</p>
+
+<p>Remove new clauses iv and v, which currently read:</p>
+
+<p>Insert new clause iv, and renumber:</p>
+
+<p>iv) If, in order to protect the party's political interests, the timetable of the Annual Ballot needs to depart from that outlined in clause iii (e.g., to avoid a clash with a General Election), GPRC may, prior to voting opening, instruct the ERO to modify the timetable. The timetable may be brought forward or delayed by up to twelve months, and the terms of existing and new postholders will be modified accordingly.</p>
+
+<p>Insert at the end of the motion: Conference resolves to delay the 2024 Annual Ballot in order to avoid a clash with the General Election, which could occur up until January 2025. The 2024 Annual Ballot will be held simultaneously with the 2025 Annual Ballot.</p>
+  
 </div>
