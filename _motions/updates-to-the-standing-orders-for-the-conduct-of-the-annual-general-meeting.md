@@ -5,7 +5,7 @@ title: Updates to the Standing Orders for the Conduct of the Annual General Meet
 motion_code:
   section: LM
   number: 1
-status: notdebatedsed
+status: passed
 spaces: https://spaces.greenparty.org.uk/s/autumn-2023-late-motions-forum/post/post/view?id=11488
 coproposers: 62
 ---
