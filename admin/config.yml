@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: AshRouth/SOC
-  branch: ash
+  repo: rileyrouth/greencoordinate
+  branch: riley
 media_folder: 'files'
-site_url: https://illustrious-mousse-b63d64.netlify.app/
+site_url: https://greencoordinate.netlify.app/
 collections:
   - name: 'motions'
     label: 'Motions'
