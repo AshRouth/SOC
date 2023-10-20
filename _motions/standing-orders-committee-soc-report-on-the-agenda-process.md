@@ -7,7 +7,6 @@ motion_code:
   section: AGM
 status: passed
 ---
-
 SOC received the following reports ahead of the First AGM deadline on 4th August 2023, in the case of ADRC via e-mail only rather than on the AGM Forum:
 
 * Leadership Team (including the Leader of the Wales Party)
