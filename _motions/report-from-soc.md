@@ -58,12 +58,11 @@ The ‘smallest appropriate party’ shall be of a local party, self-determined 
 #### 2. Ruling re Colchester EGM
 On the 30th November 2022 SN asked a group of questions
 
-> \
-1. If a Local Party Executive committee makes a properly minuted decision (brought, voted upon and unanimously agreed) can an EGM meeting override that? \
-2. If an EGM deviates from the agreed agenda and makes decisions on off-topic matters, are those decisions binding? \
-3. If an EGM deviates from an agreed agenda and descends into a "toxic" meeting with multiple breaches of the code of conduct, are those decisions binding or could they be argued to be under duress? \
-4. Can an EGM insist on disclosures beyond those listed within the governance documentation of the local regional and national party? \
-5. Where a meeting chair is subject to verbal attacks during the operation of that meeting, are decisions made binding or null and void? \
+> 1. If a Local Party Executive committee makes a properly minuted decision (brought, voted upon and unanimously agreed) can an EGM meeting override that? 
+2. If an EGM deviates from the agreed agenda and makes decisions on off-topic matters, are those decisions binding? 
+3. If an EGM deviates from an agreed agenda and descends into a "toxic" meeting with multiple breaches of the code of conduct, are those decisions binding or could they be argued to be under duress? 
+4. Can an EGM insist on disclosures beyond those listed within the governance documentation of the local regional and national party? 
+5. Where a meeting chair is subject to verbal attacks during the operation of that meeting, are decisions made binding or null and void? 
 6. Can an EGM be turned into a de facto complaint hearing with multiple witnesses in favour of the aggrieved?
 
 **SOC rules that:**
@@ -117,21 +116,21 @@ PA918. To make councils more responsive and effective, it will be necessary to e
 Bristol's Green group of Councillors has no standing orders, and I have attached the local party constitution for reference. \\
 Given the above, I would appreciate a SOC ruling on the following:
 
-1. what constitutes "a system of whipping councillors into line"? If we are proscribing this behaviour as a Party, then we need to be able to point out when it is happening. \\
-2. is the injunction in PA918 mandatory for Green groups of Councillors current and future, or a statement of what the Party would do if it were in Government and therefore currently optional? \\ 
-3. if PA918 is mandatory, then by what process(es) can it be enforced? \\
-4. if the leadership of a Councillor group engages in the whipping of its Councillors as per SOC's answer to 1 above, would SOC view that whipping to amount to unconstitutional behaviour for violating one or more of the following elements of the Philosophical Basis: \\
+> 1. what constitutes "a system of whipping councillors into line"? If we are proscribing this behaviour as a Party, then we need to be able to point out when it is happening.
+2. is the injunction in PA918 mandatory for Green groups of Councillors current and future, or a statement of what the Party would do if it were in Government and therefore currently optional?
+3. if PA918 is mandatory, then by what process(es) can it be enforced?
+4. if the leadership of a Councillor group engages in the whipping of its Councillors as per SOC's answer to 1 above, would SOC view that whipping to amount to unconstitutional behaviour for violating one or more of the following elements of the Philosophical Basis:
 
-PB401 \\
+> PB401 \\
 The Green Party affirms the importance of individual freedom and self expression. We believe people should be free to make their own decisions on matters which do not adversely affect others. Its importance lies in valuing the opportunity people have to make their own decisions, accept responsibility for them and develop in their own way.
 
-PB442 \\
+> PB442 \\
 The Green Party does not believe there is an automatic moral obligation on all people to obey their governments. It seeks to maximise the extent to which obedience to laws is based on consent and minimise the need for conformity through deterrence. We believe there are occasions when individuals and groups in society may openly, and peacefully, protest at an unjust law or practice through civil disobedience.
 
-PB443 \\
+> PB443 \\
 We seek a society in which people are empowered and involved in making the decisions which affect them. We advocate participatory and democratic politics. Leadership should always be accountable, consensus-driven and moral. We reject the hierarchical structure of leaders and followers.
 
-Core value 6 \\
+> Core value 6 \\
 A healthy society is based on voluntary co-operation between empowered individuals in a democratic society, free from discrimination whether based on race, colour, gender, sexual orientation, religion, social origin or any other prejudice.’
 
 **SOC rules that:**
