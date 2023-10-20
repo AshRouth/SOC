@@ -21,3 +21,6 @@
 
 - name: Emergency Motions
   code: EM
+
+- name: AGM Documents
+  code: AGM
