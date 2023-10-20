@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: LGBTQIA+ Greens
 motion_code:
-  number: 15
+  number: 16
   section: AGM
 status: passed
 ---

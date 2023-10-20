@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Green Party Women (GPW)
 motion_code:
-  number: 17
+  number: 18
   section: AGM
 status: defeated
 ---

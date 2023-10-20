@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Greens for Animal Protection (GAP)
 motion_code:
-  number: 16
+  number: 17
   section: AGM
 status: passed
 ---
