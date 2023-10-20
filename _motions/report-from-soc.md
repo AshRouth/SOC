@@ -40,6 +40,7 @@ The forwarded email sets out a request to have a member’s details assigned to 
 How membership of a local party is decided is a matter for each individual local party. If a local party is satisfied that a prospective member is not excluded according to criteria set out in their own constitution, then that person may become a member of that local party.
 
 **The rationale being**
+
 Section 4(ii) of the Constitution sets out that:
 
 > ‘Membership shall be of the smallest appropriate Party. Such membership shall automatically impart membership of The Green Party, and, in each of the Regions defined in Clause 5(ii) below, membership of the appropriate Regional Party, once the national proportion of the membership has been paid.’
@@ -56,12 +57,14 @@ The ‘smallest appropriate party’ shall be of a local party, self-determined 
 
 #### 2. Ruling re Colchester EGM
 On the 30th November 2022 SN asked a group of questions
-> ‘1: If a Local Party Executive committee makes a properly minuted decision (brought, voted upon and unanimously agreed) can an EGM meeting override that? \\
-2. If an EGM deviates from the agreed agenda and makes decisions on off-topic matters, are those decisions binding? \\
-3. If an EGM deviates from an agreed agenda and descends into a "toxic" meeting with multiple breaches of the code of conduct, are those decisions binding or could they be argued to be under duress? \\
-4. Can an EGM insist on disclosures beyond those listed within the governance documentation of the local regional and national party? \\
-5. Where a meeting chair is subject to verbal attacks during the operation of that meeting, are decisions made binding or null and void? \\
-6. Can an EGM be turned into a de facto complaint hearing with multiple witnesses in favour of the aggrieved?"
+
+> \
+1. If a Local Party Executive committee makes a properly minuted decision (brought, voted upon and unanimously agreed) can an EGM meeting override that? \
+2. If an EGM deviates from the agreed agenda and makes decisions on off-topic matters, are those decisions binding? \
+3. If an EGM deviates from an agreed agenda and descends into a "toxic" meeting with multiple breaches of the code of conduct, are those decisions binding or could they be argued to be under duress? \
+4. Can an EGM insist on disclosures beyond those listed within the governance documentation of the local regional and national party? \
+5. Where a meeting chair is subject to verbal attacks during the operation of that meeting, are decisions made binding or null and void? \
+6. Can an EGM be turned into a de facto complaint hearing with multiple witnesses in favour of the aggrieved?
 
 **SOC rules that:**
 
@@ -73,8 +76,8 @@ In particular in the words: “stating in writing .. the business to be conducte
 
 In relation to the questions asked it follows that:
 
-\1. An EGM as a meeting of the whole Party can override the decision of the Committee, just as Conference can override a decision of SOC, providing the call for the EGM states that as its purpose
-\2. The EGM cannot make decisions on any topics not included in the call for the EGM.
+1\. An EGM as a meeting of the whole Party can override the decision of the Committee, just as Conference can override a decision of SOC, providing the call for the EGM states that as its purpose
+2\. The EGM cannot make decisions on any topics not included in the call for the EGM.
 3-6. The same answer applies as to question 2 in relation to deviations from “the agreed agenda” – the issues of behaviour are not within the remit of SOC.
 
 #### 3. Ruling re Complaints About Complaints
@@ -112,17 +115,22 @@ On 25.02.2023 Simon Stafford-Townsend wrote:
 > 'The Green Party publicly prides itself on not whipping its elected representatives. This is often something we cite in election campaigns to set ourselves apart from the other parties. This position is set out in PSS as follows: \\
 PA918. To make councils more responsive and effective, it will be necessary to encourage cross-party cooperation, and weaken the hold of dogmatic ideologies and factions. The Green Party will not operate a system of whipping councillors into line, and Green Councillors will call upon other parties to do the same \\
 Bristol's Green group of Councillors has no standing orders, and I have attached the local party constitution for reference. \\
-Given the above, I would appreciate a SOC ruling on the following: \\
+Given the above, I would appreciate a SOC ruling on the following:
+
 1. what constitutes "a system of whipping councillors into line"? If we are proscribing this behaviour as a Party, then we need to be able to point out when it is happening. \\
 2. is the injunction in PA918 mandatory for Green groups of Councillors current and future, or a statement of what the Party would do if it were in Government and therefore currently optional? \\ 
 3. if PA918 is mandatory, then by what process(es) can it be enforced? \\
 4. if the leadership of a Councillor group engages in the whipping of its Councillors as per SOC's answer to 1 above, would SOC view that whipping to amount to unconstitutional behaviour for violating one or more of the following elements of the Philosophical Basis: \\
+
 PB401 \\
-The Green Party affirms the importance of individual freedom and self expression. We believe people should be free to make their own decisions on matters which do not adversely affect others. Its importance lies in valuing the opportunity people have to make their own decisions, accept responsibility for them and develop in their own way. \\
+The Green Party affirms the importance of individual freedom and self expression. We believe people should be free to make their own decisions on matters which do not adversely affect others. Its importance lies in valuing the opportunity people have to make their own decisions, accept responsibility for them and develop in their own way.
+
 PB442 \\
-The Green Party does not believe there is an automatic moral obligation on all people to obey their governments. It seeks to maximise the extent to which obedience to laws is based on consent and minimise the need for conformity through deterrence. We believe there are occasions when individuals and groups in society may openly, and peacefully, protest at an unjust law or practice through civil disobedience. \\
+The Green Party does not believe there is an automatic moral obligation on all people to obey their governments. It seeks to maximise the extent to which obedience to laws is based on consent and minimise the need for conformity through deterrence. We believe there are occasions when individuals and groups in society may openly, and peacefully, protest at an unjust law or practice through civil disobedience.
+
 PB443 \\
-We seek a society in which people are empowered and involved in making the decisions which affect them. We advocate participatory and democratic politics. Leadership should always be accountable, consensus-driven and moral. We reject the hierarchical structure of leaders and followers. \\
+We seek a society in which people are empowered and involved in making the decisions which affect them. We advocate participatory and democratic politics. Leadership should always be accountable, consensus-driven and moral. We reject the hierarchical structure of leaders and followers.
+
 Core value 6 \\
 A healthy society is based on voluntary co-operation between empowered individuals in a democratic society, free from discrimination whether based on race, colour, gender, sexual orientation, religion, social origin or any other prejudice.’
 
@@ -131,6 +139,7 @@ A healthy society is based on voluntary co-operation between empowered individua
 If an elected member felt that unfair pressure to make them vote in a particular way had been applied to them individually, or a group of members shared that feeling, that would be grounds for a complaint under the code of conduct, but is not a breach of the constitution where there is no clause relating to whipping.
 
 **The rationale being:**
+
 SOC recognises that when Green groups come into formal existence on councils they require a ‘whip’ to carry out various formal functions: interacting with the ‘whips’ of other parties to discuss member working practices, order of business in meetings etc.
 
 SOC further recognise that in other political parties the whip of a group has an internal disciplinary role which may be exercised through various sanctions both implicit and explicit that may affect the career or the activity of individual group members.
@@ -174,7 +183,7 @@ In the event of a case being referred back to Disciplinary Committee under SOPD 
 
 SOPD sections 7.8 and 7.9 say:
 
-> ‘7.8 If no ground of appeal is upheld by the Appeals Committee, it shall be dismissed. If new information is found to be relevant, reliable, and significant or if there were procedural errors then the case may be referred back to the Committee to be re-heard. \\ 
+‘7.8 If no ground of appeal is upheld by the Appeals Committee, it shall be dismissed. If new information is found to be relevant, reliable, and significant or if there were procedural errors then the case may be referred back to the Committee to be re-heard. \\
 7.9 If the appeal is upheld by the Appeals Committee, then the Committee’s decision will be overruled and either the original complaint dismissed or an appropriate disciplinary measure imposed. This shall follow the same process in considering proportionality as in 6.12.’
 
 If a matter is to be ‘re-heard’ by Disciplinary Committee owing to new information or procedural errors in the original hearing, then it shall be as if there was no original hearing, and therefore no sanctions are in place until such time as the Committee makes a decision to impose them afresh.
@@ -182,18 +191,21 @@ If a matter is to be ‘re-heard’ by Disciplinary Committee owing to new infor
 #### 6. Ruling re Complaints and Suspensions
 On 26.02.2023 Joseph Hudson-Small wrote:
 
-> ‘If an individual has been suspended by GPRC under Article 4.8 of the Constitution, is such an individual still able to be disciplined under SOPD if a complaint were submitted about them: \\
-* prior to the start of any suspension? \\
-* at the same time as the suspension was initiated by GPRC? (e.g. if the complaint were authored by GPRC) \\
-* during their suspension? \\
-If at least one of the scenarios above were permitted, and GPRC has suspended a member under Article 4.8, and D.C. is in a position to issue a ruling, could D.C. impose a sanction of: \\
-* expulsion, which would immediately override suspension \\
-* or a lesser sanction, which would presumably be without meaningful effect unless and until the suspension were ended by GPRC? \\
+> ‘If an individual has been suspended by GPRC under Article 4.8 of the Constitution, is such an individual still able to be disciplined under SOPD if a complaint were submitted about them:
+
+* prior to the start of any suspension?
+* at the same time as the suspension was initiated by GPRC? (e.g. if the complaint were authored by GPRC)
+* during their suspension?
+If at least one of the scenarios above were permitted, and GPRC has suspended a member under Article 4.8, and D.C. is in a position to issue a ruling, could D.C. impose a sanction of:
+* expulsion, which would immediately override suspension
+* or a lesser sanction, which would presumably be without meaningful effect unless and until the suspension were ended by GPRC?
+
 Does the same apply to the powers of the Appeals Committee? \\
 Would it be a conflict for GPRC Appeals Committee to be involved in an appeal in a situation where the original complaint were drafted by GPRC (or by some part of it, acting on the collective authority of GPRC)? Or if GPRC had earlier acted to suspend the respondent under Article 4.8, even if it did not author the complaint? \\
 If it would be a conflict of interest, does this suggest that it might (be) improper for GPRC to refer a matter to D.C. in the first place, on account of this interacting with a member's right to appeal against disciplinary action?
 
 **SOC rules that**
+
 A member who has been suspended, for whatever reason, can still be subject to investigation by the Disciplinary Committee, regardless of at what point in that member’s suspension a complaint is received.
 
 Disciplinary Committee can impose whatever sanction it concludes is appropriate having investigated the matter, whether an expulsion or a lesser sanction. Any suspension would run concurrently with a suspension imposed by GPRC, not consecutively to it.
@@ -292,6 +304,7 @@ The Constitution is otherwise silent on whether or not there is an upper limit t
 It is for Disciplinary Committee to decide whether or not the grounds for each complaint is otherwise made out.
 
 **The rationale being**
+
 Section 4(xi) of the Constitution says:
 
 > ‘Complaints will be considered on the following grounds: \\
