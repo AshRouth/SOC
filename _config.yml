@@ -11,6 +11,7 @@ unaffiliated_threshold: 12 # The number of coproposers needed for an unaffiliate
 create_sections: true # If true, display each section as a separate list.
 show_coproposers: false # If true, list the coproposers for each motion.
 archive_notice: false # If true, prepend each page with "archive_notice.html".
+archive_mode: true
 
 # Build settings
 sass:
@@ -32,4 +33,4 @@ defaults:
       layout: "motion"
       toc: true
 
-include: ["/", "_redirects"]
+include: ["_redirects"]

@@ -3,7 +3,7 @@
       <p>This is the SOC website for compiling and displaying motions for Green Party conference. You can view past conferences by clicking on the buttons below.</p>
       {% assign conferences = site.data.archive | reverse %}
       {% for conference in conferences %}
-        <a class="d-block mb-2" href="{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
+        <a class="d-block mb-2" href="archive/{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
       {% endfor %}
     </div>
   </div>
