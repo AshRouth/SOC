@@ -1,7 +1,7 @@
 ---
 layout: motion
 toc: "true"
-title: LGBTQIA+ Greens
+title: Jewish Greens
 motion_code:
   number: 16
   section: AGM
