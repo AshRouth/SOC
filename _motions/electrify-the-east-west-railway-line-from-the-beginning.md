@@ -12,8 +12,6 @@ coproposers: 21
 
 Emma Garnett*, Josh Morris-Blake, Lucy Bywater, Christopher Haggart, James Thorniley, Peter Brommer, Neil O'Doherty, Rob Callender, Tiago Pinto, Alan Francis, Hannah Charlotte Copley, Mike McTimoney, Chloe Mosonyi, Andrew Browne, Sarah Nicmanis, Patrick McAllister, James Long, Andrew Browne, Owain Sutton, Adam Turner, Robert Crowston,
 
-
-
 ## Synopsis
 
 East West Rail will fill an important gap in the rail network and help reduce car and lorry use in the region. It will largely replace the Varsity rail line, much of which closed in the 1960s. However, the railway line should be electrified as soon as possible to replace the diesel trains.
